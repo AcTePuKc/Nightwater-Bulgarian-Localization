@@ -1,0 +1,5777 @@
+[
+  {
+    "key": "/F47D03E047BBF231D2871BB201ED025D",
+    "source": "- Base Multiplier -",
+    "target": ""
+  },
+  {
+    "key": "/6940994B4B20C1F6575C18AD951151F7",
+    "source": "- Base Value -",
+    "target": ""
+  },
+  {
+    "key": "/AFCC13564CFA4C237D055A89089B20D7",
+    "source": "- Buffs Available -",
+    "target": ""
+  },
+  {
+    "key": "/F1459BD445F569F9405238A43457A2D7",
+    "source": "- Collect 10 Wood",
+    "target": ""
+  },
+  {
+    "key": "/7C0D21E94A99B70264D287B742324688",
+    "source": "- Collect {Amount} Wheat to unlock Milestone 2 for Wheat",
+    "target": ""
+  },
+  {
+    "key": "/EDC165F74F098B68CEE8DB95B7FC4636",
+    "source": "- Collect {Amount} Wood to unlock Milestone 3 for Wood",
+    "target": ""
+  },
+  {
+    "key": "/30C274AF4A53D1925439D39149A20906",
+    "source": "- Craft 4 Wooden Planks",
+    "target": ""
+  },
+  {
+    "key": "/EFBB368C42B1B6D4DACBBFAE74C99B19",
+    "source": "- Expand your Island to unlock the first Mountains Biome",
+    "target": ""
+  },
+  {
+    "key": "/231E74564C209B585D7E1495A46E91EA",
+    "source": "- Expand your Island to unlock the last Forest Biome",
+    "target": ""
+  },
+  {
+    "key": "/5F973D0D4EF38476794FA69367779362",
+    "source": "- Explore the Dark Thicket once",
+    "target": ""
+  },
+  {
+    "key": "/E68FF72F470F899A23621D9634BC3A58",
+    "source": "- Gold Cost -",
+    "target": ""
+  },
+  {
+    "key": "/92B309594B7392D507E179AA70E31EAE",
+    "source": "- Grow time -",
+    "target": ""
+  },
+  {
+    "key": "/46B01D074F2459A8444062AE9797C877",
+    "source": "- Max Buffs Amount -",
+    "target": ""
+  },
+  {
+    "key": "/E148C3BA4A95A0691B753E86959F1663",
+    "source": "- Multiplier -",
+    "target": ""
+  },
+  {
+    "key": "/9A4FF3854E837E73B4DC77A9A12F2C19",
+    "source": "- Place a Primitive Assembler",
+    "target": ""
+  },
+  {
+    "key": "/B3620CF042CAAAFA9FFE23A14E3B344A",
+    "source": "- Place a Primitive Chest",
+    "target": ""
+  },
+  {
+    "key": "/DA0146C24EF3D5CFD361EDA45639D523",
+    "source": "- Place a Primitive Collector",
+    "target": ""
+  },
+  {
+    "key": "/0F41820047E5DAE58C692A85CDB3F002",
+    "source": "- Place a Primitive Pipe",
+    "target": ""
+  },
+  {
+    "key": "/0EC42ED1449C928E4625CFA674E94C70",
+    "source": "- Place a Primitive Plant Farmer",
+    "target": ""
+  },
+  {
+    "key": "/C329C55840EF9DE0F0D0D492968527C4",
+    "source": "- Place a Primitive Rock Crusher",
+    "target": ""
+  },
+  {
+    "key": "/BE538DF74B5DD1EB9A99258FDE2F8A05",
+    "source": "- Place a Research Table",
+    "target": ""
+  },
+  {
+    "key": "/F382D9364C852FD82355B996AA210814",
+    "source": "- Place a Wood Cutter",
+    "target": ""
+  },
+  {
+    "key": "/0152DD3648DC8C6E836AB7B5AD08A967",
+    "source": "- Place a Workbench",
+    "target": ""
+  },
+  {
+    "key": "/26376AF64B5C213BC942248FE03069EF",
+    "source": "- Reach Clay Milestone 3",
+    "target": ""
+  },
+  {
+    "key": "/DCACFC904B25883EE42839A9EDAEA133",
+    "source": "- Time until grown -",
+    "target": ""
+  },
+  {
+    "key": "/3584D021448428FB29346B87809881EB",
+    "source": "- Total Plants harvested -",
+    "target": ""
+  },
+  {
+    "key": "/366B0BB74AF47D9EC608978332768FF0",
+    "source": "- Unlock Stone Milestone 1",
+    "target": ""
+  },
+  {
+    "key": "/B37F52E04EA377D6B885899094ABD3D1",
+    "source": "- Unlock Wood Milestone 1",
+    "target": ""
+  },
+  {
+    "key": "/969DA80947610ACCB3284892AA53C1FD",
+    "source": "- Use the Manifester in front of the Cave to expand the Island",
+    "target": ""
+  },
+  {
+    "key": "/EBCD295B40DFC0A7C7DC608451DE2FA6",
+    "source": "- Value -",
+    "target": ""
+  },
+  {
+    "key": "/8D2FD1F2414ABA86D57BF1A33A6E96B5",
+    "source": "...",
+    "target": ""
+  },
+  {
+    "key": "/A24901DB419816CB8CC3AEA382B21CE0",
+    "source": "... no, nothing more ...",
+    "target": ""
+  },
+  {
+    "key": "/599FA3304A266DB188C144B3585421BE",
+    "source": "20% chance to double the Fuel and Credits from a resource.",
+    "target": ""
+  },
+  {
+    "key": "/16F0DF904E8321A3DC55B39F62A9B77A",
+    "source": "A Lighthouse brought you here...",
+    "target": ""
+  },
+  {
+    "key": "/F2461B9A40301897E4B7C8AC35D9556D",
+    "source": "A bronze statue that ensures only rock-type resources spawn within its radius.",
+    "target": ""
+  },
+  {
+    "key": "/F7CCC6A2488FA90399D052AEC573EC16",
+    "source": "A building that automatically destroys all items delivered to it through pipes.",
+    "target": ""
+  },
+  {
+    "key": "/2B538C574B9127806B4ADC9FC5194FC6",
+    "source": "A container for item storage and buffer management. Limited capacity of 150 items.",
+    "target": ""
+  },
+  {
+    "key": "/48DBA8B545117E65B906D68815C0E119",
+    "source": "A container for item storage and buffer management. Limited capacity of 80 items.",
+    "target": ""
+  },
+  {
+    "key": "/DA3E12CF455CED20ACB95FA783495781",
+    "source": "A dedicated storage container for Plant-type Milestone items. Restricted to plant-related milestone resources only, with a capacity of 1000.",
+    "target": ""
+  },
+  {
+    "key": "/CE2038714310851E96F92592773B44B1",
+    "source": "A dedicated storage container for Rock-type Milestone items. Restricted to rock-related milestone resources only, with a capacity of 1000.",
+    "target": ""
+  },
+  {
+    "key": "/3CE0D53C4BD2437B1BA3FCB842C897D7",
+    "source": "A dedicated storage container for Wood-type Milestone items. Restricted to wood-related milestone resources only, with a capacity of 1000.",
+    "target": ""
+  },
+  {
+    "key": "/63B0CE74478B891FA11F1EA91B3D1961",
+    "source": "A game made by Amar Civic, featuring music by Adriel Marques.\r\nPublished by Irox Games.",
+    "target": ""
+  },
+  {
+    "key": "/1039585C49463C3B40D97288F19BD9BB",
+    "source": "A game made by:",
+    "target": ""
+  },
+  {
+    "key": "/2330A73048FFF7E8CA2ADBA8917004B4",
+    "source": "A logistics component for automated collection. Features 3 inputs and 1 output to combine item flow.",
+    "target": ""
+  },
+  {
+    "key": "/C9ADE56745D62BEA8928BBBCBDC4F77D",
+    "source": "A logistics component for automated distribution. Features 1 input and 3 outputs to split item flow. Can also filter items.",
+    "target": ""
+  },
+  {
+    "key": "/694D9C3147A51D21F7C8C7A69ED643EC",
+    "source": "A logistics component for extending pipeline reach. Allows connecting pipes beyond their maximum individual length.",
+    "target": ""
+  },
+  {
+    "key": "/EEA366154EF80700B9F19580C1F81D17",
+    "source": "A machine that can receive items through pipes to automate crafting, at a fast speed.",
+    "target": ""
+  },
+  {
+    "key": "/85948CFF4ABC9D4FD59671B1FD720A4A",
+    "source": "A machine that can receive items through pipes to automate crafting, at a normal speed.",
+    "target": ""
+  },
+  {
+    "key": "/881EA32C4C718E2CA9B508A981D44D90",
+    "source": "A manual workstation for crafting simple parts from basic materials. Crafting speed is faster than early-stage Assemblers.",
+    "target": ""
+  },
+  {
+    "key": "/CAA7D7FE4E3B359FE0E7CE8CFCAAF97C",
+    "source": "A milestone progression item. Wood Dust is dropped by all trees in the Dark Thicket. ",
+    "target": ""
+  },
+  {
+    "key": "/2DC224A24894CCCB1149F08D000151DE",
+    "source": "A primitive tool for gathering resources with a base power of 2. Upgradeable at the Tinker Station.",
+    "target": ""
+  },
+  {
+    "key": "/42DF483140D0ACE699CACAB1F17E744C",
+    "source": "A shore you shaped... a prison you chose",
+    "target": ""
+  },
+  {
+    "key": "/526A3161406F55EAE655A282D49047DB",
+    "source": "A simple decoration. His name is George. He may not be capable of much, but he tries his best!",
+    "target": ""
+  },
+  {
+    "key": "/467201E44FD4A2AB2B4E87B687048A62",
+    "source": "A specialized workstation for crafting and upgrading equipment.",
+    "target": ""
+  },
+  {
+    "key": "/466E09654FA39F4B15E4A8A49FFECA8B",
+    "source": "A starter tool with a base power of 1. It can break all resources and is upgradeable at the Tinker Station.",
+    "target": ""
+  },
+  {
+    "key": "/7BEB2E23436BD62AC64E5E9516FFFD68",
+    "source": "A statue that prevents resources from spawning within its radius.",
+    "target": ""
+  },
+  {
+    "key": "/81603A8C4DFDB5A3598363A1A90ADA07",
+    "source": "A sturdy tool for gathering resources with a base power of 10. Upgradeable at the Tinker Station.",
+    "target": ""
+  },
+  {
+    "key": "/63CB1A294A703C0B2998389490EAD45D",
+    "source": "A sturdy tool for gathering resources with a base power of 14. Upgradeable at the Tinker Station.",
+    "target": ""
+  },
+  {
+    "key": "/143852284F16A51B506334BD2F46A033",
+    "source": "A sturdy tool for gathering resources with a base power of 18. Upgradeable at the Tinker Station.",
+    "target": ""
+  },
+  {
+    "key": "/AF75E2094AA81D3391B9C48B56DD6FB6",
+    "source": "A sturdy tool for gathering resources with a base power of 4. Upgradeable at the Tinker Station.",
+    "target": ""
+  },
+  {
+    "key": "/4709592B4808C73D836C5A94FB637099",
+    "source": "A sturdy tool for gathering resources with a base power of 6. Upgradeable at the Tinker Station.",
+    "target": ""
+  },
+  {
+    "key": "/8817A23949BEB7502769CD9D1892C642",
+    "source": "A sturdy wooden container for item storage and buffer management. Limited capacity of 30 items.",
+    "target": ""
+  },
+  {
+    "key": "/890C1002439582D0C7DFC0BF5EACAC0E",
+    "source": "Abilities",
+    "target": ""
+  },
+  {
+    "key": "/279BA09D44A9493D6AE970A52057828E",
+    "source": "About Runes",
+    "target": ""
+  },
+  {
+    "key": "/68CDCEC042EB3F6C74669CA1B4616AAA",
+    "source": "Acceptance",
+    "target": ""
+  },
+  {
+    "key": "/D4E13FE344A8DE790648DA823E523BFD",
+    "source": "Action",
+    "target": ""
+  },
+  {
+    "key": "/85BDB0004952855B5E7B3BB647596BDD",
+    "source": "Add",
+    "target": ""
+  },
+  {
+    "key": "/F4C7B81E4B04B160C249939D2A1F6ED5",
+    "source": "Adds 10% chain chance per level.",
+    "target": ""
+  },
+  {
+    "key": "/12B4093C4847A340151FCFAF001616D5",
+    "source": "Adds 2% chance per level for a resource to drop double fuel and credits.",
+    "target": ""
+  },
+  {
+    "key": "/B820ABF945976EE4F76F01B9E3C028FA",
+    "source": "Adds 5 seconds to every run.",
+    "target": ""
+  },
+  {
+    "key": "/4602B3B54E7B084D17DEC1B61BB25237",
+    "source": "Adds 5% chance for a hit to instantly shatter the resource.",
+    "target": ""
+  },
+  {
+    "key": "/39BF737A49C28AF3E7FB77AED01BFCE8",
+    "source": "Adds 6 flat damage to every hit.",
+    "target": ""
+  },
+  {
+    "key": "/BB9943AE4F651C062665998AE14C923C",
+    "source": "Advanced Drill",
+    "target": ""
+  },
+  {
+    "key": "/79509E8E4CC6A83C4DB983B58F66AF0A",
+    "source": "Advanced Fabric",
+    "target": ""
+  },
+  {
+    "key": "/DFD982C14EFA4AE42B0E6FB0FF620D3C",
+    "source": "Advanced Toolbelt",
+    "target": ""
+  },
+  {
+    "key": "/4E4519494730A6569CE85EB13222BEF2",
+    "source": "After all you have tried...",
+    "target": ""
+  },
+  {
+    "key": "/970B5C244FB61E5959E1448AB356D43F",
+    "source": "After all...",
+    "target": ""
+  },
+  {
+    "key": "/9A08DA844887CB11F8416EA07E702A78",
+    "source": "All plants can receive one additional buff.",
+    "target": ""
+  },
+  {
+    "key": "/DCBCAB3A4E1053F71CDE8DBA3AFF7F3A",
+    "source": "Allows Dig Radius buffs to spawn, temporarily increasing your dig radius by +2 meters.",
+    "target": ""
+  },
+  {
+    "key": "/6E2E78E84EBFEA6EEEC756B01EF582A3",
+    "source": "Allows Energy buffs to spawn, granting 300 energy when collected",
+    "target": ""
+  },
+  {
+    "key": "/85C9F8044D5FAD2E3A55A3A17526F3A9",
+    "source": "Allows Multiplier buffs to spawn, temporarily increasing both the ore and mineral multiplier by 1",
+    "target": ""
+  },
+  {
+    "key": "/54431B5A4F8171E80FCBEBB293C2035A",
+    "source": "Allows loot boxes to spawn, containing a variety of ores and minerals",
+    "target": ""
+  },
+  {
+    "key": "/FE547C394009A802800498B7925E2174",
+    "source": "Alloy Forge",
+    "target": ""
+  },
+  {
+    "key": "/3CF899014C9445E46C24EBA88CA57105",
+    "source": "Alternative Recipe",
+    "target": ""
+  },
+  {
+    "key": "/E318CEA14C8671BD3F3D2C8431C2D47B",
+    "source": "Am I inspiration, or rule?",
+    "target": ""
+  },
+  {
+    "key": "/77DD0B744E549A065C2177A5BC927A2E",
+    "source": "Ambient Volume",
+    "target": ""
+  },
+  {
+    "key": "/565DF2FD43665D5A8E7F208176E994C6",
+    "source": "Ambush",
+    "target": ""
+  },
+  {
+    "key": "/2289B70640F9560FC8960793E088C7B5",
+    "source": "An altar that slowly generates all types of wood milestone items without requiring resources.",
+    "target": ""
+  },
+  {
+    "key": "/CFBECD804754C4A0E0300D94E8E3E91C",
+    "source": "An altar that slowly generates any item without requiring resources.",
+    "target": ""
+  },
+  {
+    "key": "/76003AE2451683CC0DEF7BA9B49C859E",
+    "source": "An altar that slowly generates wood. It does not require nearby wood resources to operate",
+    "target": ""
+  },
+  {
+    "key": "/C161454C4EB1542E10053BB6DCEDA2DD",
+    "source": "An end draws near",
+    "target": ""
+  },
+  {
+    "key": "/3ABC842545013F60C43EC19C77AA2A1A",
+    "source": "Analyze Cost",
+    "target": ""
+  },
+  {
+    "key": "/2256AF92448BA2D80364C69E5CAA57C2",
+    "source": "Analyzer",
+    "target": ""
+  },
+  {
+    "key": "/92C0F491470A994A245E5F819428F38E",
+    "source": "Ancient Irrigation",
+    "target": ""
+  },
+  {
+    "key": "/AC7D85BF4745FA1A525535AC7FB6147E",
+    "source": "And in the end, there’s nothing you can do...",
+    "target": ""
+  },
+  {
+    "key": "/9B053A254FBFBD127E9835A6D7CAFD00",
+    "source": "Another Nightwater will find you once the hunger returns",
+    "target": ""
+  },
+  {
+    "key": "/7999CA92425BFDBDCA4223BD49F59A46",
+    "source": "Anti-Aliasing Quality",
+    "target": ""
+  },
+  {
+    "key": "/E611422A438AC7C94F2355B5A012C20D",
+    "source": "Apply",
+    "target": ""
+  },
+  {
+    "key": "/466C45C649DF3E4C4ECE1DA26DAEA607",
+    "source": "Apply Window Settings",
+    "target": ""
+  },
+  {
+    "key": "/5902B95841C454DEA7AB64BEE9E52D9A",
+    "source": "Arc Furnace",
+    "target": ""
+  },
+  {
+    "key": "/EA6596514E7ADD4E97958996C32ECA70",
+    "source": "Are these rules you chose... or rules pressed upon you?",
+    "target": ""
+  },
+  {
+    "key": "/0E0B68144AD8CD3B60B14299F86C9B6D",
+    "source": "Are you free, or chained?",
+    "target": ""
+  },
+  {
+    "key": "/D5A09AF94DF23BEEBEB4C089111AA585",
+    "source": "Area of Effect range: {AoERange}",
+    "target": ""
+  },
+  {
+    "key": "/A37F4E0646C862D56C9331914E62641E",
+    "source": "Area of Effect strength: {AoEStrength}",
+    "target": ""
+  },
+  {
+    "key": "/1933952148F31EB7F134BFB43383F12F",
+    "source": "Area-of-Effect Ability",
+    "target": ""
+  },
+  {
+    "key": "/B15EBC804EDFB8BE6ED42C8DC30D5B40",
+    "source": "Area-of-Effect Damage",
+    "target": ""
+  },
+  {
+    "key": "/7A13476C44400C7E291175B24A4D58CC",
+    "source": "Area-of-Effect Radius",
+    "target": ""
+  },
+  {
+    "key": "/D196E4D848285F207B6084957257F074",
+    "source": "Ask yourself... are you satisfied?",
+    "target": ""
+  },
+  {
+    "key": "/16B3FAF44EB4E687B9682CB08B51103F",
+    "source": "Assembling Progress",
+    "target": ""
+  },
+  {
+    "key": "/0400615141F7843550132CA299358717",
+    "source": "Attack 20% faster, but deal 5 less base damage.",
+    "target": ""
+  },
+  {
+    "key": "/4FD892764F0E00CD755550A40554A441",
+    "source": "Attack Speed",
+    "target": ""
+  },
+  {
+    "key": "/EBD69F5047878167A6BFE2A5010F686B",
+    "source": "Aura Size",
+    "target": ""
+  },
+  {
+    "key": "/48A38F824284D7794E602DAC3D246993",
+    "source": "Aura size: {AuraSize}",
+    "target": ""
+  },
+  {
+    "key": "/4582E59E4AB4D06DC38D0C811CD211DD",
+    "source": "Auto Harvest 1",
+    "target": ""
+  },
+  {
+    "key": "/F351D6904D66E83D2B4068BA5BD7DD90",
+    "source": "Auto Harvest 2",
+    "target": ""
+  },
+  {
+    "key": "/02778EAB48B24D274C3754B6DDFE3DEE",
+    "source": "Auto Harvest 3",
+    "target": ""
+  },
+  {
+    "key": "/F2B52F4343214514C8F90CB06DBADA80",
+    "source": "Auto Replant 1",
+    "target": ""
+  },
+  {
+    "key": "/49482E3C4BC8C1822220DB83E3DAF30F",
+    "source": "Auto Replant 2",
+    "target": ""
+  },
+  {
+    "key": "/C847366840D0D8D2F66227A02A06F462",
+    "source": "Auto Replant 3",
+    "target": ""
+  },
+  {
+    "key": "/236182BE4F3C5D6E47E774883FC1F052",
+    "source": "Auto-Harvester",
+    "target": ""
+  },
+  {
+    "key": "/7F8B10BE42FEE2DBB10A9D8D9C114A66",
+    "source": "Auto-Planter",
+    "target": ""
+  },
+  {
+    "key": "/C0ED563B41A2D49D6EC15F8B8A8FF358",
+    "source": "Automate wood production by connecting a Wood Harvester to a chest using a pipe.",
+    "target": ""
+  },
+  {
+    "key": "/7896871D4BF4A36690742AB429F43220",
+    "source": "Automated Fertilizer",
+    "target": ""
+  },
+  {
+    "key": "/3F9F789F43F1643A0F85A084AAB0E021",
+    "source": "Automatically collects nearby ores and minerals while digging",
+    "target": ""
+  },
+  {
+    "key": "/37ABCC8D4C40D4C4619131965C7F5F3C",
+    "source": "Automatically harvests every ready plant in this area and stores the gold for you to collect.",
+    "target": ""
+  },
+  {
+    "key": "/47E334F84F62C29569DED3B6D58482CD",
+    "source": "Automatically harvests plant resources within a small radius, at a fast speed. Harvested items count towards Milestone Progression.",
+    "target": ""
+  },
+  {
+    "key": "/98818DB94121D6326BE265866F07F908",
+    "source": "Automatically harvests plant resources within a small radius, at a normal speed. Harvested items count towards Milestone Progression.",
+    "target": ""
+  },
+  {
+    "key": "/0140DA52401EEDCD566BBC91C381546E",
+    "source": "Automatically harvests rock, clay, and ore within a small radius, at a fast speed. Harvested items count towards Milestone Progression.",
+    "target": ""
+  },
+  {
+    "key": "/A51C8C434C7959ED6182D2AA4277FF28",
+    "source": "Automatically harvests rock, clay, and ore within a small radius, at a normal speed. Harvested items count towards Milestone Progression.",
+    "target": ""
+  },
+  {
+    "key": "/EB6B12D54B28F0861C7383A463493492",
+    "source": "Automatically harvests tree resources within a small radius, at a fast speed. Harvested items count towards Milestone Progression.",
+    "target": ""
+  },
+  {
+    "key": "/C06623C44A38EE6E81D64CBEF8FEB02D",
+    "source": "Automatically harvests tree resources within a small radius, at a normal speed. Harvested items count towards Milestone Progression.",
+    "target": ""
+  },
+  {
+    "key": "/8C6B07364D12FA765507AD9C6FD1A40E",
+    "source": "Automatically harvests tree resources within a small radius, at a very high speed. Harvested items count towards Milestone Progression.",
+    "target": ""
+  },
+  {
+    "key": "/60C21EC44B0B2544CBD7BFB3A2B5B0EC",
+    "source": "Automatically replants each empty plot with the last plant that grew there.",
+    "target": ""
+  },
+  {
+    "key": "/75A9A3164D450A23F3D3C5A4E98290D6",
+    "source": "Awake to the sound of my voice",
+    "target": ""
+  },
+  {
+    "key": "/545264BB462F4DB7C5027CBD493E88EA",
+    "source": "Axe Cooldown Reduction",
+    "target": ""
+  },
+  {
+    "key": "/091775AB486DD08A5DD04A8A1CFBBEB4",
+    "source": "Axe Skill",
+    "target": ""
+  },
+  {
+    "key": "/C09AF6524DF3E9C73FAC9AA74BE9EF9D",
+    "source": "Axe Skill Stackable Damage",
+    "target": ""
+  },
+  {
+    "key": "/F3EE37174E49515CFFE8DE84223AD3FC",
+    "source": "Axe Skill Stackable Radius",
+    "target": ""
+  },
+  {
+    "key": "/030A36ED42E5D2177D8684A7C03CD45D",
+    "source": "Banked Credits",
+    "target": ""
+  },
+  {
+    "key": "/BC1D695D4BE65A9BC01309889004BC9C",
+    "source": "Be precise, or the cloth will show what lies behind",
+    "target": ""
+  },
+  {
+    "key": "/D6F2BD444272C421BAE954964C1E55A3",
+    "source": "Beat all four tracks and max out your movement to speedrun for the best times. Progress far enough to unlock powerful buffs and unique buildings outside of the minigame.",
+    "target": ""
+  },
+  {
+    "key": "/2C11C6D9480D9D3C138F16AF728F851D",
+    "source": "Berserk Cooldown Reduction",
+    "target": ""
+  },
+  {
+    "key": "/CB463C7A470FFA55523F9C961B235E09",
+    "source": "Berserk Damage Boost",
+    "target": ""
+  },
+  {
+    "key": "/56CD4AEA489EABAE03180AB5714C83B7",
+    "source": "Berserk Double Poison Damage",
+    "target": ""
+  },
+  {
+    "key": "/F55B92534910286990CAECA76AB015C8",
+    "source": "Berserk Double Weakness Damage",
+    "target": ""
+  },
+  {
+    "key": "/DE6D8AF048305861D8B3F18454E2F946",
+    "source": "Berserk Increase Duration",
+    "target": ""
+  },
+  {
+    "key": "/A9E8374E4F0492B7BF4EF9A46FF553FC",
+    "source": "Berserk Resource Gain",
+    "target": ""
+  },
+  {
+    "key": "/C4C8C3F54B1A4988394A15B4182811A1",
+    "source": "Berserk Skill",
+    "target": ""
+  },
+  {
+    "key": "/2293DD544BDDFFAED2FEB5BE605625EB",
+    "source": "Berserk Speed Boost",
+    "target": ""
+  },
+  {
+    "key": "/65A21CAD41A5894FAA2D6982DD0A34B0",
+    "source": "Berserk Stackable Duration",
+    "target": ""
+  },
+  {
+    "key": "/956FECCF4F1BD9976BFB3E8A0A0EC2C7",
+    "source": "Berserk Stackable Resource Gain",
+    "target": ""
+  },
+  {
+    "key": "/DAA90062456157636C94E8B17DCFA766",
+    "source": "Berserk duration: {BerserkDuration}",
+    "target": ""
+  },
+  {
+    "key": "/41E941CE4AD89230D49E5A877B0C41BB",
+    "source": "Best time",
+    "target": ""
+  },
+  {
+    "key": "/3BCB1DE44F2A7187FD59678D3E6BA4B4",
+    "source": "Better Soil",
+    "target": ""
+  },
+  {
+    "key": "/B5A962AA4FA3E9C99FAC13A88C769CF5",
+    "source": "Big Flower",
+    "target": ""
+  },
+  {
+    "key": "/FA6DADE64FADD1864578A4A5CF7E3C75",
+    "source": "Big Table",
+    "target": ""
+  },
+  {
+    "key": "/A639B969468811B0D99BEF9657CF63E8",
+    "source": "Big decorations",
+    "target": ""
+  },
+  {
+    "key": "/621B7EE94D3DC0C5684736981A0FD5D9",
+    "source": "Bit & Hogg Cooldown Reduction",
+    "target": ""
+  },
+  {
+    "key": "/C14F6E5E49CEAD160AB7A4A658CD6FA8",
+    "source": "Bit & Hogg Skill",
+    "target": ""
+  },
+  {
+    "key": "/F0835A314956ADE80C4018BA4EBD8281",
+    "source": "Bit & Hogg Stackable Damage",
+    "target": ""
+  },
+  {
+    "key": "/B6642D6945485539D737A0B1B4656682",
+    "source": "Blue Platforms",
+    "target": ""
+  },
+  {
+    "key": "/DD2A1A2C436BE8AEC8B34AB6122C4422",
+    "source": "Boon of Accuracy",
+    "target": ""
+  },
+  {
+    "key": "/F1FB5B834F849CEA803B95A29BFDACCF",
+    "source": "Boon of Curiosity",
+    "target": ""
+  },
+  {
+    "key": "/DF12B5964C0A8D4717260394ECD7B65E",
+    "source": "Boon of Growth",
+    "target": ""
+  },
+  {
+    "key": "/57B53EEF4A6FF8CFB4BDF788F9C422A8",
+    "source": "Boon of Rage",
+    "target": ""
+  },
+  {
+    "key": "/FEDDBCBF46EF780073E4B1AB8304573C",
+    "source": "Boon of Reflection",
+    "target": ""
+  },
+  {
+    "key": "/E82710854174A5FEB4B15AB2F50E29D3",
+    "source": "Boon of Speed",
+    "target": ""
+  },
+  {
+    "key": "/5909AB544AD91856B90B91A539E93BB6",
+    "source": "Boon of Tenacity",
+    "target": ""
+  },
+  {
+    "key": "/3D42A66A451D474D7CD32597CF2B2CAB",
+    "source": "Boons",
+    "target": ""
+  },
+  {
+    "key": "/25EE80E6436EFF9D4F9DD6A975EA77E0",
+    "source": "Borderless fullscreen",
+    "target": ""
+  },
+  {
+    "key": "/0A27A2454F007CC41094FCBC4DD5F303",
+    "source": "Born, experienced and forgotten",
+    "target": ""
+  },
+  {
+    "key": "/2C08F09D4D01FE6A5BEC8EA009888865",
+    "source": "Bronze Ingot",
+    "target": ""
+  },
+  {
+    "key": "/0697D1CA4BF3DF44CDA244A17102D1AD",
+    "source": "Bronze Pickaxe",
+    "target": ""
+  },
+  {
+    "key": "/E208CCD54DBE31AAE6D49AB2D774DC5E",
+    "source": "Bronze Statue",
+    "target": ""
+  },
+  {
+    "key": "/E8139AD64E21BC04AD514AB97FD6A36C",
+    "source": "Buffs",
+    "target": ""
+  },
+  {
+    "key": "/D48B00A64A0E652969425F8B7E1718D6",
+    "source": "Buffs Progression",
+    "target": ""
+  },
+  {
+    "key": "/A8B4C0D644BA415DD4CCC19110ACAD05",
+    "source": "Build",
+    "target": ""
+  },
+  {
+    "key": "/64494F5D456EBB162F28A59FE648ED74",
+    "source": "Build Menu",
+    "target": ""
+  },
+  {
+    "key": "/F60F7B414417006E8EE837B2CD9B5C45",
+    "source": "Build Mode",
+    "target": ""
+  },
+  {
+    "key": "/C2B59179468A74DFF7158092E8FC8E2E",
+    "source": "Buildings Progression",
+    "target": ""
+  },
+  {
+    "key": "/ED45614344401BFBAC7F0F9264EF3733",
+    "source": "Burner",
+    "target": ""
+  },
+  {
+    "key": "/480776CE45519A3B7D37E080D3B5546C",
+    "source": "But endings echo here",
+    "target": ""
+  },
+  {
+    "key": "/EDD1B39C42CF839174E17B8022125219",
+    "source": "By using the teleporter equipment, you can teleport to teleport pads. Teleport pads can be renamed.",
+    "target": ""
+  },
+  {
+    "key": "/5294D3844B936439CBD6678F14B8434A",
+    "source": "CRIT",
+    "target": ""
+  },
+  {
+    "key": "/E172DCE448F9FE9AA0DEC28A635F8106",
+    "source": "Cactus",
+    "target": ""
+  },
+  {
+    "key": "/9BFC7A224B52436AF4F4E88B2A86AEF2",
+    "source": "Campfire",
+    "target": ""
+  },
+  {
+    "key": "/618B0C564F29A032EFB379B44E1E63F2",
+    "source": "Can Hold 75 items. Using the Linked System equipment automatically transfers all items from all linked chests to your inventory.",
+    "target": ""
+  },
+  {
+    "key": "/A6E39E6C47C4A870E8DBE2BA70675619",
+    "source": "Can be attached to Upgrade slots on Assembler Buildings. The Assembler has a 50% chance of producing double the number of items with each action, does not stack.",
+    "target": ""
+  },
+  {
+    "key": "/F2598B3D459725D063CBD692CE89A2F9",
+    "source": "Can be attached to Upgrade slots on Harvester Buildings. Harvesters ignore and automatically delete all byproducts. Focuses production on primary resources.",
+    "target": ""
+  },
+  {
+    "key": "/9789AE4142AB51FFAF1A1AB479757E0B",
+    "source": "Can be attached to Upgrade slots on Harvester Buildings. Increases speed by 20% for each additional Harvester in the vicinity.",
+    "target": ""
+  },
+  {
+    "key": "/23EC218A4724E0C8B332CB9FBC30AF3F",
+    "source": "Can be attached to Upgrade slots on Harvester Buildings. Increases speed by 40% if there are no other Farmers nearby.",
+    "target": ""
+  },
+  {
+    "key": "/D9BA30274B8835AB17D69A95766D7C4D",
+    "source": "Can be attached to Upgrade slots on compatible buildings. Increases machine speed by 15%.",
+    "target": ""
+  },
+  {
+    "key": "/E3702157440083CD292A29A396C54F3F",
+    "source": "Can be attached to Upgrade slots on compatible buildings. Increases machine speed by 20%.",
+    "target": ""
+  },
+  {
+    "key": "/D9329D9D4ED23EC19FAF88B4D1E91EF8",
+    "source": "Can be attached to Upgrade slots on compatible buildings. Increases machine speed by 25%.",
+    "target": ""
+  },
+  {
+    "key": "/65A38E8B4DF219977EA98E938F1A0BAE",
+    "source": "Can be attached to Upgrade slots on compatible buildings. Increases the building's operating range by 1.5 meters.",
+    "target": ""
+  },
+  {
+    "key": "/44F457AC445EA55D25EE8CA80B1AFE80",
+    "source": "Can be attached to Upgrade slots on compatible buildings. Increases the building's operating range by 3 meters.",
+    "target": ""
+  },
+  {
+    "key": "/308F49A14CE41101DD567E91F955E0D0",
+    "source": "Can be attached to Upgrade slots on compatible buildings. Increases the building's operating range by 4.5 meters.",
+    "target": ""
+  },
+  {
+    "key": "/30539AE147658F8843AA6C8D4A16A57C",
+    "source": "Can be crafted at the Tinker Station.\r\nUnlocks the Workbench and Research tabs in the inventory.",
+    "target": ""
+  },
+  {
+    "key": "/C0352F67423FEEE064D795863C757703",
+    "source": "Can be crafted at the Tinker Station.\r\nUnlocks the Workbench, Research and Tinker tabs in the inventory.",
+    "target": ""
+  },
+  {
+    "key": "/E84B493544AF5A0838E840B7388A651A",
+    "source": "Change Buffs",
+    "target": ""
+  },
+  {
+    "key": "/8628B9A64A519ED15E9D63900836B9C4",
+    "source": "Change Building with:",
+    "target": ""
+  },
+  {
+    "key": "/16E98D2C4A004759974FD68BCCC34612",
+    "source": "Change Category",
+    "target": ""
+  },
+  {
+    "key": "/ED3FE5B545005BCC89FF1AA024A7E7BD",
+    "source": "Change Current Craft",
+    "target": ""
+  },
+  {
+    "key": "/8D66F1754BC8EA8FAF5676A2EA92DD9B",
+    "source": "Change Filter ",
+    "target": ""
+  },
+  {
+    "key": "/5095022C40AD4E8EFADE2A85BB2CAA51",
+    "source": "Change Name",
+    "target": ""
+  },
+  {
+    "key": "/B4AF82E840126CF3A42EAC93A5452B40",
+    "source": "Change Stats",
+    "target": ""
+  },
+  {
+    "key": "/1D53BE02402602BF8967CD8911810374",
+    "source": "Chili",
+    "target": ""
+  },
+  {
+    "key": "/8E5E0AA2458E8DEA97AF0C8D781392ED",
+    "source": "Choices",
+    "target": ""
+  },
+  {
+    "key": "/19D946C6479191690B0A78AD65D4D264",
+    "source": "Choose Buff",
+    "target": ""
+  },
+  {
+    "key": "/85446E6541EAB01EBA798C9A2FC250E2",
+    "source": "Choose Class",
+    "target": ""
+  },
+  {
+    "key": "/838C489A4AA39927607AB7B0A08EC306",
+    "source": "Choose Recipe",
+    "target": ""
+  },
+  {
+    "key": "/C08CB1B44905D6BFB15640BC2D47E8BD",
+    "source": "Choose Upgrade",
+    "target": ""
+  },
+  {
+    "key": "/91C3B17D4872062E1C66A686A0DA365A",
+    "source": "Choose one",
+    "target": ""
+  },
+  {
+    "key": "/34F875834DE7DBE6C49B9F9E06E8DB93",
+    "source": "Class Selection",
+    "target": ""
+  },
+  {
+    "key": "/B9A3E3C843AF0922C94266A9AAF600F4",
+    "source": "Clay",
+    "target": ""
+  },
+  {
+    "key": "/E9871E1C4E776C672A03278BC7246624",
+    "source": "Clay Brick",
+    "target": ""
+  },
+  {
+    "key": "/28E9A5714DE4F3920FB1D88C987F16E7",
+    "source": "Clear Debris",
+    "target": ""
+  },
+  {
+    "key": "/3D052C3D4271641B6B37ACA7C958F883",
+    "source": "Clear debris to unlock new oasis areas and discover stronger plants. Progress far enough to unlock powerful buffs and unique buildings outside of the minigame.",
+    "target": ""
+  },
+  {
+    "key": "/0BBAE0A945DE458549BA37827A3CDCB3",
+    "source": "Click empty rune slots to equip new runes, or click equipped runes to replace them. Higher-quality runes have stronger effects, and newly found runes are based on the average quality of your currently equipped runes. Rune quality scales infinitely.",
+    "target": ""
+  },
+  {
+    "key": "/F14E72E445B1AD99871E1998231B5DB0",
+    "source": "Close",
+    "target": ""
+  },
+  {
+    "key": "/6B683CA5434A1D9E1B054E939D651808",
+    "source": "Close-up distortion effect",
+    "target": ""
+  },
+  {
+    "key": "/3A6E21B14397B0E1A91A0A9812D62043",
+    "source": "Coal Coke",
+    "target": ""
+  },
+  {
+    "key": "/E033C9EF4EDB1AD4D49A82A00704CE33",
+    "source": "Collect on Dig",
+    "target": ""
+  },
+  {
+    "key": "/5CC353D0466023B98EDC279528033A0A",
+    "source": "Collect {Value} more {ItemName} to unlock this entry.",
+    "target": ""
+  },
+  {
+    "key": "/6C31B7324F7D11953D817D9286B069F8",
+    "source": "Combined with my wishes...",
+    "target": ""
+  },
+  {
+    "key": "/DB75F2F44C352AA9FD27D9B34141B347",
+    "source": "Complete Milestones to unlock new buildings, crafts, and buffs. Progress increases by gathering resources manually or via Buildings. Use the Research Table to track progress.",
+    "target": ""
+  },
+  {
+    "key": "/DA84C5A942658BA7D15374AE1B93559D",
+    "source": "Completion reveals shapes once hidden from sight",
+    "target": ""
+  },
+  {
+    "key": "/7179DD424A2434A352E0FC85C5B58557",
+    "source": "Confirm Destroy",
+    "target": ""
+  },
+  {
+    "key": "/BD22AC6741A692CF60C2D09C7EF38016",
+    "source": "Connects machines to transfer items between inventories. Long range with fast throughput.",
+    "target": ""
+  },
+  {
+    "key": "/99B9377D4BF1197394F936B5695727D0",
+    "source": "Connects machines to transfer items between inventories. Medium range with medium throughput.",
+    "target": ""
+  },
+  {
+    "key": "/1CB34A2A494747486D3415B6F4A08062",
+    "source": "Connects machines to transfer items between inventories. Short range with slow throughput.",
+    "target": ""
+  },
+  {
+    "key": "/7517693D4AF49657CCE4BB88FB68DB98",
+    "source": "Connects machines to transfer items between inventories. Very long range with very fast throughput.",
+    "target": ""
+  },
+  {
+    "key": "/88FDCEB046E3DA5A672F9FA613214900",
+    "source": "Continue to the next area!",
+    "target": ""
+  },
+  {
+    "key": "/4D80DBEE4C83776E08E04C86B2EE76C7",
+    "source": "Contract",
+    "target": ""
+  },
+  {
+    "key": "/15E154F9419D7F7208C737ADBA422662",
+    "source": "Controls",
+    "target": ""
+  },
+  {
+    "key": "/5107801F446E2CB9737E3291A0B2B2F6",
+    "source": "Cooldown Reduction On Kill",
+    "target": ""
+  },
+  {
+    "key": "/9B59D76C467E1DF6FA1E97B62A51C124",
+    "source": "Cooldown: {CooldownAmount}",
+    "target": ""
+  },
+  {
+    "key": "/86F98E8349A2E6875333C3AA0E6ABC71",
+    "source": "Cooling Unit",
+    "target": ""
+  },
+  {
+    "key": "/2870ACD54CA5CB05611424A053C2E689",
+    "source": "Copper Dust",
+    "target": ""
+  },
+  {
+    "key": "/B7EA3D8445197EE659FC0D83AB87D91F",
+    "source": "Copper Ingot",
+    "target": ""
+  },
+  {
+    "key": "/CC7A923D4D73A6851836D49187A8947E",
+    "source": "Corn",
+    "target": ""
+  },
+  {
+    "key": "/0F06EAFF42B8F49F70DFFFBBCD2F7B1D",
+    "source": "Cost: {RequiredData} Data",
+    "target": ""
+  },
+  {
+    "key": "/DDAC59D04079E128D45FD8BF93D0139C",
+    "source": "Craft Item",
+    "target": ""
+  },
+  {
+    "key": "/5424AC9E499CAC58EA55CB9429E9A138",
+    "source": "Creates a medium-sized hole. Energy cost: 5",
+    "target": ""
+  },
+  {
+    "key": "/C3E03F7A472869F0ACA1EDACF7CDA16A",
+    "source": "Credit Bonus",
+    "target": ""
+  },
+  {
+    "key": "/7E2B639B46F6DFA7DB5515AB1358599C",
+    "source": "Credits",
+    "target": ""
+  },
+  {
+    "key": "/D59048544655EA422E213B989218CE9D",
+    "source": "Credits",
+    "target": ""
+  },
+  {
+    "key": "/4F9B6FD84921F12CBE9AB8A9BCDE6B09",
+    "source": "Credits per Round",
+    "target": ""
+  },
+  {
+    "key": "/BAA052A647CAB807A7493CBC0AAE2950",
+    "source": "Crosshair",
+    "target": ""
+  },
+  {
+    "key": "/FFE12DA34753650ACF9031B72D2F75FA",
+    "source": "Crowded Fields",
+    "target": ""
+  },
+  {
+    "key": "/9663718E4482BA8F1266D28DCCFFA9A7",
+    "source": "Crystal Dust",
+    "target": ""
+  },
+  {
+    "key": "/39FFAA0647E4C5965194C3B402826544",
+    "source": "Crystal Rose",
+    "target": ""
+  },
+  {
+    "key": "/CD9B8D7D4BF59822EAF541843B20D516",
+    "source": "Culling Blow",
+    "target": ""
+  },
+  {
+    "key": "/D29AA82F435BE99091547694A6405ADA",
+    "source": "Current Gold: {GoldAmount}",
+    "target": ""
+  },
+  {
+    "key": "/93D4A71C40FDCFE02D06BB92493F58C4",
+    "source": "Current Level",
+    "target": ""
+  },
+  {
+    "key": "/AF3B2B2A4DDF6FB43D7B41988B0822E8",
+    "source": "Current Run",
+    "target": ""
+  },
+  {
+    "key": "/042549984EF90DB22384E8894811394B",
+    "source": "Damage Trees by interacting with them in the dark thicket.",
+    "target": ""
+  },
+  {
+    "key": "/297E0339424D940C8B0F7D9BDDFA2A93",
+    "source": "Damage gain: {DamageGain}",
+    "target": ""
+  },
+  {
+    "key": "/17777F044587A3D740A495B799AE1F5C",
+    "source": "Damage per Hit",
+    "target": ""
+  },
+  {
+    "key": "/07DB7DE54FA2BC45E09AB2AAB98F4C9B",
+    "source": "Damage: {DamageAmount}",
+    "target": ""
+  },
+  {
+    "key": "/C23DCCA64AD681B1EC3CB1BAB40D736A",
+    "source": "Dark Thicket",
+    "target": ""
+  },
+  {
+    "key": "/E45156034B70F932A237DD8303CBC787",
+    "source": "Dark Thicket Resources",
+    "target": ""
+  },
+  {
+    "key": "/8A3DCE0348A9101121A022A14E89C462",
+    "source": "Dash",
+    "target": ""
+  },
+  {
+    "key": "/12DE802E485D569E046721B6F94DE882",
+    "source": "Data",
+    "target": ""
+  },
+  {
+    "key": "/7C1BC9BF41399E75D99A33BC0E1D9713",
+    "source": "Data Center",
+    "target": ""
+  },
+  {
+    "key": "/CECD1F5F44E076F9ABFB86AE2EADD1FA",
+    "source": "Data Rush",
+    "target": ""
+  },
+  {
+    "key": "/774BF5C64772F8D7CD64408F28D64019",
+    "source": "Data per second",
+    "target": ""
+  },
+  {
+    "key": "/13BDF4E9471B6305FE45218524CF00F2",
+    "source": "Data received",
+    "target": ""
+  },
+  {
+    "key": "/01EB643F4AC0EEF28CB5DDBE796486D4",
+    "source": "Deal 20% more damage while standing still.",
+    "target": ""
+  },
+  {
+    "key": "/6E17D01D459FD665D44862A5B9AAE4C2",
+    "source": "Deal up to 20% more damage the faster you move.",
+    "target": ""
+  },
+  {
+    "key": "/2DD06A3F4FCD761696DF48A5DAA4DA74",
+    "source": "Death gives meaning",
+    "target": ""
+  },
+  {
+    "key": "/4E8FF7B64725970E497E838B691C092B",
+    "source": "Deconstruct Building",
+    "target": ""
+  },
+  {
+    "key": "/31C6F62345C4AE3BD6F4F3901B800B0D",
+    "source": "Deconstruct Mode",
+    "target": ""
+  },
+  {
+    "key": "/26ADC5164065F68D888EC68DAF4BAA97",
+    "source": "Decrease",
+    "target": ""
+  },
+  {
+    "key": "/D860DE3B49E8AE4B429F15A95320CC47",
+    "source": "Deep Roots",
+    "target": ""
+  },
+  {
+    "key": "/7750A1E3451EF1BBF49395A56CC8143D",
+    "source": "Demands",
+    "target": ""
+  },
+  {
+    "key": "/AB9DD53A4272848EC1AC089DDE6D245D",
+    "source": "Dense Forest",
+    "target": ""
+  },
+  {
+    "key": "/2923989646727194D1D00B82A1D2A05F",
+    "source": "Desert Unlocks:",
+    "target": ""
+  },
+  {
+    "key": "/BF7AE4734B97163DA0906FA895E34FAF",
+    "source": "Destroy All",
+    "target": ""
+  },
+  {
+    "key": "/D14ECB6544528AE2828F3CA4AD04B1FB",
+    "source": "Destroy Rune",
+    "target": ""
+  },
+  {
+    "key": "/711D0E514764C8262D6F35811AA9B81A",
+    "source": "Destroying a resource boosts your speed and damage by 30% for 3 seconds.",
+    "target": ""
+  },
+  {
+    "key": "/661315C949E51F9FC4C7D794EB9B8388",
+    "source": "Destroying a resource has a 10% chance to spawn a new one right next to it.",
+    "target": ""
+  },
+  {
+    "key": "/8E27951241E3112B1F913EA15A65C9FF",
+    "source": "Dig Radius",
+    "target": ""
+  },
+  {
+    "key": "/6140F95247397FBE9B0536AD92A64320",
+    "source": "Dig Radius Buff",
+    "target": ""
+  },
+  {
+    "key": "/2FD9491E4B6A6562DCA98AAA62D45AE9",
+    "source": "Dig deep enough and you may discover a legendary treasure containing resources, materials, or even rare permanent buffs.",
+    "target": ""
+  },
+  {
+    "key": "/1CFD1B4A47A03CD7C31A08A235C7F63F",
+    "source": "Dig your way out of the mountains",
+    "target": ""
+  },
+  {
+    "key": "/0CB5D2394F915A72365FBA92D82FF7D9",
+    "source": "Disable Pinned Items",
+    "target": ""
+  },
+  {
+    "key": "/20C756114D3C44E33E727BBCB4B531B5",
+    "source": "Discover new biomes by expanding your island. Some areas contain ruins or structures that can be interacted with.",
+    "target": ""
+  },
+  {
+    "key": "/6CD687EC4C2B5E399248F1BDE8198908",
+    "source": "Discovered",
+    "target": ""
+  },
+  {
+    "key": "/2E99654A4146EAFCD34B75BA03E01AAB",
+    "source": "Displays milestone progress and all upcoming unlocks for crafts, buildings, and buffs.",
+    "target": ""
+  },
+  {
+    "key": "/9663B5D04C43E45E0EE1FDA09A55712A",
+    "source": "Double Jump",
+    "target": ""
+  },
+  {
+    "key": "/B765BD8C460C5E2D589166834954A3A4",
+    "source": "Doubles the base value of all plants.",
+    "target": ""
+  },
+  {
+    "key": "/54AEB2F6493D9309996883AD5A925AA3",
+    "source": "Doubles the damage you deal with your tool.",
+    "target": ""
+  },
+  {
+    "key": "/007DC7C847F3879ACBDC85AD72CD4945",
+    "source": "Doubles the power of support plant effects.",
+    "target": ""
+  },
+  {
+    "key": "/5E4A65F841D165B0AA614B9DFFD27493",
+    "source": "During the fuel shortage minigame, power-ups can spawn that grant free credits.",
+    "target": ""
+  },
+  {
+    "key": "/B126BC734ECB6092E40D609318B55FDE",
+    "source": "Dust",
+    "target": ""
+  },
+  {
+    "key": "/E0CEDFAD49AEF0AF51C7DD9BA90B2BA7",
+    "source": "Dynamite Ability",
+    "target": ""
+  },
+  {
+    "key": "/30717798488A93F95D6000AD5D2741D1",
+    "source": "Each bolt deals 10% more of the hit's damage.",
+    "target": ""
+  },
+  {
+    "key": "/6321D01C46404008820A199B42676E82",
+    "source": "Each duller than the last... each farther from why",
+    "target": ""
+  },
+  {
+    "key": "/68227ABA44468C3D9D0764836F0017DD",
+    "source": "Each hit has a 20% chance to strike a nearby resource for half damage.",
+    "target": ""
+  },
+  {
+    "key": "/C9E4FB7A42DC0F0DFC8B16B60E006EAB",
+    "source": "Each level adds +1 base multiplier to every plant.",
+    "target": ""
+  },
+  {
+    "key": "/2209037B480DCE797DC0D1822B1675B5",
+    "source": "Each level increases every plant’s base value by 50%.",
+    "target": ""
+  },
+  {
+    "key": "/1102402545DA55164C1D97B0CA5E5440",
+    "source": "Early Exit?",
+    "target": ""
+  },
+  {
+    "key": "/1724C1554FC13994B94DAD8BF0938FA1",
+    "source": "Earn 15 extra credits at the end of each run.",
+    "target": ""
+  },
+  {
+    "key": "/2871F5AD4087529159A744B59C78F7ED",
+    "source": "Echo",
+    "target": ""
+  },
+  {
+    "key": "/7AA3983549CD4D3BBE38BAAB0128695A",
+    "source": "Echo Count",
+    "target": ""
+  },
+  {
+    "key": "/663B2B3E44040CCA81CFC6A42313D188",
+    "source": "Echo Damage",
+    "target": ""
+  },
+  {
+    "key": "/FB2F77874A22A27AB80AC3AC0B5DFFD8",
+    "source": "Effects",
+    "target": ""
+  },
+  {
+    "key": "/42D620AA46FA179D6BB570A89A57CA9C",
+    "source": "Effects Quality",
+    "target": ""
+  },
+  {
+    "key": "/522827BE4D2626ED302A1BB542671FB3",
+    "source": "Efficient Burning",
+    "target": ""
+  },
+  {
+    "key": "/03AFF57F410E1D95CC4C4AA53765B609",
+    "source": "Elder droprate",
+    "target": ""
+  },
+  {
+    "key": "/4887FDF64574C15CF465028CED52720D",
+    "source": "Emberbloom",
+    "target": ""
+  },
+  {
+    "key": "/8C8E7623454D9BEF0F7004AF69A77D5E",
+    "source": "Energy on Collect",
+    "target": ""
+  },
+  {
+    "key": "/2CE981D244A2FD8F6E3F68916BACF4AB",
+    "source": "Enter",
+    "target": ""
+  },
+  {
+    "key": "/47005045402AC2CD2E9FD289AEA54653",
+    "source": "Enter Dark Thicket",
+    "target": ""
+  },
+  {
+    "key": "/4721A8FE467BD9D214BE2F9C66D0A1E3",
+    "source": "Enter Data Rush",
+    "target": ""
+  },
+  {
+    "key": "/D8FD1A484C0A82CD90742CAB0E4FD995",
+    "source": "Enter Oasis",
+    "target": ""
+  },
+  {
+    "key": "/078E0C474CFF860CBCAA32A80EE7F5A7",
+    "source": "Enter the Arena of Memories and reach the end of the gauntlet before time runs out to unlock the Key of Memories.\r\nTwo keys are required to enter the Lighthouse.\r\nTwo keys are required to leave Nightwater.",
+    "target": ""
+  },
+  {
+    "key": "/D8852A564CAC8D4F334A51BDA1462123",
+    "source": "Enter the Mine",
+    "target": ""
+  },
+  {
+    "key": "/F69891344C704904EC25DFA83BEEB2A9",
+    "source": "Equip Rune",
+    "target": ""
+  },
+  {
+    "key": "/DBC142784B979DACC21AB8AE1E20B757",
+    "source": "Every resource yields 15% more fuel.",
+    "target": ""
+  },
+  {
+    "key": "/3EBE75DB464985B18BC0598CDBB7AF42",
+    "source": "Exchange",
+    "target": ""
+  },
+  {
+    "key": "/4F247A2C41D96411260C43976B6F5F64",
+    "source": "Expand your island to unlock new biomes, minigames, puzzles, items, and milestones.",
+    "target": ""
+  },
+  {
+    "key": "/1395A1194C1DB5EE3250E0905EB55D93",
+    "source": "Explore the Dark Thicket and cut down trees to receive Minigame-specific resources. The Dark Thicket has different areas with different Trees!",
+    "target": ""
+  },
+  {
+    "key": "/462E8AB04BE92ECE0E69C891EF031A93",
+    "source": "Explore the Dark Thicket. Your machines continue to operate while you are away. Minigames can unlock powerful buffs.",
+    "target": ""
+  },
+  {
+    "key": "/FBE774C047DDC8E6F8ADD882980CAAF4",
+    "source": "Explore the mine and dig deeper to uncover as many ores and minerals as you can. The deeper you go, the rarer the resources you’ll find, but digging will also become tougher.",
+    "target": ""
+  },
+  {
+    "key": "/2F925C4A493152C02660DE913A1F0789",
+    "source": "Extended Area 1",
+    "target": ""
+  },
+  {
+    "key": "/AA37B69F45BC47F53D2905B5381BEA84",
+    "source": "Extended Area 2",
+    "target": ""
+  },
+  {
+    "key": "/E0C6A4144A9FB4A90708C4B8610C07EF",
+    "source": "Extended Area 3",
+    "target": ""
+  },
+  {
+    "key": "/06734DBF46BC409B175FF7A5680D7145",
+    "source": "Extends your attack range by 20%, whether melee reach, projectile range or blast radius.",
+    "target": ""
+  },
+  {
+    "key": "/8831E8AC483073B1D0E5CDB042D73362",
+    "source": "Extrovert Upgrade",
+    "target": ""
+  },
+  {
+    "key": "/F26E2E72445ECFD3E87252B659104225",
+    "source": "FINISH",
+    "target": ""
+  },
+  {
+    "key": "/9656E7094FEB52CD89F937AF8023A733",
+    "source": "FOV",
+    "target": ""
+  },
+  {
+    "key": "/3E388A644A38352B3D5B43BBB66ED622",
+    "source": "Fading Memory",
+    "target": ""
+  },
+  {
+    "key": "/018BBA23409B03D81213D880B79497CB",
+    "source": "Farm Automation",
+    "target": ""
+  },
+  {
+    "key": "/E4F1FCE14CABE9FB501BC09EDDBAE985",
+    "source": "Farm desert plants in an abandoned oasis. Plant crops, wait for them to grow, and harvest them to earn Gold and increase your Plants Harvested progress. Plants also grow while not in the Oasis!",
+    "target": ""
+  },
+  {
+    "key": "/7F9F961E419F856DECB94D9466CB3091",
+    "source": "Farm {Value} more Wood Dust to unlock this entry.",
+    "target": ""
+  },
+  {
+    "key": "/F0FDDE4E4D744073C128BDBB883D83C1",
+    "source": "Fast operating wood harvester with a base capacity of 15 per slot",
+    "target": ""
+  },
+  {
+    "key": "/C2486C13482B19795117ACA37F0B695B",
+    "source": "Fear",
+    "target": ""
+  },
+  {
+    "key": "/AF49C7AB4303C60BD005BF96281D4383",
+    "source": "Featherweight",
+    "target": ""
+  },
+  {
+    "key": "/E7D233164315CAE67D28F99F9C9A07C4",
+    "source": "Feeding a hunger without end",
+    "target": ""
+  },
+  {
+    "key": "/0DE1BF524D25FA6E77E08AA96AC79F5C",
+    "source": "Fertilizer Vera",
+    "target": ""
+  },
+  {
+    "key": "/E53C60CA4E2A5A9FBF3218B1E071665F",
+    "source": "Filter",
+    "target": ""
+  },
+  {
+    "key": "/EAF95DC746E4BF6F6FB661AE8A209D10",
+    "source": "Filter Rarity",
+    "target": ""
+  },
+  {
+    "key": "/399F6A9046BF3BA2CDEFE99B97DF3E6C",
+    "source": "Filter Type",
+    "target": ""
+  },
+  {
+    "key": "/4EADBFB3438FEAF64A456D9E7EAAF4B2",
+    "source": "Final Area",
+    "target": ""
+  },
+  {
+    "key": "/66E4E6784D0DFA7A9430A1A5DBF71E8F",
+    "source": "Find Pickaxes",
+    "target": ""
+  },
+  {
+    "key": "/8DCF8E784971FF7B458FE5BC4377FDB1",
+    "source": "Fir Wood",
+    "target": ""
+  },
+  {
+    "key": "/4A715349402B50DEC153D8B9EE5C078D",
+    "source": "Fire",
+    "target": ""
+  },
+  {
+    "key": "/CE9B05CF40CF5B3216740C90D8534001",
+    "source": "Fire Cascade",
+    "target": ""
+  },
+  {
+    "key": "/A20F26254973F1BD080DA288EA9CC029",
+    "source": "Fires one more shot per burst, but each bullet deals 10% less damage.",
+    "target": ""
+  },
+  {
+    "key": "/EE532073409271FBCE377894ADAC66CE",
+    "source": "Flash visual on hit",
+    "target": ""
+  },
+  {
+    "key": "/055AF7C64E26AB45E12D338A3907B865",
+    "source": "For combining various simple alloys into advanced materials, at a fast speed.",
+    "target": ""
+  },
+  {
+    "key": "/99F100DE41CDEEA8943930A6309345A3",
+    "source": "For combining various simple alloys into advanced materials, at a slow speed.",
+    "target": ""
+  },
+  {
+    "key": "/0D7E3825477996088F591193479ADB2F",
+    "source": "For smelting raw ores into refined ingots or coke production, at a fast speed.",
+    "target": ""
+  },
+  {
+    "key": "/5AF1C32C47E33160AE26B3B9AE95E9BC",
+    "source": "For smelting raw ores into refined ingots or coke production, at a slow speed.",
+    "target": ""
+  },
+  {
+    "key": "/CC539ECC42BE3CA235F3BB8623812B6D",
+    "source": "Forced by your own choice",
+    "target": ""
+  },
+  {
+    "key": "/3FDCDD8243882E277F625B89AB8A209A",
+    "source": "Forest Luck",
+    "target": ""
+  },
+  {
+    "key": "/1E78500D4665DCE0F63037ADFB39A94A",
+    "source": "Forest Unlocks:",
+    "target": ""
+  },
+  {
+    "key": "/507BFCF44590176CD459E6BCF97750EA",
+    "source": "Fuel Bonus",
+    "target": ""
+  },
+  {
+    "key": "/BF7A687849F9E1542030398F9EC4A97E",
+    "source": "Fuel Shortage",
+    "target": ""
+  },
+  {
+    "key": "/0A088F584FC5EE8CCD95568C5A5D6B48",
+    "source": "Fuel:",
+    "target": ""
+  },
+  {
+    "key": "/6615CBD34EE393A53E74D6B38D164A39",
+    "source": "Fullscreen",
+    "target": ""
+  },
+  {
+    "key": "/D6103E354B3D60B02F89078942CEE9A1",
+    "source": "Gain 1 Credit per level for every 10 Fuel collected above the round goal.",
+    "target": ""
+  },
+  {
+    "key": "/9798DB8844D76388EA3CED8F0C790B06",
+    "source": "Gain 20 energy whenever you collect ore",
+    "target": ""
+  },
+  {
+    "key": "/F2E03EF04B25E041805081B6FF4F187B",
+    "source": "Gain 4% more damage per level for every 10 Credits left unspent when you leave the shop.",
+    "target": ""
+  },
+  {
+    "key": "/EBE504894446CF97B2895ABCD01F28DC",
+    "source": "Gambler Upgrade",
+    "target": ""
+  },
+  {
+    "key": "/3A73D98B48FB87B156C50A9F0604A97A",
+    "source": "Gameplay",
+    "target": ""
+  },
+  {
+    "key": "/F79CFB304F34F0D2321B2E8B43BBA581",
+    "source": "Gather Wood Dust from trees to advance",
+    "target": ""
+  },
+  {
+    "key": "/01257E664C737DB44A5656B3251F150D",
+    "source": "Gather {Value} more Wood Dust",
+    "target": ""
+  },
+  {
+    "key": "/1D5E0FB049F72E509E0C59A3A989876E",
+    "source": "Gather {Value} more fuel",
+    "target": ""
+  },
+  {
+    "key": "/386263AF40FCA3E434A3D0A6F0034C36",
+    "source": "Gather, craft, automate... like muscle memory",
+    "target": ""
+  },
+  {
+    "key": "/D26EE37A4B4CEA5A5861818A6F444A32",
+    "source": "Gauntlet",
+    "target": ""
+  },
+  {
+    "key": "/3544C4574B3C243D79509D8F718D3BA2",
+    "source": "General Multiplier",
+    "target": ""
+  },
+  {
+    "key": "/0170463D407250E3DF28379DA47DE30D",
+    "source": "Geothermal Power Unit",
+    "target": ""
+  },
+  {
+    "key": "/111147FA4FCBFBB62018F1898F0844CD",
+    "source": "Get enough fuel to advance",
+    "target": ""
+  },
+  {
+    "key": "/A44368B142DFB795FAD7E2A727ED91CC",
+    "source": "Glass",
+    "target": ""
+  },
+  {
+    "key": "/36D836694A923F0CC3B2CBA3216658BC",
+    "source": "Glass Cannon",
+    "target": ""
+  },
+  {
+    "key": "/EBD38A7048A09736486E04B31C56F714",
+    "source": "Go Back",
+    "target": ""
+  },
+  {
+    "key": "/3D43735346994B2D548A118FE71FD26C",
+    "source": "Gold stored: {GoldAmount}",
+    "target": ""
+  },
+  {
+    "key": "/DADF25154BF65967743BD3B31F3A8D80",
+    "source": "Golden Chain",
+    "target": ""
+  },
+  {
+    "key": "/74CC08044E2BCF4643D5E4BA88658702",
+    "source": "Golden Orchid",
+    "target": ""
+  },
+  {
+    "key": "/0F7577FB4CE7007AD9194F8A4140B98A",
+    "source": "Golden Watering Can",
+    "target": ""
+  },
+  {
+    "key": "/FB16DA1841A879D72833A59DA7C2535D",
+    "source": "Growth time increases by 180 seconds for each buff received.",
+    "target": ""
+  },
+  {
+    "key": "/8476A8F5428FBB285F8949905ACABC95",
+    "source": "Harvest enough plants to advance",
+    "target": ""
+  },
+  {
+    "key": "/88787F9241E259E0A2DB7CA8BA7B04A4",
+    "source": "Harvest wood by destroying trees. To damage a tree, look at it and press [Left Mouse Button]. Press [B] to open the Building Menu.",
+    "target": ""
+  },
+  {
+    "key": "/4A7E9B65439F9E87A08717B761D85E39",
+    "source": "Harvest {Value} more plants",
+    "target": ""
+  },
+  {
+    "key": "/B98EACD7406F92A30D16C0944723A9F9",
+    "source": "Heavy Strikes",
+    "target": ""
+  },
+  {
+    "key": "/87F102D54CA6198696ECDCA5149C3EBE",
+    "source": "Here, the void is born...",
+    "target": ""
+  },
+  {
+    "key": "/B1E6180944D9C52F2E24E2A9AF60A418",
+    "source": "High",
+    "target": ""
+  },
+  {
+    "key": "/0F03DB3745DF4F5A2E4ACAA769AD4CFA",
+    "source": "Hitting a resource poisons it for 10 damage per second over 3 seconds.",
+    "target": ""
+  },
+  {
+    "key": "/3CF315C14E1F4A3D4376F7B307114A64",
+    "source": "Hold down the jump button to activate the jetpack and fly over resources and buildings, at a fast speed.",
+    "target": ""
+  },
+  {
+    "key": "/A0742F6C4BAB5E0264FB328726600AFF",
+    "source": "I created this place. You had no say",
+    "target": ""
+  },
+  {
+    "key": "/FB170AD64F3F06CE78BE06A7564CA737",
+    "source": "I feel the thinness... the grain of tired hands",
+    "target": ""
+  },
+  {
+    "key": "/7B1FA1744BD8B35EE5E5BCA258B371B2",
+    "source": "I keep building reasons from tools",
+    "target": ""
+  },
+  {
+    "key": "/ADB983364A1588F5C90344A2B697FF9F",
+    "source": "I know... a cruel question",
+    "target": ""
+  },
+  {
+    "key": "/F49DBCE6424078A1B78C83A49C81B3CF",
+    "source": "I wasn't meant to stay this long",
+    "target": ""
+  },
+  {
+    "key": "/5B2C84304589C73C1B97439F146D3730",
+    "source": "Ice",
+    "target": ""
+  },
+  {
+    "key": "/0B2B00604753C3B5ABB12FABB29E2ED6",
+    "source": "Idle data generates 25% faster.",
+    "target": ""
+  },
+  {
+    "key": "/4BEFD59B47FB2F5A392738956CDA31DC",
+    "source": "In Inventory:",
+    "target": ""
+  },
+  {
+    "key": "/6F2B05B745BBCE20A874D5866685EBB8",
+    "source": "Increase",
+    "target": ""
+  },
+  {
+    "key": "/CE72AD834EE7E7D792532F9A58604274",
+    "source": "Increase Axe Damage 1",
+    "target": ""
+  },
+  {
+    "key": "/CE05AE5540DBD98E18EFBFA10FBADD90",
+    "source": "Increase Axe Damage 2",
+    "target": ""
+  },
+  {
+    "key": "/9FA8C25D48A3E80AA3F34F9B9797E895",
+    "source": "Increase Base Value",
+    "target": ""
+  },
+  {
+    "key": "/5C41A58B40496B452F2CF48FA477778F",
+    "source": "Increase Bit & Hogg Damage 1",
+    "target": ""
+  },
+  {
+    "key": "/E87ABBC84F255816CBAD4B984F64B732",
+    "source": "Increase Bit & Hogg Damage 2",
+    "target": ""
+  },
+  {
+    "key": "/5D53EEE644862955D7C4788430F989EE",
+    "source": "Increase Bit & Hogg Radius",
+    "target": ""
+  },
+  {
+    "key": "/A52769E941F3C32BC3BB779856F25E16",
+    "source": "Increase Multiplier",
+    "target": ""
+  },
+  {
+    "key": "/9659F73D4EE02A1B2FC2CF9DD0B47C5B",
+    "source": "Increase Resource Gain",
+    "target": ""
+  },
+  {
+    "key": "/337FEA2145810B5A51827AA7D9B29F07",
+    "source": "Increase Rune Rarity",
+    "target": ""
+  },
+  {
+    "key": "/50D3505946392AB9C85E7EA77080505F",
+    "source": "Increase Sprint Speed",
+    "target": ""
+  },
+  {
+    "key": "/F5B0855545C303AD27C4E8AD23B3DDEC",
+    "source": "Increased Speed",
+    "target": ""
+  },
+  {
+    "key": "/08C84DAC419EC5716ACF43B29CD93EAE",
+    "source": "Increases all Data from runs and idling by 10% per level. Can be bought infinitely.",
+    "target": ""
+  },
+  {
+    "key": "/E3A8F09A4FB6EF60BE2A0AB6E2E621AD",
+    "source": "Increases both ore and mineral multipliers by {RuneStrength}",
+    "target": ""
+  },
+  {
+    "key": "/6B2203C84AD9842D849991AD4C725EBF",
+    "source": "Increases critical hit chance with tools by 30%",
+    "target": ""
+  },
+  {
+    "key": "/1C086EEA4510A209ED5065A1034623A4",
+    "source": "Increases damage by 50% but lowers movement speed by 10%.",
+    "target": ""
+  },
+  {
+    "key": "/8B19D0F5463CE672C08C568A8391A8E8",
+    "source": "Increases explosion damage by 10% of the destroyed resource's health.",
+    "target": ""
+  },
+  {
+    "key": "/E1436B794F82B2653218DB96E13903AB",
+    "source": "Increases max energy by {RuneStrength}",
+    "target": ""
+  },
+  {
+    "key": "/7C41A3A4440FB0A89E3D4D805E476779",
+    "source": "Increases the base multiplier of all plants by 1.",
+    "target": ""
+  },
+  {
+    "key": "/6D700F00456661CAD3013F84761F35F2",
+    "source": "Increases the chance for higher tier resources to spawn.",
+    "target": ""
+  },
+  {
+    "key": "/81B634E14F3B02FED73687A6D3DF6879",
+    "source": "Increases the chance for stone to spawn over trees.",
+    "target": ""
+  },
+  {
+    "key": "/80A88E9A4C2DD522C911BEA661884D31",
+    "source": "Increases the chance for trees to spawn over stone.",
+    "target": ""
+  },
+  {
+    "key": "/65CE6D6342DAE53EAA2642BC489BC75F",
+    "source": "Increases the chance of finding higher-quality runes",
+    "target": ""
+  },
+  {
+    "key": "/732C3B79492297E1874B96AA3D34754D",
+    "source": "Increases the chance of getting a rare buff from chests by {RuneStrength}%",
+    "target": ""
+  },
+  {
+    "key": "/8AE38A4D4568977504334BB70AC5017D",
+    "source": "Increases the damage you deal to all resources by 15%.",
+    "target": ""
+  },
+  {
+    "key": "/E059CDD14F90C28E5C91A28F5A78AFD6",
+    "source": "Increases the energy gained from collecting ores by {RuneStrength}",
+    "target": ""
+  },
+  {
+    "key": "/2DE4085A44897EA67344A688AC53CDCE",
+    "source": "Increases the lucky drop multiplier by 1x per level, up to 5x.",
+    "target": ""
+  },
+  {
+    "key": "/18B08370465FF7C13775B2AB07FA5204",
+    "source": "Increases the max amount you can receive of any resource by +2",
+    "target": ""
+  },
+  {
+    "key": "/3893B90C43C8391A0BC02CA7CBD82F5B",
+    "source": "Increases the mineral multiplier by 1",
+    "target": ""
+  },
+  {
+    "key": "/6D8195DC465D51814C28C78095537C98",
+    "source": "Increases the mineral multiplier by {RuneStrength}",
+    "target": ""
+  },
+  {
+    "key": "/94EC70A9477A47665D9C548B1CF3C3FE",
+    "source": "Increases the ore multiplier by 1",
+    "target": ""
+  },
+  {
+    "key": "/230F4A9F4C8AE6CC64F079949C5822F9",
+    "source": "Increases the ore multiplier by {RuneStrength}",
+    "target": ""
+  },
+  {
+    "key": "/B60282BA40794B06DD0515865C4EF1F4",
+    "source": "Increases the rarity cap for newly found runes by {RuneStrength}",
+    "target": ""
+  },
+  {
+    "key": "/A0981E9442562E701599FB99CD96D44B",
+    "source": "Increases the spawn rate of ores, minerals, buffs, and runes by 10%",
+    "target": ""
+  },
+  {
+    "key": "/464D9D5C42EE1942532BA99B41AE5314",
+    "source": "Increases the speed of farmers and assemblers within the data center's radius by 50%. Multiple data centers do not stack this effect.",
+    "target": ""
+  },
+  {
+    "key": "/116EE8AA4C4BD6239180988314E92DC6",
+    "source": "Increases the speed of farmers and assemblers within the solar panel's radius by 25%. Multiple solar panels do not stack this effect.",
+    "target": ""
+  },
+  {
+    "key": "/1D69A49E453156EDBDE9F28CC38EC3F7",
+    "source": "Increases your container size by 10% per level. Can be bought infinitely.",
+    "target": ""
+  },
+  {
+    "key": "/9E44F16447DB62B1B9A7EDB2CD2F26BC",
+    "source": "Increases your dig radius by {RuneStrength} meters.",
+    "target": ""
+  },
+  {
+    "key": "/BEE556154353AF9F544238A879522BD4",
+    "source": "Increases your movement speed by 12%.",
+    "target": ""
+  },
+  {
+    "key": "/6587433C4E27EC43E9C1B9BF91EBD686",
+    "source": "Increases your movement speed by 5% per level.",
+    "target": ""
+  },
+  {
+    "key": "/8D0CE0D74BD2EE75ADD40A9C7ADC3821",
+    "source": "Increases your movement speed by 5% per level. Can be bought infinitely and toggled off.",
+    "target": ""
+  },
+  {
+    "key": "/51C65C0E491250BEBA3B63B6E248C2A9",
+    "source": "Industrial Computing Unit",
+    "target": ""
+  },
+  {
+    "key": "/902F46084F8454071EBBEB80DBBF388E",
+    "source": "Infinite Capacity",
+    "target": ""
+  },
+  {
+    "key": "/68B8F98E46C4B16FF4DDB790677F8628",
+    "source": "Infinite Data",
+    "target": ""
+  },
+  {
+    "key": "/82033EB74D387CFD9ACE62A6F5C5B6D7",
+    "source": "Infinite Speed",
+    "target": ""
+  },
+  {
+    "key": "/114E015749D839AADD6C7CA349D05070",
+    "source": "Infinity Mode",
+    "target": ""
+  },
+  {
+    "key": "/69AB215C4CD24433C7A02C81817EA998",
+    "source": "Info",
+    "target": ""
+  },
+  {
+    "key": "/6A20A44847006D9C356694BD38A1D5AA",
+    "source": "Instead of collecting each building manually, you can use a collector to collect all harvesters and assemblers within a radius at once.",
+    "target": ""
+  },
+  {
+    "key": "/6AB5032F4355871A28E4988234FEC3C1",
+    "source": "Interact",
+    "target": ""
+  },
+  {
+    "key": "/7E53DDD74C38C6A3562F4C86816C2DD3",
+    "source": "Interact to buy upgrade",
+    "target": ""
+  },
+  {
+    "key": "/413E83954D2829E7B1082E85858F655E",
+    "source": "Interact to disable Checkpoints",
+    "target": ""
+  },
+  {
+    "key": "/6816330E40CF538593DB638EA3F55B22",
+    "source": "Interact to disable Infinite Speed Upgrades",
+    "target": ""
+  },
+  {
+    "key": "/61D8E634486185D60E350D8ED0DA0979",
+    "source": "Interact to enable Checkpoints",
+    "target": ""
+  },
+  {
+    "key": "/54B15DAC47A18D83F240F9976F13BD7B",
+    "source": "Interact to enable Infinite Speed Upgrades",
+    "target": ""
+  },
+  {
+    "key": "/34A7A36844127FB76FAA0DA22E4523F2",
+    "source": "Interact to go back to the beginning of the course",
+    "target": ""
+  },
+  {
+    "key": "/A35F8D3D42369385D69252838A142D6D",
+    "source": "Interact to pet",
+    "target": ""
+  },
+  {
+    "key": "/041B98614FA620F290B7E6A159141C0A",
+    "source": "Introvert Upgrade",
+    "target": ""
+  },
+  {
+    "key": "/096230CD4F5AFA226B0C9FAF86503C14",
+    "source": "Invert Mouse X",
+    "target": ""
+  },
+  {
+    "key": "/EE3D97A549ACF161ACCF4EA325B5EFFB",
+    "source": "Invert Mouse Y",
+    "target": ""
+  },
+  {
+    "key": "/04D6887246DA40CA8E311FA95EAD3879",
+    "source": "Iron Dust",
+    "target": ""
+  },
+  {
+    "key": "/B60EE0E744FA22EE5580D699407B7BB5",
+    "source": "Iron Gear",
+    "target": ""
+  },
+  {
+    "key": "/1CAAB15240912E7FAF224FBE9CC163D6",
+    "source": "Iron Ingot",
+    "target": ""
+  },
+  {
+    "key": "/2AAF5F824C0AEA3D005CBAA55E71F67F",
+    "source": "Is this truly your desire?",
+    "target": ""
+  },
+  {
+    "key": "/23BB33314D48375665B394BEC77E942F",
+    "source": "It led to a world like ours...",
+    "target": ""
+  },
+  {
+    "key": "/522F3DC641FF405A2C6F0C9988093942",
+    "source": "It's time to move on",
+    "target": ""
+  },
+  {
+    "key": "/10562D024C7962AE07A0FDA62DB7DF8A",
+    "source": "Item Drops",
+    "target": ""
+  },
+  {
+    "key": "/C0792A0143F4C02C55C3B9A8E1D8EE04",
+    "source": "Items required",
+    "target": ""
+  },
+  {
+    "key": "/67C8C1A244FDF90F2719A59ACDFD0F7E",
+    "source": "Jump",
+    "target": ""
+  },
+  {
+    "key": "/7787DF4142A37AB0A59A9884FB64C5B4",
+    "source": "Key of Automation",
+    "target": ""
+  },
+  {
+    "key": "/F3EC1EF645A0439AC513128637FDA152",
+    "source": "Key of Memories",
+    "target": ""
+  },
+  {
+    "key": "/74D879904EA3F8BA4262DC8336B47F2A",
+    "source": "Language",
+    "target": ""
+  },
+  {
+    "key": "/ED5FAA40412727BBD4066DBA7D5C4590",
+    "source": "Leave",
+    "target": ""
+  },
+  {
+    "key": "/D8AA9467481A8A9C3F608BB6C8B3EE4F",
+    "source": "Leave Minigame",
+    "target": ""
+  },
+  {
+    "key": "/94F0D6174DA14BED43A553BD11F3A0CE",
+    "source": "Leave Run",
+    "target": ""
+  },
+  {
+    "key": "/085CE9884313DC20FF5E3C83F4191A7B",
+    "source": "Leave area?",
+    "target": ""
+  },
+  {
+    "key": "/21A9EDBA4D92F4050054C9A050265491",
+    "source": "Leave?",
+    "target": ""
+  },
+  {
+    "key": "/44B28BA74BFEBEC6DF908FAB7FE6B68E",
+    "source": "Let us go",
+    "target": ""
+  },
+  {
+    "key": "/9CC6A4F148C9E0B7D219E3B86F673984",
+    "source": "Level: {PermaLevel}",
+    "target": ""
+  },
+  {
+    "key": "/D6FA5D4C40EA2854FE08C0A8AAE5B8CC",
+    "source": "Light Feet",
+    "target": ""
+  },
+  {
+    "key": "/AA812B544F8160A0C98FB792F73B1108",
+    "source": "Lighthouse",
+    "target": ""
+  },
+  {
+    "key": "/6265F6F146A3565E07C308B0A7163062",
+    "source": "Lighthouse Altar",
+    "target": ""
+  },
+  {
+    "key": "/3B6F3A9E4103DA55782B2C8D1CB4E3B4",
+    "source": "Lightning",
+    "target": ""
+  },
+  {
+    "key": "/A240BE924CBC076C0F3AF5A5D9D175B7",
+    "source": "Lilia of Memories",
+    "target": ""
+  },
+  {
+    "key": "/8CA69BF347F26424566E2195A6C4DAE9",
+    "source": "Linking Chest",
+    "target": ""
+  },
+  {
+    "key": "/FFC5AAA94EC16B74448127A663DDCB77",
+    "source": "Living Chest",
+    "target": ""
+  },
+  {
+    "key": "/CD1869034127775EE528D7938E877B75",
+    "source": "Living Machine Unit",
+    "target": ""
+  },
+  {
+    "key": "/2123A1104B08EE22202E0FB53628CFB6",
+    "source": "Living Pipe",
+    "target": ""
+  },
+  {
+    "key": "/E4D077434D7EDC70E0BBE4A20510E2DF",
+    "source": "Living Wood",
+    "target": ""
+  },
+  {
+    "key": "/A7EFB723493954DD3187268265278D11",
+    "source": "Long Reach",
+    "target": ""
+  },
+  {
+    "key": "/0E1979DE4A2DFEEFA4F03BA3089D91DC",
+    "source": "Loop",
+    "target": ""
+  },
+  {
+    "key": "/09CBE606E2E17E75FF87BB0AE2E17E75",
+    "source": "Loot Box Unlock",
+    "target": ""
+  },
+  {
+    "key": "/DF88542C454572EA33F8CFABDB4EEECB",
+    "source": "Low",
+    "target": ""
+  },
+  {
+    "key": "/5D0DD3D84D37388C72C6D8A0CE2D8C72",
+    "source": "Lucky",
+    "target": ""
+  },
+  {
+    "key": "/624122BB4DD8F0AB3011F49C3BEECBD8",
+    "source": "Lumina Chest",
+    "target": ""
+  },
+  {
+    "key": "/98A94184463A15275654CA87FC5242F1",
+    "source": "Lumina Core",
+    "target": ""
+  },
+  {
+    "key": "/C46AFE564B605212FA3BC09176A8D18C",
+    "source": "Lumina Dust",
+    "target": ""
+  },
+  {
+    "key": "/92E9C01044AB7F3D10E46C9537F567E9",
+    "source": "Lumina Ingot",
+    "target": ""
+  },
+  {
+    "key": "/D07687BE4F522B727B0D648665B64ADE",
+    "source": "Lumina Ore",
+    "target": ""
+  },
+  {
+    "key": "/4F6167964BC8AC1671976BB3105B3FAF",
+    "source": "Machine Information",
+    "target": ""
+  },
+  {
+    "key": "/4032288B4839CE5ED97CE0B1BC3C4717",
+    "source": "Manifest",
+    "target": ""
+  },
+  {
+    "key": "/D343F189435DE276D039DEBE7092FB63",
+    "source": "Manifester",
+    "target": ""
+  },
+  {
+    "key": "/8849168747D2AA6ED6A4AD8F3365A30C",
+    "source": "Manually destroying resources now gives double items",
+    "target": ""
+  },
+  {
+    "key": "/AE7F0DC14744ABB168A27C95C07840A7",
+    "source": "Max Dig Radius",
+    "target": ""
+  },
+  {
+    "key": "/DF4F9BA04DB4B0EC98D8D599D864167C",
+    "source": "Max Energy",
+    "target": ""
+  },
+  {
+    "key": "/D4089231474B1B6BBC2545A23806DDD3",
+    "source": "Max FPS",
+    "target": ""
+  },
+  {
+    "key": "/A7763FDB4C6CC986BEB94AB4C6C197D3",
+    "source": "Max Resources",
+    "target": ""
+  },
+  {
+    "key": "/6D1DFE4F4E461F84FF64378E5F59E65B",
+    "source": "Max Spawns",
+    "target": ""
+  },
+  {
+    "key": "/B08222A047C10CCE392E05B46E44E9A3",
+    "source": "Max Time 1",
+    "target": ""
+  },
+  {
+    "key": "/559E4F854F6FEE17994F52A12AD1FE94",
+    "source": "Max Time 2",
+    "target": ""
+  },
+  {
+    "key": "/60EF639644217E4F4C107AA465FFBFCC",
+    "source": "Max Time 3",
+    "target": ""
+  },
+  {
+    "key": "/E39DA7E44318BD5688CF62B2177FE9F7",
+    "source": "Maximize efficiency by building small factories near minigame locations. Machines remain active while you explore.",
+    "target": ""
+  },
+  {
+    "key": "/6359931142BE0033067C49B0D1307C8C",
+    "source": "Maximum Level",
+    "target": ""
+  },
+  {
+    "key": "/9D9999654DBC794D9DEE4AA413AC93A3",
+    "source": "Medium",
+    "target": ""
+  },
+  {
+    "key": "/52562A2B4588FC07E2FA1CBBEC93FD04",
+    "source": "Melee Crit",
+    "target": ""
+  },
+  {
+    "key": "/77991DA642459B0F4ADC81A5D6894488",
+    "source": "Melee Crit Chance",
+    "target": ""
+  },
+  {
+    "key": "/99063756441E7A30A343D2A6E834B11F",
+    "source": "Melody Missing",
+    "target": ""
+  },
+  {
+    "key": "/753E1C7645C20E17F8391D8DD6770B2A",
+    "source": "Memories",
+    "target": ""
+  },
+  {
+    "key": "/9D0D4942432AF6386AC83FAE41E0BAED",
+    "source": "Memory Chest",
+    "target": ""
+  },
+  {
+    "key": "/A0F157054493CA79C24087839F55B483",
+    "source": "Memory Circuit",
+    "target": ""
+  },
+  {
+    "key": "/E8B0E7724E8ECC35A7DBACAA4DFF9AC4",
+    "source": "Memory Shrine",
+    "target": ""
+  },
+  {
+    "key": "/D7735CF54DD0B7603BCD83A7E583C5F4",
+    "source": "Milestone Item",
+    "target": ""
+  },
+  {
+    "key": "/430DE88E413C6521F46394AB6AC83E06",
+    "source": "Milestone Item Unlocks",
+    "target": ""
+  },
+  {
+    "key": "/D32EA161451FD47BD20DFC88F0790BB7",
+    "source": "Milestone Items",
+    "target": ""
+  },
+  {
+    "key": "/DD5EE5E34BF846201ABABBBE850DE917",
+    "source": "Milestone: ",
+    "target": ""
+  },
+  {
+    "key": "/3EC45167411044F87497278B5AE476CA",
+    "source": "Milestones",
+    "target": ""
+  },
+  {
+    "key": "/CC1F82BB4CB8F2D4A3904384BC5FDA8F",
+    "source": "Mineral Multiplier",
+    "target": ""
+  },
+  {
+    "key": "/9484B0AA41B2E5E94C9B509F12912D24",
+    "source": "Minigame Ability 1",
+    "target": ""
+  },
+  {
+    "key": "/C2E248924F781DE348D37AB75F56445F",
+    "source": "Minigame Ability 2",
+    "target": ""
+  },
+  {
+    "key": "/66E0C84A46D68007BCBA59A173A3FEC6",
+    "source": "Minigame Item",
+    "target": ""
+  },
+  {
+    "key": "/AC850AD04564CE933D5459B16B292835",
+    "source": "Modern Assembler",
+    "target": ""
+  },
+  {
+    "key": "/0FEBCB21406770A8D72E939A05B36747",
+    "source": "Modern Chest",
+    "target": ""
+  },
+  {
+    "key": "/1D4E874A4321B26A988B31B9945809FD",
+    "source": "Modern Collector",
+    "target": ""
+  },
+  {
+    "key": "/EFE5C5EC49272289BD9291A164EA5532",
+    "source": "Modern Drill",
+    "target": ""
+  },
+  {
+    "key": "/6923C1F14D79B2434056ACB63A4BA49D",
+    "source": "Modern Fabric",
+    "target": ""
+  },
+  {
+    "key": "/55DC7C6547A5A77453D2E8A39902D03B",
+    "source": "Modern Gearbox",
+    "target": ""
+  },
+  {
+    "key": "/20B352614C77AC8AC273DCB0A7993EFE",
+    "source": "Modern Jetpack",
+    "target": ""
+  },
+  {
+    "key": "/A010AD614B8C70C3678AF6B7733CC16C",
+    "source": "Modern Metal Smeltery",
+    "target": ""
+  },
+  {
+    "key": "/59930DAB47AD3811CDCFA7A3729CD949",
+    "source": "Modern Pipe",
+    "target": ""
+  },
+  {
+    "key": "/232CD29A4995C0C455558FA3E5A12AD6",
+    "source": "Modern Plant Farmer",
+    "target": ""
+  },
+  {
+    "key": "/84D69E694BA25997E721E492988168EC",
+    "source": "Modern Press",
+    "target": ""
+  },
+  {
+    "key": "/433089CA4A417CBB23D4CDA58AF4948A",
+    "source": "Modern Rock Crusher",
+    "target": ""
+  },
+  {
+    "key": "/D701E211458E37CE6E97BEA27E120603",
+    "source": "Modern Toolbelt",
+    "target": ""
+  },
+  {
+    "key": "/D82D29FB42FA691BD75DCEAFEC14748F",
+    "source": "Modern Wood Cutter",
+    "target": ""
+  },
+  {
+    "key": "/53A90B214BD76091B90BA38C95DF3CD2",
+    "source": "Momentum",
+    "target": ""
+  },
+  {
+    "key": "/61DEEFE04399F6526602548BE40632EE",
+    "source": "Moon Flower",
+    "target": ""
+  },
+  {
+    "key": "/955B9D3F458A38CFD409D2A1D7CFF28F",
+    "source": "More",
+    "target": ""
+  },
+  {
+    "key": "/61BD1F4B4FF33CFA35D3918A7826AAF0",
+    "source": "Mountain Unlocks:",
+    "target": ""
+  },
+  {
+    "key": "/A86B281746740404EAF022BB2F535723",
+    "source": "Mouse Sensitivity",
+    "target": ""
+  },
+  {
+    "key": "/015BAC9A4563D5C3931050A4FCBB6DCC",
+    "source": "Move Backward",
+    "target": ""
+  },
+  {
+    "key": "/E7E2B2244A5D96CE65C6DD8C1F1591E6",
+    "source": "Move Forward",
+    "target": ""
+  },
+  {
+    "key": "/C608648844C8A02AE90F05B36A4CEAD3",
+    "source": "Move Left",
+    "target": ""
+  },
+  {
+    "key": "/BEEEFB68440C8F54D8B0538EA5DDBDF0",
+    "source": "Move Right",
+    "target": ""
+  },
+  {
+    "key": "/AE7DE6FC4A7323485D6E36B639C25055",
+    "source": "Movement Speed",
+    "target": ""
+  },
+  {
+    "key": "/C2167A8A459E81AB2C7AA6994305D67E",
+    "source": "Moving on",
+    "target": ""
+  },
+  {
+    "key": "/C9CF84ED480A560E500EFDA6FE8AC29B",
+    "source": "Multi Shroom",
+    "target": ""
+  },
+  {
+    "key": "/55987FBC4BB447201C26D0A929A8AC5A",
+    "source": "Mushroom",
+    "target": ""
+  },
+  {
+    "key": "/4628343E419AAFAB4313C3A1308960DF",
+    "source": "Music Volume",
+    "target": ""
+  },
+  {
+    "key": "/FD2428A44A1E121244BDCABC0218C026",
+    "source": "Nature Blessing",
+    "target": ""
+  },
+  {
+    "key": "/A67E4B6D49BBB8E420FB8ABC416DF2B4",
+    "source": "New High Score",
+    "target": ""
+  },
+  {
+    "key": "/314BABBF44BCDB2A277335A56C958852",
+    "source": "New biomes include new resources, new puzzles, and new mini-games!",
+    "target": ""
+  },
+  {
+    "key": "/088869D044A4DD93DAA13791A19D03B2",
+    "source": "New recipes, new reach... thinner seams",
+    "target": ""
+  },
+  {
+    "key": "/151D39AB42811BE9DAE55EBD05D3C4FA",
+    "source": "Nightsky Trinket",
+    "target": ""
+  },
+  {
+    "key": "/F17B584F472D3568344D0B95B33EAA23",
+    "source": "Nightwater",
+    "target": ""
+  },
+  {
+    "key": "/AD074DC444E51C7B7E7B19AAC7F3EAF5",
+    "source": "Nightwater, like the others...",
+    "target": ""
+  },
+  {
+    "key": "/4A72773642EF5F9F9903DEA841D1FC0D",
+    "source": "Nightwater... a decision you made",
+    "target": ""
+  },
+  {
+    "key": "/4E0EE48C4B4EB7888A55C8BF65771A07",
+    "source": "No effect on other plants.",
+    "target": ""
+  },
+  {
+    "key": "/C63AD03145B59F3D4D5F26AF7BEE16E0",
+    "source": "No reason to return...",
+    "target": ""
+  },
+  {
+    "key": "/6D9164A14FD7F729B0253288797A9A41",
+    "source": "Normal Pickaxe",
+    "target": ""
+  },
+  {
+    "key": "/1F04884D493E377EDD7949837B2B124B",
+    "source": "Nothing but a lie, born of fear",
+    "target": ""
+  },
+  {
+    "key": "/5D1764E34406F8409288209E9BF70307",
+    "source": "Nothing is eternal... nothing should be",
+    "target": ""
+  },
+  {
+    "key": "/C1BF96004A25B887399CAA98812C780F",
+    "source": "Nothing left...",
+    "target": ""
+  },
+  {
+    "key": "/ABCD759A411E2EFE9572A594C07C9EB5",
+    "source": "Nothing more",
+    "target": ""
+  },
+  {
+    "key": "/9AEF484641D88F50BF92C8ADC3578778",
+    "source": "Oasis",
+    "target": ""
+  },
+  {
+    "key": "/F04D7D6A4CBDCD2079B36D8D2DD5B671",
+    "source": "Oasis plants grow 25% faster.",
+    "target": ""
+  },
+  {
+    "key": "/A13090D14DE70F96CB795DB0442B7D3C",
+    "source": "One-time unlock. Resources destroyed by your explosions explode in turn, chaining across the field.",
+    "target": ""
+  },
+  {
+    "key": "/E6728AB940903211468EAA8E16942A53",
+    "source": "One-time unlock. When a poisoned resource dies, the poison spreads to nearby resources once.",
+    "target": ""
+  },
+  {
+    "key": "/8E5AAFA840E447A3497B2ABCD42BEAB5",
+    "source": "Ore Multiplier",
+    "target": ""
+  },
+  {
+    "key": "/0045E6A74BCEE5BD4871ADA86FA383EA",
+    "source": "Ore and Mineral Multiplier Rune",
+    "target": ""
+  },
+  {
+    "key": "/A30BC8AD409AB011E20B1BB8FEC2645C",
+    "source": "Other",
+    "target": ""
+  },
+  {
+    "key": "/96E7EB3841DAE184BE57268824A3370D",
+    "source": "Outlines enabled",
+    "target": ""
+  },
+  {
+    "key": "/F1FA6E504CFC59E1F866A9BD68C32161",
+    "source": "Overall Volume",
+    "target": ""
+  },
+  {
+    "key": "/0577381E45B51CC594C69C90FD92E56F",
+    "source": "Overflow",
+    "target": ""
+  },
+  {
+    "key": "/2C7491154405C9006E4FC88D98E9F1D3",
+    "source": "Overtime",
+    "target": ""
+  },
+  {
+    "key": "/95BF766047BEA611AF3F89A6C36EF88C",
+    "source": "PIPE TOO LONG",
+    "target": ""
+  },
+  {
+    "key": "/2F0A04EC483D137D7D3CF0ACBB5EE46D",
+    "source": "Palm Wood",
+    "target": ""
+  },
+  {
+    "key": "/5390E76743732B6935F7598361A1F637",
+    "source": "Paper",
+    "target": ""
+  },
+  {
+    "key": "/ED5846AC458FB596015DAA98E8D28F31",
+    "source": "Pause",
+    "target": ""
+  },
+  {
+    "key": "/07A5721D4FB70B5F2211D7A124469A5A",
+    "source": "Paused",
+    "target": ""
+  },
+  {
+    "key": "/0B10F3FB4DB3BC33192EDEBF47FAF6FE",
+    "source": "Pay",
+    "target": ""
+  },
+  {
+    "key": "/A88A9F7E43BEE69609AE81B3ABE3CEAB",
+    "source": "Pay {GoldAmount} gold to clear the debris and unlock this area.",
+    "target": ""
+  },
+  {
+    "key": "/B050756B4A4FA7B7104403AA38570638",
+    "source": "Payday",
+    "target": ""
+  },
+  {
+    "key": "/1A9881ED4EEE8E136696E89A504D7174",
+    "source": "Payday Credits",
+    "target": ""
+  },
+  {
+    "key": "/B9203FE0431175747B81FEB62502D754",
+    "source": "Permafrost Unit",
+    "target": ""
+  },
+  {
+    "key": "/60BE02ED46A677DEE24FEDAFB5AE98DE",
+    "source": "Permanently activates all blue platforms.",
+    "target": ""
+  },
+  {
+    "key": "/63CAC14C4B953221BABD97874B91DBB6",
+    "source": "Permanently activates all red platforms.",
+    "target": ""
+  },
+  {
+    "key": "/45A912CE49FB33C6F1D5329F5D5F99D8",
+    "source": "Permanently decreases Bit & Hogg Ability cooldown by 10%",
+    "target": ""
+  },
+  {
+    "key": "/49945FD9485F752613384090E7F2EC01",
+    "source": "Permanently decreases the Berserk Ability cooldown by 10%",
+    "target": ""
+  },
+  {
+    "key": "/2043EEFB43F86A648629458931C6477A",
+    "source": "Permanently increases Axe Skill damage per hit by +10",
+    "target": ""
+  },
+  {
+    "key": "/819E63F94D6158538F1340B51F39C1AC",
+    "source": "Permanently increases Axe Skill damage per hit by +50",
+    "target": ""
+  },
+  {
+    "key": "/7F4FD7D1411B88F55DE7A0920872EB0A",
+    "source": "Permanently increases Berserk Skill base duration by +1 second",
+    "target": ""
+  },
+  {
+    "key": "/30BC19364974B831F6BD9381FACDEF30",
+    "source": "Permanently increases Berserk Skill damage boost by +10%",
+    "target": ""
+  },
+  {
+    "key": "/18A580254C57A0C60EF94082700FED07",
+    "source": "Permanently increases Berserk Skill resource gain by +10%",
+    "target": ""
+  },
+  {
+    "key": "/1D1C94E34F84F7E69BDA029AE5BEAA9B",
+    "source": "Permanently increases Berserk Skill speed boost by +10%",
+    "target": ""
+  },
+  {
+    "key": "/430E0AA84B180AB8BFFC9B80FC6E3A43",
+    "source": "Permanently increases Bit & Hogg Skill damage by +100",
+    "target": ""
+  },
+  {
+    "key": "/9E47B10449DE09A91CC3E899EF26E9A6",
+    "source": "Permanently increases Bit & Hogg Skill damage by +50",
+    "target": ""
+  },
+  {
+    "key": "/DBED7D9B4079BCD48676B4B4DA4E162E",
+    "source": "Permanently increases both ore and mineral multipliers by 1",
+    "target": ""
+  },
+  {
+    "key": "/46FFA7E14F78E940353E93B11D02D71F",
+    "source": "Permanently increases max energy by 50",
+    "target": ""
+  },
+  {
+    "key": "/404179D549FC684E2D354592F7ADB85E",
+    "source": "Permanently increases movement speed while sprinting by +15%",
+    "target": ""
+  },
+  {
+    "key": "/E330BBF6485467523DA42D9FE9B02C73",
+    "source": "Permanently increases the Area-of-Effect passive’s base damage by +10%",
+    "target": ""
+  },
+  {
+    "key": "/0C1CEA0D40826D8FFEDDF18C722F7E5A",
+    "source": "Permanently increases the Area-of-Effect passive’s radius by +5 meters",
+    "target": ""
+  },
+  {
+    "key": "/4BBBC6504366D8B8703601ADFE71911D",
+    "source": "Permanently increases the Bit & Hogg Skill radius by +50%",
+    "target": ""
+  },
+  {
+    "key": "/3F6C8D36482A78D9AA5F1F826F996DBE",
+    "source": "Permanently increases the Heart of the Elder drop rate by +100%. Above 100%, the Elder Tree can drop more than one.",
+    "target": ""
+  },
+  {
+    "key": "/31E07BD9413A96FB83FF41A8F3E278D7",
+    "source": "Permanently increases the Poison passive’s base damage by +20 per second",
+    "target": ""
+  },
+  {
+    "key": "/16423D5E4F114512B5C49C831FBED77C",
+    "source": "Permanently increases the Poison passive’s base duration by +1 second",
+    "target": ""
+  },
+  {
+    "key": "/A0ECB61942C72C95418610848132709D",
+    "source": "Permanently increases the Weakness Aura ability’s base radius by +5 meters",
+    "target": ""
+  },
+  {
+    "key": "/A9F167BD4D135641F570E0B1689FFF7B",
+    "source": "Permanently increases the Weakness passive’s strength by +10%, trees will take +10% more damage",
+    "target": ""
+  },
+  {
+    "key": "/4856B859483788733618DD9B341496A7",
+    "source": "Permanently increases the amount of time you have while exploring the Dark Thicket by +5 seconds",
+    "target": ""
+  },
+  {
+    "key": "/6712E83A49373B76388F389EC09BF3F9",
+    "source": "Permanently increases the amount of time you have while exploring the Dark Thicket by +5 seconds",
+    "target": ""
+  },
+  {
+    "key": "/832539514DDE7F8ACCA37C9E022ED61D",
+    "source": "Permanently increases the amount of time you have while exploring the Dark Thicket by +5 seconds",
+    "target": ""
+  },
+  {
+    "key": "/2E05E309449CCAE491B8F79E92B67E2B",
+    "source": "Permanently increases the base speed of any plant farming building by +10%",
+    "target": ""
+  },
+  {
+    "key": "/864CCF01416252C1130FF495DF272EB4",
+    "source": "Permanently increases the base speed of any rock crusher building by +10%",
+    "target": ""
+  },
+  {
+    "key": "/3066C0904F9827E601C3BDA0565EC603",
+    "source": "Permanently increases the base speed of any wood cutter building by +10%",
+    "target": ""
+  },
+  {
+    "key": "/0EBD647E4C8069E527259AB2B9886E07",
+    "source": "Permanently increases the total amount of any resources you can receive in the Dark Thicket by +25%",
+    "target": ""
+  },
+  {
+    "key": "/552C6C1D42E004E404377DBE5B6C27DB",
+    "source": "Permanently increases the working speed of all pipes by +10%.",
+    "target": ""
+  },
+  {
+    "key": "/A1673C4A4FCB5220D31D1A9F9A9B80A0",
+    "source": "Permanently increases your dig radius by +0.3 meters.",
+    "target": ""
+  },
+  {
+    "key": "/1B0771B04278CF0E0BC998B08049C6C3",
+    "source": "Permanently increases your maximum dig radius by +0.2 meters.",
+    "target": ""
+  },
+  {
+    "key": "/035307EA37430E49D65D5709632DA0D0",
+    "source": "Permanently reduces the time between axe swings by 10%",
+    "target": ""
+  },
+  {
+    "key": "/5B8787054672FCC06D10CE878E94700F",
+    "source": "Pickaxe",
+    "target": ""
+  },
+  {
+    "key": "/2A97C9AC41EF645C59339B933E78D590",
+    "source": "Pickaxe Puzzle",
+    "target": ""
+  },
+  {
+    "key": "/68EFCFE54A8EE7D21DB56EB4F96E9860",
+    "source": "Pineapple",
+    "target": ""
+  },
+  {
+    "key": "/EE78BD3E47BBA6986B05C98B9D4786D4",
+    "source": "Pinned",
+    "target": ""
+  },
+  {
+    "key": "/F1F8AA9241B8719A612D7EAC943043B7",
+    "source": "Pipe Extender",
+    "target": ""
+  },
+  {
+    "key": "/EC7FB3FF40BB36DD74492C8859EF429A",
+    "source": "Pipe Infrastructure",
+    "target": ""
+  },
+  {
+    "key": "/56FE88ED4C1988CFA459389AA9560BC0",
+    "source": "Pipe Merger",
+    "target": ""
+  },
+  {
+    "key": "/BFEBB0DD4AFBB22896A4EAA1D1AB97A3",
+    "source": "Pipe Splitter",
+    "target": ""
+  },
+  {
+    "key": "/308059BD4C88765B2117DD9DF2E5FD62",
+    "source": "Pipe length:",
+    "target": ""
+  },
+  {
+    "key": "/9518C43A48C06CEDFBDABE9A8F5EF54E",
+    "source": "Plank",
+    "target": ""
+  },
+  {
+    "key": "/95052132408381D20778FD9E7B700B53",
+    "source": "Plant Farmer Speed",
+    "target": ""
+  },
+  {
+    "key": "/A5B5BF044D948F5A486DD78E2D36D4CB",
+    "source": "Plant Fortune",
+    "target": ""
+  },
+  {
+    "key": "/DA8E2E854C4614457991FB9A6E77F230",
+    "source": "Plant Luck",
+    "target": ""
+  },
+  {
+    "key": "/AA9796A544D4A5BB1A2F46B33E49595E",
+    "source": "Plants Harvested Amount",
+    "target": ""
+  },
+  {
+    "key": "/4FC0DD3946F3E5A3AE0B17880E93FCC1",
+    "source": "Plants Harvested: {PlantAmount}",
+    "target": ""
+  },
+  {
+    "key": "/D64D19BB4EBF849CF74429A21E041CE3",
+    "source": "Plants without buffs are worth 10x more gold.",
+    "target": ""
+  },
+  {
+    "key": "/9DC0EE4F4987AAA73D5288AAF1C389E0",
+    "source": "Poison",
+    "target": ""
+  },
+  {
+    "key": "/F87D3A6941B7DF54C6943CAF81EFD49B",
+    "source": "Poison Ability",
+    "target": ""
+  },
+  {
+    "key": "/751B5DEF4AAC55A88286FC8152740B5B",
+    "source": "Poison Damage: {PoisonDamageAmount}",
+    "target": ""
+  },
+  {
+    "key": "/0F5A330C41A4A48ABB1EF4843A5F2586",
+    "source": "Poison Duration: {PoisonDuration}",
+    "target": ""
+  },
+  {
+    "key": "/258B21C44F42E0D67FE77892A777A258",
+    "source": "Poison Transfer",
+    "target": ""
+  },
+  {
+    "key": "/8C0A6E364A5BD82E9CED2988A245B104",
+    "source": "Post-Process Quality",
+    "target": ""
+  },
+  {
+    "key": "/D592D6824E66A96B3E3946A504EE8307",
+    "source": "Press any key to continue",
+    "target": ""
+  },
+  {
+    "key": "/9735D3DD4DBB6FFC88FA238A628A23EA",
+    "source": "Press {CancelKey} to exit | {BuildKey} to change Building | {RotateKey} to rotate | {ShiftKey} to build multiple",
+    "target": ""
+  },
+  {
+    "key": "/A466287C48C17AFB0DC3BFAB2FECCF41",
+    "source": "Press {DeconstructButton} to exit",
+    "target": ""
+  },
+  {
+    "key": "/CEA4BD714401B3A5D6E7CC934D20905D",
+    "source": "Press {InteractKey} to interact",
+    "target": ""
+  },
+  {
+    "key": "/07359DC34D50EEB636620EBA6A551CFB",
+    "source": "Press {PinnedKey} to remove pinned items",
+    "target": ""
+  },
+  {
+    "key": "/88B493D3416FFB929FCBFA968E4E9B51",
+    "source": "Presses raw resources into denser, processed outputs. An advanced machine for automation at high speeds.",
+    "target": ""
+  },
+  {
+    "key": "/44BF2F5B4E21B8156CFAC18D7E76A21C",
+    "source": "Primary Only Upgrade",
+    "target": ""
+  },
+  {
+    "key": "/078EEDD14BA328B4D73AEA8964F39881",
+    "source": "Primitive Assembler",
+    "target": ""
+  },
+  {
+    "key": "/569F66F349E0F1E52643BE83A4B8CFC6",
+    "source": "Primitive Chest",
+    "target": ""
+  },
+  {
+    "key": "/0FCEE3C8435651D8812E2E9FB64426A6",
+    "source": "Primitive Collector",
+    "target": ""
+  },
+  {
+    "key": "/005AD4714774E3146CE8EEA315D30680",
+    "source": "Primitive Gearbox",
+    "target": ""
+  },
+  {
+    "key": "/BFB867094C4D1EC3E02186999D5C229D",
+    "source": "Primitive Pipe",
+    "target": ""
+  },
+  {
+    "key": "/53CE8CDB4026B049204B0FB3624CB0FB",
+    "source": "Primitive Plant Farmer",
+    "target": ""
+  },
+  {
+    "key": "/5B5F204544175C4127BDC18BA19E408C",
+    "source": "Primitive Press",
+    "target": ""
+  },
+  {
+    "key": "/256F72964ACC724BC83B82AC90AEC4C1",
+    "source": "Primitive Rock Crusher",
+    "target": ""
+  },
+  {
+    "key": "/D3E9C77649A2B205E20112AE674E65E5",
+    "source": "Primitive Wood Cutter",
+    "target": ""
+  },
+  {
+    "key": "/96EEC5014433F3773026319FF4C920CF",
+    "source": "Prism Roots",
+    "target": ""
+  },
+  {
+    "key": "/65DF55D741357CC1CE5BE58A0B3DCD6B",
+    "source": "Processed items do not count towards Milestone Progression but are essential for advanced crafting and construction.",
+    "target": ""
+  },
+  {
+    "key": "/7A91D4EF46A22B40F0F86096A35914CE",
+    "source": "Progress saved",
+    "target": ""
+  },
+  {
+    "key": "/95A5670446B7946B91D936B3121F438C",
+    "source": "Progress through the Wood Dust Milestone to unlock powerful buffs and unique Buildings that can be used outside the Minigame!",
+    "target": ""
+  },
+  {
+    "key": "/8A175821402A6788E67C8B8471F5FEF8",
+    "source": "Prospector",
+    "target": ""
+  },
+  {
+    "key": "/C47FA9C04C53D1EA4835B8932DA09F21",
+    "source": "Prove the worth of your work. Pay the toll to unlock the Key of Automation.\r\nTwo keys are required to enter the Lighthouse.\r\nTwo keys are required to leave Nightwater.",
+    "target": ""
+  },
+  {
+    "key": "/99A8AAF04720668F7AB3B3BCFCD16353",
+    "source": "Published by:",
+    "target": ""
+  },
+  {
+    "key": "/E19509A34E738288DDBB32B3D45D0F66",
+    "source": "Pure Harvest",
+    "target": ""
+  },
+  {
+    "key": "/17711059440523B45A38D488083F714C",
+    "source": "Quartz Dust",
+    "target": ""
+  },
+  {
+    "key": "/E9985F0448F222E9599A21AE4262BC5E",
+    "source": "Quartz Ore",
+    "target": ""
+  },
+  {
+    "key": "/DB279C6246CB1CA37843C4B84200126A",
+    "source": "Quick Hands",
+    "target": ""
+  },
+  {
+    "key": "/27E15F9E496AF6BCD9E2CD98BA532BAC",
+    "source": "Quota",
+    "target": ""
+  },
+  {
+    "key": "/475A5644450C4978F82F809044292D6B",
+    "source": "Quota:",
+    "target": ""
+  },
+  {
+    "key": "/E5A52D694CDA435B2742B88B7CE48988",
+    "source": "Radius: ",
+    "target": ""
+  },
+  {
+    "key": "/DB335954485500761044AD93A6BC36F8",
+    "source": "Rage",
+    "target": ""
+  },
+  {
+    "key": "/CA74E34649CE6C3DB921B59D18D906FA",
+    "source": "Raises the maximum number of resources that spawn by 20%.",
+    "target": ""
+  },
+  {
+    "key": "/DC341A1C4A26E57644176595D200FF18",
+    "source": "Range",
+    "target": ""
+  },
+  {
+    "key": "/EC5ECF4EE2E17E75CA8299E2E2E17E75",
+    "source": "Ranged Burst",
+    "target": ""
+  },
+  {
+    "key": "/101E5DAB4D8D8177545914BBB6569E64",
+    "source": "Raw Crystal",
+    "target": ""
+  },
+  {
+    "key": "/3AC482D849414EE41E041884026F661B",
+    "source": "Reach Clay Milestone 3 to be able to unlock this Ability",
+    "target": ""
+  },
+  {
+    "key": "/B3C2EEC04C5B65D1E3C28E91B02A134B",
+    "source": "Reach Wheat Milestone 4 to be able to unlock this Ability",
+    "target": ""
+  },
+  {
+    "key": "/97A8D96F4C5F9C8102B808A21303E831",
+    "source": "Reach the end of the track",
+    "target": ""
+  },
+  {
+    "key": "/8B888F804815BB9890BEB39AC2E5D471",
+    "source": "Reach the lighthouse so we can part ways again",
+    "target": ""
+  },
+  {
+    "key": "/11D7669849F286659B6DF4A6994D87A9",
+    "source": "Reach the lighthouse to find closure",
+    "target": ""
+  },
+  {
+    "key": "/7002FA614406FB2E7F9C3C8D3E622308",
+    "source": "Reach the lighthouse to have your questions answered",
+    "target": ""
+  },
+  {
+    "key": "/ABC23B234CC194128A2F288056E30123",
+    "source": "Really Destroy",
+    "target": ""
+  },
+  {
+    "key": "/4D1414144B15EDCCE51336BB9910AF01",
+    "source": "Really quit?",
+    "target": ""
+  },
+  {
+    "key": "/D5C642364EBAB4D0F1B6F7969FECC175",
+    "source": "Red Platforms",
+    "target": ""
+  },
+  {
+    "key": "/51E740854B7081832F87458F5B1200E9",
+    "source": "Reduces the base grow time of all plants by 20%.",
+    "target": ""
+  },
+  {
+    "key": "/A29A92344F07752F005EDAB6CFA9171E",
+    "source": "Reduces your attack cooldown by 8%, so you strike faster.",
+    "target": ""
+  },
+  {
+    "key": "/16D748D640925644260CB1B60579263A",
+    "source": "Refined Crystal",
+    "target": ""
+  },
+  {
+    "key": "/14BF92654AFE221A24B6C6B8DB0A87DB",
+    "source": "Refined Quartz",
+    "target": ""
+  },
+  {
+    "key": "/4CB1D1B64B75E8D24D3DDD9B909DBC33",
+    "source": "Refines raw resources into denser, processed outputs. A basic machine for early-stage automation.",
+    "target": ""
+  },
+  {
+    "key": "/29A1DF804CC65C3F80FAE8BBD3F051EF",
+    "source": "Regrowth",
+    "target": ""
+  },
+  {
+    "key": "/F15057A845460F650C50ACACAA5651E9",
+    "source": "Reinforced Assembler",
+    "target": ""
+  },
+  {
+    "key": "/72AB59E746289CAAAE0E7490EBA2EF11",
+    "source": "Reinforced Chest",
+    "target": ""
+  },
+  {
+    "key": "/8B2EC0EA4DE6192AC2D86793298B8666",
+    "source": "Reinforced Furnace",
+    "target": ""
+  },
+  {
+    "key": "/18B9D09C4E8CB3300CE7FAA7A3B231A6",
+    "source": "Reinforced Gearbox",
+    "target": ""
+  },
+  {
+    "key": "/191B77AA4B26D4FDE9B430918047E9AF",
+    "source": "Reinforced Pipe",
+    "target": ""
+  },
+  {
+    "key": "/7A16A00F41B2DB9F89606E8BED3C9AD1",
+    "source": "Reinforced Plant Farmer",
+    "target": ""
+  },
+  {
+    "key": "/8C6DE67A4E2776A3FEA10494577CE4A4",
+    "source": "Reinforced Rock Crusher",
+    "target": ""
+  },
+  {
+    "key": "/8C6247F14DC8912535D5AB8D502CCAF7",
+    "source": "Reinforced Wood Cutter",
+    "target": ""
+  },
+  {
+    "key": "/215E969E401A37D2C26CBEB45E558191",
+    "source": "Remove Debris",
+    "target": ""
+  },
+  {
+    "key": "/BEE3CC3E47CA96692FF0B892C2640856",
+    "source": "Repeatable Upgrades",
+    "target": ""
+  },
+  {
+    "key": "/268BEB554A33E42428B5F9A34283EE9E",
+    "source": "Reroll {CreditAmount} Credits",
+    "target": ""
+  },
+  {
+    "key": "/6A12C557485CD073B7830FAF458ABDEE",
+    "source": "Research Table",
+    "target": ""
+  },
+  {
+    "key": "/8F71778B43C2E7F706E9A79A7211CB5A",
+    "source": "Resin is dropped from white trees that grow in the East near the waterfall.",
+    "target": ""
+  },
+  {
+    "key": "/C21C737A4A203925BB376B8108304CA2",
+    "source": "Resolution",
+    "target": ""
+  },
+  {
+    "key": "/AC912103448A23FB8DEA868EB08043DF",
+    "source": "Resource Output",
+    "target": ""
+  },
+  {
+    "key": "/3CB2494D442F38000B8D68ADB6E4645B",
+    "source": "Resource gain: {ResourceGain}",
+    "target": ""
+  },
+  {
+    "key": "/15CB63E64044432B7DDC9C9CDB3F1447",
+    "source": "Resources",
+    "target": ""
+  },
+  {
+    "key": "/9FAECDCB4F3A2FBF717F6FBC5EE4E076",
+    "source": "Resources being farmed",
+    "target": ""
+  },
+  {
+    "key": "/B014417B41B1159A09660C98E037BD05",
+    "source": "Resources shatter instantly once their health drops below 10%.",
+    "target": ""
+  },
+  {
+    "key": "/B596BE374ECF5CD61FB75BBAFAFFE521",
+    "source": "Resources spawn with 15% less health.",
+    "target": ""
+  },
+  {
+    "key": "/6E17DFB3436901A62719749523DC421A",
+    "source": "Resources take 25% more damage after the first hit and have a 10% chance to drop double fuel and credits.",
+    "target": ""
+  },
+  {
+    "key": "/C74F58ED4D19E8014B9DFDB9F0867C4F",
+    "source": "Resources you destroy explode, dealing 25% of the destroyed resource's health as damage to everything within 6 meters.",
+    "target": ""
+  },
+  {
+    "key": "/466C06ED4654085B482CCE9950840C5D",
+    "source": "Rest now...",
+    "target": ""
+  },
+  {
+    "key": "/3E3353E04B885FA8214E1E996A5D4636",
+    "source": "Return",
+    "target": ""
+  },
+  {
+    "key": "/8F240FF94B3D87AF7C66719D1FC723EB",
+    "source": "Rich Veins",
+    "target": ""
+  },
+  {
+    "key": "/7D8A6EE44138CA0B7EEC99A4E289597E",
+    "source": "Ricochet",
+    "target": ""
+  },
+  {
+    "key": "/8CA841A14AB09BAFE49C63BA69785ABF",
+    "source": "Rock Crusher Speed",
+    "target": ""
+  },
+  {
+    "key": "/61FE94264B588FD41D436DADEB41FCA8",
+    "source": "Rocky Ground",
+    "target": ""
+  },
+  {
+    "key": "/9A685AFF493C581A989C7E915CC36E8F",
+    "source": "Rotate Building",
+    "target": ""
+  },
+  {
+    "key": "/D93C54C9472BDD2BFB5CCE941E42A343",
+    "source": "Rotate Building with:",
+    "target": ""
+  },
+  {
+    "key": "/4DC164A2488630F534A56AA26C091F2E",
+    "source": "Round Credits",
+    "target": ""
+  },
+  {
+    "key": "/FE6F5972401784687893FF86514EF3E9",
+    "source": "Round {RoundNumber}",
+    "target": ""
+  },
+  {
+    "key": "/5C0BACA44F82F093E1E8FEB531FE643D",
+    "source": "Rules you wrote... boundaries you drew",
+    "target": ""
+  },
+  {
+    "key": "/EE00E2CE4971B088A2D5E69F85F55F1E",
+    "source": "Run Duration",
+    "target": ""
+  },
+  {
+    "key": "/8A638BCC400854636111F4B8E7000CF2",
+    "source": "Run Finished",
+    "target": ""
+  },
+  {
+    "key": "/24E306DF4747EC85CF7F319B1ACE01BD",
+    "source": "Rune",
+    "target": ""
+  },
+  {
+    "key": "/5DE3F43C4A9EF0EAB2CFC1B21B36560C",
+    "source": "START",
+    "target": ""
+  },
+  {
+    "key": "/632ECD5D4669890B9CA25A8F646388D3",
+    "source": "Sand",
+    "target": ""
+  },
+  {
+    "key": "/FDB2DF6543243B3F28E2718237AA760C",
+    "source": "Sandstone Statue",
+    "target": ""
+  },
+  {
+    "key": "/10DB189C4ABA7A3C1196DFBDE5F3EFAA",
+    "source": "Satisfaction",
+    "target": ""
+  },
+  {
+    "key": "/089270D84D321878249386BCC2D850DB",
+    "source": "Save",
+    "target": ""
+  },
+  {
+    "key": "/BBDBEC7E46477EED8B3C5B9109B48260",
+    "source": "Save Slot 1",
+    "target": ""
+  },
+  {
+    "key": "/D8E69E4F4E8006A477C8E78669DC507F",
+    "source": "Save Slot 2",
+    "target": ""
+  },
+  {
+    "key": "/EFF2EAF3416645CEEE0BF0A3C79C8922",
+    "source": "Save Slot 3",
+    "target": ""
+  },
+  {
+    "key": "/7DCF9BC04A41F1156A3567978B7C07FC",
+    "source": "See how the isle stretches when we demand more?",
+    "target": ""
+  },
+  {
+    "key": "/262CA1DC4FD7C500DF2A0B92BAE053EF",
+    "source": "Select Alternative Recipe",
+    "target": ""
+  },
+  {
+    "key": "/404AD9B34AF218A3473907A513ADE2EF",
+    "source": "Select Boon",
+    "target": ""
+  },
+  {
+    "key": "/4DFC51F04C6156294AA7E9AC612BAF79",
+    "source": "Select Buff",
+    "target": ""
+  },
+  {
+    "key": "/A76F25AE4822E0FDA17412A7F15388EA",
+    "source": "Select Building",
+    "target": ""
+  },
+  {
+    "key": "/3AB16B4B4B47FDD216C49AA2978E70E9",
+    "source": "Select Craft",
+    "target": ""
+  },
+  {
+    "key": "/4364E9A943AE9251E841088009AE41DE",
+    "source": "Select Equipment",
+    "target": ""
+  },
+  {
+    "key": "/9D0F5CA4469C15066B024EBFC71916F8",
+    "source": "Select Item to produce",
+    "target": ""
+  },
+  {
+    "key": "/79DB40524668C7BDABD0AF9964113CB6",
+    "source": "Select Land",
+    "target": ""
+  },
+  {
+    "key": "/702828244D1734D9B283B6AFB7FA0554",
+    "source": "Select Memory",
+    "target": ""
+  },
+  {
+    "key": "/F4233B3B41CC149345CB95B26246E944",
+    "source": "Select Pickaxe",
+    "target": ""
+  },
+  {
+    "key": "/186E967246618AD3C7A9ECBB50AE6BF4",
+    "source": "Select Plant",
+    "target": ""
+  },
+  {
+    "key": "/B8B8FBDD498791682E85DE98A8687146",
+    "source": "Select Recipe",
+    "target": ""
+  },
+  {
+    "key": "/CC624D5B40CF973309C319A889448EC3",
+    "source": "Select Rune",
+    "target": ""
+  },
+  {
+    "key": "/E137D0CF4AEBA79B7CA9EF9077E4F749",
+    "source": "Select Skill",
+    "target": ""
+  },
+  {
+    "key": "/E0B5D4034F03901C0A177AA509B5AEB1",
+    "source": "Select Teleporter",
+    "target": ""
+  },
+  {
+    "key": "/EFB324EA46084AA662ECEF9D06C1D03F",
+    "source": "Select Type to boost",
+    "target": ""
+  },
+  {
+    "key": "/6372182B478DA182C899709F5E3D2671",
+    "source": "Selected Building Type: {CurrentlySelectedFarmer}",
+    "target": ""
+  },
+  {
+    "key": "/7ADD61764CBA73D0A0BC989E16D30A9A",
+    "source": "Shadow Quality",
+    "target": ""
+  },
+  {
+    "key": "/B7BE5EDD408980559DFD19896A1262DF",
+    "source": "Sharpened Tools",
+    "target": ""
+  },
+  {
+    "key": "/2040CDDE40605FD55E69C69683BC3071",
+    "source": "Shortens each round by 3 seconds but grants 40% movement speed.",
+    "target": ""
+  },
+  {
+    "key": "/F5A6EE6F475FCADBA9F184B16808C696",
+    "source": "Shots per Attack",
+    "target": ""
+  },
+  {
+    "key": "/300EC824416C0219323D0AAD03AAFA09",
+    "source": "Signal Tower",
+    "target": ""
+  },
+  {
+    "key": "/54AA2ABE429BA510D5C70E8B5E70A2F1",
+    "source": "Simple Circuit Board",
+    "target": ""
+  },
+  {
+    "key": "/D784AB5444F962993D3050A9729E6E73",
+    "source": "Simple Computing Unit",
+    "target": ""
+  },
+  {
+    "key": "/E1A8B85546BC06E79991B59C148FD226",
+    "source": "Simple Drill",
+    "target": ""
+  },
+  {
+    "key": "/DCA18F3A447CCED1FA8A97B063F5870D",
+    "source": "Skip Tutorial",
+    "target": ""
+  },
+  {
+    "key": "/DB37DACF43F69DB2E340C8811AE120CB",
+    "source": "Small Flower",
+    "target": ""
+  },
+  {
+    "key": "/70A017434006AF0E18612A8F76AF2C58",
+    "source": "Small Table",
+    "target": ""
+  },
+  {
+    "key": "/67F37F68400A928F2053C99F99E438BF",
+    "source": "Small decorations",
+    "target": ""
+  },
+  {
+    "key": "/9CC9983240118F8BEBFFCC8222EA5F9D",
+    "source": "Snowy Hills Unlocks:",
+    "target": ""
+  },
+  {
+    "key": "/3380412A4156F7AB919540AD670D74EA",
+    "source": "So you kept adding shores until the sea went quiet",
+    "target": ""
+  },
+  {
+    "key": "/96E9C50249BD210C0D190EB0AACCE851",
+    "source": "Solar Cell",
+    "target": ""
+  },
+  {
+    "key": "/233FFC704E1230F0F87D6DBF0E57EF92",
+    "source": "Solar Panel",
+    "target": ""
+  },
+  {
+    "key": "/018E067C464CD52A83F759964633140B",
+    "source": "Some coastlines are patched from fatigue, not from purpose",
+    "target": ""
+  },
+  {
+    "key": "/A3133D954347C7E4A1302AAC800FE42F",
+    "source": "Sound",
+    "target": ""
+  },
+  {
+    "key": "/03917951435AC3E6543A37BA4BC0D592",
+    "source": "Sound Effects Volume",
+    "target": ""
+  },
+  {
+    "key": "/476CC6A64B23AF47F80E32A285F0FA0D",
+    "source": "Speed Upgrade Tier 1",
+    "target": ""
+  },
+  {
+    "key": "/FC6610524983999D11ACBB90DE6EC0D3",
+    "source": "Speed Upgrade Tier 2",
+    "target": ""
+  },
+  {
+    "key": "/A2D7E53540B715A7C704EB8ABE8C0660",
+    "source": "Speed Upgrade Tier 3",
+    "target": ""
+  },
+  {
+    "key": "/13F480DF400EE234E2E54485F21C84A7",
+    "source": "Speed gain: {SpeedGain}",
+    "target": ""
+  },
+  {
+    "key": "/040F8E494705782BBE25F591B1B9C8B5",
+    "source": "Speedrun on tracks to earn Data. Finished tracks also generate Data on their own, based on your best time. The faster you run, the more Data you make.",
+    "target": ""
+  },
+  {
+    "key": "/1192785D4DD7FE407C4EEDA78769241C",
+    "source": "Spend your Data to unlock new upgrades and movement techniques, expand your tracks, and boost their Data output.",
+    "target": ""
+  },
+  {
+    "key": "/39CE385D4F14B723B83698B104870051",
+    "source": "Sprint",
+    "target": ""
+  },
+  {
+    "key": "/0778A0AF45F0F4A699400092E4286D06",
+    "source": "Star Trinket",
+    "target": ""
+  },
+  {
+    "key": "/6DCE9BFD4D8E74171A613DA7157D6DB7",
+    "source": "Starlight Fields Unlocks:",
+    "target": ""
+  },
+  {
+    "key": "/1D4F680848746245451022B4C944F836",
+    "source": "Stars, Lives, Memories, Time...",
+    "target": ""
+  },
+  {
+    "key": "/4BABE66D46DB75784910C6AAA1FED7E1",
+    "source": "Start Run",
+    "target": ""
+  },
+  {
+    "key": "/14254D364304AFEAA75C3B81923F8E4D",
+    "source": "Start the Mine minigame with 25% more energy.",
+    "target": ""
+  },
+  {
+    "key": "/782342D74C9BB89DA53F99A1F61DF95D",
+    "source": "Steady Aim",
+    "target": ""
+  },
+  {
+    "key": "/3A11D2684264AEDA81E1758EA8964FC5",
+    "source": "Steel Ingot",
+    "target": ""
+  },
+  {
+    "key": "/15B02E764B21E53321483C8426FA268A",
+    "source": "Steel Pickaxe",
+    "target": ""
+  },
+  {
+    "key": "/D2F847DB4B640F3CF23E05AAEFFA5DBA",
+    "source": "Stone Brick",
+    "target": ""
+  },
+  {
+    "key": "/7A2470154162D87AFC51FBA799A32F9C",
+    "source": "Stone Gear",
+    "target": ""
+  },
+  {
+    "key": "/CB39CADD4447B7B5377B81B0A76535F9",
+    "source": "Stone Pickaxe",
+    "target": ""
+  },
+  {
+    "key": "/916D32F14C487F43B87F3582F0D6F8BE",
+    "source": "Stopwatch",
+    "target": ""
+  },
+  {
+    "key": "/078EFC92479BEA2E7E89AE9C9AE214EB",
+    "source": "Storage",
+    "target": ""
+  },
+  {
+    "key": "/DC63E4A34E7BF8E6F9A5CF8ECD8B3FFE",
+    "source": "Stuck",
+    "target": ""
+  },
+  {
+    "key": "/332E430B4645A9451BFC1E80046C68C8",
+    "source": "Sturdy Plank",
+    "target": ""
+  },
+  {
+    "key": "/71816A0F47D47E36DA218681BA5DD87B",
+    "source": "Success",
+    "target": ""
+  },
+  {
+    "key": "/DFA02B3240540FD241A9EEBA8F012289",
+    "source": "Sugar Cane",
+    "target": ""
+  },
+  {
+    "key": "/7B82E7D24ACBD2EC35B4D3AFBC83F2A6",
+    "source": "Sulfur Rose",
+    "target": ""
+  },
+  {
+    "key": "/83D82BE941D33CB7ADE1EA83754D46E8",
+    "source": "Summary",
+    "target": ""
+  },
+  {
+    "key": "/89457D75431954A9C8F70580B0CD53DC",
+    "source": "Support Bloom",
+    "target": ""
+  },
+  {
+    "key": "/0434892B470CB7AC527AC692694B26A5",
+    "source": "TOO WEAK!",
+    "target": ""
+  },
+  {
+    "key": "/AF67E6494D503BE92FB27698036A7AC6",
+    "source": "Take Gold",
+    "target": ""
+  },
+  {
+    "key": "/DF98ACB2499799EAD91A66BE44EB3961",
+    "source": "Teleport",
+    "target": ""
+  },
+  {
+    "key": "/E38C1962414FEB449A5A499F2E01FAE9",
+    "source": "Teleport Pad",
+    "target": ""
+  },
+  {
+    "key": "/422BF2AF43E340A62E802F93A28E10CA",
+    "source": "Temp",
+    "target": ""
+  },
+  {
+    "key": "/F30B470D4C1D8C20213577B3F32E8FC9",
+    "source": "Tent",
+    "target": ""
+  },
+  {
+    "key": "/0037DA654611B8EA487E29AC86647D54",
+    "source": "Texture Quality",
+    "target": ""
+  },
+  {
+    "key": "/4767EAA142701AEA3F5A4A88A818D6CB",
+    "source": "Thanks for playing",
+    "target": ""
+  },
+  {
+    "key": "/70A6C80A4134FA270343CFBAE7D3C422",
+    "source": "The Automated Fertilizer ensures only plant-type resources spawn within its radius.",
+    "target": ""
+  },
+  {
+    "key": "/386CD7764A3ECEFDED1FBE862BD7B789",
+    "source": "The Memory Shrine can unlock permanent buffs by feeding it items through pipes. All Memory Shrines follow the same progression.",
+    "target": ""
+  },
+  {
+    "key": "/10287A374085A395778A29915AA2BD9B",
+    "source": "The Mine",
+    "target": ""
+  },
+  {
+    "key": "/93127417492EA112D55BE1A4C285462A",
+    "source": "The Mine minigame tools are 20% stronger.",
+    "target": ""
+  },
+  {
+    "key": "/603A5613447736FD755F658AA73B3035",
+    "source": "The analyzer can be used to research new alternative recipes to simplify complex crafting processes.",
+    "target": ""
+  },
+  {
+    "key": "/9B7B852B474AA4712C76CC9E1E64636F",
+    "source": "The drop rate for Heart of the Elder is increased by 50%.",
+    "target": ""
+  },
+  {
+    "key": "/CA7D25CE49CC3D119065C99D7CBD38CA",
+    "source": "The heart of the largest and strongest tree in the Dark Thicket. The Elder Tree grows in the North and is extremely sturdy. Its heart has a 50% base chance of dropping when it is felled.",
+    "target": ""
+  },
+  {
+    "key": "/34B4503F4B83C6F77C9F308FD6834196",
+    "source": "The longer I stay, the clearer it feels",
+    "target": ""
+  },
+  {
+    "key": "/896A71DF4D1B4E4619AA158EE694FCA5",
+    "source": "The selected building type will receive a global speed boost of 50%.",
+    "target": ""
+  },
+  {
+    "key": "/E60756064146691BB59030B1ACDD47E8",
+    "source": "Thermal Battery",
+    "target": ""
+  },
+  {
+    "key": "/C9DB05A14CB0BD1DBCC9CE9E64242EE5",
+    "source": "Thermal Powder",
+    "target": ""
+  },
+  {
+    "key": "/CE95E5CE49A4529084426DBE02627D9D",
+    "source": "These places...",
+    "target": ""
+  },
+  {
+    "key": "/63F1B8544C37ED1E615E70AC3B5BA2F7",
+    "source": "This fear of yours...",
+    "target": ""
+  },
+  {
+    "key": "/954D8B82457C53BA0579A399F9676028",
+    "source": "This place was built to keep me busy, not whole",
+    "target": ""
+  },
+  {
+    "key": "/867250CD4E9F165D103644807ADFA922",
+    "source": "Tilt Shift while walking",
+    "target": ""
+  },
+  {
+    "key": "/79E892264220B556F70DFBBA3FE342F7",
+    "source": "Time Gain Ability",
+    "target": ""
+  },
+  {
+    "key": "/66BDEBC14281706964498DBBE34C568B",
+    "source": "Time between actions: ",
+    "target": ""
+  },
+  {
+    "key": "/0B9038C047CB9E9B01BBE38483CEEDBF",
+    "source": "Tin Dust",
+    "target": ""
+  },
+  {
+    "key": "/CC7FD79245458C349B289E852B2135CE",
+    "source": "Tin Ingot",
+    "target": ""
+  },
+  {
+    "key": "/E9FEBB2E49944BC1D4068CBB0062F71B",
+    "source": "Tinker Station",
+    "target": ""
+  },
+  {
+    "key": "/93E0F72C424C47F10EEC66AFF0A5FD3F",
+    "source": "To exit press:",
+    "target": ""
+  },
+  {
+    "key": "/47B3EF9A403343F72B7BD29847308AF1",
+    "source": "To interact press:",
+    "target": ""
+  },
+  {
+    "key": "/6E2A06B34409D8857C5FFA8A6412AA07",
+    "source": "To remove pinned items press:",
+    "target": ""
+  },
+  {
+    "key": "/38CDAF7C401C81069F9DADBF8DEEEBDC",
+    "source": "Toggle Sprint",
+    "target": ""
+  },
+  {
+    "key": "/ECA333644DA31AC75A2B6686483E182C",
+    "source": "Tomato",
+    "target": ""
+  },
+  {
+    "key": "/28FBDECF4634D6865A05D080F7820C28",
+    "source": "Toolbelt Research Table",
+    "target": ""
+  },
+  {
+    "key": "/23F426D34B599D7966D50A9004EB4470",
+    "source": "Toolbelt Tinker Station",
+    "target": ""
+  },
+  {
+    "key": "/82935C6C424BBB9C452DA4A572AD4ECA",
+    "source": "Toolbelt Workbench",
+    "target": ""
+  },
+  {
+    "key": "/549B00D04432F53142C4EDA50E0E0FBE",
+    "source": "Torch",
+    "target": ""
+  },
+  {
+    "key": "/FC0936D24A2DCCE52986A588A6082A5B",
+    "source": "Total Credits",
+    "target": ""
+  },
+  {
+    "key": "/4F9438EC4D81BFD971FFFC8B53DEAE07",
+    "source": "Total Gold Earned",
+    "target": ""
+  },
+  {
+    "key": "/068854674579B7023B399DB4DC7A53F8",
+    "source": "Track 1 Idle Data",
+    "target": ""
+  },
+  {
+    "key": "/E43AB7F3421AB083FE0662B1BB3C3E48",
+    "source": "Track 1 Manual Data",
+    "target": ""
+  },
+  {
+    "key": "/F2CC3F444E023B976208918A479D9C75",
+    "source": "Track 2 Idle Data",
+    "target": ""
+  },
+  {
+    "key": "/0AE107EE401809F0B6DFD1BA19EC58C7",
+    "source": "Track 2 Manual Data",
+    "target": ""
+  },
+  {
+    "key": "/71AA518949922A03260E4A8461D04AA7",
+    "source": "Track 3 Idle Data",
+    "target": ""
+  },
+  {
+    "key": "/E8DD46434CE740CCFBA559A5869C4C2B",
+    "source": "Track 3 Manual Data",
+    "target": ""
+  },
+  {
+    "key": "/441A4FDD48248F35C7FDBEAA96F59002",
+    "source": "Track 4 Idle Data",
+    "target": ""
+  },
+  {
+    "key": "/199D393B4CBDCEE262968A8C9C2C6AFB",
+    "source": "Track 4 Manual Data",
+    "target": ""
+  },
+  {
+    "key": "/DA31497844B8E285FE31DCA416FE2197",
+    "source": "Treasure",
+    "target": ""
+  },
+  {
+    "key": "/0B97169848752CB727699EB4E29C344F",
+    "source": "Tree Credits",
+    "target": ""
+  },
+  {
+    "key": "/BD3B627240A914A452CAF688BC78F6A1",
+    "source": "Trees yield 20% more credits.",
+    "target": ""
+  },
+  {
+    "key": "/47E0FDB84EB7658189C4D1BB200591D1",
+    "source": "Trunk Chest",
+    "target": ""
+  },
+  {
+    "key": "/882D1AAD499718D2FAE58785DBC1F4B8",
+    "source": "Trunk Storage",
+    "target": ""
+  },
+  {
+    "key": "/619667274165F6B9A2B67AA0DA868548",
+    "source": "Umbrella",
+    "target": ""
+  },
+  {
+    "key": "/B087A06944461A5562A872B9950D00D0",
+    "source": "Unlocking pipes and chests allows you to build basic automation and increase item storage capacity.",
+    "target": ""
+  },
+  {
+    "key": "/5BE95C1F45EDC5A6ACC220835F1DDBFF",
+    "source": "Unlocks Area-of-Effect passive: Trees struck by the Axe Skill deal 50% base damage to nearby trees and apply on-hit effects",
+    "target": ""
+  },
+  {
+    "key": "/85E3B8BE4C1282CFEED17094809C97EA",
+    "source": "Unlocks Cooldown Reduction On Kill passive: Bit & Hogg Skill active cooldown will decrease by 0.5 seconds for every tree felled by Bit & Hogg Skill",
+    "target": ""
+  },
+  {
+    "key": "/14704DA84CF9158940FE60B5591888F6",
+    "source": "Unlocks Double Poison Damage Ability: Trees with active poison effect will receive double damage while Berserk Skill is active",
+    "target": ""
+  },
+  {
+    "key": "/BAC04DA64A45FDCE03C0D2A54924AEA7",
+    "source": "Unlocks Double Weakness Damage Ability: Trees with active weakness effect will receive double damage while Berserk Skill is active",
+    "target": ""
+  },
+  {
+    "key": "/F53B9DCA46262A143C4EA2B1F8DACCCE",
+    "source": "Unlocks Forest Luck Ability: Player has a 30% chance to receive double items when manually destroying any tree. Doesn't affect trees in the Dark Thicket",
+    "target": ""
+  },
+  {
+    "key": "/DD6BE5074B53B985D201FCAF9224FD02",
+    "source": "Unlocks Plant Fortune Ability: Player has a 15% chance to receive double items when manually destroying any plants. Doesn't affect plants in the Oasis",
+    "target": ""
+  },
+  {
+    "key": "/CF7C43D64E1ADDC16D540DA05A64AE05",
+    "source": "Unlocks Plant Luck Ability: Player has a 30% chance to receive double items when manually destroying any plants. Doesn't affect plants in the Oasis",
+    "target": ""
+  },
+  {
+    "key": "/CD90E9F9422E131EC55DE6B36F16C75E",
+    "source": "Unlocks Poison passive: Axe Skill applies Poison effect, lasting 2 seconds and dealing 10 base damage per second",
+    "target": ""
+  },
+  {
+    "key": "/64C2AB5B4ABD9DB27732D6A9AAFE0BDD",
+    "source": "Unlocks Time Gain Ability: Timer will gain 0.1 seconds for every tree felled by Axe Skill",
+    "target": ""
+  },
+  {
+    "key": "/810A218A4BF661FE941E21A0202D7DC1",
+    "source": "Unlocks Weakness Aura passive: Trees around you will periodically receive the weakness effect",
+    "target": ""
+  },
+  {
+    "key": "/17341C40436D13483BFA63BDF51ADCBF",
+    "source": "Unlocks Weakness passive: Trees struck by Bit & Hogg Skill permanently receive +50% more damage and drop +50% more resources",
+    "target": ""
+  },
+  {
+    "key": "/DBBDEE644624382907E5648C1403CC7C",
+    "source": "Unlocks Wood Fortune Ability: Player has a 15% chance to receive double items when manually destroying any tree. Doesn't affect trees in the Dark Thicket",
+    "target": ""
+  },
+  {
+    "key": "/FAE2C55D4F7E8E057D73728567CE22DB",
+    "source": "Unlocks a variety of big decorations.",
+    "target": ""
+  },
+  {
+    "key": "/42E1D2A04EB40E4BB05A59A176484A2A",
+    "source": "Unlocks a variety of small decorations.",
+    "target": ""
+  },
+  {
+    "key": "/311C62CC47C6B2392B6DB7B424F60921",
+    "source": "Unlocks advanced pipe management tools. Grants access to the Pipe Splitter, Pipe Merger, and Pipe Extender.",
+    "target": ""
+  },
+  {
+    "key": "/C12264EE45BFBC032F930885D510B806",
+    "source": "Unlocks stackable Area-of-Effect Ability range: Permanently grants +1 meter of radius for every 50 trees felled",
+    "target": ""
+  },
+  {
+    "key": "/A06FCA6A41545FDDAE4150A6EF1AE049",
+    "source": "Unlocks stackable Axe Skill damage: Permanently grants +10 Axe Skill base damage for every 50 trees felled",
+    "target": ""
+  },
+  {
+    "key": "/1F4688EF4F1DADCA0DDF25BF75219414",
+    "source": "Unlocks stackable Berserk Skill duration: Permanently increases Berserk Skill duration by +0.5 seconds for every 50 trees felled",
+    "target": ""
+  },
+  {
+    "key": "/F121CE384C77DF228F821A9B30409DAA",
+    "source": "Unlocks stackable Berserk Skill resource gain: Permanently increases Berserk Skill resource gain by +2% for every 50 trees felled",
+    "target": ""
+  },
+  {
+    "key": "/B5D9800444945DCDA2EB0EB5B5DEA5F9",
+    "source": "Unlocks stackable Bit & Hogg Skill damage: Permanently grants +25 Bit & Hogg Skill base damage for every 50 trees felled",
+    "target": ""
+  },
+  {
+    "key": "/0BA42835486FBB9DBD9C67B42E9963CD",
+    "source": "Unlocks the Dash ability. Dash by pressing \"{DashKey}\".",
+    "target": ""
+  },
+  {
+    "key": "/74EDD26346EF19E748DFC1A52ADC41F3",
+    "source": "Unlocks the Double Jump ability.",
+    "target": ""
+  },
+  {
+    "key": "/CA6B7A0A4208A29D5C9BB5AF89972B77",
+    "source": "Unlocks the Dynamite ability, allowing you to throw a stick of dynamite that destroys stone in a large radius",
+    "target": ""
+  },
+  {
+    "key": "/915B44374F7CBBE3E8BF82BD4646256D",
+    "source": "Unlocks the Wallrun ability.",
+    "target": ""
+  },
+  {
+    "key": "/D793D4B24F37934B07D2E8A78A105CBC",
+    "source": "Unlocks the X-Ray ability, allowing you to see objects through nearby walls for 10 seconds",
+    "target": ""
+  },
+  {
+    "key": "/50D51F9D46F93E5563F487A8BD70EF79",
+    "source": "Unstuck",
+    "target": ""
+  },
+  {
+    "key": "/3329D1344CFA32DA9F45C998884D8F49",
+    "source": "Upgrades",
+    "target": ""
+  },
+  {
+    "key": "/E73FC2CD4021FA9C324D57BAA41D0B42",
+    "source": "Upgrades your watering can, making it reduce more grow time.",
+    "target": ""
+  },
+  {
+    "key": "/8CC6C8634C88FA846FE58F8ACB557D1A",
+    "source": "Use Watering Can then harvest",
+    "target": ""
+  },
+  {
+    "key": "/82C5DA3F4DCAD888B37EF2921725BD23",
+    "source": "Use minigame-specific resources in the shop to buy new equipment, buffs, and buildings. Find and equip runes to grow stronger. The rarer the rune, the more powerful its effect.",
+    "target": ""
+  },
+  {
+    "key": "/964DAA2B40A4F557E1343385F48378D5",
+    "source": "Use the Workbench to craft items. Press [B] for the Building Menu or [V] to deconstruct buildings.",
+    "target": ""
+  },
+  {
+    "key": "/4DDFFAF344913F291A2B78856974817C",
+    "source": "Use the gathered resources to upgrade your skills and become better at cutting down trees, until you become strong enough to cut down the Elder Tree in the North!",
+    "target": ""
+  },
+  {
+    "key": "/51A6F3734A2A87029C981F9B4ACEFD9D",
+    "source": "Use your Gold and Plants Harvested progress to unlock new plants, stronger buffs, and helpful upgrades. Support plants can boost nearby crops and make your oasis much more powerful.",
+    "target": ""
+  },
+  {
+    "key": "/85699613455E48983AC8E685902B670D",
+    "source": "Useless",
+    "target": ""
+  },
+  {
+    "key": "/4200CC43448C3662B241A2912865A1D4",
+    "source": "User Interface Volume",
+    "target": ""
+  },
+  {
+    "key": "/1695AD464775EB1339B15580C0F5066E",
+    "source": "VSync",
+    "target": ""
+  },
+  {
+    "key": "/6FAA40BD41F3234565AAC281B6EBA744",
+    "source": "Very High",
+    "target": ""
+  },
+  {
+    "key": "/876FBD7B4EC98DD73C9C98A794AFB3F2",
+    "source": "Victory!",
+    "target": ""
+  },
+  {
+    "key": "/4CBB0A49463648FACA522999B22799BC",
+    "source": "Video",
+    "target": ""
+  },
+  {
+    "key": "/DE1560014AF62CB6085B2288D8E084B9",
+    "source": "Volcano Unlocks:",
+    "target": ""
+  },
+  {
+    "key": "/5C7D25654217D97C9872FF99E6225347",
+    "source": "Wallrun",
+    "target": ""
+  },
+  {
+    "key": "/A877EC5446B0FBDAF3973C906294F55F",
+    "source": "We close this reality with purpose fulfilled",
+    "target": ""
+  },
+  {
+    "key": "/E43EF38B4D31D1F70430DF9D1587D789",
+    "source": "Weak Point",
+    "target": ""
+  },
+  {
+    "key": "/F9784CD046A8210B1D50F2929D2791B9",
+    "source": "Weakened resources take 10% more damage per level after the first hit.",
+    "target": ""
+  },
+  {
+    "key": "/8D178EDD4731360310B1D2B0B0CE0603",
+    "source": "Weakness",
+    "target": ""
+  },
+  {
+    "key": "/66F949064252065846531FA8DBF25EFD",
+    "source": "Weakness Ability",
+    "target": ""
+  },
+  {
+    "key": "/BA70416B47DF743E1EF25DBDA72AD917",
+    "source": "Weakness Aura Ability",
+    "target": ""
+  },
+  {
+    "key": "/19E025394D43AB2122764199AD7720F0",
+    "source": "Weakness Chance",
+    "target": ""
+  },
+  {
+    "key": "/22E9325C4A9EF8C605AAFBAF6E3BAE79",
+    "source": "Weakness Drop Chance",
+    "target": ""
+  },
+  {
+    "key": "/5CF6E4C047778CFAE271F18DA69E7484",
+    "source": "Weakness Strength",
+    "target": ""
+  },
+  {
+    "key": "/218B94814C6B3A9120D0A38ACECB975B",
+    "source": "Weakness strength: {WeaknessStrength}",
+    "target": ""
+  },
+  {
+    "key": "/378FBFD9465D38ACC1647C850480AC9C",
+    "source": "Welcome",
+    "target": ""
+  },
+  {
+    "key": "/B4172804401AAE139118459976280B9F",
+    "source": "Welcome to Nightwater...",
+    "target": ""
+  },
+  {
+    "key": "/D748E0F04FE10FBE2E28928D21E602A1",
+    "source": "What do you hope to achieve?",
+    "target": ""
+  },
+  {
+    "key": "/8711A33C4C0A6DCB4D1A388B9DE64787",
+    "source": "What will come after?",
+    "target": ""
+  },
+  {
+    "key": "/F9396EA34E5546F03C0016BCF7D8A539",
+    "source": "Wheat",
+    "target": ""
+  },
+  {
+    "key": "/DBC019D842C624F341A403A42015E25D",
+    "source": "Wheat Oil",
+    "target": ""
+  },
+  {
+    "key": "/AFABF10A4FD9EC75D52408ABE69F13A5",
+    "source": "When activated, throws the Bit & Hogg axes. They fly in your facing direction and return after a few seconds, damaging every tree they strike",
+    "target": ""
+  },
+  {
+    "key": "/7C231E044F4AE5CA1DA6B689E7B5C1B0",
+    "source": "When grown, adds +1 multiplier to every other plant in this area.",
+    "target": ""
+  },
+  {
+    "key": "/AF7C426F4A3BCA2E4313AF901DEC65AF",
+    "source": "When grown, adds +15 value to every other plant in this area.",
+    "target": ""
+  },
+  {
+    "key": "/B48D838045FF2A91EE516BB52088DBC2",
+    "source": "When grown, cuts the remaining grow time of every other plant in this area in half.",
+    "target": ""
+  },
+  {
+    "key": "/AB5565A449B8F1610235D0BFFACF26F6",
+    "source": "When grown, halves each other plant's value but increases its multiplier by 4.",
+    "target": ""
+  },
+  {
+    "key": "/947C327248FFD130C9FA4EBE77EE3C4B",
+    "source": "When grown, lowers each other plant's multiplier by 1 but adds +120 value.",
+    "target": ""
+  },
+  {
+    "key": "/907EF93B4C797508239A518CB389DB8C",
+    "source": "While active, it increases movement speed, damage output and resource gain by +50%",
+    "target": ""
+  },
+  {
+    "key": "/F1A2018C4BBE4E3A6013009CC552CC08",
+    "source": "While the Berserker ability is active, you gain 100% more resources.",
+    "target": ""
+  },
+  {
+    "key": "/776AAFE14CF6017B162BDFB5D2260A7E",
+    "source": "Why did you make these lands?",
+    "target": ""
+  },
+  {
+    "key": "/5F7E78714D08990AF65827B93C3B44FB",
+    "source": "Why...",
+    "target": ""
+  },
+  {
+    "key": "/65F3220949C0D07C31AA24A38C7686B6",
+    "source": "Widens your fire explosions by 1 meter.",
+    "target": ""
+  },
+  {
+    "key": "/FF403D694E12199D014651B6C5193423",
+    "source": "Will collect all items inside Harvesters, Assemblers and chests in its area when interacted with, within a large range.",
+    "target": ""
+  },
+  {
+    "key": "/7EF3D4F84A9EE411D2EA4BB4A8272979",
+    "source": "Will collect all items inside Harvesters, Assemblers and chests in its area when interacted with.",
+    "target": ""
+  },
+  {
+    "key": "/1D05A17944B006D61D399F91278288A8",
+    "source": "Will there be more after Nightwater?",
+    "target": ""
+  },
+  {
+    "key": "/08ED67E5487BBA97A6C8D486FCB4E60D",
+    "source": "Will there be... after?",
+    "target": ""
+  },
+  {
+    "key": "/380EE5474E1FEAFD6FA752BCAD06190A",
+    "source": "Window Mode",
+    "target": ""
+  },
+  {
+    "key": "/933574FF4727B540C1F7A08289701692",
+    "source": "Windowed",
+    "target": ""
+  },
+  {
+    "key": "/9508B19D4B3CC0DD5CAC32A962CC8066",
+    "source": "With music by:",
+    "target": ""
+  },
+  {
+    "key": "/B1CA73CC43EF7EFB9A4F618CFF73454C",
+    "source": "Wood",
+    "target": ""
+  },
+  {
+    "key": "/4F664BE14B40BC612EDEA0962C3A72A5",
+    "source": "Wood Bark is dropped by dark trees that grow in the West near the ruins.",
+    "target": ""
+  },
+  {
+    "key": "/07F2C9C844A84197C2F7F9B2D15BC4B8",
+    "source": "Wood Cutter Speed",
+    "target": ""
+  },
+  {
+    "key": "/FD21452D46FB478F78C1A2B1BF4DEB83",
+    "source": "Wood Dust Milestone",
+    "target": ""
+  },
+  {
+    "key": "/191197024697872119055C8FE0A250AB",
+    "source": "Wood Fortune",
+    "target": ""
+  },
+  {
+    "key": "/69384FBA49783A05F62C6C90B2711836",
+    "source": "Wooden Cat",
+    "target": ""
+  },
+  {
+    "key": "/6564072A4FEF1A6678CAA484DBECEC6F",
+    "source": "Wooden Chair",
+    "target": ""
+  },
+  {
+    "key": "/E22D801E493F03278CC6C399E66D3AE8",
+    "source": "Wooden Gear",
+    "target": ""
+  },
+  {
+    "key": "/D0D94001458DDEDAC88EFBAA970137EC",
+    "source": "Wooden Pickaxe",
+    "target": ""
+  },
+  {
+    "key": "/BAA7A4B74B43309F7E53CA90A2E0B9C3",
+    "source": "Workbench",
+    "target": ""
+  },
+  {
+    "key": "/AF2BB03B46D6FBF438F7639ADF738A35",
+    "source": "Would this place be the same without me",
+    "target": ""
+  },
+  {
+    "key": "/A5724CD5463152FDD31266ABCE198D67",
+    "source": "X-Ray Ability",
+    "target": ""
+  },
+  {
+    "key": "/36FD2457484470EECDD7CDB811F93560",
+    "source": "You can't escape the void",
+    "target": ""
+  },
+  {
+    "key": "/B73F73EB41F4F1F1FF29B7A28A9A456D",
+    "source": "You don't fear death, just this place here...",
+    "target": ""
+  },
+  {
+    "key": "/D28F90F2429BA7D15A81E2891EA15ACA",
+    "source": "You keep giving tools, not reasons",
+    "target": ""
+  },
+  {
+    "key": "/21CC04634C2016D49F6E29A5587C12EF",
+    "source": "You never wanted this...",
+    "target": ""
+  },
+  {
+    "key": "/A41661FB4CBC9EA070DA31AD02755F6F",
+    "source": "You remember quickly... you always do",
+    "target": ""
+  },
+  {
+    "key": "/F39A65C249556FC2C7D97C91AE4BA0C2",
+    "source": "You thought this is what we wanted?",
+    "target": ""
+  },
+  {
+    "key": "/FCB5DAE84560198413BAE5B5A3EC1221",
+    "source": "You turned every stone... patient... precise...",
+    "target": ""
+  },
+  {
+    "key": "/A483553C40B1D0A228B4E8863E5C534A",
+    "source": "You wanted us to have more",
+    "target": ""
+  },
+  {
+    "key": "/17E3517B4DCA5A5467FCE9960D9369A5",
+    "source": "You'll need to unlock the Auto-Planter in the shop first.",
+    "target": ""
+  },
+  {
+    "key": "/F495094E4E09751971A81A88393B75E7",
+    "source": "Your blast echoes one more time per level on the same spot for 30% damage.",
+    "target": ""
+  },
+  {
+    "key": "/2F8522944DEB509E24B96285DA591FC5",
+    "source": "Your first hit on a resource deals 20% more damage.",
+    "target": ""
+  },
+  {
+    "key": "/05114D1F4EBBA9F0109E4FA7A81100CF",
+    "source": "Your hits have a 30% chance to chain lightning to the nearest resource for 30% of the hit's damage.",
+    "target": ""
+  },
+  {
+    "key": "/457E25854363A16A4F9D89A20C6F203B",
+    "source": "Your lightning jumps to one more resource per level.",
+    "target": ""
+  },
+  {
+    "key": "/1A08D7B245C53CE830245DA8BD2FE6DB",
+    "source": "Your poison deals 20 more damage per second.",
+    "target": ""
+  },
+  {
+    "key": "/F394A9894433E1C333513FBFB2B06F74",
+    "source": "Your poison lasts one second longer.",
+    "target": ""
+  },
+  {
+    "key": "/3AE34B904C087348326B1F9B6BCA2CF3",
+    "source": "Your rage grants 10% more damage.",
+    "target": ""
+  },
+  {
+    "key": "/E46372584D281B2743A5DAA237DAB654",
+    "source": "Your rage grants 10% more movement speed.",
+    "target": ""
+  },
+  {
+    "key": "/D4B0427243BFCBB4921533B2D5125FE0",
+    "source": "Your rage lasts one second longer.",
+    "target": ""
+  },
+  {
+    "key": "/81377FBE43C540607B73ADB10C10B2AF",
+    "source": "Your tool will gain an additional 30% critical hit chance and the number of items obtained from resources that are finished with a crit is increased by 60%.",
+    "target": ""
+  },
+  {
+    "key": "/3DE84A834094CFFB01D7CBB62E4B90D9",
+    "source": "Your tool will gain an additional 40% critical hit chance and the number of items obtained from resources that are finished with a crit is increased by 100%.",
+    "target": ""
+  },
+  {
+    "key": "/7A1A9547400CA45CD779ED83EF4AA74D",
+    "source": "Zone Upgrade Tier 1",
+    "target": ""
+  },
+  {
+    "key": "/2C963F5542732D46A06424A15ADE68D2",
+    "source": "Zone Upgrade Tier 2",
+    "target": ""
+  },
+  {
+    "key": "/2A5A48C94A9B42E8D5DDB9A135C8BE2F",
+    "source": "Zone Upgrade Tier 3",
+    "target": ""
+  },
+  {
+    "key": "/6B97CBC040E26D6129C0A4B16D3FA956",
+    "source": "follow the minecart rails!",
+    "target": ""
+  },
+  {
+    "key": "/721D2E804089870A35CCC1BBC96173D7",
+    "source": "so full, and yet so void",
+    "target": ""
+  },
+  {
+    "key": "/174566F24285BB0297D6D9B47AD9430E",
+    "source": "to receive the Key of Memories",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/ItemDescriptionSimple",
+    "source": "A basic crafting material used for building structures, equipment, and complex items.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/NatureChestDescription",
+    "source": "A dedicated storage container for plant-type base Milestone items, not crafted items. Restricted to plant-related milestone resources only, with a capacity of 250.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/TrunkChest",
+    "source": "A dedicated storage container for wood-type base Milestone items, not crafted items. Restricted to wood-related milestone resources only, with a capacity of 250.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/FactoryDescription",
+    "source": "A machine that can receive items through pipes to automate crafting, at a very fast speed.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/PulverizerDescription",
+    "source": "A machine that processes ore into dust. Dust can be processed into ingots more efficiently in the furnace.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Assembler",
+    "source": "A rudimentary auto-crafter. Slow crafting speed with a low construction cost.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/DecorationDescription",
+    "source": "A simple decoration with no practical use.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/WoodenTotemDescription",
+    "source": "A totem that restricts resource spawns in its effect area to trees only",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Activated",
+    "source": "Activated",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/ExtendedArea",
+    "source": "Adds more planting spots to this Area.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/AdvancedLootManifester",
+    "source": "Advanced Loot Manifester",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/ItemDescriptionComplex",
+    "source": "An advanced crafting material used for complex structures, upgrades and equipment.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/LootBoxDescription",
+    "source": "An advanced device that manifests random resources 5 minutes after placement. Provides 6 random resource drops once the process is complete.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/NatureAltarDescription",
+    "source": "An altar that slowly generates all types of plant milestone items without requiring resources.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Analyse",
+    "source": "Analyze",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/DesertHarvester",
+    "source": "Automatically harvests grown plants in this Area and stores the gold.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/PlantHarvester",
+    "source": "Automatically harvests plant resources within a small radius, at a slow speed. Harvested items count towards Milestone Progression.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/GaiaEngineDescription",
+    "source": "Automatically harvests plant resources within a small radius, at a very fast speed. Harvested items count towards Milestone Progression.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/StoneHarvester",
+    "source": "Automatically harvests rock, clay, and ore within a small radius, at a slow speed. Harvested items count towards Milestone Progression.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/WoodHarvester",
+    "source": "Automatically harvests tree resources within a small radius, at a slow speed. Harvested items count towards Milestone Progression.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/DesertReplanter",
+    "source": "Automatically replants the same plant after auto harvesting in this Area.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/BoonOfDetermination",
+    "source": "Boon of Determination",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/BoonLuck",
+    "source": "Boon of Luck",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/BoonOfStrength",
+    "source": "Boon of Strength",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/ToolbeltTier1",
+    "source": "Can be crafted at the Tinker Station.\r\nA practical belt for organizing equipment. Unlocks the Workbench tab in the inventory.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/WaterTrinketDescription",
+    "source": "Can be crafted at the Tinker Station.\r\nYour tool will gain an additional 20% critical hit chance and the number of items obtained from resources that are finished with a crit is increased by 30%.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/TeleporterDescription",
+    "source": "Can be used to teleport to teleport pads. Teleport pads are unlocked automatically.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Cancel",
+    "source": "Cancel",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Capacity",
+    "source": "Capacity",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Choose",
+    "source": "Choose",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Coal",
+    "source": "Coal",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Coins",
+    "source": "Coins",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/LightspeedPipeDescription",
+    "source": "Connects machines to transfer items between inventories. Medium range with extremely fast throughput.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Continue",
+    "source": "Continue",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/CopperOre",
+    "source": "Copper Ore",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Craft",
+    "source": "Craft",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/CrownName",
+    "source": "Crown",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/DEMO",
+    "source": "DEMO",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Deactivated",
+    "source": "Deactivated",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/CrownDescription",
+    "source": "Doubles the manual damage dealt by the tool, as well as the manual resource gain. Manual crafting becomes four times faster.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/DuskGold",
+    "source": "Dusk Gold",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Empty",
+    "source": "Empty",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/EndEarly?",
+    "source": "End Early?",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/EnergyBuff",
+    "source": "Energy Buff",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/EpicLootManifester",
+    "source": "Epic Loot Manifester",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Equipment",
+    "source": "Equipment",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/FactoryName",
+    "source": "Factory",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/FarmerBuff",
+    "source": "Farmer Buff",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/FireDamage",
+    "source": "Fire Damage",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/FireRadius",
+    "source": "Fire Radius",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Fuel",
+    "source": "Fuel",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/GaiaEngine",
+    "source": "Gaia Plant Farmer",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Gold",
+    "source": "Gold",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/HearthoftheElder",
+    "source": "Heart of the Elder",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/SimpleJetpackDescription",
+    "source": "Hold down the jump button to activate the jetpack and slowly fly over resources and buildings.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/ManualDataDescription",
+    "source": "Increases the Data you earn for manually finishing this Track by 20% per level.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/IdleDataDescription",
+    "source": "Increases the idle Data generated on this Track by 20% per level.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Inventory",
+    "source": "Inventory",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/IronOre",
+    "source": "Iron Ore",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Level",
+    "source": "Level: ",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/LightningBounces",
+    "source": "Lightning Bounces",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/LightningChance",
+    "source": "Lightning Chance",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/LightningDamage",
+    "source": "Lightning Damage",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/LightspeedPipe",
+    "source": "Lightspeed Pipe",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/MESystem",
+    "source": "Linked System",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Loading",
+    "source": "Loading",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/LootBarrel",
+    "source": "Loot Barrel",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/LootBox",
+    "source": "Loot Box",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/MadeinAssembler",
+    "source": "Made in Assembler",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/MadeinFurnace",
+    "source": "Made in Furnace",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/MadeinPress",
+    "source": "Made in Press",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/MadeinPulverizer",
+    "source": "Made in Pulverizer",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/MadeinSmeltery",
+    "source": "Made in Smeltery",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/MultiplierBuff",
+    "source": "Multiplier Buff",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/NatureAltar",
+    "source": "Nature Altar",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/NatureChest",
+    "source": "Nature Chest",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/NightCrystal",
+    "source": "Night Crystal",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/None",
+    "source": "None",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/NotReady",
+    "source": "Not Ready",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/OakWood",
+    "source": "Oak Wood",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Overview",
+    "source": "Overview",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/PinItems",
+    "source": "Pin Items",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/PipeSpeed",
+    "source": "Pipe Speed",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Plant",
+    "source": "Plant",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Play",
+    "source": "Play",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/PoisonDamage",
+    "source": "Poison Damage",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/PoisonDuration",
+    "source": "Poison Duration",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Progress",
+    "source": "Progress {ProgressAmount}%",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Progression",
+    "source": "Progression",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/PulverizerName",
+    "source": "Pulverizer",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Quit",
+    "source": "Quit",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/RageDamage",
+    "source": "Rage Damage",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/RageDuration",
+    "source": "Rage Duration",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/RageSpeed",
+    "source": "Rage Speed",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/MilestoneItemDescription",
+    "source": "Receive Milestone Items by harvesting resources.\r\nBy harvesting more Milestone Items you unlock new buildings, crafts, and buffs.\r\nProgress manually or automate your production using specialized buildings.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Reset",
+    "source": "Reset",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/ResourceGainName",
+    "source": "Resource Gain",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/ResourcesAround",
+    "source": "Resources around:",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/SelectUpgrade",
+    "source": "Select Upgrade",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Settings",
+    "source": "Settings",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Shop",
+    "source": "Shop",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/SimpleJetpack",
+    "source": "Simple Jetpack",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/SpeedBuffName",
+    "source": "Speed Buff",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/StarfallShard",
+    "source": "Starfall Shard",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Stone",
+    "source": "Stone",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/StrengthBuff",
+    "source": "Strength Buff",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Sure?",
+    "source": "Sure?",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Take",
+    "source": "Take",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/TeleporterName",
+    "source": "Teleporter",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Tier1Equipment",
+    "source": "Tier 1 Equipment",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Tier2Equipment",
+    "source": "Tier 2 Equipment",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Tier3Equipment",
+    "source": "Tier 3 Equipment",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Tier4Equipment",
+    "source": "Tier 4 Equipment",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Tier5Equipment",
+    "source": "Tier 5 Equipment",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Tier6Equipment",
+    "source": "Tier 6 Equipment",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Tier7Equipment",
+    "source": "Tier 7 Equipment",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Tier8Equipment",
+    "source": "Tier 8 Equipment",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Tier9Equipment",
+    "source": "Tier 9 Equipment",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/TinOre",
+    "source": "Tin Ore",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Toolbelt",
+    "source": "Toolbelt",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/TreeAltar",
+    "source": "Tree Altar",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/TurnOff",
+    "source": "Turn Off",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/TurnOn",
+    "source": "Turn On",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Unlimited",
+    "source": "Unlimited",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Unlock",
+    "source": "Unlock",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Unlocked",
+    "source": "Unlocked",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/FarmerBuffDescription",
+    "source": "Unlocking Farmer Buff increases the working speed of all farmers by +10%.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/PipeBuffDescription",
+    "source": "Unlocking Pipe Speed increases the working speed of all pipes by +10%.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/ResourceGainDescription",
+    "source": "Unlocking Resource Gain increases the maximum yield from manual harvesting for all resources by +2.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/SpeedBuffDescription",
+    "source": "Unlocking Speed Buff increases your maximum sprinting speed by +20%.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/Unlocks",
+    "source": "Unlocks",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/VikingWoodCutter",
+    "source": "Viking Wood Cutter",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/WaterTrinket",
+    "source": "Water Trinket",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/WeaknessDamage",
+    "source": "Weakness Damage",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/WeaknessMultiplier",
+    "source": "Weakness Multiplier",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/MESystemDescription",
+    "source": "When activated, items from all linked chests on the map are automatically transferred to the inventory.",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/WoodBark",
+    "source": "Wood Bark",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/WoodDust",
+    "source": "Wood Dust",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/WoodResin",
+    "source": "Wood Resin",
+    "target": ""
+  },
+  {
+    "key": "CommonWords/WoodenTotem",
+    "source": "Wooden Totem",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/RockContainerDescription",
+    "source": "A dedicated storage container for rock-type base Milestone items, not crafted items. Restricted to rock-related milestone resources only, with a capacity of 250.",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/StoneAltarDescription",
+    "source": "An altar that slowly generates all types of stone and ore milestone items without requiring resources.",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/QuarryDescription",
+    "source": "Automatically harvests rock, clay, and ore within a small radius, at a very fast speed. Harvested items count towards Milestone Progression.",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/LongPickaxeDescription",
+    "source": "Creates 3 small holes. Energy cost: 8",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/ScatterPickaxeDescription",
+    "source": "Creates 6 small holes in random directions. Energy cost: 10",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/RandomPickaxeDescription",
+    "source": "Creates a small tunnel that follows a random direction. Energy cost: 15",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/CrossPickaxeDescription",
+    "source": "Creates medium-sized holes in a cross shape. Energy cost: 12",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/CrossPickaxeName",
+    "source": "Cross Pickaxe",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/CurrentlySelected",
+    "source": "Currently Selected",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/EnergyRune",
+    "source": "Energy Rune",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/EnergyonCollectRune",
+    "source": "Energy on Collect Rune",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/IncreaseRuneRarityRune",
+    "source": "Increase Rune Rarity Rune",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/LongPickaxeName",
+    "source": "Long Pickaxe",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/MineralMultiplierRune",
+    "source": "Mineral Multiplier Rune",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/MountainsFortune",
+    "source": "Mountains Fortune",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/MountainsLuck",
+    "source": "Mountains Luck",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/MultiplierRune",
+    "source": "Multiplier Rune",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/OreMultiplierRune",
+    "source": "Ore Multiplier Rune",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/QuarryName",
+    "source": "Quarry Rock Crusher",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/StrengthRune",
+    "source": "Radius Rune",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/BetterChestLootRune",
+    "source": "Rare Chest Loot Rune",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/RockContainerName",
+    "source": "Rock Chest",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/RuneQualityDescription",
+    "source": "Rune Quality: {RuneQuality}",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/ScatterPickaxeName",
+    "source": "Scatter Pickaxe",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/Select",
+    "source": "Select",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/SimpleLootBoxName",
+    "source": "Simple Loot Manifester",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/RandomPickaxeName",
+    "source": "Snake Pickaxe",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/StoneAltarName",
+    "source": "Stone Altar",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/MountainsFortuneDescription",
+    "source": "Unlocks Mountains Fortune Ability: Player has a 15% chance to receive double items when manually destroying any stone, clay or ore. Doesn't affect ores in the Mine",
+    "target": ""
+  },
+  {
+    "key": "MountainsMinigame/MountainsLucKDescription",
+    "source": "Unlocks Mountains Luck Ability: Player has a 30% chance to receive double items when manually destroying any stone, clay or ore. Doesn't affect ores in the Mine",
+    "target": ""
+  },
+  {
+    "key": "SnowyHillsMinigame/HandCannonDescription",
+    "source": "Blast resources from across the field. Less punch per shot, but huge range and burst fire that grows stronger with every extra round.",
+    "target": ""
+  },
+  {
+    "key": "SnowyHillsMinigame/Bomb",
+    "source": "Bomb",
+    "target": ""
+  },
+  {
+    "key": "SnowyHillsMinigame/CoalFuel",
+    "source": "Coal Fuel Tier {Tier}",
+    "target": ""
+  },
+  {
+    "key": "SnowyHillsMinigame/HandCannon",
+    "source": "Hand Cannon",
+    "target": ""
+  },
+  {
+    "key": "SnowyHillsMinigame/Mallet",
+    "source": "Mallet",
+    "target": ""
+  },
+  {
+    "key": "SnowyHillsMinigame/MalletDescription",
+    "source": "Smash resources up close with a mallet. Short reach, but fast swings and critical hits that can destroy resources in a single strike.",
+    "target": ""
+  },
+  {
+    "key": "SnowyHillsMinigame/BombDescription",
+    "source": "Throw explosives into clusters. Weak on single targets, but each blast can echo outward and clear several nodes at once.",
+    "target": ""
+  },
+  {
+    "key": "SnowyHillsMinigame/TreeFuel",
+    "source": "Tree Fuel Tier {Tier}",
+    "target": ""
+  },
+  {
+    "key": "SnowyHillsMinigame/BombWin",
+    "source": "Win the game with Bomb to unlock this.",
+    "target": ""
+  },
+  {
+    "key": "SnowyHillsMinigame/RangedWin",
+    "source": "Win the game with Hand Cannon to unlock this.",
+    "target": ""
+  },
+  {
+    "key": "SnowyHillsMinigame/MeleeWin",
+    "source": "Win the game with Mallet to unlock this.",
+    "target": ""
+  }
+]

@@ -1,0 +1,35 @@
+# Extracted game inputs and local source snapshots
+source/raw/
+source/*.locres
+source/*.csv
+source/font-reference/
+source/ui-reference/
+source/font-prototypes/
+source/reference-localizations/
+
+# Local build outputs
+output/
+pak-output/
+pak-staging/
+*.pak
+*.utoc
+*.ucas
+*.locres
+*.locmeta
+
+# Machine-specific configuration and response files
+config/UELocKit.config.psd1
+tools/filelist-*.txt
+
+# Local third-party binaries and Python cache
+tools/*.exe
+tools/*.dll
+tools/retoc/
+tools/repak/
+tools/__pycache__/
+**/__pycache__/
+*.pyc
+
+# Editor/OS noise
+.DS_Store
+Thumbs.db
