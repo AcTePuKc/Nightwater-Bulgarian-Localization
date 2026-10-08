@@ -176,7 +176,7 @@ REPAIRS = {
 
 
 def main() -> int:
-    path = Path("working/Game.bs.draft.json")
+    path = Path("working/Game.bg.draft.json")
     rows = json.loads(path.read_text(encoding="utf-8"))
     found = set()
     for row in rows:

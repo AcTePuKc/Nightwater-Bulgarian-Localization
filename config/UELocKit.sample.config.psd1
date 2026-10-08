@@ -9,8 +9,8 @@
 
     # Optional paths; keep the real machine-specific config ignored.
     # SourceLocresPath = ".\source\Game.en.locres"
-    # TranslationJsonPath = ".\working\Game.bs.json"
-    # TranslationCsvPath = ".\working\Game.bs.csv"
+    # TranslationJsonPath = ".\working\Game.bg.json"
+    # TranslationCsvPath = ".\working\Game.bg.csv"
     # OutputLocresPath = ".\output\Game.bg.locres"
     # GamePaksDir = "C:\MyGames\Isle of Industry\SkylandsForaging\Content\Paks"
 
