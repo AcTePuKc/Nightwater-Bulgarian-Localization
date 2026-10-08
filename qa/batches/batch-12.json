@@ -1,0 +1,339 @@
+{
+  "batch": "12",
+  "range": [
+    605,
+    659
+  ],
+  "rows": [
+    {
+      "i": 605,
+      "key": "/DBED7D9B4079BCD48676B4B4DA4E162E",
+      "en": "Permanently increases both ore and mineral multipliers by 1",
+      "bg": "Постоянно увеличава множителите за руда и минерали с 1"
+    },
+    {
+      "i": 606,
+      "key": "/46FFA7E14F78E940353E93B11D02D71F",
+      "en": "Permanently increases max energy by 50",
+      "bg": "Постоянно увеличава максималната енергия с 50"
+    },
+    {
+      "i": 607,
+      "key": "/404179D549FC684E2D354592F7ADB85E",
+      "en": "Permanently increases movement speed while sprinting by +15%",
+      "bg": "Постоянно увеличава скоростта на движение при спринт със +15%"
+    },
+    {
+      "i": 608,
+      "key": "/E330BBF6485467523DA42D9FE9B02C73",
+      "en": "Permanently increases the Area-of-Effect passive’s base damage by +10%",
+      "bg": "Постоянно увеличава основната щета от пасивния Ефект на подручжието с +10%"
+    },
+    {
+      "i": 609,
+      "key": "/0C1CEA0D40826D8FFEDDF18C722F7E5A",
+      "en": "Permanently increases the Area-of-Effect passive’s radius by +5 meters",
+      "bg": "Постоянно увеличава радиуса на пасивния Ефект на поддручието с 5 метра"
+    },
+    {
+      "i": 610,
+      "key": "/4BBBC6504366D8B8703601ADFE71911D",
+      "en": "Permanently increases the Bit & Hogg Skill radius by +50%",
+      "bg": "Постоянно увеличава радиуса на умението Bit & Hogg с +50%"
+    },
+    {
+      "i": 611,
+      "key": "/3F6C8D36482A78D9AA5F1F826F996DBE",
+      "en": "Permanently increases the Heart of the Elder drop rate by +100%. Above 100%, the Elder Tree can drop more than one.",
+      "bg": "Постоянно увеличава шанса за изпускане на Heart of the Elder с +100%. Над 100%, Prastablo може да пусне повече от един."
+    },
+    {
+      "i": 612,
+      "key": "/31E07BD9413A96FB83FF41A8F3E278D7",
+      "en": "Permanently increases the Poison passive’s base damage by +20 per second",
+      "bg": "Постоянно увеличава основната щета на пасивния ефект Отрова с +20 за секунда"
+    },
+    {
+      "i": 613,
+      "key": "/16423D5E4F114512B5C49C831FBED77C",
+      "en": "Permanently increases the Poison passive’s base duration by +1 second",
+      "bg": "Постоянно увеличава базовата продължителност на пасивната отрова с +1 секунда"
+    },
+    {
+      "i": 614,
+      "key": "/A0ECB61942C72C95418610848132709D",
+      "en": "Permanently increases the Weakness Aura ability’s base radius by +5 meters",
+      "bg": "Постоянно увеличава базовия радиус на аурата на слабостта с +5 метра"
+    },
+    {
+      "i": 615,
+      "key": "/A9F167BD4D135641F570E0B1689FFF7B",
+      "en": "Permanently increases the Weakness passive’s strength by +10%, trees will take +10% more damage",
+      "bg": "Постоянно увеличава силата на пасивната слабост с +10%; дърветата ще получават +10% повече щети"
+    },
+    {
+      "i": 616,
+      "key": "/4856B859483788733618DD9B341496A7",
+      "en": "Permanently increases the amount of time you have while exploring the Dark Thicket by +5 seconds",
+      "bg": "Постоянно увеличава времето за изследване на Тъмната гъсталака с +5 секунди"
+    },
+    {
+      "i": 617,
+      "key": "/6712E83A49373B76388F389EC09BF3F9",
+      "en": "Permanently increases the amount of time you have while exploring the Dark Thicket by +5 seconds",
+      "bg": "Постоянно увеличава времето за изследване на Тъмната гъсталака с +5 секунди"
+    },
+    {
+      "i": 618,
+      "key": "/832539514DDE7F8ACCA37C9E022ED61D",
+      "en": "Permanently increases the amount of time you have while exploring the Dark Thicket by +5 seconds",
+      "bg": "Постоянно увеличава времето за изследване на Тъмната гъсталака с +5 секунди"
+    },
+    {
+      "i": 619,
+      "key": "/2E05E309449CCAE491B8F79E92B67E2B",
+      "en": "Permanently increases the base speed of any plant farming building by +10%",
+      "bg": "Постоянно увеличава базовата скорост на всяка сграда за отглеждане на растения с +10%"
+    },
+    {
+      "i": 620,
+      "key": "/864CCF01416252C1130FF495DF272EB4",
+      "en": "Permanently increases the base speed of any rock crusher building by +10%",
+      "bg": "Постоянно увеличава основната скорост на всички каменотрошачки с +10%"
+    },
+    {
+      "i": 621,
+      "key": "/3066C0904F9827E601C3BDA0565EC603",
+      "en": "Permanently increases the base speed of any wood cutter building by +10%",
+      "bg": "Постоянно увеличава основната скорост на всички дървосекачни сгради с +10%"
+    },
+    {
+      "i": 622,
+      "key": "/0EBD647E4C8069E527259AB2B9886E07",
+      "en": "Permanently increases the total amount of any resources you can receive in the Dark Thicket by +25%",
+      "bg": "Постоянно увеличава общото количество на всички ресурси, които можете да получите в Тъмната гъсталака с +25%"
+    },
+    {
+      "i": 623,
+      "key": "/552C6C1D42E004E404377DBE5B6C27DB",
+      "en": "Permanently increases the working speed of all pipes by +10%.",
+      "bg": "Постоянно увеличава работната скорост на всички тръби с +10%. "
+    },
+    {
+      "i": 624,
+      "key": "/A1673C4A4FCB5220D31D1A9F9A9B80A0",
+      "en": "Permanently increases your dig radius by +0.3 meters.",
+      "bg": "Постоянно увеличава радиуса ти за копаене с +0,3 метра."
+    },
+    {
+      "i": 625,
+      "key": "/1B0771B04278CF0E0BC998B08049C6C3",
+      "en": "Permanently increases your maximum dig radius by +0.2 meters.",
+      "bg": "Постоянно увеличава максималния ви радиус за копаене с +0.2 метра."
+    },
+    {
+      "i": 626,
+      "key": "/035307EA37430E49D65D5709632DA0D0",
+      "en": "Permanently reduces the time between axe swings by 10%",
+      "bg": "Постоянно намалява времето между ударите на брадвата с 10%"
+    },
+    {
+      "i": 627,
+      "key": "/5B8787054672FCC06D10CE878E94700F",
+      "en": "Pickaxe",
+      "bg": "Кирка"
+    },
+    {
+      "i": 628,
+      "key": "/2A97C9AC41EF645C59339B933E78D590",
+      "en": "Pickaxe Puzzle",
+      "bg": "Пъзел с кирки"
+    },
+    {
+      "i": 629,
+      "key": "/68EFCFE54A8EE7D21DB56EB4F96E9860",
+      "en": "Pineapple",
+      "bg": "Ананас"
+    },
+    {
+      "i": 630,
+      "key": "/EE78BD3E47BBA6986B05C98B9D4786D4",
+      "en": "Pinned",
+      "bg": "Закачено"
+    },
+    {
+      "i": 631,
+      "key": "/F1F8AA9241B8719A612D7EAC943043B7",
+      "en": "Pipe Extender",
+      "bg": "Удължител за тръба"
+    },
+    {
+      "i": 632,
+      "key": "/EC7FB3FF40BB36DD74492C8859EF429A",
+      "en": "Pipe Infrastructure",
+      "bg": "Тръбна инфраструктура"
+    },
+    {
+      "i": 633,
+      "key": "/56FE88ED4C1988CFA459389AA9560BC0",
+      "en": "Pipe Merger",
+      "bg": "Свързващ елемент за тръба"
+    },
+    {
+      "i": 634,
+      "key": "/BFEBB0DD4AFBB22896A4EAA1D1AB97A3",
+      "en": "Pipe Splitter",
+      "bg": "Разклонител за тръби"
+    },
+    {
+      "i": 635,
+      "key": "/308059BD4C88765B2117DD9DF2E5FD62",
+      "en": "Pipe length:",
+      "bg": "Дължина на тръбата:"
+    },
+    {
+      "i": 636,
+      "key": "/9518C43A48C06CEDFBDABE9A8F5EF54E",
+      "en": "Plank",
+      "bg": "Гредичка"
+    },
+    {
+      "i": 637,
+      "key": "/95052132408381D20778FD9E7B700B53",
+      "en": "Plant Farmer Speed",
+      "bg": "Скорост на растителната ферма"
+    },
+    {
+      "i": 638,
+      "key": "/A5B5BF044D948F5A486DD78E2D36D4CB",
+      "en": "Plant Fortune",
+      "bg": "Късмет с растенията"
+    },
+    {
+      "i": 639,
+      "key": "/DA8E2E854C4614457991FB9A6E77F230",
+      "en": "Plant Luck",
+      "bg": "Щастие на растението"
+    },
+    {
+      "i": 640,
+      "key": "/AA9796A544D4A5BB1A2F46B33E49595E",
+      "en": "Plants Harvested Amount",
+      "bg": "Количество събрани растения"
+    },
+    {
+      "i": 641,
+      "key": "/4FC0DD3946F3E5A3AE0B17880E93FCC1",
+      "en": "Plants Harvested: {PlantAmount}",
+      "bg": "Събрани растения: {PlantAmount}"
+    },
+    {
+      "i": 642,
+      "key": "/D64D19BB4EBF849CF74429A21E041CE3",
+      "en": "Plants without buffs are worth 10x more gold.",
+      "bg": "Растенията без бонуси струват 10 пъти повече злато."
+    },
+    {
+      "i": 643,
+      "key": "/9DC0EE4F4987AAA73D5288AAF1C389E0",
+      "en": "Poison",
+      "bg": "Отрова"
+    },
+    {
+      "i": 644,
+      "key": "/F87D3A6941B7DF54C6943CAF81EFD49B",
+      "en": "Poison Ability",
+      "bg": "Способност Отрова"
+    },
+    {
+      "i": 645,
+      "key": "/751B5DEF4AAC55A88286FC8152740B5B",
+      "en": "Poison Damage: {PoisonDamageAmount}",
+      "bg": "Щети от отрова: {PoisonDamageAmount}"
+    },
+    {
+      "i": 646,
+      "key": "/0F5A330C41A4A48ABB1EF4843A5F2586",
+      "en": "Poison Duration: {PoisonDuration}",
+      "bg": "Продължителност на отровата: {PoisonDuration}"
+    },
+    {
+      "i": 647,
+      "key": "/258B21C44F42E0D67FE77892A777A258",
+      "en": "Poison Transfer",
+      "bg": "Прехвърляне на отрова"
+    },
+    {
+      "i": 648,
+      "key": "/8C0A6E364A5BD82E9CED2988A245B104",
+      "en": "Post-Process Quality",
+      "bg": "Качество след обработка"
+    },
+    {
+      "i": 649,
+      "key": "/D592D6824E66A96B3E3946A504EE8307",
+      "en": "Press any key to continue",
+      "bg": "Натисни произволен клавиш, за да продължиш."
+    },
+    {
+      "i": 650,
+      "key": "/9735D3DD4DBB6FFC88FA238A628A23EA",
+      "en": "Press {CancelKey} to exit | {BuildKey} to change Building | {RotateKey} to rotate | {ShiftKey} to build multiple",
+      "bg": "Натисни {CancelKey} за изход | {BuildKey} за смяна на сградата | {RotateKey} за завъртане | {ShiftKey} за строеж на няколко сгради"
+    },
+    {
+      "i": 651,
+      "key": "/A466287C48C17AFB0DC3BFAB2FECCF41",
+      "en": "Press {DeconstructButton} to exit",
+      "bg": "Натисни {DeconstructButton} за изход"
+    },
+    {
+      "i": 652,
+      "key": "/CEA4BD714401B3A5D6E7CC934D20905D",
+      "en": "Press {InteractKey} to interact",
+      "bg": "Натисни {InteractKey} за взаимодействие"
+    },
+    {
+      "i": 653,
+      "key": "/07359DC34D50EEB636620EBA6A551CFB",
+      "en": "Press {PinnedKey} to remove pinned items",
+      "bg": "Натисни {PinnedKey}, за да премахнеш закачените предмети"
+    },
+    {
+      "i": 654,
+      "key": "/88B493D3416FFB929FCBFA968E4E9B51",
+      "en": "Presses raw resources into denser, processed outputs. An advanced machine for automation at high speeds.",
+      "bg": "Превръща суровите ресурси в по-плътни, обработени продукти. Напреднала машина за автоматизация с висока скорост."
+    },
+    {
+      "i": 655,
+      "key": "/44BF2F5B4E21B8156CFAC18D7E76A21C",
+      "en": "Primary Only Upgrade",
+      "bg": "Надграждане само на основните ресурси"
+    },
+    {
+      "i": 656,
+      "key": "/078EEDD14BA328B4D73AEA8964F39881",
+      "en": "Primitive Assembler",
+      "bg": "Примитивен асемблер"
+    },
+    {
+      "i": 657,
+      "key": "/569F66F349E0F1E52643BE83A4B8CFC6",
+      "en": "Primitive Chest",
+      "bg": "Примитивна каса"
+    },
+    {
+      "i": 658,
+      "key": "/0FCEE3C8435651D8812E2E9FB64426A6",
+      "en": "Primitive Collector",
+      "bg": "Примитивен събирател"
+    },
+    {
+      "i": 659,
+      "key": "/005AD4714774E3146CE8EEA315D30680",
+      "en": "Primitive Gearbox",
+      "bg": "Примитивна скоростна кутия"
+    }
+  ]
+}

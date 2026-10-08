@@ -1,0 +1,339 @@
+{
+  "batch": "15",
+  "range": [
+    770,
+    824
+  ],
+  "rows": [
+    {
+      "i": 770,
+      "key": "/DB37DACF43F69DB2E340C8811AE120CB",
+      "en": "Small Flower",
+      "bg": "Малко цвете"
+    },
+    {
+      "i": 771,
+      "key": "/70A017434006AF0E18612A8F76AF2C58",
+      "en": "Small Table",
+      "bg": "Малка маса"
+    },
+    {
+      "i": 772,
+      "key": "/67F37F68400A928F2053C99F99E438BF",
+      "en": "Small decorations",
+      "bg": "Малки украси"
+    },
+    {
+      "i": 773,
+      "key": "/9CC9983240118F8BEBFFCC8222EA5F9D",
+      "en": "Snowy Hills Unlocks:",
+      "bg": "Отключвания на Снежните хълмове:"
+    },
+    {
+      "i": 774,
+      "key": "/3380412A4156F7AB919540AD670D74EA",
+      "en": "So you kept adding shores until the sea went quiet",
+      "bg": "И така, продължи да добавяш бряг след бряг, докато морето не утихна"
+    },
+    {
+      "i": 775,
+      "key": "/96E9C50249BD210C0D190EB0AACCE851",
+      "en": "Solar Cell",
+      "bg": "Соларна клетка"
+    },
+    {
+      "i": 776,
+      "key": "/233FFC704E1230F0F87D6DBF0E57EF92",
+      "en": "Solar Panel",
+      "bg": "Соларен панел"
+    },
+    {
+      "i": 777,
+      "key": "/018E067C464CD52A83F759964633140B",
+      "en": "Some coastlines are patched from fatigue, not from purpose",
+      "bg": "Някои брегове са закърпени от умора, а не от цел"
+    },
+    {
+      "i": 778,
+      "key": "/A3133D954347C7E4A1302AAC800FE42F",
+      "en": "Sound",
+      "bg": "Звук"
+    },
+    {
+      "i": 779,
+      "key": "/03917951435AC3E6543A37BA4BC0D592",
+      "en": "Sound Effects Volume",
+      "bg": "Обем на звуковите ефекти"
+    },
+    {
+      "i": 780,
+      "key": "/476CC6A64B23AF47F80E32A285F0FA0D",
+      "en": "Speed Upgrade Tier 1",
+      "bg": "Надстройка на скоростта 1. ниво"
+    },
+    {
+      "i": 781,
+      "key": "/FC6610524983999D11ACBB90DE6EC0D3",
+      "en": "Speed Upgrade Tier 2",
+      "bg": "Надстройка на скоростта 2. ниво"
+    },
+    {
+      "i": 782,
+      "key": "/A2D7E53540B715A7C704EB8ABE8C0660",
+      "en": "Speed Upgrade Tier 3",
+      "bg": "Надстройка на скоростта 3. ниво"
+    },
+    {
+      "i": 783,
+      "key": "/13F480DF400EE234E2E54485F21C84A7",
+      "en": "Speed gain: {SpeedGain}",
+      "bg": "Придобита скорост: {SpeedGain}"
+    },
+    {
+      "i": 784,
+      "key": "/040F8E494705782BBE25F591B1B9C8B5",
+      "en": "Speedrun on tracks to earn Data. Finished tracks also generate Data on their own, based on your best time. The faster you run, the more Data you make.",
+      "bg": "Тичай по пистите, за да спечелиш данни. Завършените писти също генерират данни сами въз основа на най-доброто ти време. Колкото по-бързо бягаш, толкова повече данни печелиш."
+    },
+    {
+      "i": 785,
+      "key": "/1192785D4DD7FE407C4EEDA78769241C",
+      "en": "Spend your Data to unlock new upgrades and movement techniques, expand your tracks, and boost their Data output.",
+      "bg": "Използвай своите данни, за да отключиш нови надстройки и техники на движение, разшири пистите си и увеличи тяхната продукция на данни."
+    },
+    {
+      "i": 786,
+      "key": "/39CE385D4F14B723B83698B104870051",
+      "en": "Sprint",
+      "bg": "Спринт"
+    },
+    {
+      "i": 787,
+      "key": "/0778A0AF45F0F4A699400092E4286D06",
+      "en": "Star Trinket",
+      "bg": "Звезден талисман"
+    },
+    {
+      "i": 788,
+      "key": "/6DCE9BFD4D8E74171A613DA7157D6DB7",
+      "en": "Starlight Fields Unlocks:",
+      "bg": "Отключвания на Звездни полета:"
+    },
+    {
+      "i": 789,
+      "key": "/1D4F680848746245451022B4C944F836",
+      "en": "Stars, Lives, Memories, Time...",
+      "bg": "Звезди, животи, спомени, време..."
+    },
+    {
+      "i": 790,
+      "key": "/4BABE66D46DB75784910C6AAA1FED7E1",
+      "en": "Start Run",
+      "bg": "Започни бягане"
+    },
+    {
+      "i": 791,
+      "key": "/14254D364304AFEAA75C3B81923F8E4D",
+      "en": "Start the Mine minigame with 25% more energy.",
+      "bg": "Започни минииграта Рудник с 25% повече енергия."
+    },
+    {
+      "i": 792,
+      "key": "/782342D74C9BB89DA53F99A1F61DF95D",
+      "en": "Steady Aim",
+      "bg": "Точна стрелба"
+    },
+    {
+      "i": 793,
+      "key": "/3A11D2684264AEDA81E1758EA8964FC5",
+      "en": "Steel Ingot",
+      "bg": "Стоманена слитък"
+    },
+    {
+      "i": 794,
+      "key": "/15B02E764B21E53321483C8426FA268A",
+      "en": "Steel Pickaxe",
+      "bg": "Стоманен кирка"
+    },
+    {
+      "i": 795,
+      "key": "/D2F847DB4B640F3CF23E05AAEFFA5DBA",
+      "en": "Stone Brick",
+      "bg": "Каменна тухла"
+    },
+    {
+      "i": 796,
+      "key": "/7A2470154162D87AFC51FBA799A32F9C",
+      "en": "Stone Gear",
+      "bg": "Каменно зъбно колело"
+    },
+    {
+      "i": 797,
+      "key": "/CB39CADD4447B7B5377B81B0A76535F9",
+      "en": "Stone Pickaxe",
+      "bg": "Каменен кирка"
+    },
+    {
+      "i": 798,
+      "key": "/916D32F14C487F43B87F3582F0D6F8BE",
+      "en": "Stopwatch",
+      "bg": "Хронометър"
+    },
+    {
+      "i": 799,
+      "key": "/078EFC92479BEA2E7E89AE9C9AE214EB",
+      "en": "Storage",
+      "bg": "Склад"
+    },
+    {
+      "i": 800,
+      "key": "/DC63E4A34E7BF8E6F9A5CF8ECD8B3FFE",
+      "en": "Stuck",
+      "bg": "Заседнал"
+    },
+    {
+      "i": 801,
+      "key": "/332E430B4645A9451BFC1E80046C68C8",
+      "en": "Sturdy Plank",
+      "bg": "Твърда дъска"
+    },
+    {
+      "i": 802,
+      "key": "/71816A0F47D47E36DA218681BA5DD87B",
+      "en": "Success",
+      "bg": "Успех"
+    },
+    {
+      "i": 803,
+      "key": "/DFA02B3240540FD241A9EEBA8F012289",
+      "en": "Sugar Cane",
+      "bg": "Захарна тръстика"
+    },
+    {
+      "i": 804,
+      "key": "/7B82E7D24ACBD2EC35B4D3AFBC83F2A6",
+      "en": "Sulfur Rose",
+      "bg": "Серничеста роза"
+    },
+    {
+      "i": 805,
+      "key": "/83D82BE941D33CB7ADE1EA83754D46E8",
+      "en": "Summary",
+      "bg": "Резюме"
+    },
+    {
+      "i": 806,
+      "key": "/89457D75431954A9C8F70580B0CD53DC",
+      "en": "Support Bloom",
+      "bg": "Поддържащ цъфтеж"
+    },
+    {
+      "i": 807,
+      "key": "/0434892B470CB7AC527AC692694B26A5",
+      "en": "TOO WEAK!",
+      "bg": "ПРЕКАЛЕНО СЛАБ!"
+    },
+    {
+      "i": 808,
+      "key": "/AF67E6494D503BE92FB27698036A7AC6",
+      "en": "Take Gold",
+      "bg": "Вземи злато"
+    },
+    {
+      "i": 809,
+      "key": "/DF98ACB2499799EAD91A66BE44EB3961",
+      "en": "Teleport",
+      "bg": "Телепортирай се"
+    },
+    {
+      "i": 810,
+      "key": "/E38C1962414FEB449A5A499F2E01FAE9",
+      "en": "Teleport Pad",
+      "bg": "Телепортационна платформа"
+    },
+    {
+      "i": 811,
+      "key": "/422BF2AF43E340A62E802F93A28E10CA",
+      "en": "Temp",
+      "bg": "Временен"
+    },
+    {
+      "i": 812,
+      "key": "/F30B470D4C1D8C20213577B3F32E8FC9",
+      "en": "Tent",
+      "bg": "Шатра"
+    },
+    {
+      "i": 813,
+      "key": "/0037DA654611B8EA487E29AC86647D54",
+      "en": "Texture Quality",
+      "bg": "Качество на текстурите"
+    },
+    {
+      "i": 814,
+      "key": "/4767EAA142701AEA3F5A4A88A818D6CB",
+      "en": "Thanks for playing",
+      "bg": "Благодаря, че играхте!"
+    },
+    {
+      "i": 815,
+      "key": "/70A6C80A4134FA270343CFBAE7D3C422",
+      "en": "The Automated Fertilizer ensures only plant-type resources spawn within its radius.",
+      "bg": "Автоматичният тор гарантира, че само растителни ресурси се появяват в неговия радиус."
+    },
+    {
+      "i": 816,
+      "key": "/386CD7764A3ECEFDED1FBE862BD7B789",
+      "en": "The Memory Shrine can unlock permanent buffs by feeding it items through pipes. All Memory Shrines follow the same progression.",
+      "bg": "Светилището на паметта може да отключи постоянни бонуси, като му подавате предмети през тръби. Всички светилища следват един и същ прогрес."
+    },
+    {
+      "i": 817,
+      "key": "/10287A374085A395778A29915AA2BD9B",
+      "en": "The Mine",
+      "bg": "Мината"
+    },
+    {
+      "i": 818,
+      "key": "/93127417492EA112D55BE1A4C285462A",
+      "en": "The Mine minigame tools are 20% stronger.",
+      "bg": "Инструментите за мини-играта в мината са с 20% по-силни."
+    },
+    {
+      "i": 819,
+      "key": "/603A5613447736FD755F658AA73B3035",
+      "en": "The analyzer can be used to research new alternative recipes to simplify complex crafting processes.",
+      "bg": "Анализаторът може да се използва за изследване на нови алтернативни рецепти, които опростяват сложните процеси на изработка."
+    },
+    {
+      "i": 820,
+      "key": "/9B7B852B474AA4712C76CC9E1E64636F",
+      "en": "The drop rate for Heart of the Elder is increased by 50%.",
+      "bg": "Шансът за изпадане на Сърцето на Старейшината се увеличава с 50%."
+    },
+    {
+      "i": 821,
+      "key": "/CA7D25CE49CC3D119065C99D7CBD38CA",
+      "en": "The heart of the largest and strongest tree in the Dark Thicket. The Elder Tree grows in the North and is extremely sturdy. Its heart has a 50% base chance of dropping when it is felled.",
+      "bg": "Сърцето на най-голямото и силно дърво в Тъмния гъсталак. Старейшината расте на север и е изключително здраво. Сърцето му има 50% основен шанс да падне, когато бъде отсечено."
+    },
+    {
+      "i": 822,
+      "key": "/34B4503F4B83C6F77C9F308FD6834196",
+      "en": "The longer I stay, the clearer it feels",
+      "bg": "Колкото по-дълго стоя, толкова ми е по-ясно"
+    },
+    {
+      "i": 823,
+      "key": "/896A71DF4D1B4E4619AA158EE694FCA5",
+      "en": "The selected building type will receive a global speed boost of 50%.",
+      "bg": "Избраният тип сграда ще получи глобално увеличение на скоростта от 50%."
+    },
+    {
+      "i": 824,
+      "key": "/E60756064146691BB59030B1ACDD47E8",
+      "en": "Thermal Battery",
+      "bg": "Термална батерия"
+    }
+  ]
+}

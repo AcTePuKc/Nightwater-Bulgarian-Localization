@@ -1,0 +1,339 @@
+{
+  "batch": "10",
+  "range": [
+    495,
+    549
+  ],
+  "rows": [
+    {
+      "i": 495,
+      "key": "/C46AFE564B605212FA3BC09176A8D18C",
+      "en": "Lumina Dust",
+      "bg": "Прах от Лумина"
+    },
+    {
+      "i": 496,
+      "key": "/92E9C01044AB7F3D10E46C9537F567E9",
+      "en": "Lumina Ingot",
+      "bg": "Слитък на Лумина"
+    },
+    {
+      "i": 497,
+      "key": "/D07687BE4F522B727B0D648665B64ADE",
+      "en": "Lumina Ore",
+      "bg": "Руда от Лумина"
+    },
+    {
+      "i": 498,
+      "key": "/4F6167964BC8AC1671976BB3105B3FAF",
+      "en": "Machine Information",
+      "bg": "Информация за машината"
+    },
+    {
+      "i": 499,
+      "key": "/4032288B4839CE5ED97CE0B1BC3C4717",
+      "en": "Manifest",
+      "bg": "Манифест"
+    },
+    {
+      "i": 500,
+      "key": "/D343F189435DE276D039DEBE7092FB63",
+      "en": "Manifester",
+      "bg": "Манифестатор"
+    },
+    {
+      "i": 501,
+      "key": "/8849168747D2AA6ED6A4AD8F3365A30C",
+      "en": "Manually destroying resources now gives double items",
+      "bg": "Ръчното унищожаване на ресурси сега дава двойно повече предмети"
+    },
+    {
+      "i": 502,
+      "key": "/AE7F0DC14744ABB168A27C95C07840A7",
+      "en": "Max Dig Radius",
+      "bg": "Максимален радиус за копаене"
+    },
+    {
+      "i": 503,
+      "key": "/DF4F9BA04DB4B0EC98D8D599D864167C",
+      "en": "Max Energy",
+      "bg": "Максимална енергия"
+    },
+    {
+      "i": 504,
+      "key": "/D4089231474B1B6BBC2545A23806DDD3",
+      "en": "Max FPS",
+      "bg": "Максимални FPS"
+    },
+    {
+      "i": 505,
+      "key": "/A7763FDB4C6CC986BEB94AB4C6C197D3",
+      "en": "Max Resources",
+      "bg": "Максимален брой ресурси"
+    },
+    {
+      "i": 506,
+      "key": "/6D1DFE4F4E461F84FF64378E5F59E65B",
+      "en": "Max Spawns",
+      "bg": "Максимални повиквания"
+    },
+    {
+      "i": 507,
+      "key": "/B08222A047C10CCE392E05B46E44E9A3",
+      "en": "Max Time 1",
+      "bg": "Максимум време 1"
+    },
+    {
+      "i": 508,
+      "key": "/559E4F854F6FEE17994F52A12AD1FE94",
+      "en": "Max Time 2",
+      "bg": "Максимум време 2"
+    },
+    {
+      "i": 509,
+      "key": "/60EF639644217E4F4C107AA465FFBFCC",
+      "en": "Max Time 3",
+      "bg": "Максимално време 3"
+    },
+    {
+      "i": 510,
+      "key": "/E39DA7E44318BD5688CF62B2177FE9F7",
+      "en": "Maximize efficiency by building small factories near minigame locations. Machines remain active while you explore.",
+      "bg": "Оптимизирай ефективността, като строиш малки фабрики близо до локациите на мини-игри. Машините остават активни, докато изследваш."
+    },
+    {
+      "i": 511,
+      "key": "/6359931142BE0033067C49B0D1307C8C",
+      "en": "Maximum Level",
+      "bg": "Максимално ниво"
+    },
+    {
+      "i": 512,
+      "key": "/9D9999654DBC794D9DEE4AA413AC93A3",
+      "en": "Medium",
+      "bg": "Средно"
+    },
+    {
+      "i": 513,
+      "key": "/52562A2B4588FC07E2FA1CBBEC93FD04",
+      "en": "Melee Crit",
+      "bg": "Критичен удар от близко разстояние"
+    },
+    {
+      "i": 514,
+      "key": "/77991DA642459B0F4ADC81A5D6894488",
+      "en": "Melee Crit Chance",
+      "bg": "Шанс за критичен удар от близко разстояние"
+    },
+    {
+      "i": 515,
+      "key": "/99063756441E7A30A343D2A6E834B11F",
+      "en": "Melody Missing",
+      "bg": "Липсва мелодия"
+    },
+    {
+      "i": 516,
+      "key": "/753E1C7645C20E17F8391D8DD6770B2A",
+      "en": "Memories",
+      "bg": "Спомени"
+    },
+    {
+      "i": 517,
+      "key": "/9D0D4942432AF6386AC83FAE41E0BAED",
+      "en": "Memory Chest",
+      "bg": "Сандък със спомени"
+    },
+    {
+      "i": 518,
+      "key": "/A0F157054493CA79C24087839F55B483",
+      "en": "Memory Circuit",
+      "bg": "Електрическа верига на паметта"
+    },
+    {
+      "i": 519,
+      "key": "/E8B0E7724E8ECC35A7DBACAA4DFF9AC4",
+      "en": "Memory Shrine",
+      "bg": "Олтар на спомените"
+    },
+    {
+      "i": 520,
+      "key": "/D7735CF54DD0B7603BCD83A7E583C5F4",
+      "en": "Milestone Item",
+      "bg": "Предмет на етап"
+    },
+    {
+      "i": 521,
+      "key": "/430DE88E413C6521F46394AB6AC83E06",
+      "en": "Milestone Item Unlocks",
+      "bg": "Отключвания за предметите на етапи"
+    },
+    {
+      "i": 522,
+      "key": "/D32EA161451FD47BD20DFC88F0790BB7",
+      "en": "Milestone Items",
+      "bg": "Предмети на етапи"
+    },
+    {
+      "i": 523,
+      "key": "/DD5EE5E34BF846201ABABBBE850DE917",
+      "en": "Milestone: ",
+      "bg": "Етап: "
+    },
+    {
+      "i": 524,
+      "key": "/3EC45167411044F87497278B5AE476CA",
+      "en": "Milestones",
+      "bg": "Етапи"
+    },
+    {
+      "i": 525,
+      "key": "/CC1F82BB4CB8F2D4A3904384BC5FDA8F",
+      "en": "Mineral Multiplier",
+      "bg": "Умножител на минерали"
+    },
+    {
+      "i": 526,
+      "key": "/9484B0AA41B2E5E94C9B509F12912D24",
+      "en": "Minigame Ability 1",
+      "bg": "Способност 1 за мини-играта"
+    },
+    {
+      "i": 527,
+      "key": "/C2E248924F781DE348D37AB75F56445F",
+      "en": "Minigame Ability 2",
+      "bg": "Способност 2 за мини-играта"
+    },
+    {
+      "i": 528,
+      "key": "/66E0C84A46D68007BCBA59A173A3FEC6",
+      "en": "Minigame Item",
+      "bg": "Предмет на мини-играта"
+    },
+    {
+      "i": 529,
+      "key": "/AC850AD04564CE933D5459B16B292835",
+      "en": "Modern Assembler",
+      "bg": "Модерен асемблер"
+    },
+    {
+      "i": 530,
+      "key": "/0FEBCB21406770A8D72E939A05B36747",
+      "en": "Modern Chest",
+      "bg": "Модерна сандъка"
+    },
+    {
+      "i": 531,
+      "key": "/1D4E874A4321B26A988B31B9945809FD",
+      "en": "Modern Collector",
+      "bg": "Модерен събирател"
+    },
+    {
+      "i": 532,
+      "key": "/EFE5C5EC49272289BD9291A164EA5532",
+      "en": "Modern Drill",
+      "bg": "Модерна бормашина"
+    },
+    {
+      "i": 533,
+      "key": "/6923C1F14D79B2434056ACB63A4BA49D",
+      "en": "Modern Fabric",
+      "bg": "Събирач на модерни предмети"
+    },
+    {
+      "i": 534,
+      "key": "/55DC7C6547A5A77453D2E8A39902D03B",
+      "en": "Modern Gearbox",
+      "bg": "Модерна кутия за предавки"
+    },
+    {
+      "i": 535,
+      "key": "/20B352614C77AC8AC273DCB0A7993EFE",
+      "en": "Modern Jetpack",
+      "bg": "Събирач на модерни предмети"
+    },
+    {
+      "i": 536,
+      "key": "/A010AD614B8C70C3678AF6B7733CC16C",
+      "en": "Modern Metal Smeltery",
+      "bg": "Модерна пещ за топене на метал"
+    },
+    {
+      "i": 537,
+      "key": "/59930DAB47AD3811CDCFA7A3729CD949",
+      "en": "Modern Pipe",
+      "bg": "Събирач на модерни предмети"
+    },
+    {
+      "i": 538,
+      "key": "/232CD29A4995C0C455558FA3E5A12AD6",
+      "en": "Modern Plant Farmer",
+      "bg": "Модерна растителна ферма"
+    },
+    {
+      "i": 539,
+      "key": "/84D69E694BA25997E721E492988168EC",
+      "en": "Modern Press",
+      "bg": "Събирач на модерни предмети"
+    },
+    {
+      "i": 540,
+      "key": "/433089CA4A417CBB23D4CDA58AF4948A",
+      "en": "Modern Rock Crusher",
+      "bg": "Модерна каменотрошачка"
+    },
+    {
+      "i": 541,
+      "key": "/D701E211458E37CE6E97BEA27E120603",
+      "en": "Modern Toolbelt",
+      "bg": "Модерна кожена престилка"
+    },
+    {
+      "i": 542,
+      "key": "/D82D29FB42FA691BD75DCEAFEC14748F",
+      "en": "Modern Wood Cutter",
+      "bg": "Модерен дървосекач"
+    },
+    {
+      "i": 543,
+      "key": "/53A90B214BD76091B90BA38C95DF3CD2",
+      "en": "Momentum",
+      "bg": "Инерция"
+    },
+    {
+      "i": 544,
+      "key": "/61DEEFE04399F6526602548BE40632EE",
+      "en": "Moon Flower",
+      "bg": "Лунно цвете"
+    },
+    {
+      "i": 545,
+      "key": "/955B9D3F458A38CFD409D2A1D7CFF28F",
+      "en": "More",
+      "bg": "Повече"
+    },
+    {
+      "i": 546,
+      "key": "/61BD1F4B4FF33CFA35D3918A7826AAF0",
+      "en": "Mountain Unlocks:",
+      "bg": "Планински отключвания:"
+    },
+    {
+      "i": 547,
+      "key": "/A86B281746740404EAF022BB2F535723",
+      "en": "Mouse Sensitivity",
+      "bg": "Чувствителност на мишката"
+    },
+    {
+      "i": 548,
+      "key": "/015BAC9A4563D5C3931050A4FCBB6DCC",
+      "en": "Move Backward",
+      "bg": "Движи се назад"
+    },
+    {
+      "i": 549,
+      "key": "/E7E2B2244A5D96CE65C6DD8C1F1591E6",
+      "en": "Move Forward",
+      "bg": "Движи се напред"
+    }
+  ]
+}

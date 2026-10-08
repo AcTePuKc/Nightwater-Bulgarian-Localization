@@ -1,0 +1,339 @@
+{
+  "batch": "04",
+  "range": [
+    165,
+    219
+  ],
+  "rows": [
+    {
+      "i": 165,
+      "key": "/FEDDBCBF46EF780073E4B1AB8304573C",
+      "en": "Boon of Reflection",
+      "bg": "Благословия на отражението"
+    },
+    {
+      "i": 166,
+      "key": "/E82710854174A5FEB4B15AB2F50E29D3",
+      "en": "Boon of Speed",
+      "bg": "Благословия на скоростта"
+    },
+    {
+      "i": 167,
+      "key": "/5909AB544AD91856B90B91A539E93BB6",
+      "en": "Boon of Tenacity",
+      "bg": "Благословия на издръжливостта"
+    },
+    {
+      "i": 168,
+      "key": "/3D42A66A451D474D7CD32597CF2B2CAB",
+      "en": "Boons",
+      "bg": "Благословии"
+    },
+    {
+      "i": 169,
+      "key": "/25EE80E6436EFF9D4F9DD6A975EA77E0",
+      "en": "Borderless fullscreen",
+      "bg": "Безрамков цял екран"
+    },
+    {
+      "i": 170,
+      "key": "/0A27A2454F007CC41094FCBC4DD5F303",
+      "en": "Born, experienced and forgotten",
+      "bg": "Роден, преживян и забравен"
+    },
+    {
+      "i": 171,
+      "key": "/2C08F09D4D01FE6A5BEC8EA009888865",
+      "en": "Bronze Ingot",
+      "bg": "Бронзов слитък"
+    },
+    {
+      "i": 172,
+      "key": "/0697D1CA4BF3DF44CDA244A17102D1AD",
+      "en": "Bronze Pickaxe",
+      "bg": "Бронзова кирка"
+    },
+    {
+      "i": 173,
+      "key": "/E208CCD54DBE31AAE6D49AB2D774DC5E",
+      "en": "Bronze Statue",
+      "bg": "Бронзова статуя"
+    },
+    {
+      "i": 174,
+      "key": "/E8139AD64E21BC04AD514AB97FD6A36C",
+      "en": "Buffs",
+      "bg": "Подобрения"
+    },
+    {
+      "i": 175,
+      "key": "/D48B00A64A0E652969425F8B7E1718D6",
+      "en": "Buffs Progression",
+      "bg": "Прогрес на подобренията"
+    },
+    {
+      "i": 176,
+      "key": "/A8B4C0D644BA415DD4CCC19110ACAD05",
+      "en": "Build",
+      "bg": "Строителство"
+    },
+    {
+      "i": 177,
+      "key": "/64494F5D456EBB162F28A59FE648ED74",
+      "en": "Build Menu",
+      "bg": "Меню за строителство"
+    },
+    {
+      "i": 178,
+      "key": "/F60F7B414417006E8EE837B2CD9B5C45",
+      "en": "Build Mode",
+      "bg": "Режим на строителство"
+    },
+    {
+      "i": 179,
+      "key": "/C2B59179468A74DFF7158092E8FC8E2E",
+      "en": "Buildings Progression",
+      "bg": "Прогрес на сградите"
+    },
+    {
+      "i": 180,
+      "key": "/ED45614344401BFBAC7F0F9264EF3733",
+      "en": "Burner",
+      "bg": "Горелка"
+    },
+    {
+      "i": 181,
+      "key": "/480776CE45519A3B7D37E080D3B5546C",
+      "en": "But endings echo here",
+      "bg": "Но краищата тук отекват"
+    },
+    {
+      "i": 182,
+      "key": "/EDD1B39C42CF839174E17B8022125219",
+      "en": "By using the teleporter equipment, you can teleport to teleport pads. Teleport pads can be renamed.",
+      "bg": "С помощта на телепортера можеш да се телепортираш до телепортационни платформи. Телепортационните платформи могат да се преименуват."
+    },
+    {
+      "i": 183,
+      "key": "/5294D3844B936439CBD6678F14B8434A",
+      "en": "CRIT",
+      "bg": "КРИТ"
+    },
+    {
+      "i": 184,
+      "key": "/E172DCE448F9FE9AA0DEC28A635F8106",
+      "en": "Cactus",
+      "bg": "Кактус"
+    },
+    {
+      "i": 185,
+      "key": "/9BFC7A224B52436AF4F4E88B2A86AEF2",
+      "en": "Campfire",
+      "bg": "Бивак огън"
+    },
+    {
+      "i": 186,
+      "key": "/618B0C564F29A032EFB379B44E1E63F2",
+      "en": "Can Hold 75 items. Using the Linked System equipment automatically transfers all items from all linked chests to your inventory.",
+      "bg": "Може да побере 75 предмета. Оборудването на свързаната система автоматично прехвърля всички предмети от свързаните сандъци в инвентара ти."
+    },
+    {
+      "i": 187,
+      "key": "/A6E39E6C47C4A870E8DBE2BA70675619",
+      "en": "Can be attached to Upgrade slots on Assembler Buildings. The Assembler has a 50% chance of producing double the number of items with each action, does not stack.",
+      "bg": "Може да се прикрепи към слотове за надграждане на сгради асемблери. Асемблерът има 50% шанс да произведе двойно количество предмети с всяко действие, не се натрупва."
+    },
+    {
+      "i": 188,
+      "key": "/F2598B3D459725D063CBD692CE89A2F9",
+      "en": "Can be attached to Upgrade slots on Harvester Buildings. Harvesters ignore and automatically delete all byproducts. Focuses production on primary resources.",
+      "bg": "Може да се прикрепи към слотовете за подобрения на сградите за автоматично събиране. Събирачите игнорират и автоматично премахват всички странични продукти. Фокусира производството върху основните ресурси."
+    },
+    {
+      "i": 189,
+      "key": "/9789AE4142AB51FFAF1A1AB479757E0B",
+      "en": "Can be attached to Upgrade slots on Harvester Buildings. Increases speed by 20% for each additional Harvester in the vicinity.",
+      "bg": "Може да се прикрепи към слотовете за подобрения на сградите за автоматично събиране. Увеличава скоростта с 20% за всеки допълнителен събирач в близост."
+    },
+    {
+      "i": 190,
+      "key": "/23EC218A4724E0C8B332CB9FBC30AF3F",
+      "en": "Can be attached to Upgrade slots on Harvester Buildings. Increases speed by 40% if there are no other Farmers nearby.",
+      "bg": "Може да се прикрепи към слотовете за подобрения на сградите за автоматично събиране. Увеличава скоростта с 40%, ако наблизо няма други растителни ферми."
+    },
+    {
+      "i": 191,
+      "key": "/D9BA30274B8835AB17D69A95766D7C4D",
+      "en": "Can be attached to Upgrade slots on compatible buildings. Increases machine speed by 15%.",
+      "bg": "Може да се прикрепи към слотове за надграждане на съвместими сгради. Увеличава скоростта на машината с 15%."
+    },
+    {
+      "i": 192,
+      "key": "/E3702157440083CD292A29A396C54F3F",
+      "en": "Can be attached to Upgrade slots on compatible buildings. Increases machine speed by 20%.",
+      "bg": "Може да се прикрепи към слотове за надграждане на съвместими сгради. Увеличава скоростта на машината с 20%."
+    },
+    {
+      "i": 193,
+      "key": "/D9329D9D4ED23EC19FAF88B4D1E91EF8",
+      "en": "Can be attached to Upgrade slots on compatible buildings. Increases machine speed by 25%.",
+      "bg": "Може да се прикрепи към слотове за надграждане на съвместими сгради. Увеличава скоростта на машината с 25%."
+    },
+    {
+      "i": 194,
+      "key": "/65A38E8B4DF219977EA98E938F1A0BAE",
+      "en": "Can be attached to Upgrade slots on compatible buildings. Increases the building's operating range by 1.5 meters.",
+      "bg": "Може да се прикрепи към слотове за надграждане на съвместими сгради. Увеличава оперативния обхват на сградата с 1,5 метра."
+    },
+    {
+      "i": 195,
+      "key": "/44F457AC445EA55D25EE8CA80B1AFE80",
+      "en": "Can be attached to Upgrade slots on compatible buildings. Increases the building's operating range by 3 meters.",
+      "bg": "Може да се прикрепи към слотове за надграждане на съвместими сгради. Увеличава оперативния обхват на сградата с 3 метра."
+    },
+    {
+      "i": 196,
+      "key": "/308F49A14CE41101DD567E91F955E0D0",
+      "en": "Can be attached to Upgrade slots on compatible buildings. Increases the building's operating range by 4.5 meters.",
+      "bg": "Може да се прикрепи към слотове за надграждане на съвместими сгради. Увеличава оперативния обхват на сградата с 4,5 метра."
+    },
+    {
+      "i": 197,
+      "key": "/30539AE147658F8843AA6C8D4A16A57C",
+      "en": "Can be crafted at the Tinker Station.\r\nUnlocks the Workbench and Research tabs in the inventory.",
+      "bg": "Може да се изработи в Станцията за доработка.\r\nОтключва картите Работилница и Изследвания в инвентара."
+    },
+    {
+      "i": 198,
+      "key": "/C0352F67423FEEE064D795863C757703",
+      "en": "Can be crafted at the Tinker Station.\r\nUnlocks the Workbench, Research and Tinker tabs in the inventory.",
+      "bg": "Може да се изработи в Станцията за доработка.\r\nОтключва картите Работилница, Изследвания и Доработка в инвентара."
+    },
+    {
+      "i": 199,
+      "key": "/E84B493544AF5A0838E840B7388A651A",
+      "en": "Change Buffs",
+      "bg": "Промени бонусите"
+    },
+    {
+      "i": 200,
+      "key": "/8628B9A64A519ED15E9D63900836B9C4",
+      "en": "Change Building with:",
+      "bg": "Промени сграда с:"
+    },
+    {
+      "i": 201,
+      "key": "/16E98D2C4A004759974FD68BCCC34612",
+      "en": "Change Category",
+      "bg": "Промени категория"
+    },
+    {
+      "i": 202,
+      "key": "/ED3FE5B545005BCC89FF1AA024A7E7BD",
+      "en": "Change Current Craft",
+      "bg": "Промени текущо производство"
+    },
+    {
+      "i": 203,
+      "key": "/8D66F1754BC8EA8FAF5676A2EA92DD9B",
+      "en": "Change Filter ",
+      "bg": "Промени филтър"
+    },
+    {
+      "i": 204,
+      "key": "/5095022C40AD4E8EFADE2A85BB2CAA51",
+      "en": "Change Name",
+      "bg": "Промени името"
+    },
+    {
+      "i": 205,
+      "key": "/B4AF82E840126CF3A42EAC93A5452B40",
+      "en": "Change Stats",
+      "bg": "Прикажи статистика"
+    },
+    {
+      "i": 206,
+      "key": "/1D53BE02402602BF8967CD8911810374",
+      "en": "Chili",
+      "bg": "Чили"
+    },
+    {
+      "i": 207,
+      "key": "/8E5E0AA2458E8DEA97AF0C8D781392ED",
+      "en": "Choices",
+      "bg": "Избори"
+    },
+    {
+      "i": 208,
+      "key": "/19D946C6479191690B0A78AD65D4D264",
+      "en": "Choose Buff",
+      "bg": "Избери бонус"
+    },
+    {
+      "i": 209,
+      "key": "/85446E6541EAB01EBA798C9A2FC250E2",
+      "en": "Choose Class",
+      "bg": "Избери клас"
+    },
+    {
+      "i": 210,
+      "key": "/838C489A4AA39927607AB7B0A08EC306",
+      "en": "Choose Recipe",
+      "bg": "Избери рецепта"
+    },
+    {
+      "i": 211,
+      "key": "/C08CB1B44905D6BFB15640BC2D47E8BD",
+      "en": "Choose Upgrade",
+      "bg": "Избери надграждане"
+    },
+    {
+      "i": 212,
+      "key": "/91C3B17D4872062E1C66A686A0DA365A",
+      "en": "Choose one",
+      "bg": "Избери една"
+    },
+    {
+      "i": 213,
+      "key": "/34F875834DE7DBE6C49B9F9E06E8DB93",
+      "en": "Class Selection",
+      "bg": "Избор на клас"
+    },
+    {
+      "i": 214,
+      "key": "/B9A3E3C843AF0922C94266A9AAF600F4",
+      "en": "Clay",
+      "bg": "Глина"
+    },
+    {
+      "i": 215,
+      "key": "/E9871E1C4E776C672A03278BC7246624",
+      "en": "Clay Brick",
+      "bg": "Тухла от глина"
+    },
+    {
+      "i": 216,
+      "key": "/28E9A5714DE4F3920FB1D88C987F16E7",
+      "en": "Clear Debris",
+      "bg": "Изчисти останките"
+    },
+    {
+      "i": 217,
+      "key": "/3D052C3D4271641B6B37ACA7C958F883",
+      "en": "Clear debris to unlock new oasis areas and discover stronger plants. Progress far enough to unlock powerful buffs and unique buildings outside of the minigame.",
+      "bg": "Изчиствай отломките, за да отключиш нови оазисни зони и откриеш по-силни растения. Напредвай достатъчно далеч, за да отключиш мощни бонуси и уникални сгради извън минииграта."
+    },
+    {
+      "i": 218,
+      "key": "/0BBAE0A945DE458549BA37827A3CDCB3",
+      "en": "Click empty rune slots to equip new runes, or click equipped runes to replace them. Higher-quality runes have stronger effects, and newly found runes are based on the average quality of your currently equipped runes. Rune quality scales infinitely.",
+      "bg": "Кликни върху празните слотове за руни, за да оборудваш нови руни или кликни върху оборудваните руни, за да ги замениш. Руните с по-високо качество имат по-силни ефекти, а новооткритите руни се базират на средното качество на твоите в момента оборудвани руни. Качеството на руната нараства безкрайно."
+    },
+    {
+      "i": 219,
+      "key": "/F14E72E445B1AD99871E1998231B5DB0",
+      "en": "Close",
+      "bg": "Затвори"
+    }
+  ]
+}

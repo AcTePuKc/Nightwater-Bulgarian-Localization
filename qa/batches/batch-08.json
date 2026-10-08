@@ -1,0 +1,339 @@
+{
+  "batch": "08",
+  "range": [
+    385,
+    439
+  ],
+  "rows": [
+    {
+      "i": 385,
+      "key": "/88787F9241E259E0A2DB7CA8BA7B04A4",
+      "en": "Harvest wood by destroying trees. To damage a tree, look at it and press [Left Mouse Button]. Press [B] to open the Building Menu.",
+      "bg": "Събирай дървесина, като унищожаваш дърветата. За да повредиш дърво, погледни към него и натисни [Left Mouse Button]. Натисни [B], за да отвориш менюто за строителство."
+    },
+    {
+      "i": 386,
+      "key": "/4A7E9B65439F9E87A08717B761D85E39",
+      "en": "Harvest {Value} more plants",
+      "bg": "Събери още {Value} растения"
+    },
+    {
+      "i": 387,
+      "key": "/B98EACD7406F92A30D16C0944723A9F9",
+      "en": "Heavy Strikes",
+      "bg": "Тежки удари"
+    },
+    {
+      "i": 388,
+      "key": "/87F102D54CA6198696ECDCA5149C3EBE",
+      "en": "Here, the void is born...",
+      "bg": "Тук се ражда празнотата..."
+    },
+    {
+      "i": 389,
+      "key": "/B1E6180944D9C52F2E24E2A9AF60A418",
+      "en": "High",
+      "bg": "Високо"
+    },
+    {
+      "i": 390,
+      "key": "/0F03DB3745DF4F5A2E4ACAA769AD4CFA",
+      "en": "Hitting a resource poisons it for 10 damage per second over 3 seconds.",
+      "bg": "Ударът върху ресурс го отравя за 10 щети в секунда през следващите 3 секунди."
+    },
+    {
+      "i": 391,
+      "key": "/3CF315C14E1F4A3D4376F7B307114A64",
+      "en": "Hold down the jump button to activate the jetpack and fly over resources and buildings, at a fast speed.",
+      "bg": "Натисни и задръж бутона за скок, за да активираш джетпака и да летиш бързо над ресурсите и сградите."
+    },
+    {
+      "i": 392,
+      "key": "/A0742F6C4BAB5E0264FB328726600AFF",
+      "en": "I created this place. You had no say",
+      "bg": "Аз създадох това място. Ти нямаш думата тук."
+    },
+    {
+      "i": 393,
+      "key": "/FB170AD64F3F06CE78BE06A7564CA737",
+      "en": "I feel the thinness... the grain of tired hands",
+      "bg": "Чувствам тънкостта... зърното на уморените ръце."
+    },
+    {
+      "i": 394,
+      "key": "/7B1FA1744BD8B35EE5E5BCA258B371B2",
+      "en": "I keep building reasons from tools",
+      "bg": "Аз продължавам да изграждам причини от инструменти."
+    },
+    {
+      "i": 395,
+      "key": "/ADB983364A1588F5C90344A2B697FF9F",
+      "en": "I know... a cruel question",
+      "bg": "Знам... жесток въпрос."
+    },
+    {
+      "i": 396,
+      "key": "/F49DBCE6424078A1B78C83A49C81B3CF",
+      "en": "I wasn't meant to stay this long",
+      "bg": "Не трябваше да оставам толкова дълго тук."
+    },
+    {
+      "i": 397,
+      "key": "/5B2C84304589C73C1B97439F146D3730",
+      "en": "Ice",
+      "bg": "Лед"
+    },
+    {
+      "i": 398,
+      "key": "/0B2B00604753C3B5ABB12FABB29E2ED6",
+      "en": "Idle data generates 25% faster.",
+      "bg": "Пасивните данни се генерират с 25% по-бързо."
+    },
+    {
+      "i": 399,
+      "key": "/4BEFD59B47FB2F5A392738956CDA31DC",
+      "en": "In Inventory:",
+      "bg": "В инвентара:"
+    },
+    {
+      "i": 400,
+      "key": "/6F2B05B745BBCE20A874D5866685EBB8",
+      "en": "Increase",
+      "bg": "Увеличи"
+    },
+    {
+      "i": 401,
+      "key": "/CE72AD834EE7E7D792532F9A58604274",
+      "en": "Increase Axe Damage 1",
+      "bg": "Увеличаване на щетата от брадва 1"
+    },
+    {
+      "i": 402,
+      "key": "/CE05AE5540DBD98E18EFBFA10FBADD90",
+      "en": "Increase Axe Damage 2",
+      "bg": "Увеличаване на щетата от брадва 2"
+    },
+    {
+      "i": 403,
+      "key": "/9FA8C25D48A3E80AA3F34F9B9797E895",
+      "en": "Increase Base Value",
+      "bg": "Увеличи основната стойност"
+    },
+    {
+      "i": 404,
+      "key": "/5C41A58B40496B452F2CF48FA477778F",
+      "en": "Increase Bit & Hogg Damage 1",
+      "bg": "Увеличаване на щетата от Bit & Hogg 1"
+    },
+    {
+      "i": 405,
+      "key": "/E87ABBC84F255816CBAD4B984F64B732",
+      "en": "Increase Bit & Hogg Damage 2",
+      "bg": "Увеличаване на щетата от Bit & Hogg 2"
+    },
+    {
+      "i": 406,
+      "key": "/5D53EEE644862955D7C4788430F989EE",
+      "en": "Increase Bit & Hogg Radius",
+      "bg": "Увеличи радиуса на Bit & Hogg"
+    },
+    {
+      "i": 407,
+      "key": "/A52769E941F3C32BC3BB779856F25E16",
+      "en": "Increase Multiplier",
+      "bg": "Увеличаване на множителя"
+    },
+    {
+      "i": 408,
+      "key": "/9659F73D4EE02A1B2FC2CF9DD0B47C5B",
+      "en": "Increase Resource Gain",
+      "bg": "Увеличи добива на ресурси"
+    },
+    {
+      "i": 409,
+      "key": "/337FEA2145810B5A51827AA7D9B29F07",
+      "en": "Increase Rune Rarity",
+      "bg": "Увеличаване рядкостта на руните"
+    },
+    {
+      "i": 410,
+      "key": "/50D3505946392AB9C85E7EA77080505F",
+      "en": "Increase Sprint Speed",
+      "bg": "Увеличаване на скоростта при спринт"
+    },
+    {
+      "i": 411,
+      "key": "/F5B0855545C303AD27C4E8AD23B3DDEC",
+      "en": "Increased Speed",
+      "bg": "Повишена скорост"
+    },
+    {
+      "i": 412,
+      "key": "/08C84DAC419EC5716ACF43B29CD93EAE",
+      "en": "Increases all Data from runs and idling by 10% per level. Can be bought infinitely.",
+      "bg": "Увеличава всички данни от турове и бездействие с 10% на ниво. Може да се купува неограничено."
+    },
+    {
+      "i": 413,
+      "key": "/E3A8F09A4FB6EF60BE2A0AB6E2E621AD",
+      "en": "Increases both ore and mineral multipliers by {RuneStrength}",
+      "bg": "Увеличава множителите за руда и минерали с {RuneStrength}"
+    },
+    {
+      "i": 414,
+      "key": "/6B2203C84AD9842D849991AD4C725EBF",
+      "en": "Increases critical hit chance with tools by 30%",
+      "bg": "Увеличава шанса за критичен удар с инструменти с 30%"
+    },
+    {
+      "i": 415,
+      "key": "/1C086EEA4510A209ED5065A1034623A4",
+      "en": "Increases damage by 50% but lowers movement speed by 10%.",
+      "bg": "Увеличава щетите с 50%, но намалява скоростта на движение с 10%."
+    },
+    {
+      "i": 416,
+      "key": "/8B19D0F5463CE672C08C568A8391A8E8",
+      "en": "Increases explosion damage by 10% of the destroyed resource's health.",
+      "bg": "Увеличава щетите от експлозията с 10% от здравето на унищожения ресурс."
+    },
+    {
+      "i": 417,
+      "key": "/E1436B794F82B2653218DB96E13903AB",
+      "en": "Increases max energy by {RuneStrength}",
+      "bg": "Увеличава максималната енергия с {RuneStrength}"
+    },
+    {
+      "i": 418,
+      "key": "/7C41A3A4440FB0A89E3D4D805E476779",
+      "en": "Increases the base multiplier of all plants by 1.",
+      "bg": "Увеличава основния множител на всички растения с 1."
+    },
+    {
+      "i": 419,
+      "key": "/6D700F00456661CAD3013F84761F35F2",
+      "en": "Increases the chance for higher tier resources to spawn.",
+      "bg": "Увеличава шанса за появата на ресурси от по-висок ранг."
+    },
+    {
+      "i": 420,
+      "key": "/81B634E14F3B02FED73687A6D3DF6879",
+      "en": "Increases the chance for stone to spawn over trees.",
+      "bg": "Увеличава шанса за появата на камъни вместо дървета."
+    },
+    {
+      "i": 421,
+      "key": "/80A88E9A4C2DD522C911BEA661884D31",
+      "en": "Increases the chance for trees to spawn over stone.",
+      "bg": "Увеличава шанса за появата на дървета вместо камъни."
+    },
+    {
+      "i": 422,
+      "key": "/65CE6D6342DAE53EAA2642BC489BC75F",
+      "en": "Increases the chance of finding higher-quality runes",
+      "bg": "Увеличава шанса за откриване на руни с по-високо качество"
+    },
+    {
+      "i": 423,
+      "key": "/732C3B79492297E1874B96AA3D34754D",
+      "en": "Increases the chance of getting a rare buff from chests by {RuneStrength}%",
+      "bg": "Увеличава шанса да получиш рядък бонус от сандъци с {RuneStrength}%."
+    },
+    {
+      "i": 424,
+      "key": "/8AE38A4D4568977504334BB70AC5017D",
+      "en": "Increases the damage you deal to all resources by 15%.",
+      "bg": "Увеличава щетите, които нанасяш върху всички ресурси с 15%."
+    },
+    {
+      "i": 425,
+      "key": "/E059CDD14F90C28E5C91A28F5A78AFD6",
+      "en": "Increases the energy gained from collecting ores by {RuneStrength}",
+      "bg": "Увеличава енергията, която получаваш от събирането на руди с {RuneStrength}"
+    },
+    {
+      "i": 426,
+      "key": "/2DE4085A44897EA67344A688AC53CDCE",
+      "en": "Increases the lucky drop multiplier by 1x per level, up to 5x.",
+      "bg": "Увеличава множителя за щастливи изпадания с 1x на ниво, до максимум 5x."
+    },
+    {
+      "i": 427,
+      "key": "/18B08370465FF7C13775B2AB07FA5204",
+      "en": "Increases the max amount you can receive of any resource by +2",
+      "bg": "Увеличава максималното количество от всеки ресурс с +2"
+    },
+    {
+      "i": 428,
+      "key": "/3893B90C43C8391A0BC02CA7CBD82F5B",
+      "en": "Increases the mineral multiplier by 1",
+      "bg": "Увеличава множителя за минерали с 1."
+    },
+    {
+      "i": 429,
+      "key": "/6D8195DC465D51814C28C78095537C98",
+      "en": "Increases the mineral multiplier by {RuneStrength}",
+      "bg": "Увеличава множителя за минерали с {RuneStrength}."
+    },
+    {
+      "i": 430,
+      "key": "/94EC70A9477A47665D9C548B1CF3C3FE",
+      "en": "Increases the ore multiplier by 1",
+      "bg": "Увеличава множителя на рудата с 1"
+    },
+    {
+      "i": 431,
+      "key": "/230F4A9F4C8AE6CC64F079949C5822F9",
+      "en": "Increases the ore multiplier by {RuneStrength}",
+      "bg": "Увеличава множителя на рудата с {RuneStrength}"
+    },
+    {
+      "i": 432,
+      "key": "/B60282BA40794B06DD0515865C4EF1F4",
+      "en": "Increases the rarity cap for newly found runes by {RuneStrength}",
+      "bg": "Увеличава максималната рядкост на новооткритите руни с {RuneStrength}"
+    },
+    {
+      "i": 433,
+      "key": "/A0981E9442562E701599FB99CD96D44B",
+      "en": "Increases the spawn rate of ores, minerals, buffs, and runes by 10%",
+      "bg": "Увеличава честотата на поява на руди, минерали, бонуси и руни с 10%"
+    },
+    {
+      "i": 434,
+      "key": "/464D9D5C42EE1942532BA99B41AE5314",
+      "en": "Increases the speed of farmers and assemblers within the data center's radius by 50%. Multiple data centers do not stack this effect.",
+      "bg": "Увеличава скоростта на фермерите и сглобяващите машини в радиуса на центъра за данни с 50%. Ефектът не се натрупва при няколко центъра за данни."
+    },
+    {
+      "i": 435,
+      "key": "/116EE8AA4C4BD6239180988314E92DC6",
+      "en": "Increases the speed of farmers and assemblers within the solar panel's radius by 25%. Multiple solar panels do not stack this effect.",
+      "bg": "Увеличава скоростта на фермерите и сглобяващите машини в радиуса на соларния панел с 25%. Ефектът не се натрупва при няколко соларни панела."
+    },
+    {
+      "i": 436,
+      "key": "/1D69A49E453156EDBDE9F28CC38EC3F7",
+      "en": "Increases your container size by 10% per level. Can be bought infinitely.",
+      "bg": "Увеличава размера на инвентара с 10% на ниво. Може да се купува неограничен брой пъти."
+    },
+    {
+      "i": 437,
+      "key": "/9E44F16447DB62B1B9A7EDB2CD2F26BC",
+      "en": "Increases your dig radius by {RuneStrength} meters.",
+      "bg": "Увеличава радиуса на копаене с {RuneStrength} метра."
+    },
+    {
+      "i": 438,
+      "key": "/BEE556154353AF9F544238A879522BD4",
+      "en": "Increases your movement speed by 12%.",
+      "bg": "Увеличава скоростта на движение с 12%."
+    },
+    {
+      "i": 439,
+      "key": "/6587433C4E27EC43E9C1B9BF91EBD686",
+      "en": "Increases your movement speed by 5% per level.",
+      "bg": "Увеличава скоростта ти на движение с 5% на ниво."
+    }
+  ]
+}

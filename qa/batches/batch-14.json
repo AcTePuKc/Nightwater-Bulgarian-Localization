@@ -1,0 +1,339 @@
+{
+  "batch": "14",
+  "range": [
+    715,
+    769
+  ],
+  "rows": [
+    {
+      "i": 715,
+      "key": "/15CB63E64044432B7DDC9C9CDB3F1447",
+      "en": "Resources",
+      "bg": "Ресурси"
+    },
+    {
+      "i": 716,
+      "key": "/9FAECDCB4F3A2FBF717F6FBC5EE4E076",
+      "en": "Resources being farmed",
+      "bg": "Събирани ресурси"
+    },
+    {
+      "i": 717,
+      "key": "/B014417B41B1159A09660C98E037BD05",
+      "en": "Resources shatter instantly once their health drops below 10%.",
+      "bg": "Ресурсите се разрушават веднага, щом здравето им падне под 10%."
+    },
+    {
+      "i": 718,
+      "key": "/B596BE374ECF5CD61FB75BBAFAFFE521",
+      "en": "Resources spawn with 15% less health.",
+      "bg": "Ресурси с 15% по-малко здраве"
+    },
+    {
+      "i": 719,
+      "key": "/6E17DFB3436901A62719749523DC421A",
+      "en": "Resources take 25% more damage after the first hit and have a 10% chance to drop double fuel and credits.",
+      "bg": "Ресурсите получават 25% повече щети след първия удар и има 10% шанс да изпуснат двойно гориво и кредити."
+    },
+    {
+      "i": 720,
+      "key": "/C74F58ED4D19E8014B9DFDB9F0867C4F",
+      "en": "Resources you destroy explode, dealing 25% of the destroyed resource's health as damage to everything within 6 meters.",
+      "bg": "Ресурсите, които унищожаваш, експлодират и нанасят 25% от здравето на разрушения ресурс като щета на всичко в радиус от 6 метра."
+    },
+    {
+      "i": 721,
+      "key": "/466C06ED4654085B482CCE9950840C5D",
+      "en": "Rest now...",
+      "bg": "Отдъхни сега..."
+    },
+    {
+      "i": 722,
+      "key": "/3E3353E04B885FA8214E1E996A5D4636",
+      "en": "Return",
+      "bg": "Върни се"
+    },
+    {
+      "i": 723,
+      "key": "/8F240FF94B3D87AF7C66719D1FC723EB",
+      "en": "Rich Veins",
+      "bg": "Богати жили"
+    },
+    {
+      "i": 724,
+      "key": "/7D8A6EE44138CA0B7EEC99A4E289597E",
+      "en": "Ricochet",
+      "bg": "Рикошет"
+    },
+    {
+      "i": 725,
+      "key": "/8CA841A14AB09BAFE49C63BA69785ABF",
+      "en": "Rock Crusher Speed",
+      "bg": "Скорост на каменотрошачката"
+    },
+    {
+      "i": 726,
+      "key": "/61FE94264B588FD41D436DADEB41FCA8",
+      "en": "Rocky Ground",
+      "bg": "Камениста земя"
+    },
+    {
+      "i": 727,
+      "key": "/9A685AFF493C581A989C7E915CC36E8F",
+      "en": "Rotate Building",
+      "bg": "Завърти сградата"
+    },
+    {
+      "i": 728,
+      "key": "/D93C54C9472BDD2BFB5CCE941E42A343",
+      "en": "Rotate Building with:",
+      "bg": "Завърти сградата с:"
+    },
+    {
+      "i": 729,
+      "key": "/4DC164A2488630F534A56AA26C091F2E",
+      "en": "Round Credits",
+      "bg": "Кредити за рунда"
+    },
+    {
+      "i": 730,
+      "key": "/FE6F5972401784687893FF86514EF3E9",
+      "en": "Round {RoundNumber}",
+      "bg": "Кръг {RoundNumber}"
+    },
+    {
+      "i": 731,
+      "key": "/5C0BACA44F82F093E1E8FEB531FE643D",
+      "en": "Rules you wrote... boundaries you drew",
+      "bg": "Правила, които написа... граници, които начерта"
+    },
+    {
+      "i": 732,
+      "key": "/EE00E2CE4971B088A2D5E69F85F55F1E",
+      "en": "Run Duration",
+      "bg": "Продължителност на бягането"
+    },
+    {
+      "i": 733,
+      "key": "/8A638BCC400854636111F4B8E7000CF2",
+      "en": "Run Finished",
+      "bg": "Бягане завършено"
+    },
+    {
+      "i": 734,
+      "key": "/24E306DF4747EC85CF7F319B1ACE01BD",
+      "en": "Rune",
+      "bg": "Руна"
+    },
+    {
+      "i": 735,
+      "key": "/5DE3F43C4A9EF0EAB2CFC1B21B36560C",
+      "en": "START",
+      "bg": "СТАРТ"
+    },
+    {
+      "i": 736,
+      "key": "/632ECD5D4669890B9CA25A8F646388D3",
+      "en": "Sand",
+      "bg": "Пясък"
+    },
+    {
+      "i": 737,
+      "key": "/FDB2DF6543243B3F28E2718237AA760C",
+      "en": "Sandstone Statue",
+      "bg": "Статуя от пясъчник"
+    },
+    {
+      "i": 738,
+      "key": "/10DB189C4ABA7A3C1196DFBDE5F3EFAA",
+      "en": "Satisfaction",
+      "bg": "Удовлетворение"
+    },
+    {
+      "i": 739,
+      "key": "/089270D84D321878249386BCC2D850DB",
+      "en": "Save",
+      "bg": "Запази"
+    },
+    {
+      "i": 740,
+      "key": "/BBDBEC7E46477EED8B3C5B9109B48260",
+      "en": "Save Slot 1",
+      "bg": "Запазена игра 1"
+    },
+    {
+      "i": 741,
+      "key": "/D8E69E4F4E8006A477C8E78669DC507F",
+      "en": "Save Slot 2",
+      "bg": "Запазена игра 2"
+    },
+    {
+      "i": 742,
+      "key": "/EFF2EAF3416645CEEE0BF0A3C79C8922",
+      "en": "Save Slot 3",
+      "bg": "Запазена игра 3"
+    },
+    {
+      "i": 743,
+      "key": "/7DCF9BC04A41F1156A3567978B7C07FC",
+      "en": "See how the isle stretches when we demand more?",
+      "bg": "Виждаш ли как островът се разтяга, когато искаме повече?"
+    },
+    {
+      "i": 744,
+      "key": "/262CA1DC4FD7C500DF2A0B92BAE053EF",
+      "en": "Select Alternative Recipe",
+      "bg": "Избери алтернативен рецепт"
+    },
+    {
+      "i": 745,
+      "key": "/404AD9B34AF218A3473907A513ADE2EF",
+      "en": "Select Boon",
+      "bg": "Избери благословия"
+    },
+    {
+      "i": 746,
+      "key": "/4DFC51F04C6156294AA7E9AC612BAF79",
+      "en": "Select Buff",
+      "bg": "Избери бонус"
+    },
+    {
+      "i": 747,
+      "key": "/A76F25AE4822E0FDA17412A7F15388EA",
+      "en": "Select Building",
+      "bg": "Избери сграда"
+    },
+    {
+      "i": 748,
+      "key": "/3AB16B4B4B47FDD216C49AA2978E70E9",
+      "en": "Select Craft",
+      "bg": "Избери занаят"
+    },
+    {
+      "i": 749,
+      "key": "/4364E9A943AE9251E841088009AE41DE",
+      "en": "Select Equipment",
+      "bg": "Избери оборудване"
+    },
+    {
+      "i": 750,
+      "key": "/9D0F5CA4469C15066B024EBFC71916F8",
+      "en": "Select Item to produce",
+      "bg": "Избери предмет за производство"
+    },
+    {
+      "i": 751,
+      "key": "/79DB40524668C7BDABD0AF9964113CB6",
+      "en": "Select Land",
+      "bg": "Избери земя"
+    },
+    {
+      "i": 752,
+      "key": "/702828244D1734D9B283B6AFB7FA0554",
+      "en": "Select Memory",
+      "bg": "Избери спомен"
+    },
+    {
+      "i": 753,
+      "key": "/F4233B3B41CC149345CB95B26246E944",
+      "en": "Select Pickaxe",
+      "bg": "Избери кирка"
+    },
+    {
+      "i": 754,
+      "key": "/186E967246618AD3C7A9ECBB50AE6BF4",
+      "en": "Select Plant",
+      "bg": "Избери растение"
+    },
+    {
+      "i": 755,
+      "key": "/B8B8FBDD498791682E85DE98A8687146",
+      "en": "Select Recipe",
+      "bg": "Избери рецепта"
+    },
+    {
+      "i": 756,
+      "key": "/CC624D5B40CF973309C319A889448EC3",
+      "en": "Select Rune",
+      "bg": "Избери руна"
+    },
+    {
+      "i": 757,
+      "key": "/E137D0CF4AEBA79B7CA9EF9077E4F749",
+      "en": "Select Skill",
+      "bg": "Избери умение"
+    },
+    {
+      "i": 758,
+      "key": "/E0B5D4034F03901C0A177AA509B5AEB1",
+      "en": "Select Teleporter",
+      "bg": "Избери телепортер"
+    },
+    {
+      "i": 759,
+      "key": "/EFB324EA46084AA662ECEF9D06C1D03F",
+      "en": "Select Type to boost",
+      "bg": "Избери тип за увеличаване"
+    },
+    {
+      "i": 760,
+      "key": "/6372182B478DA182C899709F5E3D2671",
+      "en": "Selected Building Type: {CurrentlySelectedFarmer}",
+      "bg": "Избран тип сграда: {CurrentlySelectedFarmer}"
+    },
+    {
+      "i": 761,
+      "key": "/7ADD61764CBA73D0A0BC989E16D30A9A",
+      "en": "Shadow Quality",
+      "bg": "Качество на сенките"
+    },
+    {
+      "i": 762,
+      "key": "/B7BE5EDD408980559DFD19896A1262DF",
+      "en": "Sharpened Tools",
+      "bg": "Наострени инструменти"
+    },
+    {
+      "i": 763,
+      "key": "/2040CDDE40605FD55E69C69683BC3071",
+      "en": "Shortens each round by 3 seconds but grants 40% movement speed.",
+      "bg": "Съкращава всяка рунда с 3 секунди, но дава 40% скорост на движение."
+    },
+    {
+      "i": 764,
+      "key": "/F5A6EE6F475FCADBA9F184B16808C696",
+      "en": "Shots per Attack",
+      "bg": "Изстрели на атака"
+    },
+    {
+      "i": 765,
+      "key": "/300EC824416C0219323D0AAD03AAFA09",
+      "en": "Signal Tower",
+      "bg": "Сигнална кула"
+    },
+    {
+      "i": 766,
+      "key": "/54AA2ABE429BA510D5C70E8B5E70A2F1",
+      "en": "Simple Circuit Board",
+      "bg": "Проста печатна платка"
+    },
+    {
+      "i": 767,
+      "key": "/D784AB5444F962993D3050A9729E6E73",
+      "en": "Simple Computing Unit",
+      "bg": "Прост изчислителен модул"
+    },
+    {
+      "i": 768,
+      "key": "/E1A8B85546BC06E79991B59C148FD226",
+      "en": "Simple Drill",
+      "bg": "Проста бормашина"
+    },
+    {
+      "i": 769,
+      "key": "/DCA18F3A447CCED1FA8A97B063F5870D",
+      "en": "Skip Tutorial",
+      "bg": "Прескочи уводното обучение"
+    }
+  ]
+}

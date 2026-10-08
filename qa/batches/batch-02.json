@@ -1,0 +1,339 @@
+{
+  "batch": "02",
+  "range": [
+    55,
+    109
+  ],
+  "rows": [
+    {
+      "i": 55,
+      "key": "/7BEB2E23436BD62AC64E5E9516FFFD68",
+      "en": "A statue that prevents resources from spawning within its radius.",
+      "bg": "Статуя, която предотвратява появата на ресурси в радиуса си."
+    },
+    {
+      "i": 56,
+      "key": "/81603A8C4DFDB5A3598363A1A90ADA07",
+      "en": "A sturdy tool for gathering resources with a base power of 10. Upgradeable at the Tinker Station.",
+      "bg": "Здрав инструмент за събиране на ресурси с основна мощност 10. Може да се надгражда в работилницата."
+    },
+    {
+      "i": 57,
+      "key": "/63CB1A294A703C0B2998389490EAD45D",
+      "en": "A sturdy tool for gathering resources with a base power of 14. Upgradeable at the Tinker Station.",
+      "bg": "Здрав инструмент за събиране на ресурси с основна мощност 14. Може да се надгражда в работилницата."
+    },
+    {
+      "i": 58,
+      "key": "/143852284F16A51B506334BD2F46A033",
+      "en": "A sturdy tool for gathering resources with a base power of 18. Upgradeable at the Tinker Station.",
+      "bg": "Здрав инструмент за събиране на ресурси с основна мощност 18. Може да се надгражда в работилницата."
+    },
+    {
+      "i": 59,
+      "key": "/AF75E2094AA81D3391B9C48B56DD6FB6",
+      "en": "A sturdy tool for gathering resources with a base power of 4. Upgradeable at the Tinker Station.",
+      "bg": "Здрав инструмент за събиране на ресурси с основна мощност 4. Може да се надгражда в работилницата."
+    },
+    {
+      "i": 60,
+      "key": "/4709592B4808C73D836C5A94FB637099",
+      "en": "A sturdy tool for gathering resources with a base power of 6. Upgradeable at the Tinker Station.",
+      "bg": "Здрав инструмент за събиране на ресурси с основна мощност 6. Може да се надгражда в работилницата."
+    },
+    {
+      "i": 61,
+      "key": "/8817A23949BEB7502769CD9D1892C642",
+      "en": "A sturdy wooden container for item storage and buffer management. Limited capacity of 30 items.",
+      "bg": "Здрав дървен контейнер за съхранение на предмети и управление на буфери. Ограничен капацитет от 30 предмета."
+    },
+    {
+      "i": 62,
+      "key": "/890C1002439582D0C7DFC0BF5EACAC0E",
+      "en": "Abilities",
+      "bg": "Способности"
+    },
+    {
+      "i": 63,
+      "key": "/279BA09D44A9493D6AE970A52057828E",
+      "en": "About Runes",
+      "bg": "За руните"
+    },
+    {
+      "i": 64,
+      "key": "/68CDCEC042EB3F6C74669CA1B4616AAA",
+      "en": "Acceptance",
+      "bg": "Приемане"
+    },
+    {
+      "i": 65,
+      "key": "/D4E13FE344A8DE790648DA823E523BFD",
+      "en": "Action",
+      "bg": "Действие"
+    },
+    {
+      "i": 66,
+      "key": "/85BDB0004952855B5E7B3BB647596BDD",
+      "en": "Add",
+      "bg": "Добави"
+    },
+    {
+      "i": 67,
+      "key": "/F4C7B81E4B04B160C249939D2A1F6ED5",
+      "en": "Adds 10% chain chance per level.",
+      "bg": "Добавя 10% шанс за верижна реакция на ниво."
+    },
+    {
+      "i": 68,
+      "key": "/12B4093C4847A340151FCFAF001616D5",
+      "en": "Adds 2% chance per level for a resource to drop double fuel and credits.",
+      "bg": "Добавя 2% шанс на ниво ресурсът да даде двойно гориво и кредити."
+    },
+    {
+      "i": 69,
+      "key": "/B820ABF945976EE4F76F01B9E3C028FA",
+      "en": "Adds 5 seconds to every run.",
+      "bg": "Добавя 5 секунди към всяка обиколка."
+    },
+    {
+      "i": 70,
+      "key": "/4602B3B54E7B084D17DEC1B61BB25237",
+      "en": "Adds 5% chance for a hit to instantly shatter the resource.",
+      "bg": "Добавя 5% шанс за удар, който да разбие ресурса на момента."
+    },
+    {
+      "i": 71,
+      "key": "/39BF737A49C28AF3E7FB77AED01BFCE8",
+      "en": "Adds 6 flat damage to every hit.",
+      "bg": "Добавя 6 фиксирани щети към всеки удар."
+    },
+    {
+      "i": 72,
+      "key": "/BB9943AE4F651C062665998AE14C923C",
+      "en": "Advanced Drill",
+      "bg": "Напреднала сонда"
+    },
+    {
+      "i": 73,
+      "key": "/79509E8E4CC6A83C4DB983B58F66AF0A",
+      "en": "Advanced Fabric",
+      "bg": "Напрегната тъкан"
+    },
+    {
+      "i": 74,
+      "key": "/DFD982C14EFA4AE42B0E6FB0FF620D3C",
+      "en": "Advanced Toolbelt",
+      "bg": "Пояс за напреднали инструменти"
+    },
+    {
+      "i": 75,
+      "key": "/4E4519494730A6569CE85EB13222BEF2",
+      "en": "After all you have tried...",
+      "bg": "След всичко, което си опитал..."
+    },
+    {
+      "i": 76,
+      "key": "/970B5C244FB61E5959E1448AB356D43F",
+      "en": "After all...",
+      "bg": "Накрая..."
+    },
+    {
+      "i": 77,
+      "key": "/9A08DA844887CB11F8416EA07E702A78",
+      "en": "All plants can receive one additional buff.",
+      "bg": "Всички растения могат да получат едно допълнително поощрение."
+    },
+    {
+      "i": 78,
+      "key": "/DCBCAB3A4E1053F71CDE8DBA3AFF7F3A",
+      "en": "Allows Dig Radius buffs to spawn, temporarily increasing your dig radius by +2 meters.",
+      "bg": "Позволява появата на бонуси за радиус на копаене, които временно увеличават радиуса ти за копаене с +2 метра."
+    },
+    {
+      "i": 79,
+      "key": "/6E2E78E84EBFEA6EEEC756B01EF582A3",
+      "en": "Allows Energy buffs to spawn, granting 300 energy when collected",
+      "bg": "Позволява появата на бонуси за енергия, които дават 300 енергия при събиране."
+    },
+    {
+      "i": 80,
+      "key": "/85C9F8044D5FAD2E3A55A3A17526F3A9",
+      "en": "Allows Multiplier buffs to spawn, temporarily increasing both the ore and mineral multiplier by 1",
+      "bg": "Позволява появата на бонуси за множител, които временно увеличават множителя на рудата и минералите с 1."
+    },
+    {
+      "i": 81,
+      "key": "/54431B5A4F8171E80FCBEBB293C2035A",
+      "en": "Allows loot boxes to spawn, containing a variety of ores and minerals",
+      "bg": "Позволява появата на сандъци с плячка, съдържащи различни руди и минерали."
+    },
+    {
+      "i": 82,
+      "key": "/FE547C394009A802800498B7925E2174",
+      "en": "Alloy Forge",
+      "bg": "Ковачница за сплави"
+    },
+    {
+      "i": 83,
+      "key": "/3CF899014C9445E46C24EBA88CA57105",
+      "en": "Alternative Recipe",
+      "bg": "Алтернативна рецепта"
+    },
+    {
+      "i": 84,
+      "key": "/E318CEA14C8671BD3F3D2C8431C2D47B",
+      "en": "Am I inspiration, or rule?",
+      "bg": "Аз вдъхновение ли съм, или правило?"
+    },
+    {
+      "i": 85,
+      "key": "/77DD0B744E549A065C2177A5BC927A2E",
+      "en": "Ambient Volume",
+      "bg": "Обем на околния звук"
+    },
+    {
+      "i": 86,
+      "key": "/565DF2FD43665D5A8E7F208176E994C6",
+      "en": "Ambush",
+      "bg": "Засада"
+    },
+    {
+      "i": 87,
+      "key": "/2289B70640F9560FC8960793E088C7B5",
+      "en": "An altar that slowly generates all types of wood milestone items without requiring resources.",
+      "bg": "Олтар, който бавно генерира всички видове дървесни ресурси за етапи, без да изисква ресурси."
+    },
+    {
+      "i": 88,
+      "key": "/CFBECD804754C4A0E0300D94E8E3E91C",
+      "en": "An altar that slowly generates any item without requiring resources.",
+      "bg": "Олтар, който бавно генерира всеки предмет без да изисква ресурси."
+    },
+    {
+      "i": 89,
+      "key": "/76003AE2451683CC0DEF7BA9B49C859E",
+      "en": "An altar that slowly generates wood. It does not require nearby wood resources to operate",
+      "bg": "Олтар, който бавно генерира дървесина. Не изисква близки дървесни ресурси, за да функционира."
+    },
+    {
+      "i": 90,
+      "key": "/C161454C4EB1542E10053BB6DCEDA2DD",
+      "en": "An end draws near",
+      "bg": "Краят наближава"
+    },
+    {
+      "i": 91,
+      "key": "/3ABC842545013F60C43EC19C77AA2A1A",
+      "en": "Analyze Cost",
+      "bg": "Анализирай цена"
+    },
+    {
+      "i": 92,
+      "key": "/2256AF92448BA2D80364C69E5CAA57C2",
+      "en": "Analyzer",
+      "bg": "Анализатор"
+    },
+    {
+      "i": 93,
+      "key": "/92C0F491470A994A245E5F819428F38E",
+      "en": "Ancient Irrigation",
+      "bg": "Древно напояване"
+    },
+    {
+      "i": 94,
+      "key": "/AC7D85BF4745FA1A525535AC7FB6147E",
+      "en": "And in the end, there’s nothing you can do...",
+      "bg": "И накрая, няма нищо, което можеш да направиш..."
+    },
+    {
+      "i": 95,
+      "key": "/9B053A254FBFBD127E9835A6D7CAFD00",
+      "en": "Another Nightwater will find you once the hunger returns",
+      "bg": "Друг Найтуотър ще те намери, когато гладът се завърне."
+    },
+    {
+      "i": 96,
+      "key": "/7999CA92425BFDBDCA4223BD49F59A46",
+      "en": "Anti-Aliasing Quality",
+      "bg": "Качество анти-алиасинг"
+    },
+    {
+      "i": 97,
+      "key": "/E611422A438AC7C94F2355B5A012C20D",
+      "en": "Apply",
+      "bg": "Приложи"
+    },
+    {
+      "i": 98,
+      "key": "/466C45C649DF3E4C4ECE1DA26DAEA607",
+      "en": "Apply Window Settings",
+      "bg": "Приложи настройки на прозореца"
+    },
+    {
+      "i": 99,
+      "key": "/5902B95841C454DEA7AB64BEE9E52D9A",
+      "en": "Arc Furnace",
+      "bg": "Електролучна пещ"
+    },
+    {
+      "i": 100,
+      "key": "/EA6596514E7ADD4E97958996C32ECA70",
+      "en": "Are these rules you chose... or rules pressed upon you?",
+      "bg": "Тези правила ли избра ти... или са наложени върху теб?"
+    },
+    {
+      "i": 101,
+      "key": "/0E0B68144AD8CD3B60B14299F86C9B6D",
+      "en": "Are you free, or chained?",
+      "bg": "Свободен ли си, или окован?"
+    },
+    {
+      "i": 102,
+      "key": "/D5A09AF94DF23BEEBEB4C089111AA585",
+      "en": "Area of Effect range: {AoERange}",
+      "bg": "Обсег на зоната на действие: {AoERange}"
+    },
+    {
+      "i": 103,
+      "key": "/A37F4E0646C862D56C9331914E62641E",
+      "en": "Area of Effect strength: {AoEStrength}",
+      "bg": "Сила на зоната на действие: {AoEStrength}"
+    },
+    {
+      "i": 104,
+      "key": "/1933952148F31EB7F134BFB43383F12F",
+      "en": "Area-of-Effect Ability",
+      "bg": "Способност със зона на действие"
+    },
+    {
+      "i": 105,
+      "key": "/B15EBC804EDFB8BE6ED42C8DC30D5B40",
+      "en": "Area-of-Effect Damage",
+      "bg": "Щети в зоната на действие"
+    },
+    {
+      "i": 106,
+      "key": "/7A13476C44400C7E291175B24A4D58CC",
+      "en": "Area-of-Effect Radius",
+      "bg": "Радиус на зоната на действие"
+    },
+    {
+      "i": 107,
+      "key": "/D196E4D848285F207B6084957257F074",
+      "en": "Ask yourself... are you satisfied?",
+      "bg": "Запитай се... доволен ли си?"
+    },
+    {
+      "i": 108,
+      "key": "/16B3FAF44EB4E687B9682CB08B51103F",
+      "en": "Assembling Progress",
+      "bg": "Напредък на сглобяването"
+    },
+    {
+      "i": 109,
+      "key": "/0400615141F7843550132CA299358717",
+      "en": "Attack 20% faster, but deal 5 less base damage.",
+      "bg": "Атакувай 20% по-бързо, но нанасяй 5 единици по-малко основни щети."
+    }
+  ]
+}

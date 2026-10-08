@@ -1,0 +1,339 @@
+{
+  "batch": "07",
+  "range": [
+    330,
+    384
+  ],
+  "rows": [
+    {
+      "i": 330,
+      "key": "/8831E8AC483073B1D0E5CDB042D73362",
+      "en": "Extrovert Upgrade",
+      "bg": "Надграждане на екстроверт"
+    },
+    {
+      "i": 331,
+      "key": "/F26E2E72445ECFD3E87252B659104225",
+      "en": "FINISH",
+      "bg": "ЗАВЪРШИ"
+    },
+    {
+      "i": 332,
+      "key": "/9656E7094FEB52CD89F937AF8023A733",
+      "en": "FOV",
+      "bg": "Поле на видимост"
+    },
+    {
+      "i": 333,
+      "key": "/3E388A644A38352B3D5B43BBB66ED622",
+      "en": "Fading Memory",
+      "bg": "Избледняваща памет"
+    },
+    {
+      "i": 334,
+      "key": "/018BBA23409B03D81213D880B79497CB",
+      "en": "Farm Automation",
+      "bg": "Автоматизация на ферма"
+    },
+    {
+      "i": 335,
+      "key": "/E4F1FCE14CABE9FB501BC09EDDBAE985",
+      "en": "Farm desert plants in an abandoned oasis. Plant crops, wait for them to grow, and harvest them to earn Gold and increase your Plants Harvested progress. Plants also grow while not in the Oasis!",
+      "bg": "Отглеждай пустинни растения в изоставена оазис. Засаждай култури, чакай ги да пораснат и прибирай реколтата си за злато и увеличаване на прогреса ти с обраните растения. Растенията също растат докато не си в Оазиса!"
+    },
+    {
+      "i": 336,
+      "key": "/7F9F961E419F856DECB94D9466CB3091",
+      "en": "Farm {Value} more Wood Dust to unlock this entry.",
+      "bg": "Събери още {Value} дървесен прах, за да отключиш този вход."
+    },
+    {
+      "i": 337,
+      "key": "/F0FDDE4E4D744073C128BDBB883D83C1",
+      "en": "Fast operating wood harvester with a base capacity of 15 per slot",
+      "bg": "Бърз събирач на дървесина с основен капацитет 15 на слот"
+    },
+    {
+      "i": 338,
+      "key": "/C2486C13482B19795117ACA37F0B695B",
+      "en": "Fear",
+      "bg": "Страх"
+    },
+    {
+      "i": 339,
+      "key": "/AF49C7AB4303C60BD005BF96281D4383",
+      "en": "Featherweight",
+      "bg": "Перолек"
+    },
+    {
+      "i": 340,
+      "key": "/E7D233164315CAE67D28F99F9C9A07C4",
+      "en": "Feeding a hunger without end",
+      "bg": "Нахранване на ненаситен глад"
+    },
+    {
+      "i": 341,
+      "key": "/0DE1BF524D25FA6E77E08AA96AC79F5C",
+      "en": "Fertilizer Vera",
+      "bg": "Тор Vera"
+    },
+    {
+      "i": 342,
+      "key": "/E53C60CA4E2A5A9FBF3218B1E071665F",
+      "en": "Filter",
+      "bg": "Филтър"
+    },
+    {
+      "i": 343,
+      "key": "/EAF95DC746E4BF6F6FB661AE8A209D10",
+      "en": "Filter Rarity",
+      "bg": "Филтрирай по рядкост"
+    },
+    {
+      "i": 344,
+      "key": "/399F6A9046BF3BA2CDEFE99B97DF3E6C",
+      "en": "Filter Type",
+      "bg": "Филтрирай по тип"
+    },
+    {
+      "i": 345,
+      "key": "/4EADBFB3438FEAF64A456D9E7EAAF4B2",
+      "en": "Final Area",
+      "bg": "Крайна зона"
+    },
+    {
+      "i": 346,
+      "key": "/66E4E6784D0DFA7A9430A1A5DBF71E8F",
+      "en": "Find Pickaxes",
+      "bg": "Намери кирки"
+    },
+    {
+      "i": 347,
+      "key": "/8DCF8E784971FF7B458FE5BC4377FDB1",
+      "en": "Fir Wood",
+      "bg": "Дъбов дървен материал"
+    },
+    {
+      "i": 348,
+      "key": "/4A715349402B50DEC153D8B9EE5C078D",
+      "en": "Fire",
+      "bg": "Огън"
+    },
+    {
+      "i": 349,
+      "key": "/CE9B05CF40CF5B3216740C90D8534001",
+      "en": "Fire Cascade",
+      "bg": "Каскада от огън"
+    },
+    {
+      "i": 350,
+      "key": "/A20F26254973F1BD080DA288EA9CC029",
+      "en": "Fires one more shot per burst, but each bullet deals 10% less damage.",
+      "bg": "Изстрелва още един изстрел на залп, но всеки куршум нанася 10% по-малко щети."
+    },
+    {
+      "i": 351,
+      "key": "/EE532073409271FBCE377894ADAC66CE",
+      "en": "Flash visual on hit",
+      "bg": "Блесна светлина при попадение"
+    },
+    {
+      "i": 352,
+      "key": "/055AF7C64E26AB45E12D338A3907B865",
+      "en": "For combining various simple alloys into advanced materials, at a fast speed.",
+      "bg": "За комбиниране на различни прости сплави в усъвършенствани материали, с висока скорост."
+    },
+    {
+      "i": 353,
+      "key": "/99F100DE41CDEEA8943930A6309345A3",
+      "en": "For combining various simple alloys into advanced materials, at a slow speed.",
+      "bg": "За комбиниране на различни прости сплави в усъвършенствани материали, с ниска скорост."
+    },
+    {
+      "i": 354,
+      "key": "/0D7E3825477996088F591193479ADB2F",
+      "en": "For smelting raw ores into refined ingots or coke production, at a fast speed.",
+      "bg": "За топене на сурови руди в рафинирани блокове или за производството на кокс, с висока скорост."
+    },
+    {
+      "i": 355,
+      "key": "/5AF1C32C47E33160AE26B3B9AE95E9BC",
+      "en": "For smelting raw ores into refined ingots or coke production, at a slow speed.",
+      "bg": "За топене на сурови руди в рафинирани блокове или за производството на кокс, с ниска скорост."
+    },
+    {
+      "i": 356,
+      "key": "/CC539ECC42BE3CA235F3BB8623812B6D",
+      "en": "Forced by your own choice",
+      "bg": "Принуден от собствения си избор"
+    },
+    {
+      "i": 357,
+      "key": "/3FDCDD8243882E277F625B89AB8A209A",
+      "en": "Forest Luck",
+      "bg": "Горска късметлийка"
+    },
+    {
+      "i": 358,
+      "key": "/1E78500D4665DCE0F63037ADFB39A94A",
+      "en": "Forest Unlocks:",
+      "bg": "Отключвания в гората:"
+    },
+    {
+      "i": 359,
+      "key": "/507BFCF44590176CD459E6BCF97750EA",
+      "en": "Fuel Bonus",
+      "bg": "Бонус гориво"
+    },
+    {
+      "i": 360,
+      "key": "/BF7A687849F9E1542030398F9EC4A97E",
+      "en": "Fuel Shortage",
+      "bg": "Недостиг на гориво"
+    },
+    {
+      "i": 361,
+      "key": "/0A088F584FC5EE8CCD95568C5A5D6B48",
+      "en": "Fuel:",
+      "bg": "Гориво:"
+    },
+    {
+      "i": 362,
+      "key": "/6615CBD34EE393A53E74D6B38D164A39",
+      "en": "Fullscreen",
+      "bg": "Пълен екран"
+    },
+    {
+      "i": 363,
+      "key": "/D6103E354B3D60B02F89078942CEE9A1",
+      "en": "Gain 1 Credit per level for every 10 Fuel collected above the round goal.",
+      "bg": "Печелиш 1 кредит на ниво за всяко събрано гориво над целта на рунда."
+    },
+    {
+      "i": 364,
+      "key": "/9798DB8844D76388EA3CED8F0C790B06",
+      "en": "Gain 20 energy whenever you collect ore",
+      "bg": "Получаваш 20 енергия всеки път, когато събереш руда"
+    },
+    {
+      "i": 365,
+      "key": "/F2E03EF04B25E041805081B6FF4F187B",
+      "en": "Gain 4% more damage per level for every 10 Credits left unspent when you leave the shop.",
+      "bg": "Печелиш допълнителни 4% щети на ниво за всеки неразходен кредит, когато излизаш от магазина."
+    },
+    {
+      "i": 366,
+      "key": "/EBE504894446CF97B2895ABCD01F28DC",
+      "en": "Gambler Upgrade",
+      "bg": "Надстройка комарджия"
+    },
+    {
+      "i": 367,
+      "key": "/3A73D98B48FB87B156C50A9F0604A97A",
+      "en": "Gameplay",
+      "bg": "Игрови процес"
+    },
+    {
+      "i": 368,
+      "key": "/F79CFB304F34F0D2321B2E8B43BBA581",
+      "en": "Gather Wood Dust from trees to advance",
+      "bg": "Събирай дървесна прах от дърветата, за да напредваш."
+    },
+    {
+      "i": 369,
+      "key": "/01257E664C737DB44A5656B3251F150D",
+      "en": "Gather {Value} more Wood Dust",
+      "bg": "Събери още {Value} дървесна прах"
+    },
+    {
+      "i": 370,
+      "key": "/1D5E0FB049F72E509E0C59A3A989876E",
+      "en": "Gather {Value} more fuel",
+      "bg": "Събери още {Value} гориво"
+    },
+    {
+      "i": 371,
+      "key": "/386263AF40FCA3E434A3D0A6F0034C36",
+      "en": "Gather, craft, automate... like muscle memory",
+      "bg": "Събирай, изработвай и автоматизирай... като втора природа."
+    },
+    {
+      "i": 372,
+      "key": "/D26EE37A4B4CEA5A5861818A6F444A32",
+      "en": "Gauntlet",
+      "bg": "Ръкавица"
+    },
+    {
+      "i": 373,
+      "key": "/3544C4574B3C243D79509D8F718D3BA2",
+      "en": "General Multiplier",
+      "bg": "Общ множител"
+    },
+    {
+      "i": 374,
+      "key": "/0170463D407250E3DF28379DA47DE30D",
+      "en": "Geothermal Power Unit",
+      "bg": "Геотермална единица за енергия"
+    },
+    {
+      "i": 375,
+      "key": "/111147FA4FCBFBB62018F1898F0844CD",
+      "en": "Get enough fuel to advance",
+      "bg": "Събери достатъчно гориво, за да напреднеш."
+    },
+    {
+      "i": 376,
+      "key": "/A44368B142DFB795FAD7E2A727ED91CC",
+      "en": "Glass",
+      "bg": "Стъкло"
+    },
+    {
+      "i": 377,
+      "key": "/36D836694A923F0CC3B2CBA3216658BC",
+      "en": "Glass Cannon",
+      "bg": "Стъклен топ"
+    },
+    {
+      "i": 378,
+      "key": "/EBD38A7048A09736486E04B31C56F714",
+      "en": "Go Back",
+      "bg": "Върни се назад"
+    },
+    {
+      "i": 379,
+      "key": "/3D43735346994B2D548A118FE71FD26C",
+      "en": "Gold stored: {GoldAmount}",
+      "bg": "Съхранено злато: {GoldAmount}"
+    },
+    {
+      "i": 380,
+      "key": "/DADF25154BF65967743BD3B31F3A8D80",
+      "en": "Golden Chain",
+      "bg": "Златна верига"
+    },
+    {
+      "i": 381,
+      "key": "/74CC08044E2BCF4643D5E4BA88658702",
+      "en": "Golden Orchid",
+      "bg": "Златен орхидей"
+    },
+    {
+      "i": 382,
+      "key": "/0F7577FB4CE7007AD9194F8A4140B98A",
+      "en": "Golden Watering Can",
+      "bg": "Златна лейка"
+    },
+    {
+      "i": 383,
+      "key": "/FB16DA1841A879D72833A59DA7C2535D",
+      "en": "Growth time increases by 180 seconds for each buff received.",
+      "bg": "Времето за растеж се увеличава с 180 секунди за всяко получено подсилване."
+    },
+    {
+      "i": 384,
+      "key": "/8476A8F5428FBB285F8949905ACABC95",
+      "en": "Harvest enough plants to advance",
+      "bg": "Събери достатъчно растения, за да напреднеш"
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "batch": "19",
+  "range": [
+    990,
+    1044
+  ],
+  "rows": [
+    {
+      "i": 990,
+      "key": "CommonWords/PlantHarvester",
+      "en": "Automatically harvests plant resources within a small radius, at a slow speed. Harvested items count towards Milestone Progression.",
+      "bg": "Автоматично събира растителни ресурси в малък радиус с бавна скорост. Събраните предмети се броят към напредъка по етапите."
+    },
+    {
+      "i": 991,
+      "key": "CommonWords/GaiaEngineDescription",
+      "en": "Automatically harvests plant resources within a small radius, at a very fast speed. Harvested items count towards Milestone Progression.",
+      "bg": "Автоматично събира растителни ресурси в малък радиус с много висока скорост. Събраните предмети се броят към напредъка по етапите."
+    },
+    {
+      "i": 992,
+      "key": "CommonWords/StoneHarvester",
+      "en": "Automatically harvests rock, clay, and ore within a small radius, at a slow speed. Harvested items count towards Milestone Progression.",
+      "bg": "Автоматично събира камъни, глина и руда в малък радиус с бавна скорост. Събраните предмети се броят към напредъка по етапите."
+    },
+    {
+      "i": 993,
+      "key": "CommonWords/WoodHarvester",
+      "en": "Automatically harvests tree resources within a small radius, at a slow speed. Harvested items count towards Milestone Progression.",
+      "bg": "Автоматично събира дървесни ресурси в малък радиус с бавна скорост. Събраните предмети се броят към напредъка по етапите."
+    },
+    {
+      "i": 994,
+      "key": "CommonWords/DesertReplanter",
+      "en": "Automatically replants the same plant after auto harvesting in this Area.",
+      "bg": "След автоматичното прибиране, този инструмент отново засажда същата растителност в тази област."
+    },
+    {
+      "i": 995,
+      "key": "CommonWords/BoonOfDetermination",
+      "en": "Boon of Determination",
+      "bg": "Благословия на решимостта"
+    },
+    {
+      "i": 996,
+      "key": "CommonWords/BoonLuck",
+      "en": "Boon of Luck",
+      "bg": "Благословия на късмета"
+    },
+    {
+      "i": 997,
+      "key": "CommonWords/BoonOfStrength",
+      "en": "Boon of Strength",
+      "bg": "Благословия на силата"
+    },
+    {
+      "i": 998,
+      "key": "CommonWords/ToolbeltTier1",
+      "en": "Can be crafted at the Tinker Station.\r\nA practical belt for organizing equipment. Unlocks the Workbench tab in the inventory.",
+      "bg": "Може да се изработи в работилница.\r\nПрактичен колан за организиране на оборудване. Отключва таба „Работна маса“ в инвентара."
+    },
+    {
+      "i": 999,
+      "key": "CommonWords/WaterTrinketDescription",
+      "en": "Can be crafted at the Tinker Station.\r\nYour tool will gain an additional 20% critical hit chance and the number of items obtained from resources that are finished with a crit is increased by 30%.",
+      "bg": "Може да се изработи в работилница.\r\nTвоят инструмент получава допълнителни 20% шанс за критичен удар, а броят на предметите от ресурси завършени с крит е увеличен с 30%.\r"
+    },
+    {
+      "i": 1000,
+      "key": "CommonWords/TeleporterDescription",
+      "en": "Can be used to teleport to teleport pads. Teleport pads are unlocked automatically.",
+      "bg": "Може да се използва за телепортиране до платформи за телепорт. Платформите за телепорт се отключват автоматично."
+    },
+    {
+      "i": 1001,
+      "key": "CommonWords/Cancel",
+      "en": "Cancel",
+      "bg": "Откажи"
+    },
+    {
+      "i": 1002,
+      "key": "CommonWords/Capacity",
+      "en": "Capacity",
+      "bg": "Капацитет"
+    },
+    {
+      "i": 1003,
+      "key": "CommonWords/Choose",
+      "en": "Choose",
+      "bg": "Избери"
+    },
+    {
+      "i": 1004,
+      "key": "CommonWords/Coal",
+      "en": "Coal",
+      "bg": "Въглища"
+    },
+    {
+      "i": 1005,
+      "key": "CommonWords/Coins",
+      "en": "Coins",
+      "bg": "Монети"
+    },
+    {
+      "i": 1006,
+      "key": "CommonWords/LightspeedPipeDescription",
+      "en": "Connects machines to transfer items between inventories. Medium range with extremely fast throughput.",
+      "bg": "Свързва машини за прехвърляне на предмети между инвентари. Среден обсег с изключително бърз капацитет."
+    },
+    {
+      "i": 1007,
+      "key": "CommonWords/Continue",
+      "en": "Continue",
+      "bg": "Продължи"
+    },
+    {
+      "i": 1008,
+      "key": "CommonWords/CopperOre",
+      "en": "Copper Ore",
+      "bg": "Медна руда"
+    },
+    {
+      "i": 1009,
+      "key": "CommonWords/Craft",
+      "en": "Craft",
+      "bg": "Изработи"
+    },
+    {
+      "i": 1010,
+      "key": "CommonWords/CrownName",
+      "en": "Crown",
+      "bg": "Корона"
+    },
+    {
+      "i": 1011,
+      "key": "CommonWords/DEMO",
+      "en": "DEMO",
+      "bg": "ДЕМО"
+    },
+    {
+      "i": 1012,
+      "key": "CommonWords/Deactivated",
+      "en": "Deactivated",
+      "bg": "Деактивирано"
+    },
+    {
+      "i": 1013,
+      "key": "CommonWords/CrownDescription",
+      "en": "Doubles the manual damage dealt by the tool, as well as the manual resource gain. Manual crafting becomes four times faster.",
+      "bg": "Удвоява ръчно нанесената щета с инструмента, както и ръчния добив на ресурси. Ръчната изработка става четири пъти по-бърза."
+    },
+    {
+      "i": 1014,
+      "key": "CommonWords/DuskGold",
+      "en": "Dusk Gold",
+      "bg": "Злато от здрача"
+    },
+    {
+      "i": 1015,
+      "key": "CommonWords/Empty",
+      "en": "Empty",
+      "bg": "Празно"
+    },
+    {
+      "i": 1016,
+      "key": "CommonWords/EndEarly?",
+      "en": "End Early?",
+      "bg": "Завърши рано?"
+    },
+    {
+      "i": 1017,
+      "key": "CommonWords/EnergyBuff",
+      "en": "Energy Buff",
+      "bg": "Повишаване на енергията"
+    },
+    {
+      "i": 1018,
+      "key": "CommonWords/EpicLootManifester",
+      "en": "Epic Loot Manifester",
+      "bg": "Епичен манифестър за плячка"
+    },
+    {
+      "i": 1019,
+      "key": "CommonWords/Equipment",
+      "en": "Equipment",
+      "bg": "Оборудване"
+    },
+    {
+      "i": 1020,
+      "key": "CommonWords/FactoryName",
+      "en": "Factory",
+      "bg": "Фабрика"
+    },
+    {
+      "i": 1021,
+      "key": "CommonWords/FarmerBuff",
+      "en": "Farmer Buff",
+      "bg": "Подобрение на фермера"
+    },
+    {
+      "i": 1022,
+      "key": "CommonWords/FireDamage",
+      "en": "Fire Damage",
+      "bg": "Щета от огън"
+    },
+    {
+      "i": 1023,
+      "key": "CommonWords/FireRadius",
+      "en": "Fire Radius",
+      "bg": "Радиус на огъня"
+    },
+    {
+      "i": 1024,
+      "key": "CommonWords/Fuel",
+      "en": "Fuel",
+      "bg": "Гориво"
+    },
+    {
+      "i": 1025,
+      "key": "CommonWords/GaiaEngine",
+      "en": "Gaia Plant Farmer",
+      "bg": "Растителна ферма Gaia"
+    },
+    {
+      "i": 1026,
+      "key": "CommonWords/Gold",
+      "en": "Gold",
+      "bg": "Злато"
+    },
+    {
+      "i": 1027,
+      "key": "CommonWords/HearthoftheElder",
+      "en": "Heart of the Elder",
+      "bg": "Сърце на Старейшината"
+    },
+    {
+      "i": 1028,
+      "key": "CommonWords/SimpleJetpackDescription",
+      "en": "Hold down the jump button to activate the jetpack and slowly fly over resources and buildings.",
+      "bg": "Дръжте бутона за скок, за да активирате джетпака и бавно летите над ресурси и сгради."
+    },
+    {
+      "i": 1029,
+      "key": "CommonWords/ManualDataDescription",
+      "en": "Increases the Data you earn for manually finishing this Track by 20% per level.",
+      "bg": "Увеличава данните, които печелите ръчно при завършване на тази писта с 20% за всяко ниво."
+    },
+    {
+      "i": 1030,
+      "key": "CommonWords/IdleDataDescription",
+      "en": "Increases the idle Data generated on this Track by 20% per level.",
+      "bg": "Увеличава генерираните пасивни данни на тази писта с 20% за всеки ниво."
+    },
+    {
+      "i": 1031,
+      "key": "CommonWords/Inventory",
+      "en": "Inventory",
+      "bg": "Инвентар"
+    },
+    {
+      "i": 1032,
+      "key": "CommonWords/IronOre",
+      "en": "Iron Ore",
+      "bg": "Желязна руда"
+    },
+    {
+      "i": 1033,
+      "key": "CommonWords/Level",
+      "en": "Level: ",
+      "bg": "Ниво: "
+    },
+    {
+      "i": 1034,
+      "key": "CommonWords/LightningBounces",
+      "en": "Lightning Bounces",
+      "bg": "Отскачания на мълниите"
+    },
+    {
+      "i": 1035,
+      "key": "CommonWords/LightningChance",
+      "en": "Lightning Chance",
+      "bg": "Шанс за мълния"
+    },
+    {
+      "i": 1036,
+      "key": "CommonWords/LightningDamage",
+      "en": "Lightning Damage",
+      "bg": "Щети от мълнията"
+    },
+    {
+      "i": 1037,
+      "key": "CommonWords/LightspeedPipe",
+      "en": "Lightspeed Pipe",
+      "bg": "Тръба със светлинна скорост"
+    },
+    {
+      "i": 1038,
+      "key": "CommonWords/MESystem",
+      "en": "Linked System",
+      "bg": "Свързан система"
+    },
+    {
+      "i": 1039,
+      "key": "CommonWords/Loading",
+      "en": "Loading",
+      "bg": "Зареждане"
+    },
+    {
+      "i": 1040,
+      "key": "CommonWords/LootBarrel",
+      "en": "Loot Barrel",
+      "bg": "Барел с плячка"
+    },
+    {
+      "i": 1041,
+      "key": "CommonWords/LootBox",
+      "en": "Loot Box",
+      "bg": "Кутия с плячка"
+    },
+    {
+      "i": 1042,
+      "key": "CommonWords/MadeinAssembler",
+      "en": "Made in Assembler",
+      "bg": "Произведено в асемблер"
+    },
+    {
+      "i": 1043,
+      "key": "CommonWords/MadeinFurnace",
+      "en": "Made in Furnace",
+      "bg": "Произведено във фурна"
+    },
+    {
+      "i": 1044,
+      "key": "CommonWords/MadeinPress",
+      "en": "Made in Press",
+      "bg": "Произведено в преса"
+    }
+  ]
+}

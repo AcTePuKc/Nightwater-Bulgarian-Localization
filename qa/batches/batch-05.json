@@ -1,0 +1,339 @@
+{
+  "batch": "05",
+  "range": [
+    220,
+    274
+  ],
+  "rows": [
+    {
+      "i": 220,
+      "key": "/6B683CA5434A1D9E1B054E939D651808",
+      "en": "Close-up distortion effect",
+      "bg": "Ефект на изкривяване отблизо"
+    },
+    {
+      "i": 221,
+      "key": "/3A6E21B14397B0E1A91A0A9812D62043",
+      "en": "Coal Coke",
+      "bg": "Въглищен кокс"
+    },
+    {
+      "i": 222,
+      "key": "/E033C9EF4EDB1AD4D49A82A00704CE33",
+      "en": "Collect on Dig",
+      "bg": "Събиране при изкопаване"
+    },
+    {
+      "i": 223,
+      "key": "/5CC353D0466023B98EDC279528033A0A",
+      "en": "Collect {Value} more {ItemName} to unlock this entry.",
+      "bg": "Събери още {Value} от {ItemName}, за да отключиш тази позиция."
+    },
+    {
+      "i": 224,
+      "key": "/6C31B7324F7D11953D817D9286B069F8",
+      "en": "Combined with my wishes...",
+      "bg": "В комбинация с моите желания..."
+    },
+    {
+      "i": 225,
+      "key": "/DB75F2F44C352AA9FD27D9B34141B347",
+      "en": "Complete Milestones to unlock new buildings, crafts, and buffs. Progress increases by gathering resources manually or via Buildings. Use the Research Table to track progress.",
+      "bg": "Завършвай етапи, за да отключиш нови сгради, рецепти и бонуси. Напредъкът се увеличава чрез ръчно събиране на ресурси или чрез сгради. Използвай изследователската маса, за да следиш прогреса."
+    },
+    {
+      "i": 226,
+      "key": "/DA84C5A942658BA7D15374AE1B93559D",
+      "en": "Completion reveals shapes once hidden from sight",
+      "bg": "Завършването разкрива форми, които преди са били скрити от погледа"
+    },
+    {
+      "i": 227,
+      "key": "/7179DD424A2434A352E0FC85C5B58557",
+      "en": "Confirm Destroy",
+      "bg": "Потвърди унищожаване"
+    },
+    {
+      "i": 228,
+      "key": "/BD22AC6741A692CF60C2D09C7EF38016",
+      "en": "Connects machines to transfer items between inventories. Long range with fast throughput.",
+      "bg": "Свързва машини за прехвърляне на предмети между инвентари. Дълъг обсег с бърз капацитет."
+    },
+    {
+      "i": 229,
+      "key": "/99B9377D4BF1197394F936B5695727D0",
+      "en": "Connects machines to transfer items between inventories. Medium range with medium throughput.",
+      "bg": "Свързва машини за прехвърляне на предмети между инвентари. Среден обсег със среден капацитет."
+    },
+    {
+      "i": 230,
+      "key": "/1CB34A2A494747486D3415B6F4A08062",
+      "en": "Connects machines to transfer items between inventories. Short range with slow throughput.",
+      "bg": "Свързва машини за прехвърляне на предмети между инвентари. Кратък обсег с бавна производителност."
+    },
+    {
+      "i": 231,
+      "key": "/7517693D4AF49657CCE4BB88FB68DB98",
+      "en": "Connects machines to transfer items between inventories. Very long range with very fast throughput.",
+      "bg": "Свързва машини за прехвърляне на предмети между инвентари. Много дълъг обсег с много бърза производителност."
+    },
+    {
+      "i": 232,
+      "key": "/88FDCEB046E3DA5A672F9FA613214900",
+      "en": "Continue to the next area!",
+      "bg": "Продължи към следващата зона!"
+    },
+    {
+      "i": 233,
+      "key": "/4D80DBEE4C83776E08E04C86B2EE76C7",
+      "en": "Contract",
+      "bg": "Договор"
+    },
+    {
+      "i": 234,
+      "key": "/15E154F9419D7F7208C737ADBA422662",
+      "en": "Controls",
+      "bg": "Контроли"
+    },
+    {
+      "i": 235,
+      "key": "/5107801F446E2CB9737E3291A0B2B2F6",
+      "en": "Cooldown Reduction On Kill",
+      "bg": "Намаляване на времето за охлаждане при убийство"
+    },
+    {
+      "i": 236,
+      "key": "/9B59D76C467E1DF6FA1E97B62A51C124",
+      "en": "Cooldown: {CooldownAmount}",
+      "bg": "Време за охлаждане: {CooldownAmount}"
+    },
+    {
+      "i": 237,
+      "key": "/86F98E8349A2E6875333C3AA0E6ABC71",
+      "en": "Cooling Unit",
+      "bg": "Охлаждаща единица"
+    },
+    {
+      "i": 238,
+      "key": "/2870ACD54CA5CB05611424A053C2E689",
+      "en": "Copper Dust",
+      "bg": "Медна прах"
+    },
+    {
+      "i": 239,
+      "key": "/B7EA3D8445197EE659FC0D83AB87D91F",
+      "en": "Copper Ingot",
+      "bg": "Меден слитък"
+    },
+    {
+      "i": 240,
+      "key": "/CC7A923D4D73A6851836D49187A8947E",
+      "en": "Corn",
+      "bg": "Царевица"
+    },
+    {
+      "i": 241,
+      "key": "/0F06EAFF42B8F49F70DFFFBBCD2F7B1D",
+      "en": "Cost: {RequiredData} Data",
+      "bg": "Цена: {RequiredData} Данни"
+    },
+    {
+      "i": 242,
+      "key": "/DDAC59D04079E128D45FD8BF93D0139C",
+      "en": "Craft Item",
+      "bg": "Изработи предмет"
+    },
+    {
+      "i": 243,
+      "key": "/5424AC9E499CAC58EA55CB9429E9A138",
+      "en": "Creates a medium-sized hole. Energy cost: 5",
+      "bg": "Създава средно голяма дупка. Разход на енергия: 5"
+    },
+    {
+      "i": 244,
+      "key": "/C3E03F7A472869F0ACA1EDACF7CDA16A",
+      "en": "Credit Bonus",
+      "bg": "Бонус кредити"
+    },
+    {
+      "i": 245,
+      "key": "/7E2B639B46F6DFA7DB5515AB1358599C",
+      "en": "Credits",
+      "bg": "Кредити"
+    },
+    {
+      "i": 246,
+      "key": "/D59048544655EA422E213B989218CE9D",
+      "en": "Credits",
+      "bg": "Кредити"
+    },
+    {
+      "i": 247,
+      "key": "/4F9B6FD84921F12CBE9AB8A9BCDE6B09",
+      "en": "Credits per Round",
+      "bg": "Кредити на рунд"
+    },
+    {
+      "i": 248,
+      "key": "/BAA052A647CAB807A7493CBC0AAE2950",
+      "en": "Crosshair",
+      "bg": "Прицел"
+    },
+    {
+      "i": 249,
+      "key": "/FFE12DA34753650ACF9031B72D2F75FA",
+      "en": "Crowded Fields",
+      "bg": "Претъпкани полета"
+    },
+    {
+      "i": 250,
+      "key": "/9663718E4482BA8F1266D28DCCFFA9A7",
+      "en": "Crystal Dust",
+      "bg": "Kristalna prašina"
+    },
+    {
+      "i": 251,
+      "key": "/39FFAA0647E4C5965194C3B402826544",
+      "en": "Crystal Rose",
+      "bg": "Kristalna ruža"
+    },
+    {
+      "i": 252,
+      "key": "/CD9B8D7D4BF59822EAF541843B20D516",
+      "en": "Culling Blow",
+      "bg": "Milosrdni udarac"
+    },
+    {
+      "i": 253,
+      "key": "/D29AA82F435BE99091547694A6405ADA",
+      "en": "Current Gold: {GoldAmount}",
+      "bg": "Trenutno zlato: {GoldAmount}"
+    },
+    {
+      "i": 254,
+      "key": "/93D4A71C40FDCFE02D06BB92493F58C4",
+      "en": "Current Level",
+      "bg": "Trenutni nivo"
+    },
+    {
+      "i": 255,
+      "key": "/AF3B2B2A4DDF6FB43D7B41988B0822E8",
+      "en": "Current Run",
+      "bg": "Trenutna tura"
+    },
+    {
+      "i": 256,
+      "key": "/042549984EF90DB22384E8894811394B",
+      "en": "Damage Trees by interacting with them in the dark thicket.",
+      "bg": "Nanosi štetu stablima interakcijom s njima u Mračnom gustišu."
+    },
+    {
+      "i": 257,
+      "key": "/297E0339424D940C8B0F7D9BDDFA2A93",
+      "en": "Damage gain: {DamageGain}",
+      "bg": "Dobitak štete: {DamageGain}"
+    },
+    {
+      "i": 258,
+      "key": "/17777F044587A3D740A495B799AE1F5C",
+      "en": "Damage per Hit",
+      "bg": "Šteta po udarcu"
+    },
+    {
+      "i": 259,
+      "key": "/07DB7DE54FA2BC45E09AB2AAB98F4C9B",
+      "en": "Damage: {DamageAmount}",
+      "bg": "Šteta: {DamageAmount}"
+    },
+    {
+      "i": 260,
+      "key": "/C23DCCA64AD681B1EC3CB1BAB40D736A",
+      "en": "Dark Thicket",
+      "bg": "Тъмен гъсталак"
+    },
+    {
+      "i": 261,
+      "key": "/E45156034B70F932A237DD8303CBC787",
+      "en": "Dark Thicket Resources",
+      "bg": "Ресурси на Тъмния гъсталак"
+    },
+    {
+      "i": 262,
+      "key": "/8A3DCE0348A9101121A022A14E89C462",
+      "en": "Dash",
+      "bg": "Скок"
+    },
+    {
+      "i": 263,
+      "key": "/12DE802E485D569E046721B6F94DE882",
+      "en": "Data",
+      "bg": "Данни"
+    },
+    {
+      "i": 264,
+      "key": "/7C1BC9BF41399E75D99A33BC0E1D9713",
+      "en": "Data Center",
+      "bg": "Център за данни"
+    },
+    {
+      "i": 265,
+      "key": "/CECD1F5F44E076F9ABFB86AE2EADD1FA",
+      "en": "Data Rush",
+      "bg": "Данна атака"
+    },
+    {
+      "i": 266,
+      "key": "/774BF5C64772F8D7CD64408F28D64019",
+      "en": "Data per second",
+      "bg": "Данни в секунда"
+    },
+    {
+      "i": 267,
+      "key": "/13BDF4E9471B6305FE45218524CF00F2",
+      "en": "Data received",
+      "bg": "Получени данни"
+    },
+    {
+      "i": 268,
+      "key": "/01EB643F4AC0EEF28CB5DDBE796486D4",
+      "en": "Deal 20% more damage while standing still.",
+      "bg": "Нанася 20% повече щети, докато стоиш неподвижен."
+    },
+    {
+      "i": 269,
+      "key": "/6E17D01D459FD665D44862A5B9AAE4C2",
+      "en": "Deal up to 20% more damage the faster you move.",
+      "bg": "Нанася до 20% повече щети в зависимост от скоростта на движението си."
+    },
+    {
+      "i": 270,
+      "key": "/2DD06A3F4FCD761696DF48A5DAA4DA74",
+      "en": "Death gives meaning",
+      "bg": "Смъртта дава смисъл"
+    },
+    {
+      "i": 271,
+      "key": "/4E8FF7B64725970E497E838B691C092B",
+      "en": "Deconstruct Building",
+      "bg": "Разруши сграда"
+    },
+    {
+      "i": 272,
+      "key": "/31C6F62345C4AE3BD6F4F3901B800B0D",
+      "en": "Deconstruct Mode",
+      "bg": "Режим на разрушаване"
+    },
+    {
+      "i": 273,
+      "key": "/26ADC5164065F68D888EC68DAF4BAA97",
+      "en": "Decrease",
+      "bg": "Намали"
+    },
+    {
+      "i": 274,
+      "key": "/D860DE3B49E8AE4B429F15A95320CC47",
+      "en": "Deep Roots",
+      "bg": "Дълбоки корени"
+    }
+  ]
+}

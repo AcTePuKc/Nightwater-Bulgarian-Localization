@@ -1,0 +1,339 @@
+{
+  "batch": "01",
+  "range": [
+    0,
+    54
+  ],
+  "rows": [
+    {
+      "i": 0,
+      "key": "/F47D03E047BBF231D2871BB201ED025D",
+      "en": "- Base Multiplier -",
+      "bg": "- Основен множител -"
+    },
+    {
+      "i": 1,
+      "key": "/6940994B4B20C1F6575C18AD951151F7",
+      "en": "- Base Value -",
+      "bg": "- Основна стойност -"
+    },
+    {
+      "i": 2,
+      "key": "/AFCC13564CFA4C237D055A89089B20D7",
+      "en": "- Buffs Available -",
+      "bg": "- Налични бонуси -"
+    },
+    {
+      "i": 3,
+      "key": "/F1459BD445F569F9405238A43457A2D7",
+      "en": "- Collect 10 Wood",
+      "bg": "- Събери 10 дърва."
+    },
+    {
+      "i": 4,
+      "key": "/7C0D21E94A99B70264D287B742324688",
+      "en": "- Collect {Amount} Wheat to unlock Milestone 2 for Wheat",
+      "bg": "- Събери още {Amount} пшеница, за да отключиш етап 2 за пшеница."
+    },
+    {
+      "i": 5,
+      "key": "/EDC165F74F098B68CEE8DB95B7FC4636",
+      "en": "- Collect {Amount} Wood to unlock Milestone 3 for Wood",
+      "bg": "- Събери още {Amount} дърва, за да отключиш етап 3 за дърво."
+    },
+    {
+      "i": 6,
+      "key": "/30C274AF4A53D1925439D39149A20906",
+      "en": "- Craft 4 Wooden Planks",
+      "bg": "- Изработи 4 дъски."
+    },
+    {
+      "i": 7,
+      "key": "/EFBB368C42B1B6D4DACBBFAE74C99B19",
+      "en": "- Expand your Island to unlock the first Mountains Biome",
+      "bg": "- Разшири острова си, за да отключиш първия планински биом."
+    },
+    {
+      "i": 8,
+      "key": "/231E74564C209B585D7E1495A46E91EA",
+      "en": "- Expand your Island to unlock the last Forest Biome",
+      "bg": "- Разшири острова си, за да отключиш последния горски биом."
+    },
+    {
+      "i": 9,
+      "key": "/5F973D0D4EF38476794FA69367779362",
+      "en": "- Explore the Dark Thicket once",
+      "bg": "- Изследвай Мрачната гъсталака веднъж."
+    },
+    {
+      "i": 10,
+      "key": "/E68FF72F470F899A23621D9634BC3A58",
+      "en": "- Gold Cost -",
+      "bg": "- Златна цена -"
+    },
+    {
+      "i": 11,
+      "key": "/92B309594B7392D507E179AA70E31EAE",
+      "en": "- Grow time -",
+      "bg": "- Време за растеж -"
+    },
+    {
+      "i": 12,
+      "key": "/46B01D074F2459A8444062AE9797C877",
+      "en": "- Max Buffs Amount -",
+      "bg": "- Максимален брой бонуси -"
+    },
+    {
+      "i": 13,
+      "key": "/E148C3BA4A95A0691B753E86959F1663",
+      "en": "- Multiplier -",
+      "bg": "- Множител -"
+    },
+    {
+      "i": 14,
+      "key": "/9A4FF3854E837E73B4DC77A9A12F2C19",
+      "en": "- Place a Primitive Assembler",
+      "bg": "- Постави примитивен асемблер"
+    },
+    {
+      "i": 15,
+      "key": "/B3620CF042CAAAFA9FFE23A14E3B344A",
+      "en": "- Place a Primitive Chest",
+      "bg": "- Постави примитивен сандък"
+    },
+    {
+      "i": 16,
+      "key": "/DA0146C24EF3D5CFD361EDA45639D523",
+      "en": "- Place a Primitive Collector",
+      "bg": "- Постави примитивен събирател"
+    },
+    {
+      "i": 17,
+      "key": "/0F41820047E5DAE58C692A85CDB3F002",
+      "en": "- Place a Primitive Pipe",
+      "bg": "- Постави Примитивна тръба."
+    },
+    {
+      "i": 18,
+      "key": "/0EC42ED1449C928E4625CFA674E94C70",
+      "en": "- Place a Primitive Plant Farmer",
+      "bg": "- Постави примитивна растителна ферма"
+    },
+    {
+      "i": 19,
+      "key": "/C329C55840EF9DE0F0D0D492968527C4",
+      "en": "- Place a Primitive Rock Crusher",
+      "bg": "- Постави примитивна каменотрошачка"
+    },
+    {
+      "i": 20,
+      "key": "/BE538DF74B5DD1EB9A99258FDE2F8A05",
+      "en": "- Place a Research Table",
+      "bg": "- Постави изследователска маса"
+    },
+    {
+      "i": 21,
+      "key": "/F382D9364C852FD82355B996AA210814",
+      "en": "- Place a Wood Cutter",
+      "bg": "- Постави дървосекач"
+    },
+    {
+      "i": 22,
+      "key": "/0152DD3648DC8C6E836AB7B5AD08A967",
+      "en": "- Place a Workbench",
+      "bg": "- Постави работна маса"
+    },
+    {
+      "i": 23,
+      "key": "/26376AF64B5C213BC942248FE03069EF",
+      "en": "- Reach Clay Milestone 3",
+      "bg": "- Достигни до етап 3 за глина"
+    },
+    {
+      "i": 24,
+      "key": "/DCACFC904B25883EE42839A9EDAEA133",
+      "en": "- Time until grown -",
+      "bg": "- Време до узряване -"
+    },
+    {
+      "i": 25,
+      "key": "/3584D021448428FB29346B87809881EB",
+      "en": "- Total Plants harvested -",
+      "bg": "- Общо обрани растения -"
+    },
+    {
+      "i": 26,
+      "key": "/366B0BB74AF47D9EC608978332768FF0",
+      "en": "- Unlock Stone Milestone 1",
+      "bg": "- Отключи етап 1 за камък"
+    },
+    {
+      "i": 27,
+      "key": "/B37F52E04EA377D6B885899094ABD3D1",
+      "en": "- Unlock Wood Milestone 1",
+      "bg": "- Отключи етап 1 за дърво"
+    },
+    {
+      "i": 28,
+      "key": "/969DA80947610ACCB3284892AA53C1FD",
+      "en": "- Use the Manifester in front of the Cave to expand the Island",
+      "bg": "- Използвай манифестатора пред пещерата, за да разшириш острова"
+    },
+    {
+      "i": 29,
+      "key": "/EBCD295B40DFC0A7C7DC608451DE2FA6",
+      "en": "- Value -",
+      "bg": "- Стойност -"
+    },
+    {
+      "i": 30,
+      "key": "/8D2FD1F2414ABA86D57BF1A33A6E96B5",
+      "en": "...",
+      "bg": "..."
+    },
+    {
+      "i": 31,
+      "key": "/A24901DB419816CB8CC3AEA382B21CE0",
+      "en": "... no, nothing more ...",
+      "bg": "... не, нищо повече ..."
+    },
+    {
+      "i": 32,
+      "key": "/599FA3304A266DB188C144B3585421BE",
+      "en": "20% chance to double the Fuel and Credits from a resource.",
+      "bg": "20% шанс ресурсът да даде двойно гориво и кредити."
+    },
+    {
+      "i": 33,
+      "key": "/16F0DF904E8321A3DC55B39F62A9B77A",
+      "en": "A Lighthouse brought you here...",
+      "bg": "Един фар те доведе дотук..."
+    },
+    {
+      "i": 34,
+      "key": "/F2461B9A40301897E4B7C8AC35D9556D",
+      "en": "A bronze statue that ensures only rock-type resources spawn within its radius.",
+      "bg": "Бронзова статуя, която гарантира появата само на каменни ресурси в нейния радиус."
+    },
+    {
+      "i": 35,
+      "key": "/F7CCC6A2488FA90399D052AEC573EC16",
+      "en": "A building that automatically destroys all items delivered to it through pipes.",
+      "bg": "Сграда, която автоматично унищожава всички предмети, доставени до нея чрез тръби."
+    },
+    {
+      "i": 36,
+      "key": "/2B538C574B9127806B4ADC9FC5194FC6",
+      "en": "A container for item storage and buffer management. Limited capacity of 150 items.",
+      "bg": "Контейнер за съхранение на предмети и управление на буфери. Ограничен капацитет от 150 предмета."
+    },
+    {
+      "i": 37,
+      "key": "/48DBA8B545117E65B906D68815C0E119",
+      "en": "A container for item storage and buffer management. Limited capacity of 80 items.",
+      "bg": "Контейнер за съхранение на предмети и управление на буфери. Ограничен капацитет от 80 предмета."
+    },
+    {
+      "i": 38,
+      "key": "/DA3E12CF455CED20ACB95FA783495781",
+      "en": "A dedicated storage container for Plant-type Milestone items. Restricted to plant-related milestone resources only, with a capacity of 1000.",
+      "bg": "Специализиран контейнер за предмети от типа „Растение“, нужни за етапи. Събира само растителни ресурси за етапи и има капацитет 1000."
+    },
+    {
+      "i": 39,
+      "key": "/CE2038714310851E96F92592773B44B1",
+      "en": "A dedicated storage container for Rock-type Milestone items. Restricted to rock-related milestone resources only, with a capacity of 1000.",
+      "bg": "Специализиран контейнер за предмети от типа „Камък“, нужни за етапи. Събира само каменни ресурси за етапи и има капацитет 1000."
+    },
+    {
+      "i": 40,
+      "key": "/3CE0D53C4BD2437B1BA3FCB842C897D7",
+      "en": "A dedicated storage container for Wood-type Milestone items. Restricted to wood-related milestone resources only, with a capacity of 1000.",
+      "bg": "Специализиран контейнер за предмети от типа „Дърво“, нужни за етапи. Събира само дървесни ресурси за етапи и има капацитет 1000."
+    },
+    {
+      "i": 41,
+      "key": "/63B0CE74478B891FA11F1EA91B3D1961",
+      "en": "A game made by Amar Civic, featuring music by Adriel Marques.\r\nPublished by Irox Games.",
+      "bg": "Игра, създадена от Amar Civic, с музика от Adriel Marques.\r\nИздател: Irox Games."
+    },
+    {
+      "i": 42,
+      "key": "/1039585C49463C3B40D97288F19BD9BB",
+      "en": "A game made by:",
+      "bg": "Игра, създадена от:"
+    },
+    {
+      "i": 43,
+      "key": "/2330A73048FFF7E8CA2ADBA8917004B4",
+      "en": "A logistics component for automated collection. Features 3 inputs and 1 output to combine item flow.",
+      "bg": "Логистичен компонент за автоматично събиране. Има 3 входа и 1 изход за комбиниране на потока от предмети."
+    },
+    {
+      "i": 44,
+      "key": "/C9ADE56745D62BEA8928BBBCBDC4F77D",
+      "en": "A logistics component for automated distribution. Features 1 input and 3 outputs to split item flow. Can also filter items.",
+      "bg": "Логистичен компонент за автоматично разпределение. Има 1 вход и 3 изхода за разделяне на потока от предмети. Може също да филтрира предмети."
+    },
+    {
+      "i": 45,
+      "key": "/694D9C3147A51D21F7C8C7A69ED643EC",
+      "en": "A logistics component for extending pipeline reach. Allows connecting pipes beyond their maximum individual length.",
+      "bg": "Логистичен компонент за удължаване на обсега на тръбопровода. Позволява свързването на тръби отвъд максималната им индивидуална дължина."
+    },
+    {
+      "i": 46,
+      "key": "/EEA366154EF80700B9F19580C1F81D17",
+      "en": "A machine that can receive items through pipes to automate crafting, at a fast speed.",
+      "bg": "Машина, която може да получава предмети чрез тръби за автоматично изработване с висока скорост."
+    },
+    {
+      "i": 47,
+      "key": "/85948CFF4ABC9D4FD59671B1FD720A4A",
+      "en": "A machine that can receive items through pipes to automate crafting, at a normal speed.",
+      "bg": "Машина, която може да получава предмети чрез тръби за автоматично изработване със средна скорост."
+    },
+    {
+      "i": 48,
+      "key": "/881EA32C4C718E2CA9B508A981D44D90",
+      "en": "A manual workstation for crafting simple parts from basic materials. Crafting speed is faster than early-stage Assemblers.",
+      "bg": "Ръчна работна станция за изработване на прости части от основни материали. Изработва по-бързо от ранните сглобяващи машини."
+    },
+    {
+      "i": 49,
+      "key": "/CAA7D7FE4E3B359FE0E7CE8CFCAAF97C",
+      "en": "A milestone progression item. Wood Dust is dropped by all trees in the Dark Thicket. ",
+      "bg": "Предмет за напредъка по етапите. Дървесен прах пада от всички дървета в Мрачната гъсталака."
+    },
+    {
+      "i": 50,
+      "key": "/2DC224A24894CCCB1149F08D000151DE",
+      "en": "A primitive tool for gathering resources with a base power of 2. Upgradeable at the Tinker Station.",
+      "bg": "Примитивен инструмент за събиране на ресурси с основна мощност 2. Може да се надгражда в работилницата."
+    },
+    {
+      "i": 51,
+      "key": "/42DF483140D0ACE699CACAB1F17E744C",
+      "en": "A shore you shaped... a prison you chose",
+      "bg": "Бряг, който сам създаде... затвор, който сам избра"
+    },
+    {
+      "i": 52,
+      "key": "/526A3161406F55EAE655A282D49047DB",
+      "en": "A simple decoration. His name is George. He may not be capable of much, but he tries his best!",
+      "bg": "Прост декоративен предмет. Името му е Джордж. Може би не може много, но се старае!"
+    },
+    {
+      "i": 53,
+      "key": "/467201E44FD4A2AB2B4E87B687048A62",
+      "en": "A specialized workstation for crafting and upgrading equipment.",
+      "bg": "Специализирана работна станция за изработване и надграждане на оборудване."
+    },
+    {
+      "i": 54,
+      "key": "/466E09654FA39F4B15E4A8A49FFECA8B",
+      "en": "A starter tool with a base power of 1. It can break all resources and is upgradeable at the Tinker Station.",
+      "bg": "Начален инструмент с основна мощност 1. Може да разбие всички ресурси и може да се надгражда в работилницата."
+    }
+  ]
+}

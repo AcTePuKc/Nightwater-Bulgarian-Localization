@@ -1,0 +1,339 @@
+{
+  "batch": "20",
+  "range": [
+    1045,
+    1099
+  ],
+  "rows": [
+    {
+      "i": 1045,
+      "key": "CommonWords/MadeinPulverizer",
+      "en": "Made in Pulverizer",
+      "bg": "Произведено в пулверизатор"
+    },
+    {
+      "i": 1046,
+      "key": "CommonWords/MadeinSmeltery",
+      "en": "Made in Smeltery",
+      "bg": "Произведено в топенец"
+    },
+    {
+      "i": 1047,
+      "key": "CommonWords/MultiplierBuff",
+      "en": "Multiplier Buff",
+      "bg": "Умножител буф"
+    },
+    {
+      "i": 1048,
+      "key": "CommonWords/NatureAltar",
+      "en": "Nature Altar",
+      "bg": "Олтар на природата"
+    },
+    {
+      "i": 1049,
+      "key": "CommonWords/NatureChest",
+      "en": "Nature Chest",
+      "bg": "Скрин на природата"
+    },
+    {
+      "i": 1050,
+      "key": "CommonWords/NightCrystal",
+      "en": "Night Crystal",
+      "bg": "Нощен кристал"
+    },
+    {
+      "i": 1051,
+      "key": "CommonWords/None",
+      "en": "None",
+      "bg": "Нито едно"
+    },
+    {
+      "i": 1052,
+      "key": "CommonWords/NotReady",
+      "en": "Not Ready",
+      "bg": "Не е готово"
+    },
+    {
+      "i": 1053,
+      "key": "CommonWords/OakWood",
+      "en": "Oak Wood",
+      "bg": "Дъбова дървесина"
+    },
+    {
+      "i": 1054,
+      "key": "CommonWords/Overview",
+      "en": "Overview",
+      "bg": "Преглед"
+    },
+    {
+      "i": 1055,
+      "key": "CommonWords/PinItems",
+      "en": "Pin Items",
+      "bg": "Закрепи предметите"
+    },
+    {
+      "i": 1056,
+      "key": "CommonWords/PipeSpeed",
+      "en": "Pipe Speed",
+      "bg": "Скорост на тръбата"
+    },
+    {
+      "i": 1057,
+      "key": "CommonWords/Plant",
+      "en": "Plant",
+      "bg": "Засади"
+    },
+    {
+      "i": 1058,
+      "key": "CommonWords/Play",
+      "en": "Play",
+      "bg": "Играй"
+    },
+    {
+      "i": 1059,
+      "key": "CommonWords/PoisonDamage",
+      "en": "Poison Damage",
+      "bg": "Отрова"
+    },
+    {
+      "i": 1060,
+      "key": "CommonWords/PoisonDuration",
+      "en": "Poison Duration",
+      "bg": "Продължителност на отровата"
+    },
+    {
+      "i": 1061,
+      "key": "CommonWords/Progress",
+      "en": "Progress {ProgressAmount}%",
+      "bg": "Напредък {ProgressAmount}%"
+    },
+    {
+      "i": 1062,
+      "key": "CommonWords/Progression",
+      "en": "Progression",
+      "bg": "Прогрес"
+    },
+    {
+      "i": 1063,
+      "key": "CommonWords/PulverizerName",
+      "en": "Pulverizer",
+      "bg": "Пулверизатор"
+    },
+    {
+      "i": 1064,
+      "key": "CommonWords/Quit",
+      "en": "Quit",
+      "bg": "Изход"
+    },
+    {
+      "i": 1065,
+      "key": "CommonWords/RageDamage",
+      "en": "Rage Damage",
+      "bg": "Щета от ярост"
+    },
+    {
+      "i": 1066,
+      "key": "CommonWords/RageDuration",
+      "en": "Rage Duration",
+      "bg": "Продължителност на яростта"
+    },
+    {
+      "i": 1067,
+      "key": "CommonWords/RageSpeed",
+      "en": "Rage Speed",
+      "bg": "Скорост на яростта"
+    },
+    {
+      "i": 1068,
+      "key": "CommonWords/MilestoneItemDescription",
+      "en": "Receive Milestone Items by harvesting resources.\r\nBy harvesting more Milestone Items you unlock new buildings, crafts, and buffs.\r\nProgress manually or automate your production using specialized buildings.",
+      "bg": "Получавайте предмети за постижения чрез събиране на ресурси.\r\nСъс събирането на повече предмети за постижения отключвате нови сгради, рецепти и бонуси.\r\nНапредвайте ръчно или автоматизирайте производството си с помощта на специализирани сгради."
+    },
+    {
+      "i": 1069,
+      "key": "CommonWords/Reset",
+      "en": "Reset",
+      "bg": "Нулиране"
+    },
+    {
+      "i": 1070,
+      "key": "CommonWords/ResourceGainName",
+      "en": "Resource Gain",
+      "bg": "Придобиване на ресурси"
+    },
+    {
+      "i": 1071,
+      "key": "CommonWords/ResourcesAround",
+      "en": "Resources around:",
+      "bg": "Ресурси в близост:"
+    },
+    {
+      "i": 1072,
+      "key": "CommonWords/SelectUpgrade",
+      "en": "Select Upgrade",
+      "bg": "Избери надграждане"
+    },
+    {
+      "i": 1073,
+      "key": "CommonWords/Settings",
+      "en": "Settings",
+      "bg": "Настройки"
+    },
+    {
+      "i": 1074,
+      "key": "CommonWords/Shop",
+      "en": "Shop",
+      "bg": "Магазин"
+    },
+    {
+      "i": 1075,
+      "key": "CommonWords/SimpleJetpack",
+      "en": "Simple Jetpack",
+      "bg": "Прост джетпак"
+    },
+    {
+      "i": 1076,
+      "key": "CommonWords/SpeedBuffName",
+      "en": "Speed Buff",
+      "bg": "Повишаване на скоростта"
+    },
+    {
+      "i": 1077,
+      "key": "CommonWords/StarfallShard",
+      "en": "Starfall Shard",
+      "bg": "Кристал от звезден дъжд"
+    },
+    {
+      "i": 1078,
+      "key": "CommonWords/Stone",
+      "en": "Stone",
+      "bg": "Камък"
+    },
+    {
+      "i": 1079,
+      "key": "CommonWords/StrengthBuff",
+      "en": "Strength Buff",
+      "bg": "Увеличаване на силата"
+    },
+    {
+      "i": 1080,
+      "key": "CommonWords/Sure?",
+      "en": "Sure?",
+      "bg": "Разбира се?"
+    },
+    {
+      "i": 1081,
+      "key": "CommonWords/Take",
+      "en": "Take",
+      "bg": "Вземи"
+    },
+    {
+      "i": 1082,
+      "key": "CommonWords/TeleporterName",
+      "en": "Teleporter",
+      "bg": "Телепортер"
+    },
+    {
+      "i": 1083,
+      "key": "CommonWords/Tier1Equipment",
+      "en": "Tier 1 Equipment",
+      "bg": "Опрема 1. ниво"
+    },
+    {
+      "i": 1084,
+      "key": "CommonWords/Tier2Equipment",
+      "en": "Tier 2 Equipment",
+      "bg": "Опрема 2. ниво"
+    },
+    {
+      "i": 1085,
+      "key": "CommonWords/Tier3Equipment",
+      "en": "Tier 3 Equipment",
+      "bg": "Опрема 3. ниво"
+    },
+    {
+      "i": 1086,
+      "key": "CommonWords/Tier4Equipment",
+      "en": "Tier 4 Equipment",
+      "bg": "Опрема 4. ниво"
+    },
+    {
+      "i": 1087,
+      "key": "CommonWords/Tier5Equipment",
+      "en": "Tier 5 Equipment",
+      "bg": "Опрема 5. ниво"
+    },
+    {
+      "i": 1088,
+      "key": "CommonWords/Tier6Equipment",
+      "en": "Tier 6 Equipment",
+      "bg": "Опрема 6. ниво"
+    },
+    {
+      "i": 1089,
+      "key": "CommonWords/Tier7Equipment",
+      "en": "Tier 7 Equipment",
+      "bg": "Опрема 7. ниво"
+    },
+    {
+      "i": 1090,
+      "key": "CommonWords/Tier8Equipment",
+      "en": "Tier 8 Equipment",
+      "bg": "Оборудване 8-мо ниво"
+    },
+    {
+      "i": 1091,
+      "key": "CommonWords/Tier9Equipment",
+      "en": "Tier 9 Equipment",
+      "bg": "Оборудване 9-то ниво"
+    },
+    {
+      "i": 1092,
+      "key": "CommonWords/TinOre",
+      "en": "Tin Ore",
+      "bg": "Калаена руда"
+    },
+    {
+      "i": 1093,
+      "key": "CommonWords/Toolbelt",
+      "en": "Toolbelt",
+      "bg": "Пояс за инструменти"
+    },
+    {
+      "i": 1094,
+      "key": "CommonWords/TreeAltar",
+      "en": "Tree Altar",
+      "bg": "Олтар на дървото"
+    },
+    {
+      "i": 1095,
+      "key": "CommonWords/TurnOff",
+      "en": "Turn Off",
+      "bg": "Изключи"
+    },
+    {
+      "i": 1096,
+      "key": "CommonWords/TurnOn",
+      "en": "Turn On",
+      "bg": "Включи"
+    },
+    {
+      "i": 1097,
+      "key": "CommonWords/Unlimited",
+      "en": "Unlimited",
+      "bg": "Без ограничение"
+    },
+    {
+      "i": 1098,
+      "key": "CommonWords/Unlock",
+      "en": "Unlock",
+      "bg": "Отключи"
+    },
+    {
+      "i": 1099,
+      "key": "CommonWords/Unlocked",
+      "en": "Unlocked",
+      "bg": "Отключено"
+    }
+  ]
+}

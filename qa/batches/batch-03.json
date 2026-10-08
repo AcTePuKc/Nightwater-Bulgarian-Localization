@@ -1,0 +1,339 @@
+{
+  "batch": "03",
+  "range": [
+    110,
+    164
+  ],
+  "rows": [
+    {
+      "i": 110,
+      "key": "/4FD892764F0E00CD755550A40554A441",
+      "en": "Attack Speed",
+      "bg": "Скорост на атака"
+    },
+    {
+      "i": 111,
+      "key": "/EBD69F5047878167A6BFE2A5010F686B",
+      "en": "Aura Size",
+      "bg": "Размер на аурата"
+    },
+    {
+      "i": 112,
+      "key": "/48A38F824284D7794E602DAC3D246993",
+      "en": "Aura size: {AuraSize}",
+      "bg": "Размер на аурата: {AuraSize}"
+    },
+    {
+      "i": 113,
+      "key": "/4582E59E4AB4D06DC38D0C811CD211DD",
+      "en": "Auto Harvest 1",
+      "bg": "Автоматично прибиране 1"
+    },
+    {
+      "i": 114,
+      "key": "/F351D6904D66E83D2B4068BA5BD7DD90",
+      "en": "Auto Harvest 2",
+      "bg": "Автоматично прибиране 2"
+    },
+    {
+      "i": 115,
+      "key": "/02778EAB48B24D274C3754B6DDFE3DEE",
+      "en": "Auto Harvest 3",
+      "bg": "Автоматично прибиране 3"
+    },
+    {
+      "i": 116,
+      "key": "/F2B52F4343214514C8F90CB06DBADA80",
+      "en": "Auto Replant 1",
+      "bg": "Автоматично засаждане 1"
+    },
+    {
+      "i": 117,
+      "key": "/49482E3C4BC8C1822220DB83E3DAF30F",
+      "en": "Auto Replant 2",
+      "bg": "Автоматично засаждане 2"
+    },
+    {
+      "i": 118,
+      "key": "/C847366840D0D8D2F66227A02A06F462",
+      "en": "Auto Replant 3",
+      "bg": "Автоматично засаждане 3"
+    },
+    {
+      "i": 119,
+      "key": "/236182BE4F3C5D6E47E774883FC1F052",
+      "en": "Auto-Harvester",
+      "bg": "Автоматичен събирач"
+    },
+    {
+      "i": 120,
+      "key": "/7F8B10BE42FEE2DBB10A9D8D9C114A66",
+      "en": "Auto-Planter",
+      "bg": "Автоматичен засадител"
+    },
+    {
+      "i": 121,
+      "key": "/C0ED563B41A2D49D6EC15F8B8A8FF358",
+      "en": "Automate wood production by connecting a Wood Harvester to a chest using a pipe.",
+      "bg": "Автоматизирай производството на дървесина, като свържеш събирач на дървесина към сандък чрез тръба."
+    },
+    {
+      "i": 122,
+      "key": "/7896871D4BF4A36690742AB429F43220",
+      "en": "Automated Fertilizer",
+      "bg": "Автоматичен тор"
+    },
+    {
+      "i": 123,
+      "key": "/3F9F789F43F1643A0F85A084AAB0E021",
+      "en": "Automatically collects nearby ores and minerals while digging",
+      "bg": "Автоматично събира близките руди и минерали при копаене."
+    },
+    {
+      "i": 124,
+      "key": "/37ABCC8D4C40D4C4619131965C7F5F3C",
+      "en": "Automatically harvests every ready plant in this area and stores the gold for you to collect.",
+      "bg": "Автоматично бере всяко готово растение в тази зона и съхранява златото, за да го събереш."
+    },
+    {
+      "i": 125,
+      "key": "/47E334F84F62C29569DED3B6D58482CD",
+      "en": "Automatically harvests plant resources within a small radius, at a fast speed. Harvested items count towards Milestone Progression.",
+      "bg": "Автоматично бере растителни ресурси в малък радиус с висока скорост. Събраните предмети се броят към напредъка за постижения."
+    },
+    {
+      "i": 126,
+      "key": "/98818DB94121D6326BE265866F07F908",
+      "en": "Automatically harvests plant resources within a small radius, at a normal speed. Harvested items count towards Milestone Progression.",
+      "bg": "Автоматично бере растителни ресурси в малък радиус с нормална скорост. Събраните предмети се броят към напредъка за постижения."
+    },
+    {
+      "i": 127,
+      "key": "/0140DA52401EEDCD566BBC91C381546E",
+      "en": "Automatically harvests rock, clay, and ore within a small radius, at a fast speed. Harvested items count towards Milestone Progression.",
+      "bg": "Автоматично бере скали, глина и руди в малък радиус с висока скорост. Събраните предмети се броят към напредъка за постижения."
+    },
+    {
+      "i": 128,
+      "key": "/A51C8C434C7959ED6182D2AA4277FF28",
+      "en": "Automatically harvests rock, clay, and ore within a small radius, at a normal speed. Harvested items count towards Milestone Progression.",
+      "bg": "Автоматично бере скали, глина и руди в малък радиус с нормална скорост. Събраните предмети се броят към напредъка за постижения."
+    },
+    {
+      "i": 129,
+      "key": "/EB6B12D54B28F0861C7383A463493492",
+      "en": "Automatically harvests tree resources within a small radius, at a fast speed. Harvested items count towards Milestone Progression.",
+      "bg": "Автоматично бере дървесни ресурси в малък радиус с висока скорост. Събраните предмети се броят към напредъка за постижения."
+    },
+    {
+      "i": 130,
+      "key": "/C06623C44A38EE6E81D64CBEF8FEB02D",
+      "en": "Automatically harvests tree resources within a small radius, at a normal speed. Harvested items count towards Milestone Progression.",
+      "bg": "Автоматично събира дървесни ресурси в малък радиус с нормална скорост. Събраните предмети се броят към напредъка за постигане на цел."
+    },
+    {
+      "i": 131,
+      "key": "/8C6B07364D12FA765507AD9C6FD1A40E",
+      "en": "Automatically harvests tree resources within a small radius, at a very high speed. Harvested items count towards Milestone Progression.",
+      "bg": "Автоматично събира дървесни ресурси в малък радиус с много висока скорост. Събраните предмети се броят към напредъка за постигане на цел."
+    },
+    {
+      "i": 132,
+      "key": "/60C21EC44B0B2544CBD7BFB3A2B5B0EC",
+      "en": "Automatically replants each empty plot with the last plant that grew there.",
+      "bg": "Автоматично презасажда всяко празно място с последната отгледана там култура."
+    },
+    {
+      "i": 133,
+      "key": "/75A9A3164D450A23F3D3C5A4E98290D6",
+      "en": "Awake to the sound of my voice",
+      "bg": "Събуди се от звука на гласа ми."
+    },
+    {
+      "i": 134,
+      "key": "/545264BB462F4DB7C5027CBD493E88EA",
+      "en": "Axe Cooldown Reduction",
+      "bg": "Намаляване времето за охлаждане на брадвата."
+    },
+    {
+      "i": 135,
+      "key": "/091775AB486DD08A5DD04A8A1CFBBEB4",
+      "en": "Axe Skill",
+      "bg": "Умение с брадва"
+    },
+    {
+      "i": 136,
+      "key": "/C09AF6524DF3E9C73FAC9AA74BE9EF9D",
+      "en": "Axe Skill Stackable Damage",
+      "bg": "Натрупващ се урон на умението с брадва."
+    },
+    {
+      "i": 137,
+      "key": "/F3EE37174E49515CFFE8DE84223AD3FC",
+      "en": "Axe Skill Stackable Radius",
+      "bg": "Радиусът, който може да бъде увеличен от умението с брадва"
+    },
+    {
+      "i": 138,
+      "key": "/030A36ED42E5D2177D8684A7C03CD45D",
+      "en": "Banked Credits",
+      "bg": "Запазени кредити."
+    },
+    {
+      "i": 139,
+      "key": "/BC1D695D4BE65A9BC01309889004BC9C",
+      "en": "Be precise, or the cloth will show what lies behind",
+      "bg": "Бъди точен, иначе платът ще покаже какво се крие зад него"
+    },
+    {
+      "i": 140,
+      "key": "/D6F2BD444272C421BAE954964C1E55A3",
+      "en": "Beat all four tracks and max out your movement to speedrun for the best times. Progress far enough to unlock powerful buffs and unique buildings outside of the minigame.",
+      "bg": "Победи всички четири писти и максимално развий движението си, за да постигнеш най-добрите времена. Напредвай достатъчно далеч, за да отключиш мощни бонуси и уникални сгради извън минииграта."
+    },
+    {
+      "i": 141,
+      "key": "/2C11C6D9480D9D3C138F16AF728F851D",
+      "en": "Berserk Cooldown Reduction",
+      "bg": "Намаляване на времето за охлаждане на Berserk"
+    },
+    {
+      "i": 142,
+      "key": "/CB463C7A470FFA55523F9C961B235E09",
+      "en": "Berserk Damage Boost",
+      "bg": "Увеличаване на щетите от Berserk"
+    },
+    {
+      "i": 143,
+      "key": "/56CD4AEA489EABAE03180AB5714C83B7",
+      "en": "Berserk Double Poison Damage",
+      "bg": "Двойни щети с отрова по време на Berserk"
+    },
+    {
+      "i": 144,
+      "key": "/F55B92534910286990CAECA76AB015C8",
+      "en": "Berserk Double Weakness Damage",
+      "bg": "Удвоена слабост при увреждане по време на Berserk"
+    },
+    {
+      "i": 145,
+      "key": "/DE6D8AF048305861D8B3F18454E2F946",
+      "en": "Berserk Increase Duration",
+      "bg": "Увеличаване на продължителността на Berserk"
+    },
+    {
+      "i": 146,
+      "key": "/A9E8374E4F0492B7BF4EF9A46FF553FC",
+      "en": "Berserk Resource Gain",
+      "bg": "Придобиване на ресурси по време на Berserk"
+    },
+    {
+      "i": 147,
+      "key": "/C4C8C3F54B1A4988394A15B4182811A1",
+      "en": "Berserk Skill",
+      "bg": "Умението Berserk"
+    },
+    {
+      "i": 148,
+      "key": "/2293DD544BDDFFAED2FEB5BE605625EB",
+      "en": "Berserk Speed Boost",
+      "bg": "Повишаване на скоростта по време на Berserk"
+    },
+    {
+      "i": 149,
+      "key": "/65A21CAD41A5894FAA2D6982DD0A34B0",
+      "en": "Berserk Stackable Duration",
+      "bg": "Натрупваща се продължителност на Berserk"
+    },
+    {
+      "i": 150,
+      "key": "/956FECCF4F1BD9976BFB3E8A0A0EC2C7",
+      "en": "Berserk Stackable Resource Gain",
+      "bg": "Натрупване на ресурс Berserk"
+    },
+    {
+      "i": 151,
+      "key": "/DAA90062456157636C94E8B17DCFA766",
+      "en": "Berserk duration: {BerserkDuration}",
+      "bg": "Продължителност на Berserk: {BerserkDuration}"
+    },
+    {
+      "i": 152,
+      "key": "/41E941CE4AD89230D49E5A877B0C41BB",
+      "en": "Best time",
+      "bg": "Най-добро време"
+    },
+    {
+      "i": 153,
+      "key": "/3BCB1DE44F2A7187FD59678D3E6BA4B4",
+      "en": "Better Soil",
+      "bg": "По-добра почва"
+    },
+    {
+      "i": 154,
+      "key": "/B5A962AA4FA3E9C99FAC13A88C769CF5",
+      "en": "Big Flower",
+      "bg": "Голямо цвете"
+    },
+    {
+      "i": 155,
+      "key": "/FA6DADE64FADD1864578A4A5CF7E3C75",
+      "en": "Big Table",
+      "bg": "Голям плот"
+    },
+    {
+      "i": 156,
+      "key": "/A639B969468811B0D99BEF9657CF63E8",
+      "en": "Big decorations",
+      "bg": "Големи декорации"
+    },
+    {
+      "i": 157,
+      "key": "/621B7EE94D3DC0C5684736981A0FD5D9",
+      "en": "Bit & Hogg Cooldown Reduction",
+      "bg": "Намаляване на охлаждането Bit & Hogg"
+    },
+    {
+      "i": 158,
+      "key": "/C14F6E5E49CEAD160AB7A4A658CD6FA8",
+      "en": "Bit & Hogg Skill",
+      "bg": "Умение Bit & Hogg"
+    },
+    {
+      "i": 159,
+      "key": "/F0835A314956ADE80C4018BA4EBD8281",
+      "en": "Bit & Hogg Stackable Damage",
+      "bg": "Натрупване на щети от Bit & Hogg"
+    },
+    {
+      "i": 160,
+      "key": "/B6642D6945485539D737A0B1B4656682",
+      "en": "Blue Platforms",
+      "bg": "Сини платформи"
+    },
+    {
+      "i": 161,
+      "key": "/DD2A1A2C436BE8AEC8B34AB6122C4422",
+      "en": "Boon of Accuracy",
+      "bg": "Благословия на точността"
+    },
+    {
+      "i": 162,
+      "key": "/F1FB5B834F849CEA803B95A29BFDACCF",
+      "en": "Boon of Curiosity",
+      "bg": "Благословия на любопитството"
+    },
+    {
+      "i": 163,
+      "key": "/DF12B5964C0A8D4717260394ECD7B65E",
+      "en": "Boon of Growth",
+      "bg": "Благословия на растежа"
+    },
+    {
+      "i": 164,
+      "key": "/57B53EEF4A6FF8CFB4BDF788F9C422A8",
+      "en": "Boon of Rage",
+      "bg": "Благословия на яростта"
+    }
+  ]
+}

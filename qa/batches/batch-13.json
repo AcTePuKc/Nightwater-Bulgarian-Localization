@@ -1,0 +1,339 @@
+{
+  "batch": "13",
+  "range": [
+    660,
+    714
+  ],
+  "rows": [
+    {
+      "i": 660,
+      "key": "/BFB867094C4D1EC3E02186999D5C229D",
+      "en": "Primitive Pipe",
+      "bg": "Примитивен тръбопровод"
+    },
+    {
+      "i": 661,
+      "key": "/53CE8CDB4026B049204B0FB3624CB0FB",
+      "en": "Primitive Plant Farmer",
+      "bg": "Примитивна растителна ферма"
+    },
+    {
+      "i": 662,
+      "key": "/5B5F204544175C4127BDC18BA19E408C",
+      "en": "Primitive Press",
+      "bg": "Примитивна преса"
+    },
+    {
+      "i": 663,
+      "key": "/256F72964ACC724BC83B82AC90AEC4C1",
+      "en": "Primitive Rock Crusher",
+      "bg": "Примитивна каменотрошачка"
+    },
+    {
+      "i": 664,
+      "key": "/D3E9C77649A2B205E20112AE674E65E5",
+      "en": "Primitive Wood Cutter",
+      "bg": "Примитивен дървосекач"
+    },
+    {
+      "i": 665,
+      "key": "/96EEC5014433F3773026319FF4C920CF",
+      "en": "Prism Roots",
+      "bg": "Корен на призмата"
+    },
+    {
+      "i": 666,
+      "key": "/65DF55D741357CC1CE5BE58A0B3DCD6B",
+      "en": "Processed items do not count towards Milestone Progression but are essential for advanced crafting and construction.",
+      "bg": "Обработените предмети не се броят към прогреса по преметниците, но са от съществено значение за напредналото изработване и строителство."
+    },
+    {
+      "i": 667,
+      "key": "/7A91D4EF46A22B40F0F86096A35914CE",
+      "en": "Progress saved",
+      "bg": "Прогресът е запазен"
+    },
+    {
+      "i": 668,
+      "key": "/95A5670446B7946B91D936B3121F438C",
+      "en": "Progress through the Wood Dust Milestone to unlock powerful buffs and unique Buildings that can be used outside the Minigame!",
+      "bg": "Напредвайте през преметницата на дървения прах, за да отключите мощни бонуси и уникални сгради, които могат да се използват извън мини-играта!"
+    },
+    {
+      "i": 669,
+      "key": "/8A175821402A6788E67C8B8471F5FEF8",
+      "en": "Prospector",
+      "bg": "Търсач на съкровища"
+    },
+    {
+      "i": 670,
+      "key": "/C47FA9C04C53D1EA4835B8932DA09F21",
+      "en": "Prove the worth of your work. Pay the toll to unlock the Key of Automation.\r\nTwo keys are required to enter the Lighthouse.\r\nTwo keys are required to leave Nightwater.",
+      "bg": "Докажи стойността на труда си. Плати таксата, за да отключиш Ключа на автоматизацията.\r\nЗа да влезеш във Фара, са нужни два ключа.\r\nЗа да напуснеш Найтуотър, са нужни два ключа."
+    },
+    {
+      "i": 671,
+      "key": "/99A8AAF04720668F7AB3B3BCFCD16353",
+      "en": "Published by:",
+      "bg": "Издадено от:"
+    },
+    {
+      "i": 672,
+      "key": "/E19509A34E738288DDBB32B3D45D0F66",
+      "en": "Pure Harvest",
+      "bg": "Чиста реколта"
+    },
+    {
+      "i": 673,
+      "key": "/17711059440523B45A38D488083F714C",
+      "en": "Quartz Dust",
+      "bg": "Кварцова прах"
+    },
+    {
+      "i": 674,
+      "key": "/E9985F0448F222E9599A21AE4262BC5E",
+      "en": "Quartz Ore",
+      "bg": "Кварцов рудник"
+    },
+    {
+      "i": 675,
+      "key": "/DB279C6246CB1CA37843C4B84200126A",
+      "en": "Quick Hands",
+      "bg": "Бързи ръце"
+    },
+    {
+      "i": 676,
+      "key": "/27E15F9E496AF6BCD9E2CD98BA532BAC",
+      "en": "Quota",
+      "bg": "Квота"
+    },
+    {
+      "i": 677,
+      "key": "/475A5644450C4978F82F809044292D6B",
+      "en": "Quota:",
+      "bg": "Квота:"
+    },
+    {
+      "i": 678,
+      "key": "/E5A52D694CDA435B2742B88B7CE48988",
+      "en": "Radius: ",
+      "bg": "Радиус: "
+    },
+    {
+      "i": 679,
+      "key": "/DB335954485500761044AD93A6BC36F8",
+      "en": "Rage",
+      "bg": "Ярост"
+    },
+    {
+      "i": 680,
+      "key": "/CA74E34649CE6C3DB921B59D18D906FA",
+      "en": "Raises the maximum number of resources that spawn by 20%.",
+      "bg": "Увеличава максималния брой ресурси, които се появяват с 20%."
+    },
+    {
+      "i": 681,
+      "key": "/DC341A1C4A26E57644176595D200FF18",
+      "en": "Range",
+      "bg": "Обхват"
+    },
+    {
+      "i": 682,
+      "key": "/EC5ECF4EE2E17E75CA8299E2E2E17E75",
+      "en": "Ranged Burst",
+      "bg": "Рафална стрелба"
+    },
+    {
+      "i": 683,
+      "key": "/101E5DAB4D8D8177545914BBB6569E64",
+      "en": "Raw Crystal",
+      "bg": "Суров кристал"
+    },
+    {
+      "i": 684,
+      "key": "/3AC482D849414EE41E041884026F661B",
+      "en": "Reach Clay Milestone 3 to be able to unlock this Ability",
+      "bg": "Достигни до етап 3 на глина, за да отключиш тази способност."
+    },
+    {
+      "i": 685,
+      "key": "/B3C2EEC04C5B65D1E3C28E91B02A134B",
+      "en": "Reach Wheat Milestone 4 to be able to unlock this Ability",
+      "bg": "Достигни до етап 4 на пшеницата, за да отключиш тази способност."
+    },
+    {
+      "i": 686,
+      "key": "/97A8D96F4C5F9C8102B808A21303E831",
+      "en": "Reach the end of the track",
+      "bg": "Стигни края на пистата"
+    },
+    {
+      "i": 687,
+      "key": "/8B888F804815BB9890BEB39AC2E5D471",
+      "en": "Reach the lighthouse so we can part ways again",
+      "bg": "Достигни до фара, за да се разделим отново."
+    },
+    {
+      "i": 688,
+      "key": "/11D7669849F286659B6DF4A6994D87A9",
+      "en": "Reach the lighthouse to find closure",
+      "bg": "Стигни до фара и намери мир"
+    },
+    {
+      "i": 689,
+      "key": "/7002FA614406FB2E7F9C3C8D3E622308",
+      "en": "Reach the lighthouse to have your questions answered",
+      "bg": "Достигни до фара, за да получиш отговори."
+    },
+    {
+      "i": 690,
+      "key": "/ABC23B234CC194128A2F288056E30123",
+      "en": "Really Destroy",
+      "bg": "Наистина унищожи"
+    },
+    {
+      "i": 691,
+      "key": "/4D1414144B15EDCCE51336BB9910AF01",
+      "en": "Really quit?",
+      "bg": "Наистина напусни?"
+    },
+    {
+      "i": 692,
+      "key": "/D5C642364EBAB4D0F1B6F7969FECC175",
+      "en": "Red Platforms",
+      "bg": "Червени платформи"
+    },
+    {
+      "i": 693,
+      "key": "/51E740854B7081832F87458F5B1200E9",
+      "en": "Reduces the base grow time of all plants by 20%.",
+      "bg": "Намалява основното време за растеж на всички растения с 20%."
+    },
+    {
+      "i": 694,
+      "key": "/A29A92344F07752F005EDAB6CFA9171E",
+      "en": "Reduces your attack cooldown by 8%, so you strike faster.",
+      "bg": "Намалява охлаждането на атаката ви с 8%, така че удряте по-бързо."
+    },
+    {
+      "i": 695,
+      "key": "/16D748D640925644260CB1B60579263A",
+      "en": "Refined Crystal",
+      "bg": "Пречистен кристал"
+    },
+    {
+      "i": 696,
+      "key": "/14BF92654AFE221A24B6C6B8DB0A87DB",
+      "en": "Refined Quartz",
+      "bg": "Пречистена кварца"
+    },
+    {
+      "i": 697,
+      "key": "/4CB1D1B64B75E8D24D3DDD9B909DBC33",
+      "en": "Refines raw resources into denser, processed outputs. A basic machine for early-stage automation.",
+      "bg": "Рафинира суровите ресурси в по-плътни, обработени изходи. Основна машина за ранно автоматизиране."
+    },
+    {
+      "i": 698,
+      "key": "/29A1DF804CC65C3F80FAE8BBD3F051EF",
+      "en": "Regrowth",
+      "bg": "Възстановяване"
+    },
+    {
+      "i": 699,
+      "key": "/F15057A845460F650C50ACACAA5651E9",
+      "en": "Reinforced Assembler",
+      "bg": "Усилен асемблер"
+    },
+    {
+      "i": 700,
+      "key": "/72AB59E746289CAAAE0E7490EBA2EF11",
+      "en": "Reinforced Chest",
+      "bg": "Усилена сандъка"
+    },
+    {
+      "i": 701,
+      "key": "/8B2EC0EA4DE6192AC2D86793298B8666",
+      "en": "Reinforced Furnace",
+      "bg": "Усилен котел"
+    },
+    {
+      "i": 702,
+      "key": "/18B9D09C4E8CB3300CE7FAA7A3B231A6",
+      "en": "Reinforced Gearbox",
+      "bg": "Усилена скоростна кутия"
+    },
+    {
+      "i": 703,
+      "key": "/191B77AA4B26D4FDE9B430918047E9AF",
+      "en": "Reinforced Pipe",
+      "bg": "Усилен тръбопровод"
+    },
+    {
+      "i": 704,
+      "key": "/7A16A00F41B2DB9F89606E8BED3C9AD1",
+      "en": "Reinforced Plant Farmer",
+      "bg": "Усилена растителна ферма"
+    },
+    {
+      "i": 705,
+      "key": "/8C6DE67A4E2776A3FEA10494577CE4A4",
+      "en": "Reinforced Rock Crusher",
+      "bg": "Усилена каменотрошачка"
+    },
+    {
+      "i": 706,
+      "key": "/8C6247F14DC8912535D5AB8D502CCAF7",
+      "en": "Reinforced Wood Cutter",
+      "bg": "Усилена машина за рязане на дърва"
+    },
+    {
+      "i": 707,
+      "key": "/215E969E401A37D2C26CBEB45E558191",
+      "en": "Remove Debris",
+      "bg": "Премахване на отломки"
+    },
+    {
+      "i": 708,
+      "key": "/BEE3CC3E47CA96692FF0B892C2640856",
+      "en": "Repeatable Upgrades",
+      "bg": "Повтарящи се надстройки"
+    },
+    {
+      "i": 709,
+      "key": "/268BEB554A33E42428B5F9A34283EE9E",
+      "en": "Reroll {CreditAmount} Credits",
+      "bg": "Превърти {CreditAmount} кредита"
+    },
+    {
+      "i": 710,
+      "key": "/6A12C557485CD073B7830FAF458ABDEE",
+      "en": "Research Table",
+      "bg": "Изследователска маса"
+    },
+    {
+      "i": 711,
+      "key": "/8F71778B43C2E7F706E9A79A7211CB5A",
+      "en": "Resin is dropped from white trees that grow in the East near the waterfall.",
+      "bg": "Смола пада от белите дървета, които растат на изток близо до водопада."
+    },
+    {
+      "i": 712,
+      "key": "/C21C737A4A203925BB376B8108304CA2",
+      "en": "Resolution",
+      "bg": "Резолюция"
+    },
+    {
+      "i": 713,
+      "key": "/AC912103448A23FB8DEA868EB08043DF",
+      "en": "Resource Output",
+      "bg": "Изход на ресурси"
+    },
+    {
+      "i": 714,
+      "key": "/3CB2494D442F38000B8D68ADB6E4645B",
+      "en": "Resource gain: {ResourceGain}",
+      "bg": "Придобиване на ресурс: {ResourceGain}"
+    }
+  ]
+}

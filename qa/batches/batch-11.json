@@ -1,0 +1,339 @@
+{
+  "batch": "11",
+  "range": [
+    550,
+    604
+  ],
+  "rows": [
+    {
+      "i": 550,
+      "key": "/C608648844C8A02AE90F05B36A4CEAD3",
+      "en": "Move Left",
+      "bg": "Премести се наляво"
+    },
+    {
+      "i": 551,
+      "key": "/BEEEFB68440C8F54D8B0538EA5DDBDF0",
+      "en": "Move Right",
+      "bg": "Премести се надясно"
+    },
+    {
+      "i": 552,
+      "key": "/AE7DE6FC4A7323485D6E36B639C25055",
+      "en": "Movement Speed",
+      "bg": "Скорост на движение"
+    },
+    {
+      "i": 553,
+      "key": "/C2167A8A459E81AB2C7AA6994305D67E",
+      "en": "Moving on",
+      "bg": "Продължи да се движиш"
+    },
+    {
+      "i": 554,
+      "key": "/C9CF84ED480A560E500EFDA6FE8AC29B",
+      "en": "Multi Shroom",
+      "bg": "Мулти гъба"
+    },
+    {
+      "i": 555,
+      "key": "/55987FBC4BB447201C26D0A929A8AC5A",
+      "en": "Mushroom",
+      "bg": "Гъба"
+    },
+    {
+      "i": 556,
+      "key": "/4628343E419AAFAB4313C3A1308960DF",
+      "en": "Music Volume",
+      "bg": "Сила на звука за музиката"
+    },
+    {
+      "i": 557,
+      "key": "/FD2428A44A1E121244BDCABC0218C026",
+      "en": "Nature Blessing",
+      "bg": "Благословия от природата"
+    },
+    {
+      "i": 558,
+      "key": "/A67E4B6D49BBB8E420FB8ABC416DF2B4",
+      "en": "New High Score",
+      "bg": "Нов висок резултат"
+    },
+    {
+      "i": 559,
+      "key": "/314BABBF44BCDB2A277335A56C958852",
+      "en": "New biomes include new resources, new puzzles, and new mini-games!",
+      "bg": "Новите биоми включват нови ресурси, нови пъзели и нови мини-игри!"
+    },
+    {
+      "i": 560,
+      "key": "/088869D044A4DD93DAA13791A19D03B2",
+      "en": "New recipes, new reach... thinner seams",
+      "bg": "Нови рецепти, нов обхват… по-тънки шевове"
+    },
+    {
+      "i": 561,
+      "key": "/151D39AB42811BE9DAE55EBD05D3C4FA",
+      "en": "Nightsky Trinket",
+      "bg": "Амулет на нощното небе"
+    },
+    {
+      "i": 562,
+      "key": "/F17B584F472D3568344D0B95B33EAA23",
+      "en": "Nightwater",
+      "bg": "Найтуотър"
+    },
+    {
+      "i": 563,
+      "key": "/AD074DC444E51C7B7E7B19AAC7F3EAF5",
+      "en": "Nightwater, like the others...",
+      "bg": "Найтуотър, като останалите..."
+    },
+    {
+      "i": 564,
+      "key": "/4A72773642EF5F9F9903DEA841D1FC0D",
+      "en": "Nightwater... a decision you made",
+      "bg": "Найтуотър... твой избор"
+    },
+    {
+      "i": 565,
+      "key": "/4E0EE48C4B4EB7888A55C8BF65771A07",
+      "en": "No effect on other plants.",
+      "bg": "Няма ефект върху другите растения."
+    },
+    {
+      "i": 566,
+      "key": "/C63AD03145B59F3D4D5F26AF7BEE16E0",
+      "en": "No reason to return...",
+      "bg": "Няма причина за връщане…"
+    },
+    {
+      "i": 567,
+      "key": "/6D9164A14FD7F729B0253288797A9A41",
+      "en": "Normal Pickaxe",
+      "bg": "Обикновен кирка"
+    },
+    {
+      "i": 568,
+      "key": "/1F04884D493E377EDD7949837B2B124B",
+      "en": "Nothing but a lie, born of fear",
+      "bg": "Нищо освен лъжа, родена от страх"
+    },
+    {
+      "i": 569,
+      "key": "/5D1764E34406F8409288209E9BF70307",
+      "en": "Nothing is eternal... nothing should be",
+      "bg": "Нищо не е вечно... нищо не трябва да бъде"
+    },
+    {
+      "i": 570,
+      "key": "/C1BF96004A25B887399CAA98812C780F",
+      "en": "Nothing left...",
+      "bg": "Нищо не остана..."
+    },
+    {
+      "i": 571,
+      "key": "/ABCD759A411E2EFE9572A594C07C9EB5",
+      "en": "Nothing more",
+      "bg": "Няма повече."
+    },
+    {
+      "i": 572,
+      "key": "/9AEF484641D88F50BF92C8ADC3578778",
+      "en": "Oasis",
+      "bg": "Оазис"
+    },
+    {
+      "i": 573,
+      "key": "/F04D7D6A4CBDCD2079B36D8D2DD5B671",
+      "en": "Oasis plants grow 25% faster.",
+      "bg": "Растенията в Оазиса растат с 25% по-бързо."
+    },
+    {
+      "i": 574,
+      "key": "/A13090D14DE70F96CB795DB0442B7D3C",
+      "en": "One-time unlock. Resources destroyed by your explosions explode in turn, chaining across the field.",
+      "bg": "Еднократно отключване. Ресурсите, унищожени от твоите експлозии, също се взривяват и предизвикват верижна реакция по полето."
+    },
+    {
+      "i": 575,
+      "key": "/E6728AB940903211468EAA8E16942A53",
+      "en": "One-time unlock. When a poisoned resource dies, the poison spreads to nearby resources once.",
+      "bg": "Еднократно отключване. Когато отровен ресурс бъде унищожен, отровата се пренася веднъж към близките ресурси."
+    },
+    {
+      "i": 576,
+      "key": "/8E5AAFA840E447A3497B2ABCD42BEAB5",
+      "en": "Ore Multiplier",
+      "bg": "Множител на рудата"
+    },
+    {
+      "i": 577,
+      "key": "/0045E6A74BCEE5BD4871ADA86FA383EA",
+      "en": "Ore and Mineral Multiplier Rune",
+      "bg": "Рун за множител на руда и минерали"
+    },
+    {
+      "i": 578,
+      "key": "/A30BC8AD409AB011E20B1BB8FEC2645C",
+      "en": "Other",
+      "bg": "Други"
+    },
+    {
+      "i": 579,
+      "key": "/96E7EB3841DAE184BE57268824A3370D",
+      "en": "Outlines enabled",
+      "bg": "Контурите са активирани."
+    },
+    {
+      "i": 580,
+      "key": "/F1FA6E504CFC59E1F866A9BD68C32161",
+      "en": "Overall Volume",
+      "bg": "Общ обем"
+    },
+    {
+      "i": 581,
+      "key": "/0577381E45B51CC594C69C90FD92E56F",
+      "en": "Overflow",
+      "bg": "Препълване"
+    },
+    {
+      "i": 582,
+      "key": "/2C7491154405C9006E4FC88D98E9F1D3",
+      "en": "Overtime",
+      "bg": "Извънреден труд"
+    },
+    {
+      "i": 583,
+      "key": "/95BF766047BEA611AF3F89A6C36EF88C",
+      "en": "PIPE TOO LONG",
+      "bg": "ТЪЙ ЧЕ ТРЪБАТА Е ПРЕКАЛЕНО ДЪЛГА"
+    },
+    {
+      "i": 584,
+      "key": "/2F0A04EC483D137D7D3CF0ACBB5EE46D",
+      "en": "Palm Wood",
+      "bg": "Дърво от палма"
+    },
+    {
+      "i": 585,
+      "key": "/5390E76743732B6935F7598361A1F637",
+      "en": "Paper",
+      "bg": "Хартия"
+    },
+    {
+      "i": 586,
+      "key": "/ED5846AC458FB596015DAA98E8D28F31",
+      "en": "Pause",
+      "bg": "Пауза"
+    },
+    {
+      "i": 587,
+      "key": "/07A5721D4FB70B5F2211D7A124469A5A",
+      "en": "Paused",
+      "bg": "В пауза"
+    },
+    {
+      "i": 588,
+      "key": "/0B10F3FB4DB3BC33192EDEBF47FAF6FE",
+      "en": "Pay",
+      "bg": "Плати"
+    },
+    {
+      "i": 589,
+      "key": "/A88A9F7E43BEE69609AE81B3ABE3CEAB",
+      "en": "Pay {GoldAmount} gold to clear the debris and unlock this area.",
+      "bg": "Платете {GoldAmount} злато, за да разчистите отломките и отключите тази зона."
+    },
+    {
+      "i": 590,
+      "key": "/B050756B4A4FA7B7104403AA38570638",
+      "en": "Payday",
+      "bg": "Заплата"
+    },
+    {
+      "i": 591,
+      "key": "/1A9881ED4EEE8E136696E89A504D7174",
+      "en": "Payday Credits",
+      "bg": "Кредити за заплати"
+    },
+    {
+      "i": 592,
+      "key": "/B9203FE0431175747B81FEB62502D754",
+      "en": "Permafrost Unit",
+      "bg": "Единица Пермафрост"
+    },
+    {
+      "i": 593,
+      "key": "/60BE02ED46A677DEE24FEDAFB5AE98DE",
+      "en": "Permanently activates all blue platforms.",
+      "bg": "Трайно активира всички сини платформи."
+    },
+    {
+      "i": 594,
+      "key": "/63CAC14C4B953221BABD97874B91DBB6",
+      "en": "Permanently activates all red platforms.",
+      "bg": "Трайно активира всички червени платформи."
+    },
+    {
+      "i": 595,
+      "key": "/45A912CE49FB33C6F1D5329F5D5F99D8",
+      "en": "Permanently decreases Bit & Hogg Ability cooldown by 10%",
+      "bg": "Трайно намалява времето за охлаждане на способността Bit & Hogg с 10%"
+    },
+    {
+      "i": 596,
+      "key": "/49945FD9485F752613384090E7F2EC01",
+      "en": "Permanently decreases the Berserk Ability cooldown by 10%",
+      "bg": "Трайно намалява времето за охлаждане на способността Berserk с 10%"
+    },
+    {
+      "i": 597,
+      "key": "/2043EEFB43F86A648629458931C6477A",
+      "en": "Permanently increases Axe Skill damage per hit by +10",
+      "bg": "Трайно увеличава щетите от умението Axe Skill за всеки удар с +10"
+    },
+    {
+      "i": 598,
+      "key": "/819E63F94D6158538F1340B51F39C1AC",
+      "en": "Permanently increases Axe Skill damage per hit by +50",
+      "bg": "Трайно увеличава щетите от умението Axe Skill за всеки удар с +50"
+    },
+    {
+      "i": 599,
+      "key": "/7F4FD7D1411B88F55DE7A0920872EB0A",
+      "en": "Permanently increases Berserk Skill base duration by +1 second",
+      "bg": "Трайно увеличава основната продължителност на способността Berserk със 1 секунда"
+    },
+    {
+      "i": 600,
+      "key": "/30BC19364974B831F6BD9381FACDEF30",
+      "en": "Permanently increases Berserk Skill damage boost by +10%",
+      "bg": "Постоянно увеличава бонуса към щетите на умението Berserk с +10%"
+    },
+    {
+      "i": 601,
+      "key": "/18A580254C57A0C60EF94082700FED07",
+      "en": "Permanently increases Berserk Skill resource gain by +10%",
+      "bg": "Постоянно увеличава придобиването на ресурси от умението Berserk с +10%"
+    },
+    {
+      "i": 602,
+      "key": "/1D1C94E34F84F7E69BDA029AE5BEAA9B",
+      "en": "Permanently increases Berserk Skill speed boost by +10%",
+      "bg": "Постоянно увеличава бонуса за скорост на умението Berserk с +10%"
+    },
+    {
+      "i": 603,
+      "key": "/430E0AA84B180AB8BFFC9B80FC6E3A43",
+      "en": "Permanently increases Bit & Hogg Skill damage by +100",
+      "bg": "Постоянно увеличава щетите на умението Bit & Hogg с +100"
+    },
+    {
+      "i": 604,
+      "key": "/9E47B10449DE09A91CC3E899EF26E9A6",
+      "en": "Permanently increases Bit & Hogg Skill damage by +50",
+      "bg": "Постоянно увеличава щетите на умението Bit & Hogg с +50"
+    }
+  ]
+}

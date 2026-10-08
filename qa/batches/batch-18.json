@@ -1,0 +1,339 @@
+{
+  "batch": "18",
+  "range": [
+    935,
+    989
+  ],
+  "rows": [
+    {
+      "i": 935,
+      "key": "/9508B19D4B3CC0DD5CAC32A962CC8066",
+      "en": "With music by:",
+      "bg": "Музика от:"
+    },
+    {
+      "i": 936,
+      "key": "/B1CA73CC43EF7EFB9A4F618CFF73454C",
+      "en": "Wood",
+      "bg": "Дърво"
+    },
+    {
+      "i": 937,
+      "key": "/4F664BE14B40BC612EDEA0962C3A72A5",
+      "en": "Wood Bark is dropped by dark trees that grow in the West near the ruins.",
+      "bg": "Кората на дървото пада от тъмните дървета, които растат на запад близо до руините."
+    },
+    {
+      "i": 938,
+      "key": "/07F2C9C844A84197C2F7F9B2D15BC4B8",
+      "en": "Wood Cutter Speed",
+      "bg": "Скорост на рязане"
+    },
+    {
+      "i": 939,
+      "key": "/FD21452D46FB478F78C1A2B1BF4DEB83",
+      "en": "Wood Dust Milestone",
+      "bg": "Междинна цел за дървесна прах"
+    },
+    {
+      "i": 940,
+      "key": "/191197024697872119055C8FE0A250AB",
+      "en": "Wood Fortune",
+      "bg": "Щастие от дърво"
+    },
+    {
+      "i": 941,
+      "key": "/69384FBA49783A05F62C6C90B2711836",
+      "en": "Wooden Cat",
+      "bg": "Дървена котка"
+    },
+    {
+      "i": 942,
+      "key": "/6564072A4FEF1A6678CAA484DBECEC6F",
+      "en": "Wooden Chair",
+      "bg": "Дървен стол"
+    },
+    {
+      "i": 943,
+      "key": "/E22D801E493F03278CC6C399E66D3AE8",
+      "en": "Wooden Gear",
+      "bg": "Дървена зъбна колела"
+    },
+    {
+      "i": 944,
+      "key": "/D0D94001458DDEDAC88EFBAA970137EC",
+      "en": "Wooden Pickaxe",
+      "bg": "Дървен кирка"
+    },
+    {
+      "i": 945,
+      "key": "/BAA7A4B74B43309F7E53CA90A2E0B9C3",
+      "en": "Workbench",
+      "bg": "Работилница"
+    },
+    {
+      "i": 946,
+      "key": "/AF2BB03B46D6FBF438F7639ADF738A35",
+      "en": "Would this place be the same without me",
+      "bg": "Би ли това място било същото без мен?"
+    },
+    {
+      "i": 947,
+      "key": "/A5724CD5463152FDD31266ABCE198D67",
+      "en": "X-Ray Ability",
+      "bg": "Способност рентген"
+    },
+    {
+      "i": 948,
+      "key": "/36FD2457484470EECDD7CDB811F93560",
+      "en": "You can't escape the void",
+      "bg": "Не можеш да избягаш от пустотата."
+    },
+    {
+      "i": 949,
+      "key": "/B73F73EB41F4F1F1FF29B7A28A9A456D",
+      "en": "You don't fear death, just this place here...",
+      "bg": "Не се страхуваш от смъртта, само от това място тук..."
+    },
+    {
+      "i": 950,
+      "key": "/D28F90F2429BA7D15A81E2891EA15ACA",
+      "en": "You keep giving tools, not reasons",
+      "bg": "Продължаваш да ми даваш инструменти, а не причини"
+    },
+    {
+      "i": 951,
+      "key": "/21CC04634C2016D49F6E29A5587C12EF",
+      "en": "You never wanted this...",
+      "bg": "Ти никога не си искал това..."
+    },
+    {
+      "i": 952,
+      "key": "/A41661FB4CBC9EA070DA31AD02755F6F",
+      "en": "You remember quickly... you always do",
+      "bg": "Бързо се сещаш... винаги е така."
+    },
+    {
+      "i": 953,
+      "key": "/F39A65C249556FC2C7D97C91AE4BA0C2",
+      "en": "You thought this is what we wanted?",
+      "bg": "Мислеше, че това искаме?"
+    },
+    {
+      "i": 954,
+      "key": "/FCB5DAE84560198413BAE5B5A3EC1221",
+      "en": "You turned every stone... patient... precise...",
+      "bg": "Обърна всеки камък... търпеливо... точно..."
+    },
+    {
+      "i": 955,
+      "key": "/A483553C40B1D0A228B4E8863E5C534A",
+      "en": "You wanted us to have more",
+      "bg": "Искаше да имаме повече."
+    },
+    {
+      "i": 956,
+      "key": "/17E3517B4DCA5A5467FCE9960D9369A5",
+      "en": "You'll need to unlock the Auto-Planter in the shop first.",
+      "bg": "Първо трябва да отключиш Автоматичния садител в магазина."
+    },
+    {
+      "i": 957,
+      "key": "/F495094E4E09751971A81A88393B75E7",
+      "en": "Your blast echoes one more time per level on the same spot for 30% damage.",
+      "bg": "Твоето избухване отеква още веднъж на същото място за 30% щети."
+    },
+    {
+      "i": 958,
+      "key": "/2F8522944DEB509E24B96285DA591FC5",
+      "en": "Your first hit on a resource deals 20% more damage.",
+      "bg": "Първият ти удар по ресурс нанася 20% повече щети."
+    },
+    {
+      "i": 959,
+      "key": "/05114D1F4EBBA9F0109E4FA7A81100CF",
+      "en": "Your hits have a 30% chance to chain lightning to the nearest resource for 30% of the hit's damage.",
+      "bg": "Ударите ти имат 30% шанс да прехвърлят мълния към най-близкия ресурс за 30% от щетите на удара."
+    },
+    {
+      "i": 960,
+      "key": "/457E25854363A16A4F9D89A20C6F203B",
+      "en": "Your lightning jumps to one more resource per level.",
+      "bg": "Твоята мълния прескача на още един ресурс на ниво."
+    },
+    {
+      "i": 961,
+      "key": "/1A08D7B245C53CE830245DA8BD2FE6DB",
+      "en": "Your poison deals 20 more damage per second.",
+      "bg": "Твоят отровен удар се увеличава с 20 щети в секунда."
+    },
+    {
+      "i": 962,
+      "key": "/F394A9894433E1C333513FBFB2B06F74",
+      "en": "Your poison lasts one second longer.",
+      "bg": "Твоят отровен удар трае една секунда по-дълго."
+    },
+    {
+      "i": 963,
+      "key": "/3AE34B904C087348326B1F9B6BCA2CF3",
+      "en": "Your rage grants 10% more damage.",
+      "bg": "Твоето ожесточение ти дава 10% повече щети."
+    },
+    {
+      "i": 964,
+      "key": "/E46372584D281B2743A5DAA237DAB654",
+      "en": "Your rage grants 10% more movement speed.",
+      "bg": "Твоето ожесточение ти дава 10% по-голяма скорост на движение."
+    },
+    {
+      "i": 965,
+      "key": "/D4B0427243BFCBB4921533B2D5125FE0",
+      "en": "Your rage lasts one second longer.",
+      "bg": "Твоето ожесточение трае една секунда по-дълго."
+    },
+    {
+      "i": 966,
+      "key": "/81377FBE43C540607B73ADB10C10B2AF",
+      "en": "Your tool will gain an additional 30% critical hit chance and the number of items obtained from resources that are finished with a crit is increased by 60%.",
+      "bg": "Твоят инструмент ще получи допълнителни 30% шанс за критичен удар, а броят на предметите от ресурси завършени с крит се увеличава със 60%."
+    },
+    {
+      "i": 967,
+      "key": "/3DE84A834094CFFB01D7CBB62E4B90D9",
+      "en": "Your tool will gain an additional 40% critical hit chance and the number of items obtained from resources that are finished with a crit is increased by 100%.",
+      "bg": "Твоят инструмент ще получи допълнителни 40% шанс за критичен удар, а броят на предметите от ресурси завършени с крит се увеличава със 100%."
+    },
+    {
+      "i": 968,
+      "key": "/7A1A9547400CA45CD779ED83EF4AA74D",
+      "en": "Zone Upgrade Tier 1",
+      "bg": "Надстройка зона ниво 1."
+    },
+    {
+      "i": 969,
+      "key": "/2C963F5542732D46A06424A15ADE68D2",
+      "en": "Zone Upgrade Tier 2",
+      "bg": "Надстройка зона ниво 2."
+    },
+    {
+      "i": 970,
+      "key": "/2A5A48C94A9B42E8D5DDB9A135C8BE2F",
+      "en": "Zone Upgrade Tier 3",
+      "bg": "Надстройка на зона 3-ти ниво"
+    },
+    {
+      "i": 971,
+      "key": "/6B97CBC040E26D6129C0A4B16D3FA956",
+      "en": "follow the minecart rails!",
+      "bg": "Следвай релсите за миньорски колички!"
+    },
+    {
+      "i": 972,
+      "key": "/721D2E804089870A35CCC1BBC96173D7",
+      "en": "so full, and yet so void",
+      "bg": "толкова пълна, а все пак толкова празна"
+    },
+    {
+      "i": 973,
+      "key": "/174566F24285BB0297D6D9B47AD9430E",
+      "en": "to receive the Key of Memories",
+      "bg": "за да получиш Ключа на спомените"
+    },
+    {
+      "i": 974,
+      "key": "CommonWords/ItemDescriptionSimple",
+      "en": "A basic crafting material used for building structures, equipment, and complex items.",
+      "bg": "Основен материал за изработка, използван за строеж на структури, оборудване и сложни предмети."
+    },
+    {
+      "i": 975,
+      "key": "CommonWords/NatureChestDescription",
+      "en": "A dedicated storage container for plant-type base Milestone items, not crafted items. Restricted to plant-related milestone resources only, with a capacity of 250.",
+      "bg": "Специална контейнерна кутия за основни елементи от тип растение (не са готови изделия). Ограничена само до ресурси свързани с растенията, с капацитет 250."
+    },
+    {
+      "i": 976,
+      "key": "CommonWords/TrunkChest",
+      "en": "A dedicated storage container for wood-type base Milestone items, not crafted items. Restricted to wood-related milestone resources only, with a capacity of 250.",
+      "bg": "Специална контейнерна кутия за дървени материали от основни елементи тип растение (не са готови изделия). Ограничена само до ресурси свързани с растенията, с капацитет 250."
+    },
+    {
+      "i": 977,
+      "key": "CommonWords/FactoryDescription",
+      "en": "A machine that can receive items through pipes to automate crafting, at a very fast speed.",
+      "bg": "Машина която може да получава предмети чрез тръби за автоматизиране на изработката със много висока скорост."
+    },
+    {
+      "i": 978,
+      "key": "CommonWords/PulverizerDescription",
+      "en": "A machine that processes ore into dust. Dust can be processed into ingots more efficiently in the furnace.",
+      "bg": "Машина, която обработва руда в прах. Прахът се преработва по-ефективно от пещта във вид на слитъци."
+    },
+    {
+      "i": 979,
+      "key": "CommonWords/Assembler",
+      "en": "A rudimentary auto-crafter. Slow crafting speed with a low construction cost.",
+      "bg": "Примитивен автомат за изработка. Бавна скорост на производството и ниска цена при строежа."
+    },
+    {
+      "i": 980,
+      "key": "CommonWords/DecorationDescription",
+      "en": "A simple decoration with no practical use.",
+      "bg": "Елементарна декорация без практическа употреба."
+    },
+    {
+      "i": 981,
+      "key": "CommonWords/WoodenTotemDescription",
+      "en": "A totem that restricts resource spawns in its effect area to trees only",
+      "bg": "Тотем, който ограничава появата на ресурси в зоната си на действие само до дървета"
+    },
+    {
+      "i": 982,
+      "key": "CommonWords/Activated",
+      "en": "Activated",
+      "bg": "Активиран"
+    },
+    {
+      "i": 983,
+      "key": "CommonWords/ExtendedArea",
+      "en": "Adds more planting spots to this Area.",
+      "bg": "Добавя повече места за засаждане в тази област."
+    },
+    {
+      "i": 984,
+      "key": "CommonWords/AdvancedLootManifester",
+      "en": "Advanced Loot Manifester",
+      "bg": "Напреднал манифестатор на плячката"
+    },
+    {
+      "i": 985,
+      "key": "CommonWords/ItemDescriptionComplex",
+      "en": "An advanced crafting material used for complex structures, upgrades and equipment.",
+      "bg": "Сложен материал за изработка, използван за сложни структури, надстройки и оборудване."
+    },
+    {
+      "i": 986,
+      "key": "CommonWords/LootBoxDescription",
+      "en": "An advanced device that manifests random resources 5 minutes after placement. Provides 6 random resource drops once the process is complete.",
+      "bg": "Напреднало устройство, което манифестира случайни ресурси 5 минути след поставяне. Осигурява 6 произволни падащи ресурса веднъж при завършване на процеса."
+    },
+    {
+      "i": 987,
+      "key": "CommonWords/NatureAltarDescription",
+      "en": "An altar that slowly generates all types of plant milestone items without requiring resources.",
+      "bg": "Олтар, който бавно генерира всички видове растителни предмети за постижения без да изисква ресурси."
+    },
+    {
+      "i": 988,
+      "key": "CommonWords/Analyse",
+      "en": "Analyze",
+      "bg": "Анализирай"
+    },
+    {
+      "i": 989,
+      "key": "CommonWords/DesertHarvester",
+      "en": "Automatically harvests grown plants in this Area and stores the gold.",
+      "bg": "Автоматично прибира порасналите растения в тази зона и съхранява златото."
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "batch": "09",
+  "range": [
+    440,
+    494
+  ],
+  "rows": [
+    {
+      "i": 440,
+      "key": "/8D0CE0D74BD2EE75ADD40A9C7ADC3821",
+      "en": "Increases your movement speed by 5% per level. Can be bought infinitely and toggled off.",
+      "bg": "Увеличава скоростта ти на движение с 5% на ниво. Може да се купува неограничен брой пъти и да се изключва."
+    },
+    {
+      "i": 441,
+      "key": "/51C65C0E491250BEBA3B63B6E248C2A9",
+      "en": "Industrial Computing Unit",
+      "bg": "Индустриален компютърен модул"
+    },
+    {
+      "i": 442,
+      "key": "/902F46084F8454071EBBEB80DBBF388E",
+      "en": "Infinite Capacity",
+      "bg": "Безкраен капацитет"
+    },
+    {
+      "i": 443,
+      "key": "/68B8F98E46C4B16FF4DDB790677F8628",
+      "en": "Infinite Data",
+      "bg": "Безкрайни данни"
+    },
+    {
+      "i": 444,
+      "key": "/82033EB74D387CFD9ACE62A6F5C5B6D7",
+      "en": "Infinite Speed",
+      "bg": "Безкрайна скорост"
+    },
+    {
+      "i": 445,
+      "key": "/114E015749D839AADD6C7CA349D05070",
+      "en": "Infinity Mode",
+      "bg": "Режим на безкрайност"
+    },
+    {
+      "i": 446,
+      "key": "/69AB215C4CD24433C7A02C81817EA998",
+      "en": "Info",
+      "bg": "Информация"
+    },
+    {
+      "i": 447,
+      "key": "/6A20A44847006D9C356694BD38A1D5AA",
+      "en": "Instead of collecting each building manually, you can use a collector to collect all harvesters and assemblers within a radius at once.",
+      "bg": "Вместо да събираш всяка сграда ръчно, можеш да използваш събирател, за да събереш едновременно всички автоматични събирачи и асемблери в радиус."
+    },
+    {
+      "i": 448,
+      "key": "/6AB5032F4355871A28E4988234FEC3C1",
+      "en": "Interact",
+      "bg": "Взаимодействай"
+    },
+    {
+      "i": 449,
+      "key": "/7E53DDD74C38C6A3562F4C86816C2DD3",
+      "en": "Interact to buy upgrade",
+      "bg": "Взаимодействайте, за да закупите надграждане."
+    },
+    {
+      "i": 450,
+      "key": "/413E83954D2829E7B1082E85858F655E",
+      "en": "Interact to disable Checkpoints",
+      "bg": "Интеракция за деактивиране на контролни точки"
+    },
+    {
+      "i": 451,
+      "key": "/6816330E40CF538593DB638EA3F55B22",
+      "en": "Interact to disable Infinite Speed Upgrades",
+      "bg": "Интеракция за деактивиране на безкрайни надстройки на скоростта"
+    },
+    {
+      "i": 452,
+      "key": "/61D8E634486185D60E350D8ED0DA0979",
+      "en": "Interact to enable Checkpoints",
+      "bg": "Интеракция за активиране на контролни точки"
+    },
+    {
+      "i": 453,
+      "key": "/54B15DAC47A18D83F240F9976F13BD7B",
+      "en": "Interact to enable Infinite Speed Upgrades",
+      "bg": "Интеракция за активиране на безкрайни надстройки на скоростта"
+    },
+    {
+      "i": 454,
+      "key": "/34A7A36844127FB76FAA0DA22E4523F2",
+      "en": "Interact to go back to the beginning of the course",
+      "bg": "Интеракция за връщане в началото на курса"
+    },
+    {
+      "i": 455,
+      "key": "/A35F8D3D42369385D69252838A142D6D",
+      "en": "Interact to pet",
+      "bg": "Интеракция за галене"
+    },
+    {
+      "i": 456,
+      "key": "/041B98614FA620F290B7E6A159141C0A",
+      "en": "Introvert Upgrade",
+      "bg": "Надстройка на интроверт"
+    },
+    {
+      "i": 457,
+      "key": "/096230CD4F5AFA226B0C9FAF86503C14",
+      "en": "Invert Mouse X",
+      "bg": "Обърни мишката по X ос"
+    },
+    {
+      "i": 458,
+      "key": "/EE3D97A549ACF161ACCF4EA325B5EFFB",
+      "en": "Invert Mouse Y",
+      "bg": "Обърни мишката по Y ос"
+    },
+    {
+      "i": 459,
+      "key": "/04D6887246DA40CA8E311FA95EAD3879",
+      "en": "Iron Dust",
+      "bg": "Желязна прах"
+    },
+    {
+      "i": 460,
+      "key": "/B60EE0E744FA22EE5580D699407B7BB5",
+      "en": "Iron Gear",
+      "bg": "Желязна предавка"
+    },
+    {
+      "i": 461,
+      "key": "/1CAAB15240912E7FAF224FBE9CC163D6",
+      "en": "Iron Ingot",
+      "bg": "Железен слитък"
+    },
+    {
+      "i": 462,
+      "key": "/2AAF5F824C0AEA3D005CBAA55E71F67F",
+      "en": "Is this truly your desire?",
+      "bg": "Това наистина ли е твоето желание?"
+    },
+    {
+      "i": 463,
+      "key": "/23BB33314D48375665B394BEC77E942F",
+      "en": "It led to a world like ours...",
+      "bg": "То доведе до свят като нашия..."
+    },
+    {
+      "i": 464,
+      "key": "/522F3DC641FF405A2C6F0C9988093942",
+      "en": "It's time to move on",
+      "bg": "Време е да продължим"
+    },
+    {
+      "i": 465,
+      "key": "/10562D024C7962AE07A0FDA62DB7DF8A",
+      "en": "Item Drops",
+      "bg": "Падащи предмети"
+    },
+    {
+      "i": 466,
+      "key": "/C0792A0143F4C02C55C3B9A8E1D8EE04",
+      "en": "Items required",
+      "bg": "Необходими предмети"
+    },
+    {
+      "i": 467,
+      "key": "/67C8C1A244FDF90F2719A59ACDFD0F7E",
+      "en": "Jump",
+      "bg": "Скок"
+    },
+    {
+      "i": 468,
+      "key": "/7787DF4142A37AB0A59A9884FB64C5B4",
+      "en": "Key of Automation",
+      "bg": "Ключ на автоматизацията"
+    },
+    {
+      "i": 469,
+      "key": "/F3EC1EF645A0439AC513128637FDA152",
+      "en": "Key of Memories",
+      "bg": "Ключ на спомените"
+    },
+    {
+      "i": 470,
+      "key": "/74D879904EA3F8BA4262DC8336B47F2A",
+      "en": "Language",
+      "bg": "Език"
+    },
+    {
+      "i": 471,
+      "key": "/ED5FAA40412727BBD4066DBA7D5C4590",
+      "en": "Leave",
+      "bg": "Напусни"
+    },
+    {
+      "i": 472,
+      "key": "/D8AA9467481A8A9C3F608BB6C8B3EE4F",
+      "en": "Leave Minigame",
+      "bg": "Излез от минииграта"
+    },
+    {
+      "i": 473,
+      "key": "/94F0D6174DA14BED43A553BD11F3A0CE",
+      "en": "Leave Run",
+      "bg": "Напусни хода"
+    },
+    {
+      "i": 474,
+      "key": "/085CE9884313DC20FF5E3C83F4191A7B",
+      "en": "Leave area?",
+      "bg": "Да напуснеш зоната?"
+    },
+    {
+      "i": 475,
+      "key": "/21A9EDBA4D92F4050054C9A050265491",
+      "en": "Leave?",
+      "bg": "Напусни ли?"
+    },
+    {
+      "i": 476,
+      "key": "/44B28BA74BFEBEC6DF908FAB7FE6B68E",
+      "en": "Let us go",
+      "bg": "Да тръгваме"
+    },
+    {
+      "i": 477,
+      "key": "/9CC6A4F148C9E0B7D219E3B86F673984",
+      "en": "Level: {PermaLevel}",
+      "bg": "Ниво: {PermaLevel}"
+    },
+    {
+      "i": 478,
+      "key": "/D6FA5D4C40EA2854FE08C0A8AAE5B8CC",
+      "en": "Light Feet",
+      "bg": "Леки стъпки"
+    },
+    {
+      "i": 479,
+      "key": "/AA812B544F8160A0C98FB792F73B1108",
+      "en": "Lighthouse",
+      "bg": "Фар"
+    },
+    {
+      "i": 480,
+      "key": "/6265F6F146A3565E07C308B0A7163062",
+      "en": "Lighthouse Altar",
+      "bg": "Олтар на фара"
+    },
+    {
+      "i": 481,
+      "key": "/3B6F3A9E4103DA55782B2C8D1CB4E3B4",
+      "en": "Lightning",
+      "bg": "Светкавица"
+    },
+    {
+      "i": 482,
+      "key": "/A240BE924CBC076C0F3AF5A5D9D175B7",
+      "en": "Lilia of Memories",
+      "bg": "Лилия на спомените"
+    },
+    {
+      "i": 483,
+      "key": "/8CA69BF347F26424566E2195A6C4DAE9",
+      "en": "Linking Chest",
+      "bg": "Свързващ сандък"
+    },
+    {
+      "i": 484,
+      "key": "/FFC5AAA94EC16B74448127A663DDCB77",
+      "en": "Living Chest",
+      "bg": "Жив сандък"
+    },
+    {
+      "i": 485,
+      "key": "/CD1869034127775EE528D7938E877B75",
+      "en": "Living Machine Unit",
+      "bg": "Жив машинен модул"
+    },
+    {
+      "i": 486,
+      "key": "/2123A1104B08EE22202E0FB53628CFB6",
+      "en": "Living Pipe",
+      "bg": "Жива тръба"
+    },
+    {
+      "i": 487,
+      "key": "/E4D077434D7EDC70E0BBE4A20510E2DF",
+      "en": "Living Wood",
+      "bg": "Живо дърво"
+    },
+    {
+      "i": 488,
+      "key": "/A7EFB723493954DD3187268265278D11",
+      "en": "Long Reach",
+      "bg": "Дълъг обсег"
+    },
+    {
+      "i": 489,
+      "key": "/0E1979DE4A2DFEEFA4F03BA3089D91DC",
+      "en": "Loop",
+      "bg": "Цикъл"
+    },
+    {
+      "i": 490,
+      "key": "/09CBE606E2E17E75FF87BB0AE2E17E75",
+      "en": "Loot Box Unlock",
+      "bg": "Отключване на кутия с плячка"
+    },
+    {
+      "i": 491,
+      "key": "/DF88542C454572EA33F8CFABDB4EEECB",
+      "en": "Low",
+      "bg": "Ниско"
+    },
+    {
+      "i": 492,
+      "key": "/5D0DD3D84D37388C72C6D8A0CE2D8C72",
+      "en": "Lucky",
+      "bg": "Щастливец"
+    },
+    {
+      "i": 493,
+      "key": "/624122BB4DD8F0AB3011F49C3BEECBD8",
+      "en": "Lumina Chest",
+      "bg": "Сандък на Лумина"
+    },
+    {
+      "i": 494,
+      "key": "/98A94184463A15275654CA87FC5242F1",
+      "en": "Lumina Core",
+      "bg": "Ядрото на Лумина"
+    }
+  ]
+}

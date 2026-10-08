@@ -1,0 +1,339 @@
+{
+  "batch": "06",
+  "range": [
+    275,
+    329
+  ],
+  "rows": [
+    {
+      "i": 275,
+      "key": "/7750A1E3451EF1BBF49395A56CC8143D",
+      "en": "Demands",
+      "bg": "Изисквания"
+    },
+    {
+      "i": 276,
+      "key": "/AB9DD53A4272848EC1AC089DDE6D245D",
+      "en": "Dense Forest",
+      "bg": "Гъста гора"
+    },
+    {
+      "i": 277,
+      "key": "/2923989646727194D1D00B82A1D2A05F",
+      "en": "Desert Unlocks:",
+      "bg": "Пустински отключвания:"
+    },
+    {
+      "i": 278,
+      "key": "/BF7AE4734B97163DA0906FA895E34FAF",
+      "en": "Destroy All",
+      "bg": "Разруши всичко"
+    },
+    {
+      "i": 279,
+      "key": "/D14ECB6544528AE2828F3CA4AD04B1FB",
+      "en": "Destroy Rune",
+      "bg": "Разруши руна"
+    },
+    {
+      "i": 280,
+      "key": "/711D0E514764C8262D6F35811AA9B81A",
+      "en": "Destroying a resource boosts your speed and damage by 30% for 3 seconds.",
+      "bg": "Разрушаването на ресурс увеличава твоята скорост и щета с 30% за 3 секунди."
+    },
+    {
+      "i": 281,
+      "key": "/661315C949E51F9FC4C7D794EB9B8388",
+      "en": "Destroying a resource has a 10% chance to spawn a new one right next to it.",
+      "bg": "Разрушаването на ресурс има 10% шанс да създаде нов точно до него."
+    },
+    {
+      "i": 282,
+      "key": "/8E27951241E3112B1F913EA15A65C9FF",
+      "en": "Dig Radius",
+      "bg": "Радиус на копаене"
+    },
+    {
+      "i": 283,
+      "key": "/6140F95247397FBE9B0536AD92A64320",
+      "en": "Dig Radius Buff",
+      "bg": "Повишение радиуса на копаене"
+    },
+    {
+      "i": 284,
+      "key": "/2FD9491E4B6A6562DCA98AAA62D45AE9",
+      "en": "Dig deep enough and you may discover a legendary treasure containing resources, materials, or even rare permanent buffs.",
+      "bg": "Копай достатъчно дълбоко и може да откриеш легендарно съкровище, съдържащо ресурси, материали или дори редки постоянни бонуси."
+    },
+    {
+      "i": 285,
+      "key": "/1CFD1B4A47A03CD7C31A08A235C7F63F",
+      "en": "Dig your way out of the mountains",
+      "bg": "Прокопай си път извън планините"
+    },
+    {
+      "i": 286,
+      "key": "/0CB5D2394F915A72365FBA92D82FF7D9",
+      "en": "Disable Pinned Items",
+      "bg": "Деактивирай закрепените предмети"
+    },
+    {
+      "i": 287,
+      "key": "/20C756114D3C44E33E727BBCB4B531B5",
+      "en": "Discover new biomes by expanding your island. Some areas contain ruins or structures that can be interacted with.",
+      "bg": "Откривай нови биоми, като разширяваш острова си. Някои области съдържат руини или структури, с които можеш да взаимодействаш."
+    },
+    {
+      "i": 288,
+      "key": "/6CD687EC4C2B5E399248F1BDE8198908",
+      "en": "Discovered",
+      "bg": "Открито"
+    },
+    {
+      "i": 289,
+      "key": "/2E99654A4146EAFCD34B75BA03E01AAB",
+      "en": "Displays milestone progress and all upcoming unlocks for crafts, buildings, and buffs.",
+      "bg": "Показва напредъка към постиженията и всички предстоящи отключвания за рецепти, сгради и бонуси."
+    },
+    {
+      "i": 290,
+      "key": "/9663B5D04C43E45E0EE1FDA09A55712A",
+      "en": "Double Jump",
+      "bg": "Двоен скок"
+    },
+    {
+      "i": 291,
+      "key": "/B765BD8C460C5E2D589166834954A3A4",
+      "en": "Doubles the base value of all plants.",
+      "bg": "Удвоява основната стойност на всички растения."
+    },
+    {
+      "i": 292,
+      "key": "/54AEB2F6493D9309996883AD5A925AA3",
+      "en": "Doubles the damage you deal with your tool.",
+      "bg": "Удвоява щетите, които нанасяте с инструмента си."
+    },
+    {
+      "i": 293,
+      "key": "/007DC7C847F3879ACBDC85AD72CD4945",
+      "en": "Doubles the power of support plant effects.",
+      "bg": "Удвоява мощността на ефектите от поддържащите растения."
+    },
+    {
+      "i": 294,
+      "key": "/5E4A65F841D165B0AA614B9DFFD27493",
+      "en": "During the fuel shortage minigame, power-ups can spawn that grant free credits.",
+      "bg": "По време на минииграта „Несташница гoriva“, могат да се появят бонуси, които предоставят безплатни кредити."
+    },
+    {
+      "i": 295,
+      "key": "/B126BC734ECB6092E40D609318B55FDE",
+      "en": "Dust",
+      "bg": "Прах"
+    },
+    {
+      "i": 296,
+      "key": "/E0CEDFAD49AEF0AF51C7DD9BA90B2BA7",
+      "en": "Dynamite Ability",
+      "bg": "Способност на динамита"
+    },
+    {
+      "i": 297,
+      "key": "/30717798488A93F95D6000AD5D2741D1",
+      "en": "Each bolt deals 10% more of the hit's damage.",
+      "bg": "Всяка мълния нанася 10% повече щети от удара."
+    },
+    {
+      "i": 298,
+      "key": "/6321D01C46404008820A199B42676E82",
+      "en": "Each duller than the last... each farther from why",
+      "bg": "Всеки е по-малко ярък от предишния... всеки е по-далеч от причината"
+    },
+    {
+      "i": 299,
+      "key": "/68227ABA44468C3D9D0764836F0017DD",
+      "en": "Each hit has a 20% chance to strike a nearby resource for half damage.",
+      "bg": "Всяко попадение има 20% шанс да удари близък ресурс за половината щети."
+    },
+    {
+      "i": 300,
+      "key": "/C9E4FB7A42DC0F0DFC8B16B60E006EAB",
+      "en": "Each level adds +1 base multiplier to every plant.",
+      "bg": "Всяко ниво добавя +1 базов множител към всяка растение."
+    },
+    {
+      "i": 301,
+      "key": "/2209037B480DCE797DC0D1822B1675B5",
+      "en": "Each level increases every plant’s base value by 50%.",
+      "bg": "Всяко ниво увеличава базовата стойност на всички растения с 50%."
+    },
+    {
+      "i": 302,
+      "key": "/1102402545DA55164C1D97B0CA5E5440",
+      "en": "Early Exit?",
+      "bg": "Ранно излизане?"
+    },
+    {
+      "i": 303,
+      "key": "/1724C1554FC13994B94DAD8BF0938FA1",
+      "en": "Earn 15 extra credits at the end of each run.",
+      "bg": "Спечелете 15 допълнителни кредита в края на всяко бягане."
+    },
+    {
+      "i": 304,
+      "key": "/2871F5AD4087529159A744B59C78F7ED",
+      "en": "Echo",
+      "bg": "Ехо"
+    },
+    {
+      "i": 305,
+      "key": "/7AA3983549CD4D3BBE38BAAB0128695A",
+      "en": "Echo Count",
+      "bg": "Брой ехота"
+    },
+    {
+      "i": 306,
+      "key": "/663B2B3E44040CCA81CFC6A42313D188",
+      "en": "Echo Damage",
+      "bg": "Щети от ехото"
+    },
+    {
+      "i": 307,
+      "key": "/FB2F77874A22A27AB80AC3AC0B5DFFD8",
+      "en": "Effects",
+      "bg": "Ефекти"
+    },
+    {
+      "i": 308,
+      "key": "/42D620AA46FA179D6BB570A89A57CA9C",
+      "en": "Effects Quality",
+      "bg": "Качество на ефектите"
+    },
+    {
+      "i": 309,
+      "key": "/522827BE4D2626ED302A1BB542671FB3",
+      "en": "Efficient Burning",
+      "bg": "Ефективно изгаряне"
+    },
+    {
+      "i": 310,
+      "key": "/03AFF57F410E1D95CC4C4AA53765B609",
+      "en": "Elder droprate",
+      "bg": "Шанс за сърце на стабилност"
+    },
+    {
+      "i": 311,
+      "key": "/4887FDF64574C15CF465028CED52720D",
+      "en": "Emberbloom",
+      "bg": "Жарковиет"
+    },
+    {
+      "i": 312,
+      "key": "/8C8E7623454D9BEF0F7004AF69A77D5E",
+      "en": "Energy on Collect",
+      "bg": "Енергия при събиране"
+    },
+    {
+      "i": 313,
+      "key": "/2CE981D244A2FD8F6E3F68916BACF4AB",
+      "en": "Enter",
+      "bg": "Влезте"
+    },
+    {
+      "i": 314,
+      "key": "/47005045402AC2CD2E9FD289AEA54653",
+      "en": "Enter Dark Thicket",
+      "bg": "Влез в Мрачния гъст лес"
+    },
+    {
+      "i": 315,
+      "key": "/4721A8FE467BD9D214BE2F9C66D0A1E3",
+      "en": "Enter Data Rush",
+      "bg": "Влезте в Data Rush"
+    },
+    {
+      "i": 316,
+      "key": "/D8FD1A484C0A82CD90742CAB0E4FD995",
+      "en": "Enter Oasis",
+      "bg": "Влезте в Оазиса"
+    },
+    {
+      "i": 317,
+      "key": "/078E0C474CFF860CBCAA32A80EE7F5A7",
+      "en": "Enter the Arena of Memories and reach the end of the gauntlet before time runs out to unlock the Key of Memories.\r\nTwo keys are required to enter the Lighthouse.\r\nTwo keys are required to leave Nightwater.",
+      "bg": "Влез в Арената на спомените и стигни до края на изпитанието, преди времето да изтече, за да отключиш Ключа на спомените.\r\nЗа да влезеш във Фара, са нужни два ключа.\r\nЗа да напуснеш Найтуотър, са нужни два ключа."
+    },
+    {
+      "i": 318,
+      "key": "/D8852A564CAC8D4F334A51BDA1462123",
+      "en": "Enter the Mine",
+      "bg": "Влезте в мината"
+    },
+    {
+      "i": 319,
+      "key": "/F69891344C704904EC25DFA83BEEB2A9",
+      "en": "Equip Rune",
+      "bg": "Оборудвайте руна"
+    },
+    {
+      "i": 320,
+      "key": "/DBC142784B979DACC21AB8AE1E20B757",
+      "en": "Every resource yields 15% more fuel.",
+      "bg": "Всеки ресурс дава 15% повече гориво."
+    },
+    {
+      "i": 321,
+      "key": "/3EBE75DB464985B18BC0598CDBB7AF42",
+      "en": "Exchange",
+      "bg": "Размяна"
+    },
+    {
+      "i": 322,
+      "key": "/4F247A2C41D96411260C43976B6F5F64",
+      "en": "Expand your island to unlock new biomes, minigames, puzzles, items, and milestones.",
+      "bg": "Разшири острова си, за да отключиш нови биоми, мини-игри, пъзели, предмети и постижения."
+    },
+    {
+      "i": 323,
+      "key": "/1395A1194C1DB5EE3250E0905EB55D93",
+      "en": "Explore the Dark Thicket and cut down trees to receive Minigame-specific resources. The Dark Thicket has different areas with different Trees!",
+      "bg": "Изследвай Мрачния гъсталак и отсечи дърветата, за да получиш ресурси специфични за мини-игрите. В Мрачния гъсталак има различни зони с различни видове дървета!"
+    },
+    {
+      "i": 324,
+      "key": "/462E8AB04BE92ECE0E69C891EF031A93",
+      "en": "Explore the Dark Thicket. Your machines continue to operate while you are away. Minigames can unlock powerful buffs.",
+      "bg": "Изследвай Мрачния гъсталак. Машините ти продължават да работят, докато те няма. Мини-игрите могат да отключват мощни бонуси."
+    },
+    {
+      "i": 325,
+      "key": "/FBE774C047DDC8E6F8ADD882980CAAF4",
+      "en": "Explore the mine and dig deeper to uncover as many ores and minerals as you can. The deeper you go, the rarer the resources you’ll find, but digging will also become tougher.",
+      "bg": "Изследвай мината и копай по-дълбоко, за да откриеш колкото се може повече руди и минерали. Колкото по-надълбоко отиваш, толкова по-редки са ресурсите, които ще намериш, но копаенето също става все по-трудно."
+    },
+    {
+      "i": 326,
+      "key": "/2F925C4A493152C02660DE913A1F0789",
+      "en": "Extended Area 1",
+      "bg": "Разширена зона 1"
+    },
+    {
+      "i": 327,
+      "key": "/AA37B69F45BC47F53D2905B5381BEA84",
+      "en": "Extended Area 2",
+      "bg": "Разширена зона 2"
+    },
+    {
+      "i": 328,
+      "key": "/E0C6A4144A9FB4A90708C4B8610C07EF",
+      "en": "Extended Area 3",
+      "bg": "Разширена зона 3"
+    },
+    {
+      "i": 329,
+      "key": "/06734DBF46BC409B175FF7A5680D7145",
+      "en": "Extends your attack range by 20%, whether melee reach, projectile range or blast radius.",
+      "bg": "Увеличава обхвата на атаката ти с 20%, независимо дали става въпрос за досег в близък бой, обхват на проектил или радиус на експлозия."
+    }
+  ]
+}

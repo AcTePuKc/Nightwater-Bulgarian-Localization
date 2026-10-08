@@ -1,0 +1,339 @@
+{
+  "batch": "16",
+  "range": [
+    825,
+    879
+  ],
+  "rows": [
+    {
+      "i": 825,
+      "key": "/C9DB05A14CB0BD1DBCC9CE9E64242EE5",
+      "en": "Thermal Powder",
+      "bg": "Термален прах"
+    },
+    {
+      "i": 826,
+      "key": "/CE95E5CE49A4529084426DBE02627D9D",
+      "en": "These places...",
+      "bg": "Тези места..."
+    },
+    {
+      "i": 827,
+      "key": "/63F1B8544C37ED1E615E70AC3B5BA2F7",
+      "en": "This fear of yours...",
+      "bg": "Този твой страх..."
+    },
+    {
+      "i": 828,
+      "key": "/954D8B82457C53BA0579A399F9676028",
+      "en": "This place was built to keep me busy, not whole",
+      "bg": "Това място беше построено, за да ме държи зает, а не цял."
+    },
+    {
+      "i": 829,
+      "key": "/867250CD4E9F165D103644807ADFA922",
+      "en": "Tilt Shift while walking",
+      "bg": "Tilt Shift при ходене"
+    },
+    {
+      "i": 830,
+      "key": "/79E892264220B556F70DFBBA3FE342F7",
+      "en": "Time Gain Ability",
+      "bg": "Способност за печелене на време"
+    },
+    {
+      "i": 831,
+      "key": "/66BDEBC14281706964498DBBE34C568B",
+      "en": "Time between actions: ",
+      "bg": "Време между действия: "
+    },
+    {
+      "i": 832,
+      "key": "/0B9038C047CB9E9B01BBE38483CEEDBF",
+      "en": "Tin Dust",
+      "bg": "Калаена прах"
+    },
+    {
+      "i": 833,
+      "key": "/CC7FD79245458C349B289E852B2135CE",
+      "en": "Tin Ingot",
+      "bg": "Калаен слитък"
+    },
+    {
+      "i": 834,
+      "key": "/E9FEBB2E49944BC1D4068CBB0062F71B",
+      "en": "Tinker Station",
+      "bg": "Работилница за поправка"
+    },
+    {
+      "i": 835,
+      "key": "/93E0F72C424C47F10EEC66AFF0A5FD3F",
+      "en": "To exit press:",
+      "bg": "За изход натисни:"
+    },
+    {
+      "i": 836,
+      "key": "/47B3EF9A403343F72B7BD29847308AF1",
+      "en": "To interact press:",
+      "bg": "За взаимодействие натисни:"
+    },
+    {
+      "i": 837,
+      "key": "/6E2A06B34409D8857C5FFA8A6412AA07",
+      "en": "To remove pinned items press:",
+      "bg": "За премахване на закачени предмети натисни:"
+    },
+    {
+      "i": 838,
+      "key": "/38CDAF7C401C81069F9DADBF8DEEEBDC",
+      "en": "Toggle Sprint",
+      "bg": "Превключване на спринт"
+    },
+    {
+      "i": 839,
+      "key": "/ECA333644DA31AC75A2B6686483E182C",
+      "en": "Tomato",
+      "bg": "Домат"
+    },
+    {
+      "i": 840,
+      "key": "/28FBDECF4634D6865A05D080F7820C28",
+      "en": "Toolbelt Research Table",
+      "bg": "Маса за изследване на инструменти"
+    },
+    {
+      "i": 841,
+      "key": "/23F426D34B599D7966D50A9004EB4470",
+      "en": "Toolbelt Tinker Station",
+      "bg": "Работна станция за инструменти"
+    },
+    {
+      "i": 842,
+      "key": "/82935C6C424BBB9C452DA4A572AD4ECA",
+      "en": "Toolbelt Workbench",
+      "bg": "Бенч за инструменти"
+    },
+    {
+      "i": 843,
+      "key": "/549B00D04432F53142C4EDA50E0E0FBE",
+      "en": "Torch",
+      "bg": "Факла"
+    },
+    {
+      "i": 844,
+      "key": "/FC0936D24A2DCCE52986A588A6082A5B",
+      "en": "Total Credits",
+      "bg": "Общо кредити"
+    },
+    {
+      "i": 845,
+      "key": "/4F9438EC4D81BFD971FFFC8B53DEAE07",
+      "en": "Total Gold Earned",
+      "bg": "Общо спечелено злато"
+    },
+    {
+      "i": 846,
+      "key": "/068854674579B7023B399DB4DC7A53F8",
+      "en": "Track 1 Idle Data",
+      "bg": "Пътека 1: пасивни данни"
+    },
+    {
+      "i": 847,
+      "key": "/E43AB7F3421AB083FE0662B1BB3C3E48",
+      "en": "Track 1 Manual Data",
+      "bg": "Пътека 1: ръчни данни"
+    },
+    {
+      "i": 848,
+      "key": "/F2CC3F444E023B976208918A479D9C75",
+      "en": "Track 2 Idle Data",
+      "bg": "Пътека 2: пасивни данни"
+    },
+    {
+      "i": 849,
+      "key": "/0AE107EE401809F0B6DFD1BA19EC58C7",
+      "en": "Track 2 Manual Data",
+      "bg": "Пътека 2: ръчни данни"
+    },
+    {
+      "i": 850,
+      "key": "/71AA518949922A03260E4A8461D04AA7",
+      "en": "Track 3 Idle Data",
+      "bg": "Данни за писта 3: пасивен режим"
+    },
+    {
+      "i": 851,
+      "key": "/E8DD46434CE740CCFBA559A5869C4C2B",
+      "en": "Track 3 Manual Data",
+      "bg": "Данни за писта 3: ръчен режим"
+    },
+    {
+      "i": 852,
+      "key": "/441A4FDD48248F35C7FDBEAA96F59002",
+      "en": "Track 4 Idle Data",
+      "bg": "Данни за писта 4: пасивен режим"
+    },
+    {
+      "i": 853,
+      "key": "/199D393B4CBDCEE262968A8C9C2C6AFB",
+      "en": "Track 4 Manual Data",
+      "bg": "Данни за писта 4: ръчен режим"
+    },
+    {
+      "i": 854,
+      "key": "/DA31497844B8E285FE31DCA416FE2197",
+      "en": "Treasure",
+      "bg": "Съкровище"
+    },
+    {
+      "i": 855,
+      "key": "/0B97169848752CB727699EB4E29C344F",
+      "en": "Tree Credits",
+      "bg": "Кредити от дървета"
+    },
+    {
+      "i": 856,
+      "key": "/BD3B627240A914A452CAF688BC78F6A1",
+      "en": "Trees yield 20% more credits.",
+      "bg": "Дърветата дават 20% повече кредити."
+    },
+    {
+      "i": 857,
+      "key": "/47E0FDB84EB7658189C4D1BB200591D1",
+      "en": "Trunk Chest",
+      "bg": "Сандък от ствол"
+    },
+    {
+      "i": 858,
+      "key": "/882D1AAD499718D2FAE58785DBC1F4B8",
+      "en": "Trunk Storage",
+      "bg": "Склад за стволове"
+    },
+    {
+      "i": 859,
+      "key": "/619667274165F6B9A2B67AA0DA868548",
+      "en": "Umbrella",
+      "bg": "Чадър"
+    },
+    {
+      "i": 860,
+      "key": "/B087A06944461A5562A872B9950D00D0",
+      "en": "Unlocking pipes and chests allows you to build basic automation and increase item storage capacity.",
+      "bg": "Отключването на тръби и сандъци ти позволява да изграждаш основна автоматизация и увеличаваш капацитета за съхранение на предмети."
+    },
+    {
+      "i": 861,
+      "key": "/5BE95C1F45EDC5A6ACC220835F1DDBFF",
+      "en": "Unlocks Area-of-Effect passive: Trees struck by the Axe Skill deal 50% base damage to nearby trees and apply on-hit effects",
+      "bg": "Отключва пасивен ефект под формата на област: дървета, ударени от умението с брадва, нанасят 50% основен ущърб на близките дървета и прилагат ефекти при удар."
+    },
+    {
+      "i": 862,
+      "key": "/85E3B8BE4C1282CFEED17094809C97EA",
+      "en": "Unlocks Cooldown Reduction On Kill passive: Bit & Hogg Skill active cooldown will decrease by 0.5 seconds for every tree felled by Bit & Hogg Skill",
+      "bg": "Отключва пасивен „Намаляване на времето за охлаждане при убийство“: активното време за охлаждане на умението Bit & Hogg намалява с 0.5 секунди за всяко дърво, отсечено чрез умението Bit & Hogg."
+    },
+    {
+      "i": 863,
+      "key": "/14704DA84CF9158940FE60B5591888F6",
+      "en": "Unlocks Double Poison Damage Ability: Trees with active poison effect will receive double damage while Berserk Skill is active",
+      "bg": "Отключва способността „Двойни щети от отрова“: дървета с активен ефект на отрова получават двойна вреда, докато умението Berserk е активно."
+    },
+    {
+      "i": 864,
+      "key": "/BAC04DA64A45FDCE03C0D2A54924AEA7",
+      "en": "Unlocks Double Weakness Damage Ability: Trees with active weakness effect will receive double damage while Berserk Skill is active",
+      "bg": "Отключва способността „Двойни щети от слабост“: дървета с активен ефект на слабост получават двойна вреда, докато умението Berserk е активно."
+    },
+    {
+      "i": 865,
+      "key": "/F53B9DCA46262A143C4EA2B1F8DACCCE",
+      "en": "Unlocks Forest Luck Ability: Player has a 30% chance to receive double items when manually destroying any tree. Doesn't affect trees in the Dark Thicket",
+      "bg": "Отключва способността „Шанс за гора“: играчът има 30% шанс да получи двойни предмети при ръчно унищожаване на всяко дърво. Не влияе върху дърветата в Мрачните гъсталаци."
+    },
+    {
+      "i": 866,
+      "key": "/DD6BE5074B53B985D201FCAF9224FD02",
+      "en": "Unlocks Plant Fortune Ability: Player has a 15% chance to receive double items when manually destroying any plants. Doesn't affect plants in the Oasis",
+      "bg": "Отключва способността „Шанс за растения“: играчът има 15% шанс да получи двойни предмети при ръчно унищожаване на всякакви растения. Не влияе върху растенията в Оазиса."
+    },
+    {
+      "i": 867,
+      "key": "/CF7C43D64E1ADDC16D540DA05A64AE05",
+      "en": "Unlocks Plant Luck Ability: Player has a 30% chance to receive double items when manually destroying any plants. Doesn't affect plants in the Oasis",
+      "bg": "Отключва способността „Шанс за растения“: играчът има 30% шанс да получи двойни предмети при ръчно унищожаване на всякакви растения. Не влияе върху растенията в Оазиса."
+    },
+    {
+      "i": 868,
+      "key": "/CD90E9F9422E131EC55DE6B36F16C75E",
+      "en": "Unlocks Poison passive: Axe Skill applies Poison effect, lasting 2 seconds and dealing 10 base damage per second",
+      "bg": "Отключва пасивен „Отрова“: умението с брадва прилага ефект на отрова, който трае 2 секунди и нанася основни щети по 10 единици в секунда."
+    },
+    {
+      "i": 869,
+      "key": "/64C2AB5B4ABD9DB27732D6A9AAFE0BDD",
+      "en": "Unlocks Time Gain Ability: Timer will gain 0.1 seconds for every tree felled by Axe Skill",
+      "bg": "Отключва способността „Печелене на време“: таймерът печели 0.1 секунди за всяко дърво, отсечено чрез умението с брадва."
+    },
+    {
+      "i": 870,
+      "key": "/810A218A4BF661FE941E21A0202D7DC1",
+      "en": "Unlocks Weakness Aura passive: Trees around you will periodically receive the weakness effect",
+      "bg": "Отключва пасивната аура на слабост: Дърветата около теб периодично ще получават ефект на слабост"
+    },
+    {
+      "i": 871,
+      "key": "/17341C40436D13483BFA63BDF51ADCBF",
+      "en": "Unlocks Weakness passive: Trees struck by Bit & Hogg Skill permanently receive +50% more damage and drop +50% more resources",
+      "bg": "Отключва пасивната слабост: дървета, ударени от умението Bit & Hogg, трайно получават +50% повече щети и изпускат +50% повече ресурси"
+    },
+    {
+      "i": 872,
+      "key": "/DBBDEE644624382907E5648C1403CC7C",
+      "en": "Unlocks Wood Fortune Ability: Player has a 15% chance to receive double items when manually destroying any tree. Doesn't affect trees in the Dark Thicket",
+      "bg": "Отключва умението Щастие на дървото: Имаш 15% шанс да получиш двойни предмети при ръчно унищожаване на всяко дърво. Не засяга дърветата в Тъмната гъсталак"
+    },
+    {
+      "i": 873,
+      "key": "/FAE2C55D4F7E8E057D73728567CE22DB",
+      "en": "Unlocks a variety of big decorations.",
+      "bg": "Отключва разнообразие от големи декорации."
+    },
+    {
+      "i": 874,
+      "key": "/42E1D2A04EB40E4BB05A59A176484A2A",
+      "en": "Unlocks a variety of small decorations.",
+      "bg": "Отключва разнообразие от малки декорации."
+    },
+    {
+      "i": 875,
+      "key": "/311C62CC47C6B2392B6DB7B424F60921",
+      "en": "Unlocks advanced pipe management tools. Grants access to the Pipe Splitter, Pipe Merger, and Pipe Extender.",
+      "bg": "Отключва напреднали инструменти за управление на тръби. Дава достъп до Разделител, Свързвач и Удължител."
+    },
+    {
+      "i": 876,
+      "key": "/C12264EE45BFBC032F930885D510B806",
+      "en": "Unlocks stackable Area-of-Effect Ability range: Permanently grants +1 meter of radius for every 50 trees felled",
+      "bg": "Отключва натрупаем обхват за ефект: Трайно дава +1 метър радиус за всяко 50 отсечени дървета"
+    },
+    {
+      "i": 877,
+      "key": "/A06FCA6A41545FDDAE4150A6EF1AE049",
+      "en": "Unlocks stackable Axe Skill damage: Permanently grants +10 Axe Skill base damage for every 50 trees felled",
+      "bg": "Отключва натрупаеми щети с брадва: Трайно дава +10 базови щети за всяко 50 отсечени дървета"
+    },
+    {
+      "i": 878,
+      "key": "/1F4688EF4F1DADCA0DDF25BF75219414",
+      "en": "Unlocks stackable Berserk Skill duration: Permanently increases Berserk Skill duration by +0.5 seconds for every 50 trees felled",
+      "bg": "Отключва натрупаемо времетраене с умението Berserk: Трайно увеличава времето за действие на умението Berserk с +0.5 секунди за всяко 50 отсечени дървета"
+    },
+    {
+      "i": 879,
+      "key": "/F121CE384C77DF228F821A9B30409DAA",
+      "en": "Unlocks stackable Berserk Skill resource gain: Permanently increases Berserk Skill resource gain by +2% for every 50 trees felled",
+      "bg": "Отключва натрупващи се придобивки на ресурси от умението Berserk: Постоянно увеличава придобиването на ресурси от умението Berserk с +2% за всеки 50 отсечени дървета"
+    }
+  ]
+}

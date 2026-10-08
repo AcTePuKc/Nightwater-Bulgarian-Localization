@@ -1,0 +1,339 @@
+{
+  "batch": "17",
+  "range": [
+    880,
+    934
+  ],
+  "rows": [
+    {
+      "i": 880,
+      "key": "/B5D9800444945DCDA2EB0EB5B5DEA5F9",
+      "en": "Unlocks stackable Bit & Hogg Skill damage: Permanently grants +25 Bit & Hogg Skill base damage for every 50 trees felled",
+      "bg": "Отключва натрупващи се щети от умението Bit & Hogg: Постоянно дава +25 към базовите щети на умението Bit & Hogg за всеки 50 отсечени дървета"
+    },
+    {
+      "i": 881,
+      "key": "/0BA42835486FBB9DBD9C67B42E9963CD",
+      "en": "Unlocks the Dash ability. Dash by pressing \"{DashKey}\".",
+      "bg": "Отключва умението Ускорение. Използвай го с натискане на „{DashKey}“."
+    },
+    {
+      "i": 882,
+      "key": "/74EDD26346EF19E748DFC1A52ADC41F3",
+      "en": "Unlocks the Double Jump ability.",
+      "bg": "Отключва умението Двоен скок."
+    },
+    {
+      "i": 883,
+      "key": "/CA6B7A0A4208A29D5C9BB5AF89972B77",
+      "en": "Unlocks the Dynamite ability, allowing you to throw a stick of dynamite that destroys stone in a large radius",
+      "bg": "Отключва умението Динамит, което ти позволява да хвърляш пръчка динамит и да унищожаваш камъни в голям радиус"
+    },
+    {
+      "i": 884,
+      "key": "/915B44374F7CBBE3E8BF82BD4646256D",
+      "en": "Unlocks the Wallrun ability.",
+      "bg": "Отключва умението Бягане по стени."
+    },
+    {
+      "i": 885,
+      "key": "/D793D4B24F37934B07D2E8A78A105CBC",
+      "en": "Unlocks the X-Ray ability, allowing you to see objects through nearby walls for 10 seconds",
+      "bg": "Отключва умението Рентген, което ти позволява да виждаш предмети през близките стени за 10 секунди"
+    },
+    {
+      "i": 886,
+      "key": "/50D51F9D46F93E5563F487A8BD70EF79",
+      "en": "Unstuck",
+      "bg": "Освободи се"
+    },
+    {
+      "i": 887,
+      "key": "/3329D1344CFA32DA9F45C998884D8F49",
+      "en": "Upgrades",
+      "bg": "Подобрения"
+    },
+    {
+      "i": 888,
+      "key": "/E73FC2CD4021FA9C324D57BAA41D0B42",
+      "en": "Upgrades your watering can, making it reduce more grow time.",
+      "bg": "Подобрява лейката, така че да намалява времето за растеж повече."
+    },
+    {
+      "i": 889,
+      "key": "/8CC6C8634C88FA846FE58F8ACB557D1A",
+      "en": "Use Watering Can then harvest",
+      "bg": "Използвай лейката, после събери реколтата"
+    },
+    {
+      "i": 890,
+      "key": "/82C5DA3F4DCAD888B37EF2921725BD23",
+      "en": "Use minigame-specific resources in the shop to buy new equipment, buffs, and buildings. Find and equip runes to grow stronger. The rarer the rune, the more powerful its effect.",
+      "bg": "Използвай ресурсите, специфични за мини-играта в магазина, за да купиш нова екипировка, бонуси и сгради. Намери и оборудвай руни, за да станеш по-силен. Колкото по-рядка е руната, толкова по-мощен е нейният ефект."
+    },
+    {
+      "i": 891,
+      "key": "/964DAA2B40A4F557E1343385F48378D5",
+      "en": "Use the Workbench to craft items. Press [B] for the Building Menu or [V] to deconstruct buildings.",
+      "bg": "Използвай Работилницата за изработване на предмети. Натисни [B] за Менюто със сгради или [V], за да разрушиш сграда."
+    },
+    {
+      "i": 892,
+      "key": "/4DDFFAF344913F291A2B78856974817C",
+      "en": "Use the gathered resources to upgrade your skills and become better at cutting down trees, until you become strong enough to cut down the Elder Tree in the North!",
+      "bg": "Използвай събраните ресурси, за да подобриш уменията си и станеш по-добър в сеченето на дървета, докато не станеш достатъчно силен, за да отсечеш Старото Дърво на Север!"
+    },
+    {
+      "i": 893,
+      "key": "/51A6F3734A2A87029C981F9B4ACEFD9D",
+      "en": "Use your Gold and Plants Harvested progress to unlock new plants, stronger buffs, and helpful upgrades. Support plants can boost nearby crops and make your oasis much more powerful.",
+      "bg": "Използвай злато и прогреса си в събирането на растения, за да отключиш нови растения, по-силни бонуси и полезни надстройки. Поддържащите растения могат да подсилят близките култури и направят твоята оазис много по-мощен."
+    },
+    {
+      "i": 894,
+      "key": "/85699613455E48983AC8E685902B670D",
+      "en": "Useless",
+      "bg": "Безполезно"
+    },
+    {
+      "i": 895,
+      "key": "/4200CC43448C3662B241A2912865A1D4",
+      "en": "User Interface Volume",
+      "bg": "Сила на звука за потребителския интерфейс"
+    },
+    {
+      "i": 896,
+      "key": "/1695AD464775EB1339B15580C0F5066E",
+      "en": "VSync",
+      "bg": "VSync"
+    },
+    {
+      "i": 897,
+      "key": "/6FAA40BD41F3234565AAC281B6EBA744",
+      "en": "Very High",
+      "bg": "Много високо"
+    },
+    {
+      "i": 898,
+      "key": "/876FBD7B4EC98DD73C9C98A794AFB3F2",
+      "en": "Victory!",
+      "bg": "Победа!"
+    },
+    {
+      "i": 899,
+      "key": "/4CBB0A49463648FACA522999B22799BC",
+      "en": "Video",
+      "bg": "Видео"
+    },
+    {
+      "i": 900,
+      "key": "/DE1560014AF62CB6085B2288D8E084B9",
+      "en": "Volcano Unlocks:",
+      "bg": "Отключвания на вулкана:"
+    },
+    {
+      "i": 901,
+      "key": "/5C7D25654217D97C9872FF99E6225347",
+      "en": "Wallrun",
+      "bg": "Стенобягане"
+    },
+    {
+      "i": 902,
+      "key": "/A877EC5446B0FBDAF3973C906294F55F",
+      "en": "We close this reality with purpose fulfilled",
+      "bg": "Затваряме тази реалност с изпълнена цел."
+    },
+    {
+      "i": 903,
+      "key": "/E43EF38B4D31D1F70430DF9D1587D789",
+      "en": "Weak Point",
+      "bg": "Слабо място"
+    },
+    {
+      "i": 904,
+      "key": "/F9784CD046A8210B1D50F2929D2791B9",
+      "en": "Weakened resources take 10% more damage per level after the first hit.",
+      "bg": "Отслабените ресурси понасят 10% повече щети на ниво след първия удар."
+    },
+    {
+      "i": 905,
+      "key": "/8D178EDD4731360310B1D2B0B0CE0603",
+      "en": "Weakness",
+      "bg": "Слабост"
+    },
+    {
+      "i": 906,
+      "key": "/66F949064252065846531FA8DBF25EFD",
+      "en": "Weakness Ability",
+      "bg": "Способност за слабост"
+    },
+    {
+      "i": 907,
+      "key": "/BA70416B47DF743E1EF25DBDA72AD917",
+      "en": "Weakness Aura Ability",
+      "bg": "Способност на аурата на слабостта"
+    },
+    {
+      "i": 908,
+      "key": "/19E025394D43AB2122764199AD7720F0",
+      "en": "Weakness Chance",
+      "bg": "Шанс за слабост"
+    },
+    {
+      "i": 909,
+      "key": "/22E9325C4A9EF8C605AAFBAF6E3BAE79",
+      "en": "Weakness Drop Chance",
+      "bg": "Шанс на изпадане от слабостта"
+    },
+    {
+      "i": 910,
+      "key": "/5CF6E4C047778CFAE271F18DA69E7484",
+      "en": "Weakness Strength",
+      "bg": "Слабост Сила"
+    },
+    {
+      "i": 911,
+      "key": "/218B94814C6B3A9120D0A38ACECB975B",
+      "en": "Weakness strength: {WeaknessStrength}",
+      "bg": "Сила на слабостта: {WeaknessStrength}"
+    },
+    {
+      "i": 912,
+      "key": "/378FBFD9465D38ACC1647C850480AC9C",
+      "en": "Welcome",
+      "bg": "Добре дошли"
+    },
+    {
+      "i": 913,
+      "key": "/B4172804401AAE139118459976280B9F",
+      "en": "Welcome to Nightwater...",
+      "bg": "Добре дошли в Nightwater..."
+    },
+    {
+      "i": 914,
+      "key": "/D748E0F04FE10FBE2E28928D21E602A1",
+      "en": "What do you hope to achieve?",
+      "bg": "Какво се надяваш да постигнеш?"
+    },
+    {
+      "i": 915,
+      "key": "/8711A33C4C0A6DCB4D1A388B9DE64787",
+      "en": "What will come after?",
+      "bg": "Какво ще дойде след това?"
+    },
+    {
+      "i": 916,
+      "key": "/F9396EA34E5546F03C0016BCF7D8A539",
+      "en": "Wheat",
+      "bg": "Пшеница"
+    },
+    {
+      "i": 917,
+      "key": "/DBC019D842C624F341A403A42015E25D",
+      "en": "Wheat Oil",
+      "bg": "Масло от пшеница"
+    },
+    {
+      "i": 918,
+      "key": "/AFABF10A4FD9EC75D52408ABE69F13A5",
+      "en": "When activated, throws the Bit & Hogg axes. They fly in your facing direction and return after a few seconds, damaging every tree they strike",
+      "bg": "Когато се активира, хвърля брадвите Bit & Hogg. Те летят в посоката на лицето ти и се връщат след няколко секунди, повреждайки всяко дърво, което ударят"
+    },
+    {
+      "i": 919,
+      "key": "/7C231E044F4AE5CA1DA6B689E7B5C1B0",
+      "en": "When grown, adds +1 multiplier to every other plant in this area.",
+      "bg": "Когато узрее, добавя +1 множител към всяка друга растение в тази област."
+    },
+    {
+      "i": 920,
+      "key": "/AF7C426F4A3BCA2E4313AF901DEC65AF",
+      "en": "When grown, adds +15 value to every other plant in this area.",
+      "bg": "Когато узрее, добавя +15 стойност към всяко друго растение в тази област."
+    },
+    {
+      "i": 921,
+      "key": "/B48D838045FF2A91EE516BB52088DBC2",
+      "en": "When grown, cuts the remaining grow time of every other plant in this area in half.",
+      "bg": "Когато узрее, намалява наполовина оставащото време за растеж на всяко друго растение в тази област."
+    },
+    {
+      "i": 922,
+      "key": "/AB5565A449B8F1610235D0BFFACF26F6",
+      "en": "When grown, halves each other plant's value but increases its multiplier by 4.",
+      "bg": "Когато узрее, намалява стойността на всяко друго растение наполовина, но увеличава неговия множител с 4."
+    },
+    {
+      "i": 923,
+      "key": "/947C327248FFD130C9FA4EBE77EE3C4B",
+      "en": "When grown, lowers each other plant's multiplier by 1 but adds +120 value.",
+      "bg": "Когато узрее, намалява множителя на всяко друго растение с 1, но добавя +120 стойност."
+    },
+    {
+      "i": 924,
+      "key": "/907EF93B4C797508239A518CB389DB8C",
+      "en": "While active, it increases movement speed, damage output and resource gain by +50%",
+      "bg": "Докато е активна, увеличава скоростта на движение, нанесената щета и добива на ресурси с +50%."
+    },
+    {
+      "i": 925,
+      "key": "/F1A2018C4BBE4E3A6013009CC552CC08",
+      "en": "While the Berserker ability is active, you gain 100% more resources.",
+      "bg": "Докато способността Berserker е активна, получавате 100% повече ресурси."
+    },
+    {
+      "i": 926,
+      "key": "/776AAFE14CF6017B162BDFB5D2260A7E",
+      "en": "Why did you make these lands?",
+      "bg": "Защо създаде тези земи?"
+    },
+    {
+      "i": 927,
+      "key": "/5F7E78714D08990AF65827B93C3B44FB",
+      "en": "Why...",
+      "bg": "Защо..."
+    },
+    {
+      "i": 928,
+      "key": "/65F3220949C0D07C31AA24A38C7686B6",
+      "en": "Widens your fire explosions by 1 meter.",
+      "bg": "Разширява огнените ти експлозии с 1 метър."
+    },
+    {
+      "i": 929,
+      "key": "/FF403D694E12199D014651B6C5193423",
+      "en": "Will collect all items inside Harvesters, Assemblers and chests in its area when interacted with, within a large range.",
+      "bg": "При взаимодействие събирателят ще събере всички предмети в автоматичните събирачи, асемблерите и сандъците в зоната си, в голям обсег."
+    },
+    {
+      "i": 930,
+      "key": "/7EF3D4F84A9EE411D2EA4BB4A8272979",
+      "en": "Will collect all items inside Harvesters, Assemblers and chests in its area when interacted with.",
+      "bg": "При взаимодействие събирателят ще събере всички предмети в автоматичните събирачи, асемблерите и сандъците в зоната си."
+    },
+    {
+      "i": 931,
+      "key": "/1D05A17944B006D61D399F91278288A8",
+      "en": "Will there be more after Nightwater?",
+      "bg": "Ще има ли още нещо след Nightwater?"
+    },
+    {
+      "i": 932,
+      "key": "/08ED67E5487BBA97A6C8D486FCB4E60D",
+      "en": "Will there be... after?",
+      "bg": "Ще има ли... нещо след това?"
+    },
+    {
+      "i": 933,
+      "key": "/380EE5474E1FEAFD6FA752BCAD06190A",
+      "en": "Window Mode",
+      "bg": "Режим на прозорец"
+    },
+    {
+      "i": 934,
+      "key": "/933574FF4727B540C1F7A08289701692",
+      "en": "Windowed",
+      "bg": "Прозоречен режим"
+    }
+  ]
+}

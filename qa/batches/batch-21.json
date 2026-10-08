@@ -1,0 +1,339 @@
+{
+  "batch": "21",
+  "range": [
+    1100,
+    1154
+  ],
+  "rows": [
+    {
+      "i": 1100,
+      "key": "CommonWords/FarmerBuffDescription",
+      "en": "Unlocking Farmer Buff increases the working speed of all farmers by +10%.",
+      "bg": "Otključването на бонуса за фермери увеличава работната скорост на всички фермери с +10%."
+    },
+    {
+      "i": 1101,
+      "key": "CommonWords/PipeBuffDescription",
+      "en": "Unlocking Pipe Speed increases the working speed of all pipes by +10%.",
+      "bg": "Отключването на бързината на тръбите увеличава работната скорост на всички тръби с +10%."
+    },
+    {
+      "i": 1102,
+      "key": "CommonWords/ResourceGainDescription",
+      "en": "Unlocking Resource Gain increases the maximum yield from manual harvesting for all resources by +2.",
+      "bg": "Отключването на добив на ресурси увеличава максималния добив от ръчно събиране за всички ресурси с +2."
+    },
+    {
+      "i": 1103,
+      "key": "CommonWords/SpeedBuffDescription",
+      "en": "Unlocking Speed Buff increases your maximum sprinting speed by +20%.",
+      "bg": "Отключването на бонуса за скорост увеличава максималната ти скорост на спринт с +20%."
+    },
+    {
+      "i": 1104,
+      "key": "CommonWords/Unlocks",
+      "en": "Unlocks",
+      "bg": "Отключва"
+    },
+    {
+      "i": 1105,
+      "key": "CommonWords/VikingWoodCutter",
+      "en": "Viking Wood Cutter",
+      "bg": "Викински дървосекач"
+    },
+    {
+      "i": 1106,
+      "key": "CommonWords/WaterTrinket",
+      "en": "Water Trinket",
+      "bg": "Воден амулет"
+    },
+    {
+      "i": 1107,
+      "key": "CommonWords/WeaknessDamage",
+      "en": "Weakness Damage",
+      "bg": "Щети от слабост"
+    },
+    {
+      "i": 1108,
+      "key": "CommonWords/WeaknessMultiplier",
+      "en": "Weakness Multiplier",
+      "bg": "Умножител на слабостта"
+    },
+    {
+      "i": 1109,
+      "key": "CommonWords/MESystemDescription",
+      "en": "When activated, items from all linked chests on the map are automatically transferred to the inventory.",
+      "bg": "Когато е активиран, предметите от всички свързани сандъци на картата се прехвърлят автоматично в инвентара."
+    },
+    {
+      "i": 1110,
+      "key": "CommonWords/WoodBark",
+      "en": "Wood Bark",
+      "bg": "Кора на дърво"
+    },
+    {
+      "i": 1111,
+      "key": "CommonWords/WoodDust",
+      "en": "Wood Dust",
+      "bg": "Дървесна прах"
+    },
+    {
+      "i": 1112,
+      "key": "CommonWords/WoodResin",
+      "en": "Wood Resin",
+      "bg": "Смола от дърво"
+    },
+    {
+      "i": 1113,
+      "key": "CommonWords/WoodenTotem",
+      "en": "Wooden Totem",
+      "bg": "Дървен тотем"
+    },
+    {
+      "i": 1114,
+      "key": "MountainsMinigame/RockContainerDescription",
+      "en": "A dedicated storage container for rock-type base Milestone items, not crafted items. Restricted to rock-related milestone resources only, with a capacity of 250.",
+      "bg": "Специална кутия за съхранение на основни предмети тип камък, които не са изработени. Ограничена е само до ресурси свързани с каменните превратности и има вместимост от 250."
+    },
+    {
+      "i": 1115,
+      "key": "MountainsMinigame/StoneAltarDescription",
+      "en": "An altar that slowly generates all types of stone and ore milestone items without requiring resources.",
+      "bg": "Олтар, който бавно генерира всички видове камък и руда без да изисква ресурси."
+    },
+    {
+      "i": 1116,
+      "key": "MountainsMinigame/QuarryDescription",
+      "en": "Automatically harvests rock, clay, and ore within a small radius, at a very fast speed. Harvested items count towards Milestone Progression.",
+      "bg": "Автоматично събира скали, глина и руди в малък радиус с много висока скорост. Събраните предмети се броят към напредъка за превратностите."
+    },
+    {
+      "i": 1117,
+      "key": "MountainsMinigame/LongPickaxeDescription",
+      "en": "Creates 3 small holes. Energy cost: 8",
+      "bg": "Създава 3 малки дупки. Разход на енергия: 8"
+    },
+    {
+      "i": 1118,
+      "key": "MountainsMinigame/ScatterPickaxeDescription",
+      "en": "Creates 6 small holes in random directions. Energy cost: 10",
+      "bg": "Създава 6 малки дупки в случайни посоки. Разход на енергия: 10"
+    },
+    {
+      "i": 1119,
+      "key": "MountainsMinigame/RandomPickaxeDescription",
+      "en": "Creates a small tunnel that follows a random direction. Energy cost: 15",
+      "bg": "Създава тунел, който следва случайна посока. Разход на енергия: 15"
+    },
+    {
+      "i": 1120,
+      "key": "MountainsMinigame/CrossPickaxeDescription",
+      "en": "Creates medium-sized holes in a cross shape. Energy cost: 12",
+      "bg": "Създава средно големи дупки във формата на кръст. Разход на енергия: 12"
+    },
+    {
+      "i": 1121,
+      "key": "MountainsMinigame/CrossPickaxeName",
+      "en": "Cross Pickaxe",
+      "bg": "Кръстосан къртач"
+    },
+    {
+      "i": 1122,
+      "key": "MountainsMinigame/CurrentlySelected",
+      "en": "Currently Selected",
+      "bg": "В момента избран"
+    },
+    {
+      "i": 1123,
+      "key": "MountainsMinigame/EnergyRune",
+      "en": "Energy Rune",
+      "bg": "Енергийна руна"
+    },
+    {
+      "i": 1124,
+      "key": "MountainsMinigame/EnergyonCollectRune",
+      "en": "Energy on Collect Rune",
+      "bg": "Енергия при събиране на руна"
+    },
+    {
+      "i": 1125,
+      "key": "MountainsMinigame/IncreaseRuneRarityRune",
+      "en": "Increase Rune Rarity Rune",
+      "bg": "Увеличава рядкостта на руната"
+    },
+    {
+      "i": 1126,
+      "key": "MountainsMinigame/LongPickaxeName",
+      "en": "Long Pickaxe",
+      "bg": "Дълъг къртач"
+    },
+    {
+      "i": 1127,
+      "key": "MountainsMinigame/MineralMultiplierRune",
+      "en": "Mineral Multiplier Rune",
+      "bg": "Руна за умножаване на минерали"
+    },
+    {
+      "i": 1128,
+      "key": "MountainsMinigame/MountainsFortune",
+      "en": "Mountains Fortune",
+      "bg": "Късмет в планината"
+    },
+    {
+      "i": 1129,
+      "key": "MountainsMinigame/MountainsLuck",
+      "en": "Mountains Luck",
+      "bg": "Планински късмет"
+    },
+    {
+      "i": 1130,
+      "key": "MountainsMinigame/MultiplierRune",
+      "en": "Multiplier Rune",
+      "bg": "Множителска руна"
+    },
+    {
+      "i": 1131,
+      "key": "MountainsMinigame/OreMultiplierRune",
+      "en": "Ore Multiplier Rune",
+      "bg": "Руна за множител на руда"
+    },
+    {
+      "i": 1132,
+      "key": "MountainsMinigame/QuarryName",
+      "en": "Quarry Rock Crusher",
+      "bg": "Каменотрошачка в каменоломната"
+    },
+    {
+      "i": 1133,
+      "key": "MountainsMinigame/StrengthRune",
+      "en": "Radius Rune",
+      "bg": "Радиална руна"
+    },
+    {
+      "i": 1134,
+      "key": "MountainsMinigame/BetterChestLootRune",
+      "en": "Rare Chest Loot Rune",
+      "bg": "Руна за рядък плячка от сандъци"
+    },
+    {
+      "i": 1135,
+      "key": "MountainsMinigame/RockContainerName",
+      "en": "Rock Chest",
+      "bg": "Каменен сандък"
+    },
+    {
+      "i": 1136,
+      "key": "MountainsMinigame/RuneQualityDescription",
+      "en": "Rune Quality: {RuneQuality}",
+      "bg": "Качество на руната: {RuneQuality}"
+    },
+    {
+      "i": 1137,
+      "key": "MountainsMinigame/ScatterPickaxeName",
+      "en": "Scatter Pickaxe",
+      "bg": "Разпръскващ кирка"
+    },
+    {
+      "i": 1138,
+      "key": "MountainsMinigame/Select",
+      "en": "Select",
+      "bg": "Избери"
+    },
+    {
+      "i": 1139,
+      "key": "MountainsMinigame/SimpleLootBoxName",
+      "en": "Simple Loot Manifester",
+      "bg": "Прост манифестатор на плячка"
+    },
+    {
+      "i": 1140,
+      "key": "MountainsMinigame/RandomPickaxeName",
+      "en": "Snake Pickaxe",
+      "bg": "Змийска кирка"
+    },
+    {
+      "i": 1141,
+      "key": "MountainsMinigame/StoneAltarName",
+      "en": "Stone Altar",
+      "bg": "Каменен олтар"
+    },
+    {
+      "i": 1142,
+      "key": "MountainsMinigame/MountainsFortuneDescription",
+      "en": "Unlocks Mountains Fortune Ability: Player has a 15% chance to receive double items when manually destroying any stone, clay or ore. Doesn't affect ores in the Mine",
+      "bg": "Отключва способността \"Планинско богатство\": Имате 15% шанс да получите двойно количество предмети при ръчно унищожаване на камък, глина или руда. Не влияе върху рудата в мината."
+    },
+    {
+      "i": 1143,
+      "key": "MountainsMinigame/MountainsLucKDescription",
+      "en": "Unlocks Mountains Luck Ability: Player has a 30% chance to receive double items when manually destroying any stone, clay or ore. Doesn't affect ores in the Mine",
+      "bg": "Отключва способността \"Планински късмет\": Имате 30% шанс да получите двойно количество предмети при ръчно унищожаване на камък, глина или руда. Не влияе върху рудата в мината."
+    },
+    {
+      "i": 1144,
+      "key": "SnowyHillsMinigame/HandCannonDescription",
+      "en": "Blast resources from across the field. Less punch per shot, but huge range and burst fire that grows stronger with every extra round.",
+      "bg": "Изстрелва ресурси от другата страна на полето. По-малка мощност при всеки изстрел, но огромен обхват и автоматична стрелба, която става по-силна с всяка допълнителна патрон."
+    },
+    {
+      "i": 1145,
+      "key": "SnowyHillsMinigame/Bomb",
+      "en": "Bomb",
+      "bg": "Бомба"
+    },
+    {
+      "i": 1146,
+      "key": "SnowyHillsMinigame/CoalFuel",
+      "en": "Coal Fuel Tier {Tier}",
+      "bg": "Въглищно гориво - ниво {Tier}"
+    },
+    {
+      "i": 1147,
+      "key": "SnowyHillsMinigame/HandCannon",
+      "en": "Hand Cannon",
+      "bg": "Ръчен топ"
+    },
+    {
+      "i": 1148,
+      "key": "SnowyHillsMinigame/Mallet",
+      "en": "Mallet",
+      "bg": "Чукче"
+    },
+    {
+      "i": 1149,
+      "key": "SnowyHillsMinigame/MalletDescription",
+      "en": "Smash resources up close with a mallet. Short reach, but fast swings and critical hits that can destroy resources in a single strike.",
+      "bg": "Разбивайте ресурси отблизо с чук. Кратък обхват, но бързи удари и критични попадения, които могат да унищожат ресурсите само с един удар."
+    },
+    {
+      "i": 1150,
+      "key": "SnowyHillsMinigame/BombDescription",
+      "en": "Throw explosives into clusters. Weak on single targets, but each blast can echo outward and clear several nodes at once.",
+      "bg": "Хвърляйте експлозиви в групи. Слаби срещу единични цели, но всяка експлозия може да отскочи навън и да изчисти няколко възела наведнъж."
+    },
+    {
+      "i": 1151,
+      "key": "SnowyHillsMinigame/TreeFuel",
+      "en": "Tree Fuel Tier {Tier}",
+      "bg": "Дърво гориво ниво {Tier}"
+    },
+    {
+      "i": 1152,
+      "key": "SnowyHillsMinigame/BombWin",
+      "en": "Win the game with Bomb to unlock this.",
+      "bg": "Спечелете играта с Bomb, за да отключите това."
+    },
+    {
+      "i": 1153,
+      "key": "SnowyHillsMinigame/RangedWin",
+      "en": "Win the game with Hand Cannon to unlock this.",
+      "bg": "Спечелете играта с ръчен топ, за да отключите това."
+    },
+    {
+      "i": 1154,
+      "key": "SnowyHillsMinigame/MeleeWin",
+      "en": "Win the game with Mallet to unlock this.",
+      "bg": "Спечелете играта с чук, за да отключите това."
+    }
+  ]
+}
