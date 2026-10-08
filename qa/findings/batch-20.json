@@ -1,0 +1,155 @@
+{
+  "batch": "20",
+  "findings": [
+    {
+      "i": 1045,
+      "key": "CommonWords/MadeinPulverizer",
+      "severity": "minor",
+      "category": "terminology",
+      "en": "Made in Pulverizer",
+      "bg": "Произведено в пулверизатор",
+      "issue": "Названието на машината е с малка буква, а утвърденият термин в CommonWords/PulverizerName (i=1063) е „Пулверизатор“ – разминаване при изписването на едно и също име.",
+      "suggestion": "Произведено в Пулверизатор"
+    },
+    {
+      "i": 1046,
+      "key": "CommonWords/MadeinSmeltery",
+      "severity": "major",
+      "category": "mistranslation",
+      "en": "Made in Smeltery",
+      "bg": "Произведено в топенец",
+      "issue": "„Топенец“ не е българска дума. Smeltery е „топилня“ (място, където се топят руди), а измислената форма обърква сградата с процеса на топене.",
+      "suggestion": "Произведено в топилня"
+    },
+    {
+      "i": 1047,
+      "key": "CommonWords/MultiplierBuff",
+      "severity": "major",
+      "category": "terminology",
+      "en": "Multiplier Buff",
+      "bg": "Умножител буф",
+      "issue": "„Буф“ е непреведена транслитерация, а утвърденият термин за Buffs е „Бонуси“ (виж и i=1068, където Buffs вече е „бонуси“). Освен това „умножител“ е съществително и не се съгласува с „буф“.",
+      "suggestion": "Умножителен бонус"
+    },
+    {
+      "i": 1049,
+      "key": "CommonWords/NatureChest",
+      "severity": "critical",
+      "category": "mistranslation",
+      "en": "Nature Chest",
+      "bg": "Скрин на природата",
+      "issue": "Грешен смисъл: „скрин“ е мебел (шкаф), а Chest тук е сандък с награди – предметът се превръща в съвсем друг обект.",
+      "suggestion": "Сандък на природата"
+    },
+    {
+      "i": 1051,
+      "key": "CommonWords/None",
+      "severity": "minor",
+      "category": "style",
+      "en": "None",
+      "bg": "Нито едно",
+      "issue": "„Нито едно“ е форма за среден род единствено число и звучи тромаво като универсална стойност в падащо меню (не се съгласува с предмети от мъжки или женски род).",
+      "suggestion": "Няма"
+    },
+    {
+      "i": 1059,
+      "key": "CommonWords/PoisonDamage",
+      "severity": "major",
+      "category": "mistranslation",
+      "en": "Poison Damage",
+      "bg": "Отрова",
+      "issue": "Изпусната е думата Damage – редът показва стойност на щета, а преводът означава само „отрова“. Разминава се и с успоредните редове Rage Damage → „Щета от ярост“ (i=1065).",
+      "suggestion": "Щета от отрова"
+    },
+    {
+      "i": 1068,
+      "key": "CommonWords/MilestoneItemDescription",
+      "severity": "major",
+      "category": "consistency",
+      "en": "Receive Milestone Items by harvesting resources.\r\nBy harvesting more Milestone Items you unlock new buildings, crafts, and buffs.\r\nProgress manually or automate your production using specialized buildings.",
+      "bg": "Получавайте предмети за постижения чрез събиране на ресурси.\r\nСъс събирането на повече предмети за постижения отключвате нови сгради, рецепти и бонуси.\r\nНапредвайте ръчно или автоматизирайте производството си с помощта на специализирани сгради.",
+      "issue": "Официално множествено число („Получавайте“, „отключвате“, „Напредвайте“, „производството си“) вместо приетото неформално „ти“.",
+      "suggestion": "Получавай предмети за етапи чрез събиране на ресурси.\r\nСъс събирането на повече предмети за етапи отключваш нови сгради, рецепти и бонуси.\r\nНапредвай ръчно или автоматизирай производството си с помощта на специализирани сгради."
+    },
+    {
+      "i": 1068,
+      "key": "CommonWords/MilestoneItemDescription",
+      "severity": "major",
+      "category": "terminology",
+      "en": "Milestone Items",
+      "bg": "предмети за постижения",
+      "issue": "Milestone е предадено като „постижение“, което се слива с Achievements и се разминава с преобладаващия вариант „етап“ (22 срещи) в останалите редове.",
+      "suggestion": "предмети за етапи"
+    },
+    {
+      "i": 1072,
+      "key": "CommonWords/SelectUpgrade",
+      "severity": "major",
+      "category": "terminology",
+      "en": "Select Upgrade",
+      "bg": "Избери надграждане",
+      "issue": "Отклонение от утвърдения термин Upgrades → „Подобрения“; „надграждане“ въвежда втори вариант за същото понятие.",
+      "suggestion": "Избери подобрение"
+    },
+    {
+      "i": 1076,
+      "key": "CommonWords/SpeedBuffName",
+      "severity": "major",
+      "category": "terminology",
+      "en": "Speed Buff",
+      "bg": "Повишаване на скоростта",
+      "issue": "Buff е предадено описателно, а не с утвърдения термин „Бонус“ – така бонусът се слива с описания на подобрения и се разминава с i=1047/1079.",
+      "suggestion": "Бонус за скорост"
+    },
+    {
+      "i": 1077,
+      "key": "CommonWords/StarfallShard",
+      "severity": "major",
+      "category": "mistranslation",
+      "en": "Starfall Shard",
+      "bg": "Кристал от звезден дъжд",
+      "issue": "Shard е „отломък/парче“, не кристал; преводът се слива с отделния предмет Night Crystal → „Нощен кристал“ (i=1050).",
+      "suggestion": "Отломък от звезден дъжд"
+    },
+    {
+      "i": 1079,
+      "key": "CommonWords/StrengthBuff",
+      "severity": "major",
+      "category": "terminology",
+      "en": "Strength Buff",
+      "bg": "Увеличаване на силата",
+      "issue": "Buff е предадено описателно вместо с утвърдения термин „Бонус“ – разминава се с i=1047 и i=1076.",
+      "suggestion": "Бонус за сила"
+    },
+    {
+      "i": 1080,
+      "key": "CommonWords/Sure?",
+      "severity": "critical",
+      "category": "mistranslation",
+      "en": "Sure?",
+      "bg": "Разбира се?",
+      "issue": "Грешен смисъл: „Разбира се?“ е съгласие/изненада, а въпросът е за потвърждение преди действие (Are you sure?).",
+      "suggestion": "Сигурен ли си?"
+    },
+    {
+      "i": 1090,
+      "key": "CommonWords/Tier8Equipment",
+      "severity": "major",
+      "category": "consistency",
+      "en": "Tier 8 Equipment",
+      "bg": "Оборудване 8-мо ниво",
+      "issue": "Редът излиза от схемата на i=1083–1089 („Опрема N. ниво“) – различен термин за Equipment. Освен това числителното за среден род е „8-о“, а не „8-мо“.",
+      "suggestion": "Опрема 8. ниво"
+    },
+    {
+      "i": 1091,
+      "key": "CommonWords/Tier9Equipment",
+      "severity": "major",
+      "category": "consistency",
+      "en": "Tier 9 Equipment",
+      "bg": "Оборудване 9-то ниво",
+      "issue": "Разминаване с еднообразната поредица i=1083–1089: Equipment е предадено ту като „Опрема“, ту като „Оборудване“, и с различен запис на нивото.",
+      "suggestion": "Опрема 9. ниво"
+    }
+  ]
+}

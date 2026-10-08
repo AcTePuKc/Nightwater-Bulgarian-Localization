@@ -1,0 +1,245 @@
+{
+  "batch": "21",
+  "findings": [
+    {
+      "i": 1100,
+      "key": "CommonWords/FarmerBuffDescription",
+      "severity": "critical",
+      "category": "foreign",
+      "en": "Unlocking Farmer Buff increases the working speed of all farmers by +10%.",
+      "bg": "Otključването на бонуса за фермери увеличава работната скорост на всички фермери с +10%.",
+      "issue": "Първата дума е останала на латиница („Otključ“), смесена с кирилица — текстът не е изцяло преведен на български.",
+      "suggestion": "Отключването на бонуса за фермери увеличава работната скорост на всички фермери с +10%."
+    },
+    {
+      "i": 1102,
+      "key": "CommonWords/ResourceGainDescription",
+      "severity": "minor",
+      "category": "style",
+      "en": "Unlocking Resource Gain increases the maximum yield from manual harvesting for all resources by +2.",
+      "bg": "Отключването на добив на ресурси увеличава максималния добив от ръчно събиране за всички ресурси с +2.",
+      "issue": "„Отключването на добив на ресурси“ звучи тромаво и се разминава с шаблона на съседните редове („Отключването на бонуса за…“).",
+      "suggestion": "Отключването на бонуса за добив на ресурси увеличава максималния добив от ръчно събиране за всички ресурси с +2."
+    },
+    {
+      "i": 1114,
+      "key": "MountainsMinigame/RockContainerDescription",
+      "severity": "critical",
+      "category": "mistranslation",
+      "en": "A dedicated storage container for rock-type base Milestone items, not crafted items. Restricted to rock-related milestone resources only, with a capacity of 250.",
+      "bg": "Специална кутия за съхранение на основни предмети тип камък, които не са изработени. Ограничена е само до ресурси свързани с каменните превратности и има вместимост от 250.",
+      "issue": "„Milestone“ е предадено като „превратности“ — дума със съвсем друго значение (несполуки), а „base Milestone items“ е изпуснато. Паралелният ред за каменния контейнер с капацитет 1000 използва „предмети от типа „Камък“, нужни за етапи“. Смисълът е изопачен.",
+      "suggestion": "Специализиран контейнер за основни предмети от типа „Камък“, нужни за етапи, а не изработени предмети. Събира само каменни ресурси за етапи и има капацитет 250."
+    },
+    {
+      "i": 1115,
+      "key": "MountainsMinigame/StoneAltarDescription",
+      "severity": "minor",
+      "category": "style",
+      "en": "An altar that slowly generates all types of stone and ore milestone items without requiring resources.",
+      "bg": "Олтар, който бавно генерира всички видове камък и руда без да изисква ресурси.",
+      "issue": "Липсва запетая пред „без да изисква ресурси“ (паралелният ред за дървения олтар я има), а „milestone items“ е изпуснато — резултатът е „всички видове камък и руда“.",
+      "suggestion": "Олтар, който бавно генерира всички видове камък и руда за етапи, без да изисква ресурси."
+    },
+    {
+      "i": 1116,
+      "key": "MountainsMinigame/QuarryDescription",
+      "severity": "major",
+      "category": "terminology",
+      "en": "Automatically harvests rock, clay, and ore within a small radius, at a very fast speed. Harvested items count towards Milestone Progression.",
+      "bg": "Автоматично събира скали, глина и руди в малък радиус с много висока скорост. Събраните предмети се броят към напредъка за превратностите.",
+      "issue": "„Milestone Progression“ е преведено с „превратностите“ — дума с друго значение; в останалите 8+ реда за същата фраза се използва „напредъка по етапите“.",
+      "suggestion": "Автоматично събира скали, глина и руди в малък радиус с много висока скорост. Събраните предмети се броят към напредъка по етапите."
+    },
+    {
+      "i": 1121,
+      "key": "MountainsMinigame/CrossPickaxeName",
+      "severity": "major",
+      "category": "terminology",
+      "en": "Cross Pickaxe",
+      "bg": "Кръстосан къртач",
+      "issue": "„Pickaxe“ е преведено като „къртач“, докато навсякъде другаде в превода („Бронзова кирка“, „Змийска кирка“, „Обикновен кирка“) се използва „кирка“. Освен това „кирка“ е от женски род.",
+      "suggestion": "Кръстосана кирка"
+    },
+    {
+      "i": 1124,
+      "key": "MountainsMinigame/EnergyonCollectRune",
+      "severity": "major",
+      "category": "mistranslation",
+      "en": "Energy on Collect Rune",
+      "bg": "Енергия при събиране на руна",
+      "issue": "Името на руната е предадено като „Енергия при събиране на руна“, което значи енергия при събиране на самата руна; изпуснато е и че става дума за руна (предмет), а не за ефект.",
+      "suggestion": "Руна за енергия при събиране"
+    },
+    {
+      "i": 1125,
+      "key": "MountainsMinigame/IncreaseRuneRarityRune",
+      "severity": "major",
+      "category": "mistranslation",
+      "en": "Increase Rune Rarity Rune",
+      "bg": "Увеличава рядкостта на руната",
+      "issue": "Предадено е като изречение вместо като име на предмет и с изопачен смисъл: „рядкостта на руната“ значи рядкостта на самата руна, а не повишаване на шанса за по-редки руни.",
+      "suggestion": "Руна за увеличаване на рядкостта на руни"
+    },
+    {
+      "i": 1126,
+      "key": "MountainsMinigame/LongPickaxeName",
+      "severity": "major",
+      "category": "terminology",
+      "en": "Long Pickaxe",
+      "bg": "Дълъг къртач",
+      "issue": "Отклонение от „кирка“ („къртач“), а и прилагателното е в мъжки род, докато „кирка“ е от женски род — съседните имена в партидата са „Разпръскваща кирка“, „Змийска кирка“.",
+      "suggestion": "Дълга кирка"
+    },
+    {
+      "i": 1127,
+      "key": "MountainsMinigame/MineralMultiplierRune",
+      "severity": "minor",
+      "category": "consistency",
+      "en": "Mineral Multiplier Rune",
+      "bg": "Руна за умножаване на минерали",
+      "issue": "„Multiplier“ е предадено с „умножаване“, докато паралелният ред за руда използва „Руна за множител на руда“ — разминаване в терминологията за едно и също понятие.",
+      "suggestion": "Руна за множител на минерали"
+    },
+    {
+      "i": 1128,
+      "key": "MountainsMinigame/MountainsFortune",
+      "severity": "critical",
+      "category": "consistency",
+      "en": "Mountains Fortune",
+      "bg": "Късмет в планината",
+      "issue": "„Mountains Fortune“ е преведено като „Късмет в планината“, което съвпада по смисъл със следващата способност „Mountains Luck“ → „Планински късмет“; освен това описанието на същата способност (ред 1142) я нарича „Планинско богатство“. Две различни способности получават един и същ превод.",
+      "suggestion": "Планинско богатство"
+    },
+    {
+      "i": 1133,
+      "key": "MountainsMinigame/StrengthRune",
+      "severity": "major",
+      "category": "mistranslation",
+      "en": "Radius Rune",
+      "bg": "Радиална руна",
+      "issue": "Английското име е „Radius Rune“ (руна за радиус), а „Радиална руна“ описва форма, не ефект; разминава се и с модела на останалите руни („Руна за…“).",
+      "suggestion": "Руна за радиус"
+    },
+    {
+      "i": 1134,
+      "key": "MountainsMinigame/BetterChestLootRune",
+      "severity": "major",
+      "category": "grammar",
+      "en": "Rare Chest Loot Rune",
+      "bg": "Руна за рядък плячка от сандъци",
+      "issue": "Неправилно съгласуване по род: „плячка“ е от женски род, а прилагателното е в мъжки — „рядък плячка“.",
+      "suggestion": "Руна за рядка плячка от сандъци"
+    },
+    {
+      "i": 1137,
+      "key": "MountainsMinigame/ScatterPickaxeName",
+      "severity": "major",
+      "category": "grammar",
+      "en": "Scatter Pickaxe",
+      "bg": "Разпръскващ кирка",
+      "issue": "Неправилно съгласуване по род: „Разпръскващ кирка“ вместо „Разпръскваща кирка“ (сравни „Змийска кирка“ в същата партида).",
+      "suggestion": "Разпръскваща кирка"
+    },
+    {
+      "i": 1142,
+      "key": "MountainsMinigame/MountainsFortuneDescription",
+      "severity": "major",
+      "category": "consistency",
+      "en": "Unlocks Mountains Fortune Ability: Player has a 15% chance to receive double items when manually destroying any stone, clay or ore. Doesn't affect ores in the Mine",
+      "bg": "Отключва способността \"Планинско богатство\": Имате 15% шанс да получите двойно количество предмети при ръчно унищожаване на камък, глина или руда. Не влияе върху рудата в мината.",
+      "issue": "Официално/множествено обръщение („Имате“, „получите“) вместо неформалното „имаш/получиш“, което е нормата в превода.",
+      "suggestion": "Отключва способността „Планинско богатство“: Имаш 15% шанс да получиш двойно количество предмети при ръчно унищожаване на камък, глина или руда. Не влияе върху рудата в мината."
+    },
+    {
+      "i": 1143,
+      "key": "MountainsMinigame/MountainsLucKDescription",
+      "severity": "major",
+      "category": "consistency",
+      "en": "Unlocks Mountains Luck Ability: Player has a 30% chance to receive double items when manually destroying any stone, clay or ore. Doesn't affect ores in the Mine",
+      "bg": "Отключва способността \"Планински късмет\": Имате 30% шанс да получите двойно количество предмети при ръчно унищожаване на камък, глина или руда. Не влияе върху рудата в мината.",
+      "issue": "Официално/множествено обръщение („Имате“, „получите“) вместо неформалното „имаш/получиш“.",
+      "suggestion": "Отключва способността „Планински късмет“: Имаш 30% шанс да получиш двойно количество предмети при ръчно унищожаване на камък, глина или руда. Не влияе върху рудата в мината."
+    },
+    {
+      "i": 1144,
+      "key": "SnowyHillsMinigame/HandCannonDescription",
+      "severity": "major",
+      "category": "mistranslation",
+      "en": "Blast resources from across the field. Less punch per shot, but huge range and burst fire that grows stronger with every extra round.",
+      "bg": "Изстрелва ресурси от другата страна на полето. По-малка мощност при всеки изстрел, но огромен обхват и автоматична стрелба, която става по-силна с всяка допълнителна патрон.",
+      "issue": "Императивът „Blast resources…“ е предаден като „Изстрелва ресурси…“ (сякаш оръжието изстрелва ресурси), „burst fire“ е „автоматична стрелба“ вместо „стрелба на серии“, а „с всяка допълнителна патрон“ е и граматически грешно — „патрон“ е от мъжки род.",
+      "suggestion": "Взривявай ресурси от другия край на полето. По-малка мощност на изстрел, но огромен обхват и стрелба на серии, която става по-силна с всеки следващ изстрел."
+    },
+    {
+      "i": 1148,
+      "key": "SnowyHillsMinigame/Mallet",
+      "severity": "major",
+      "category": "consistency",
+      "en": "Mallet",
+      "bg": "Чукче",
+      "issue": "Същото оръжие е „Чукче“ като име, но в описанието му (ред 1149) и в условието за отключване (ред 1154) е „чук“ — две различни имена за един предмет в една мини-игра.",
+      "suggestion": "Чук"
+    },
+    {
+      "i": 1149,
+      "key": "SnowyHillsMinigame/MalletDescription",
+      "severity": "major",
+      "category": "consistency",
+      "en": "Smash resources up close with a mallet. Short reach, but fast swings and critical hits that can destroy resources in a single strike.",
+      "bg": "Разбивайте ресурси отблизо с чук. Кратък обхват, но бързи удари и критични попадения, които могат да унищожат ресурсите само с един удар.",
+      "issue": "Официален/множествен императив „Разбивайте“ вместо неформалното „Разбивай“.",
+      "suggestion": "Разбивай ресурсите отблизо с чук. Кратък обхват, но бързи удари и критични попадения, които могат да унищожат ресурса само с един удар."
+    },
+    {
+      "i": 1150,
+      "key": "SnowyHillsMinigame/BombDescription",
+      "severity": "major",
+      "category": "consistency",
+      "en": "Throw explosives into clusters. Weak on single targets, but each blast can echo outward and clear several nodes at once.",
+      "bg": "Хвърляйте експлозиви в групи. Слаби срещу единични цели, но всяка експлозия може да отскочи навън и да изчисти няколко възела наведнъж.",
+      "issue": "Официален/множествен императив „Хвърляйте“ вместо „Хвърляй“; освен това „echo outward“ е предадено с „отскочи навън“, което значи да рикошира, а не да се разнесе.",
+      "suggestion": "Хвърляй експлозиви в групи. Слаби са срещу единични цели, но всяка експлозия може да се разнесе навън и да изчисти няколко възела наведнъж."
+    },
+    {
+      "i": 1151,
+      "key": "SnowyHillsMinigame/TreeFuel",
+      "severity": "major",
+      "category": "grammar",
+      "en": "Tree Fuel Tier {Tier}",
+      "bg": "Дърво гориво ниво {Tier}",
+      "issue": "„Дърво гориво“ е неграматично (две съществителни едно до друго) и липсва разделителят пред „ниво“, който паралелният ред има: „Coal Fuel Tier {Tier}“ → „Въглищно гориво - ниво {Tier}“.",
+      "suggestion": "Дървено гориво - ниво {Tier}"
+    },
+    {
+      "i": 1152,
+      "key": "SnowyHillsMinigame/BombWin",
+      "severity": "major",
+      "category": "consistency",
+      "en": "Win the game with Bomb to unlock this.",
+      "bg": "Спечелете играта с Bomb, за да отключите това.",
+      "issue": "Официален/множествен императив („Спечелете“, „отключите“) вместо неформалното „Спечели/отключиш“; „Bomb“ е оставено на английски, а на ред 1145 същият предмет е „Бомба“.",
+      "suggestion": "Спечели играта с бомба, за да отключиш това."
+    },
+    {
+      "i": 1153,
+      "key": "SnowyHillsMinigame/RangedWin",
+      "severity": "major",
+      "category": "consistency",
+      "en": "Win the game with Hand Cannon to unlock this.",
+      "bg": "Спечелете играта с ръчен топ, за да отключите това.",
+      "issue": "Официален/множествен императив („Спечелете“, „отключите“) вместо неформалното „Спечели/отключиш“.",
+      "suggestion": "Спечели играта с ръчен топ, за да отключиш това."
+    },
+    {
+      "i": 1154,
+      "key": "SnowyHillsMinigame/MeleeWin",
+      "severity": "major",
+      "category": "consistency",
+      "en": "Win the game with Mallet to unlock this.",
+      "bg": "Спечелете играта с чук, за да отключите това.",
+      "issue": "Официален/множествен императив („Спечелете“, „отключите“) вместо неформалното „Спечели/отключиш“.",
+      "suggestion": "Спечели играта с чук, за да отключиш това."
+    }
+  ]
+}

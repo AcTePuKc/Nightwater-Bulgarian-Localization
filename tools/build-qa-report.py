@@ -60,6 +60,8 @@ def md_escape(text: str) -> str:
 def deterministic_checks(rows: list[dict]) -> dict:
     non_cyrillic, diacritic_rows = [], []
     placeholder_bad, tag_bad, newline_bad = [], [], []
+    punctuation_bad, dash_label_bad = [], []
+    length_outliers: list[tuple[int, int, int, float]] = []
     reused: dict[str, set[str]] = collections.defaultdict(set)
 
     for index, row in enumerate(rows):
@@ -75,6 +77,22 @@ def deterministic_checks(rows: list[dict]) -> dict:
         if source.count("\n") != target.count("\n"):
             newline_bad.append(index)
         reused[target].add(source)
+
+        stripped_src, stripped_tgt = source.rstrip(), target.rstrip()
+        if len(stripped_src) > 3 and len(stripped_tgt) > 3:
+            if stripped_src[-1] in ".!?" or stripped_tgt[-1] in ".!?":
+                if stripped_src[-1] != stripped_tgt[-1]:
+                    punctuation_bad.append(index)
+
+        if source.startswith("- ") and not target.startswith("- "):
+            dash_label_bad.append(index)
+
+        if len(source) >= 20:
+            ratio = len(target) / len(source)
+            if ratio > 1.4:
+                length_outliers.append((index, len(source), len(target), ratio))
+
+    length_outliers.sort(key=lambda item: item[3], reverse=True)
 
     collisions = {
         target: sources
@@ -93,6 +111,9 @@ def deterministic_checks(rows: list[dict]) -> dict:
         "placeholder_bad": placeholder_bad,
         "tag_bad": tag_bad,
         "newline_bad": newline_bad,
+        "punctuation_bad": punctuation_bad,
+        "dash_label_bad": dash_label_bad,
+        "length_outliers": length_outliers,
         "collisions": collisions,
         "term_counts": term_counts,
     }
@@ -170,6 +191,9 @@ def render(rows: list[dict], checks: dict, findings: list[dict], problems: list[
     add(f"| Редове без кирилица | {len(checks['non_cyrillic'])} |")
     add(f"| Редове с диакритика (č/ć/ž/š/đ) | {len(checks['diacritics'])} |")
     add(f"| Еднакъв превод за различни английски текстове | {len(checks['collisions'])} |")
+    add(f"| Разминаване в крайна пунктуация (. ! ?) | {len(checks['punctuation_bad'])} |")
+    add(f"| Загубен етикет `- ` в началото | {len(checks['dash_label_bad'])} |")
+    add(f"| Превод над 1.4× дължината на източника | {len(checks['length_outliers'])} |")
     add("")
 
     add("### 2.1 Терминологични варианти")
@@ -195,8 +219,35 @@ def render(rows: list[dict], checks: dict, findings: list[dict], problems: list[
             )
         add("")
 
+    if checks["punctuation_bad"]:
+        add("### 2.3 Разминаване в крайна пунктуация")
+        add("")
+        add("| Ред | Английски | Текущ превод |")
+        add("|---|---|---|")
+        for index in checks["punctuation_bad"]:
+            row = rows[index]
+            add(f"| {index} | {md_escape(row['source'])[:110]} | {md_escape(row['target'])[:110]} |")
+        add("")
+
+    if checks["length_outliers"]:
+        add("### 2.4 Подозрителна дължина за UI")
+        add("")
+        add("Преводът е над 1.4× по-дълъг от английския текст — риск от отрязване в интерфейса.")
+        add("")
+        add("| Ред | Английски (знаци) | Превод (знаци) | Съотношение | Превод |")
+        add("|---|---|---|---|---|")
+        for index, src_len, tgt_len, ratio in checks["length_outliers"][:30]:
+            row = rows[index]
+            add(
+                f"| {index} | {src_len} | {tgt_len} | {ratio:.2f}× "
+                f"| {md_escape(row['target'])[:110]} |"
+            )
+        if len(checks["length_outliers"]) > 30:
+            add(f"| … | | | | _още {len(checks['length_outliers']) - 30} реда_ |")
+        add("")
+
     if problems:
-        add("### 2.3 Проблеми при четене на находките")
+        add("### 2.5 Проблеми при четене на находките")
         add("")
         for problem in problems:
             add(f"- {problem}")

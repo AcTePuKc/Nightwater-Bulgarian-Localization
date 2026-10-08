@@ -1,0 +1,215 @@
+{
+  "batch": "05",
+  "findings": [
+    {
+      "i": 220,
+      "key": "/6B683CA5434A1D9E1B054E939D651808",
+      "severity": "minor",
+      "category": "style",
+      "en": "Close-up distortion effect",
+      "bg": "Ефект на изкривяване отблизо",
+      "issue": "Тромава формулировка: „отблизо“ виси в края и не предава естествено „close-up“ (близък план).",
+      "suggestion": "Ефект на изкривяване при близък план"
+    },
+    {
+      "i": 228,
+      "key": "/BD22AC6741A692CF60C2D09C7EF38016",
+      "severity": "major",
+      "category": "consistency",
+      "en": "Connects machines to transfer items between inventories. Long range with fast throughput.",
+      "bg": "Свързва машини за прехвърляне на предмети между инвентари. Дълъг обсег с бърз капацитет.",
+      "issue": "„Throughput“ е предадено като „капацитет“, което значи друго нещо (капацитет ≠ пропускателна способност), а в редове 230 и 231 същият термин е „производителност“ – разминаване в паралелната поредица.",
+      "suggestion": "Свързва машини за прехвърляне на предмети между инвентари. Дълъг обсег с висока производителност."
+    },
+    {
+      "i": 229,
+      "key": "/99B9377D4BF1197394F936B5695727D0",
+      "severity": "major",
+      "category": "consistency",
+      "en": "Connects machines to transfer items between inventories. Medium range with medium throughput.",
+      "bg": "Свързва машини за прехвърляне на предмети между инвентари. Среден обсег със среден капацитет.",
+      "issue": "Същият проблем като в ред 228: „throughput“ е „капацитет“, докато в редове 230 и 231 е „производителност“.",
+      "suggestion": "Свързва машини за прехвърляне на предмети между инвентари. Среден обсег със средна производителност."
+    },
+    {
+      "i": 238,
+      "key": "/2870ACD54CA5CB05611424A053C2E689",
+      "severity": "major",
+      "category": "grammar",
+      "en": "Copper Dust",
+      "bg": "Медна прах",
+      "issue": "Граматическа грешка в рода: „прах“ е мъжки род, затова определението трябва да е „меден“, а не „медна“.",
+      "suggestion": "Меден прах"
+    },
+    {
+      "i": 250,
+      "key": "/9663718E4482BA8F1266D28DCCFFA9A7",
+      "severity": "critical",
+      "category": "untranslated",
+      "en": "Crystal Dust",
+      "bg": "Kristalna prašina",
+      "issue": "Редът е останал на босненски/хърватски, не е преведен на български.",
+      "suggestion": "Кристален прах"
+    },
+    {
+      "i": 251,
+      "key": "/39FFAA0647E4C5965194C3B402826544",
+      "severity": "critical",
+      "category": "untranslated",
+      "en": "Crystal Rose",
+      "bg": "Kristalna ruža",
+      "issue": "Редът е останал на босненски/хърватски, не е преведен на български.",
+      "suggestion": "Кристална роза"
+    },
+    {
+      "i": 252,
+      "key": "/CD9B8D7D4BF59822EAF541843B20D516",
+      "severity": "critical",
+      "category": "untranslated",
+      "en": "Culling Blow",
+      "bg": "Milosrdni udarac",
+      "issue": "Редът е останал на босненски/хърватски (буквално „милосърден удар“), не е преведен на български.",
+      "suggestion": "Милосърден удар"
+    },
+    {
+      "i": 253,
+      "key": "/D29AA82F435BE99091547694A6405ADA",
+      "severity": "critical",
+      "category": "untranslated",
+      "en": "Current Gold: {GoldAmount}",
+      "bg": "Trenutno zlato: {GoldAmount}",
+      "issue": "Редът е останал на босненски/хърватски, не е преведен на български.",
+      "suggestion": "Текущо злато: {GoldAmount}"
+    },
+    {
+      "i": 254,
+      "key": "/93D4A71C40FDCFE02D06BB92493F58C4",
+      "severity": "critical",
+      "category": "untranslated",
+      "en": "Current Level",
+      "bg": "Trenutni nivo",
+      "issue": "Редът е останал на босненски/хърватски, не е преведен на български.",
+      "suggestion": "Текущо ниво"
+    },
+    {
+      "i": 255,
+      "key": "/AF3B2B2A4DDF6FB43D7B41988B0822E8",
+      "severity": "critical",
+      "category": "untranslated",
+      "en": "Current Run",
+      "bg": "Trenutna tura",
+      "issue": "Редът е останал на босненски/хърватски, не е преведен на български.",
+      "suggestion": "Текущ рунд"
+    },
+    {
+      "i": 256,
+      "key": "/042549984EF90DB22384E8894811394B",
+      "severity": "critical",
+      "category": "untranslated",
+      "en": "Damage Trees by interacting with them in the dark thicket.",
+      "bg": "Nanosi štetu stablima interakcijom s njima u Mračnom gustišu.",
+      "issue": "Редът е останал на босненски/хърватски, не е преведен на български.",
+      "suggestion": "Нанасяй щети на дърветата, като взаимодействаш с тях в Мрачния гъсталак."
+    },
+    {
+      "i": 257,
+      "key": "/297E0339424D940C8B0F7D9BDDFA2A93",
+      "severity": "critical",
+      "category": "untranslated",
+      "en": "Damage gain: {DamageGain}",
+      "bg": "Dobitak štete: {DamageGain}",
+      "issue": "Редът е останал на босненски/хърватски, не е преведен на български.",
+      "suggestion": "Увеличение на щетите: {DamageGain}"
+    },
+    {
+      "i": 258,
+      "key": "/17777F044587A3D740A495B799AE1F5C",
+      "severity": "critical",
+      "category": "untranslated",
+      "en": "Damage per Hit",
+      "bg": "Šteta po udarcu",
+      "issue": "Редът е останал на босненски/хърватски, не е преведен на български.",
+      "suggestion": "Щети на удар"
+    },
+    {
+      "i": 259,
+      "key": "/07DB7DE54FA2BC45E09AB2AAB98F4C9B",
+      "severity": "critical",
+      "category": "untranslated",
+      "en": "Damage: {DamageAmount}",
+      "bg": "Šteta: {DamageAmount}",
+      "issue": "Редът е останал на босненски/хърватски, не е преведен на български.",
+      "suggestion": "Щети: {DamageAmount}"
+    },
+    {
+      "i": 260,
+      "key": "/C23DCCA64AD681B1EC3CB1BAB40D736A",
+      "severity": "major",
+      "category": "terminology",
+      "en": "Dark Thicket",
+      "bg": "Тъмен гъсталак",
+      "issue": "Неутвърден вариант на ключово място от сюжета – извън приетия „Мрачният гъсталак“ (в корпуса има още „Тъмния гъсталак“, „Мрачната гъсталака“ и др.).",
+      "suggestion": "Мрачният гъсталак"
+    },
+    {
+      "i": 261,
+      "key": "/E45156034B70F932A237DD8303CBC787",
+      "severity": "major",
+      "category": "consistency",
+      "en": "Dark Thicket Resources",
+      "bg": "Ресурси на Тъмния гъсталак",
+      "issue": "Несъответствие с предходния ред („Тъмен гъсталак“) и с утвърдения вариант „Мрачният гъсталак“.",
+      "suggestion": "Ресурси на Мрачния гъсталак"
+    },
+    {
+      "i": 262,
+      "key": "/8A3DCE0348A9101121A022A14E89C462",
+      "severity": "major",
+      "category": "terminology",
+      "en": "Dash",
+      "bg": "Скок",
+      "issue": "Объркан термин: „Dash“ е „Ускорение“, а „Скок“ е преводът на „Jump“ – двете способности се сливат.",
+      "suggestion": "Ускорение"
+    },
+    {
+      "i": 265,
+      "key": "/CECD1F5F44E076F9ABFB86AE2EADD1FA",
+      "severity": "major",
+      "category": "mistranslation",
+      "en": "Data Rush",
+      "bg": "Данна атака",
+      "issue": "Измислена дума „данна“ (правилното е „данни“) и сменен смисъл – „Rush“ не е „атака“, а прилив/импулс.",
+      "suggestion": "Прилив на данни"
+    },
+    {
+      "i": 269,
+      "key": "/6E17D01D459FD665D44862A5B9AAE4C2",
+      "severity": "minor",
+      "category": "style",
+      "en": "Deal up to 20% more damage the faster you move.",
+      "bg": "Нанася до 20% повече щети в зависимост от скоростта на движението си.",
+      "issue": "Изгубена е връзката „колкото по-бързо се движиш, толкова повече щети“, а „движението си“ е без ясен притежател.",
+      "suggestion": "Нанася до 20% повече щети, колкото по-бързо се движиш."
+    },
+    {
+      "i": 271,
+      "key": "/4E8FF7B64725970E497E838B691C092B",
+      "severity": "major",
+      "category": "terminology",
+      "en": "Deconstruct Building",
+      "bg": "Разруши сграда",
+      "issue": "„Deconstruct“ (разглобяване с връщане на материали) е предадено като „разрушаване“, което се слива с „Destroy“ от ред 227 („Потвърди унищожаване“).",
+      "suggestion": "Разглоби сграда"
+    },
+    {
+      "i": 272,
+      "key": "/31C6F62345C4AE3BD6F4F3901B800B0D",
+      "severity": "major",
+      "category": "terminology",
+      "en": "Deconstruct Mode",
+      "bg": "Режим на разрушаване",
+      "issue": "Същото объркване като в ред 271 – „Deconstruct“ не е „разрушаване“.",
+      "suggestion": "Режим на разглобяване"
+    }
+  ]
+}
