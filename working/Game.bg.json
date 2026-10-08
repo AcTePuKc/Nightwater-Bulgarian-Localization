@@ -47,7 +47,7 @@
   {
     "key": "/5F973D0D4EF38476794FA69367779362",
     "source": "- Explore the Dark Thicket once",
-    "target": "- Изследвай Мрачната гъсталака веднъж."
+    "target": "- Изследвай Мрачния гъсталак веднъж."
   },
   {
     "key": "/E68FF72F470F899A23621D9634BC3A58",
@@ -87,7 +87,7 @@
   {
     "key": "/0F41820047E5DAE58C692A85CDB3F002",
     "source": "- Place a Primitive Pipe",
-    "target": "- Постави Примитивна тръба."
+    "target": "- Постави примитивна тръба"
   },
   {
     "key": "/0EC42ED1449C928E4625CFA674E94C70",
@@ -127,7 +127,7 @@
   {
     "key": "/3584D021448428FB29346B87809881EB",
     "source": "- Total Plants harvested -",
-    "target": "- Общо обрани растения -"
+    "target": "- Общо събрани растения -"
   },
   {
     "key": "/366B0BB74AF47D9EC608978332768FF0",
@@ -172,7 +172,7 @@
   {
     "key": "/F2461B9A40301897E4B7C8AC35D9556D",
     "source": "A bronze statue that ensures only rock-type resources spawn within its radius.",
-    "target": "Бронзова статуя, която гарантира появата само на каменни ресурси в нейния радиус."
+    "target": "Бронзова статуя, която гарантира, че в радиуса ѝ се появяват само ресурси от скален тип."
   },
   {
     "key": "/F7CCC6A2488FA90399D052AEC573EC16",
@@ -182,27 +182,27 @@
   {
     "key": "/2B538C574B9127806B4ADC9FC5194FC6",
     "source": "A container for item storage and buffer management. Limited capacity of 150 items.",
-    "target": "Контейнер за съхранение на предмети и управление на буфери. Ограничен капацитет от 150 предмета."
+    "target": "Контейнер за съхранение на предмети и управление на буфери. Капацитет: 150 предмета."
   },
   {
     "key": "/48DBA8B545117E65B906D68815C0E119",
     "source": "A container for item storage and buffer management. Limited capacity of 80 items.",
-    "target": "Контейнер за съхранение на предмети и управление на буфери. Ограничен капацитет от 80 предмета."
+    "target": "Контейнер за съхранение на предмети и управление на буфери. Капацитет: 80 предмета."
   },
   {
     "key": "/DA3E12CF455CED20ACB95FA783495781",
     "source": "A dedicated storage container for Plant-type Milestone items. Restricted to plant-related milestone resources only, with a capacity of 1000.",
-    "target": "Специализиран контейнер за предмети от типа „Растение“, нужни за етапи. Събира само растителни ресурси за етапи и има капацитет 1000."
+    "target": "Специализиран контейнер за предмети от типа „Растение“, нужни за етапите. Събира само растителни ресурси за етапите и има капацитет 1000."
   },
   {
     "key": "/CE2038714310851E96F92592773B44B1",
     "source": "A dedicated storage container for Rock-type Milestone items. Restricted to rock-related milestone resources only, with a capacity of 1000.",
-    "target": "Специализиран контейнер за предмети от типа „Камък“, нужни за етапи. Събира само каменни ресурси за етапи и има капацитет 1000."
+    "target": "Специализиран контейнер за предмети от типа „Камък“, нужни за етапите. Събира само каменни ресурси за етапите и има капацитет 1000."
   },
   {
     "key": "/3CE0D53C4BD2437B1BA3FCB842C897D7",
     "source": "A dedicated storage container for Wood-type Milestone items. Restricted to wood-related milestone resources only, with a capacity of 1000.",
-    "target": "Специализиран контейнер за предмети от типа „Дърво“, нужни за етапи. Събира само дървесни ресурси за етапи и има капацитет 1000."
+    "target": "Специализиран контейнер за предмети от типа „Дърво“, нужни за етапите. Събира само дървесни ресурси за етапите и има капацитет 1000."
   },
   {
     "key": "/63B0CE74478B891FA11F1EA91B3D1961",
@@ -237,7 +237,7 @@
   {
     "key": "/85948CFF4ABC9D4FD59671B1FD720A4A",
     "source": "A machine that can receive items through pipes to automate crafting, at a normal speed.",
-    "target": "Машина, която може да получава предмети чрез тръби за автоматично изработване със средна скорост."
+    "target": "Машина, която може да получава предмети чрез тръби за автоматично изработване с нормална скорост."
   },
   {
     "key": "/881EA32C4C718E2CA9B508A981D44D90",
@@ -247,7 +247,7 @@
   {
     "key": "/CAA7D7FE4E3B359FE0E7CE8CFCAAF97C",
     "source": "A milestone progression item. Wood Dust is dropped by all trees in the Dark Thicket. ",
-    "target": "Предмет за напредъка по етапите. Дървесен прах пада от всички дървета в Мрачната гъсталака."
+    "target": "Предмет за напредъка по етапите. Дървесен прах пада от всички дървета в Мрачния гъсталак."
   },
   {
     "key": "/2DC224A24894CCCB1149F08D000151DE",
@@ -262,7 +262,7 @@
   {
     "key": "/526A3161406F55EAE655A282D49047DB",
     "source": "A simple decoration. His name is George. He may not be capable of much, but he tries his best!",
-    "target": "Прост декоративен предмет. Името му е Джордж. Може би не може много, но се старае!"
+    "target": "Прост декоративен предмет. Името му е Джордж. Не е способен на много, но се старае!"
   },
   {
     "key": "/467201E44FD4A2AB2B4E87B687048A62",
@@ -272,7 +272,7 @@
   {
     "key": "/466E09654FA39F4B15E4A8A49FFECA8B",
     "source": "A starter tool with a base power of 1. It can break all resources and is upgradeable at the Tinker Station.",
-    "target": "Начален инструмент с основна мощност 1. Може да разбие всички ресурси и може да се надгражда в работилницата."
+    "target": "Начален инструмент с основна мощност 1. Може да разбива всички ресурси и се надгражда в Работилницата."
   },
   {
     "key": "/7BEB2E23436BD62AC64E5E9516FFFD68",
@@ -282,27 +282,27 @@
   {
     "key": "/81603A8C4DFDB5A3598363A1A90ADA07",
     "source": "A sturdy tool for gathering resources with a base power of 10. Upgradeable at the Tinker Station.",
-    "target": "Здрав инструмент за събиране на ресурси с основна мощност 10. Може да се надгражда в работилницата."
+    "target": "Здрав инструмент за събиране на ресурси с основна мощност 10. Може да се надгражда в Работилницата за поправка."
   },
   {
     "key": "/63CB1A294A703C0B2998389490EAD45D",
     "source": "A sturdy tool for gathering resources with a base power of 14. Upgradeable at the Tinker Station.",
-    "target": "Здрав инструмент за събиране на ресурси с основна мощност 14. Може да се надгражда в работилницата."
+    "target": "Здрав инструмент за събиране на ресурси с основна мощност 14. Може да се надгражда в Работилницата за поправка."
   },
   {
     "key": "/143852284F16A51B506334BD2F46A033",
     "source": "A sturdy tool for gathering resources with a base power of 18. Upgradeable at the Tinker Station.",
-    "target": "Здрав инструмент за събиране на ресурси с основна мощност 18. Може да се надгражда в работилницата."
+    "target": "Здрав инструмент за събиране на ресурси с основна мощност 18. Може да се надгражда в Работилницата за поправка."
   },
   {
     "key": "/AF75E2094AA81D3391B9C48B56DD6FB6",
     "source": "A sturdy tool for gathering resources with a base power of 4. Upgradeable at the Tinker Station.",
-    "target": "Здрав инструмент за събиране на ресурси с основна мощност 4. Може да се надгражда в работилницата."
+    "target": "Здрав инструмент за събиране на ресурси с основна мощност 4. Може да се надгражда в Работилницата за поправка."
   },
   {
     "key": "/4709592B4808C73D836C5A94FB637099",
     "source": "A sturdy tool for gathering resources with a base power of 6. Upgradeable at the Tinker Station.",
-    "target": "Здрав инструмент за събиране на ресурси с основна мощност 6. Може да се надгражда в работилницата."
+    "target": "Здрав инструмент за събиране на ресурси с основна мощност 6. Може да се надгражда в Работилницата за поправка."
   },
   {
     "key": "/8817A23949BEB7502769CD9D1892C642",
@@ -347,12 +347,12 @@
   {
     "key": "/B820ABF945976EE4F76F01B9E3C028FA",
     "source": "Adds 5 seconds to every run.",
-    "target": "Добавя 5 секунди към всяка обиколка."
+    "target": "Добавя 5 секунди към всеки рунд."
   },
   {
     "key": "/4602B3B54E7B084D17DEC1B61BB25237",
     "source": "Adds 5% chance for a hit to instantly shatter the resource.",
-    "target": "Добавя 5% шанс за удар, който да разбие ресурса на момента."
+    "target": "Добавя 5% шанс ударът да разбие ресурса на момента."
   },
   {
     "key": "/39BF737A49C28AF3E7FB77AED01BFCE8",
@@ -367,7 +367,7 @@
   {
     "key": "/79509E8E4CC6A83C4DB983B58F66AF0A",
     "source": "Advanced Fabric",
-    "target": "Напрегната тъкан"
+    "target": "Усъвършенствана тъкан"
   },
   {
     "key": "/DFD982C14EFA4AE42B0E6FB0FF620D3C",
@@ -387,7 +387,7 @@
   {
     "key": "/9A08DA844887CB11F8416EA07E702A78",
     "source": "All plants can receive one additional buff.",
-    "target": "Всички растения могат да получат едно допълнително поощрение."
+    "target": "Всички растения могат да получат един допълнителен бонус."
   },
   {
     "key": "/DCBCAB3A4E1053F71CDE8DBA3AFF7F3A",
@@ -437,12 +437,12 @@
   {
     "key": "/2289B70640F9560FC8960793E088C7B5",
     "source": "An altar that slowly generates all types of wood milestone items without requiring resources.",
-    "target": "Олтар, който бавно генерира всички видове дървесни ресурси за етапи, без да изисква ресурси."
+    "target": "Олтар, който бавно генерира всички видове дървесни предмети за етапи, без да изисква ресурси."
   },
   {
     "key": "/CFBECD804754C4A0E0300D94E8E3E91C",
     "source": "An altar that slowly generates any item without requiring resources.",
-    "target": "Олтар, който бавно генерира всеки предмет без да изисква ресурси."
+    "target": "Олтар, който бавно генерира всеки предмет, без да изисква ресурси."
   },
   {
     "key": "/76003AE2451683CC0DEF7BA9B49C859E",
@@ -457,7 +457,7 @@
   {
     "key": "/3ABC842545013F60C43EC19C77AA2A1A",
     "source": "Analyze Cost",
-    "target": "Анализирай цена"
+    "target": "Цена за анализ"
   },
   {
     "key": "/2256AF92448BA2D80364C69E5CAA57C2",
@@ -482,7 +482,7 @@
   {
     "key": "/7999CA92425BFDBDCA4223BD49F59A46",
     "source": "Anti-Aliasing Quality",
-    "target": "Качество анти-алиасинг"
+    "target": "Качество на изглаждане (анти-алиасинг)"
   },
   {
     "key": "/E611422A438AC7C94F2355B5A012C20D",
@@ -502,7 +502,7 @@
   {
     "key": "/EA6596514E7ADD4E97958996C32ECA70",
     "source": "Are these rules you chose... or rules pressed upon you?",
-    "target": "Тези правила ли избра ти... или са наложени върху теб?"
+    "target": "Тези правила ти ли избра... или са ти наложени?"
   },
   {
     "key": "/0E0B68144AD8CD3B60B14299F86C9B6D",
@@ -607,7 +607,7 @@
   {
     "key": "/C0ED563B41A2D49D6EC15F8B8A8FF358",
     "source": "Automate wood production by connecting a Wood Harvester to a chest using a pipe.",
-    "target": "Автоматизирай производството на дървесина, като свържеш събирач на дървесина към сандък чрез тръба."
+    "target": "Автоматизирай производството на дървесина, като свържеш автоматичен събирач за дървесина към сандък чрез тръба."
   },
   {
     "key": "/7896871D4BF4A36690742AB429F43220",
@@ -627,37 +627,37 @@
   {
     "key": "/47E334F84F62C29569DED3B6D58482CD",
     "source": "Automatically harvests plant resources within a small radius, at a fast speed. Harvested items count towards Milestone Progression.",
-    "target": "Автоматично бере растителни ресурси в малък радиус с висока скорост. Събраните предмети се броят към напредъка за постижения."
+    "target": "Автоматично бере растителни ресурси в малък радиус с висока скорост. Събраните предмети се броят към напредъка по етапите."
   },
   {
     "key": "/98818DB94121D6326BE265866F07F908",
     "source": "Automatically harvests plant resources within a small radius, at a normal speed. Harvested items count towards Milestone Progression.",
-    "target": "Автоматично бере растителни ресурси в малък радиус с нормална скорост. Събраните предмети се броят към напредъка за постижения."
+    "target": "Автоматично бере растителни ресурси в малък радиус с нормална скорост. Събраните предмети се броят към напредъка по етапите."
   },
   {
     "key": "/0140DA52401EEDCD566BBC91C381546E",
     "source": "Automatically harvests rock, clay, and ore within a small radius, at a fast speed. Harvested items count towards Milestone Progression.",
-    "target": "Автоматично бере скали, глина и руди в малък радиус с висока скорост. Събраните предмети се броят към напредъка за постижения."
+    "target": "Автоматично бере скали, глина и руди в малък радиус с висока скорост. Събраните предмети се броят към напредъка по етапите."
   },
   {
     "key": "/A51C8C434C7959ED6182D2AA4277FF28",
     "source": "Automatically harvests rock, clay, and ore within a small radius, at a normal speed. Harvested items count towards Milestone Progression.",
-    "target": "Автоматично бере скали, глина и руди в малък радиус с нормална скорост. Събраните предмети се броят към напредъка за постижения."
+    "target": "Автоматично бере скали, глина и руди в малък радиус с нормална скорост. Събраните предмети се броят към напредъка по етапите."
   },
   {
     "key": "/EB6B12D54B28F0861C7383A463493492",
     "source": "Automatically harvests tree resources within a small radius, at a fast speed. Harvested items count towards Milestone Progression.",
-    "target": "Автоматично бере дървесни ресурси в малък радиус с висока скорост. Събраните предмети се броят към напредъка за постижения."
+    "target": "Автоматично бере дървесни ресурси в малък радиус с висока скорост. Събраните предмети се броят към напредъка по етапите."
   },
   {
     "key": "/C06623C44A38EE6E81D64CBEF8FEB02D",
     "source": "Automatically harvests tree resources within a small radius, at a normal speed. Harvested items count towards Milestone Progression.",
-    "target": "Автоматично събира дървесни ресурси в малък радиус с нормална скорост. Събраните предмети се броят към напредъка за постигане на цел."
+    "target": "Автоматично бере дървесни ресурси в малък радиус с нормална скорост. Събраните предмети се броят към напредъка по етапите."
   },
   {
     "key": "/8C6B07364D12FA765507AD9C6FD1A40E",
     "source": "Automatically harvests tree resources within a small radius, at a very high speed. Harvested items count towards Milestone Progression.",
-    "target": "Автоматично събира дървесни ресурси в малък радиус с много висока скорост. Събраните предмети се броят към напредъка за постигане на цел."
+    "target": "Автоматично бере дървесни ресурси в малък радиус с много висока скорост. Събраните предмети се броят към напредъка по етапите."
   },
   {
     "key": "/60C21EC44B0B2544CBD7BFB3A2B5B0EC",
@@ -672,7 +672,7 @@
   {
     "key": "/545264BB462F4DB7C5027CBD493E88EA",
     "source": "Axe Cooldown Reduction",
-    "target": "Намаляване времето за охлаждане на брадвата."
+    "target": "Намаляване на времето за охлаждане на брадвата"
   },
   {
     "key": "/091775AB486DD08A5DD04A8A1CFBBEB4",
@@ -682,17 +682,17 @@
   {
     "key": "/C09AF6524DF3E9C73FAC9AA74BE9EF9D",
     "source": "Axe Skill Stackable Damage",
-    "target": "Натрупващ се урон на умението с брадва."
+    "target": "Натрупващи се щети на умението с брадва"
   },
   {
     "key": "/F3EE37174E49515CFFE8DE84223AD3FC",
     "source": "Axe Skill Stackable Radius",
-    "target": "Радиусът, който може да бъде увеличен от умението с брадва"
+    "target": "Натрупващ се радиус на умението с брадва"
   },
   {
     "key": "/030A36ED42E5D2177D8684A7C03CD45D",
     "source": "Banked Credits",
-    "target": "Запазени кредити."
+    "target": "Запазени кредити"
   },
   {
     "key": "/BC1D695D4BE65A9BC01309889004BC9C",
@@ -722,7 +722,7 @@
   {
     "key": "/F55B92534910286990CAECA76AB015C8",
     "source": "Berserk Double Weakness Damage",
-    "target": "Удвоена слабост при увреждане по време на Berserk"
+    "target": "Двойни щети при слабост по време на Berserk"
   },
   {
     "key": "/DE6D8AF048305861D8B3F18454E2F946",
@@ -752,7 +752,7 @@
   {
     "key": "/956FECCF4F1BD9976BFB3E8A0A0EC2C7",
     "source": "Berserk Stackable Resource Gain",
-    "target": "Натрупване на ресурс Berserk"
+    "target": "Натрупващо се придобиване на ресурси по време на Berserk"
   },
   {
     "key": "/DAA90062456157636C94E8B17DCFA766",
@@ -777,7 +777,7 @@
   {
     "key": "/FA6DADE64FADD1864578A4A5CF7E3C75",
     "source": "Big Table",
-    "target": "Голям плот"
+    "target": "Голяма маса"
   },
   {
     "key": "/A639B969468811B0D99BEF9657CF63E8",
@@ -787,7 +787,7 @@
   {
     "key": "/621B7EE94D3DC0C5684736981A0FD5D9",
     "source": "Bit & Hogg Cooldown Reduction",
-    "target": "Намаляване на охлаждането Bit & Hogg"
+    "target": "Намаляване на времето за охлаждане на Bit & Hogg"
   },
   {
     "key": "/C14F6E5E49CEAD160AB7A4A658CD6FA8",
@@ -872,12 +872,12 @@
   {
     "key": "/E8139AD64E21BC04AD514AB97FD6A36C",
     "source": "Buffs",
-    "target": "Подобрения"
+    "target": "Бонуси"
   },
   {
     "key": "/D48B00A64A0E652969425F8B7E1718D6",
     "source": "Buffs Progression",
-    "target": "Прогрес на подобренията"
+    "target": "Прогрес на бонусите"
   },
   {
     "key": "/A8B4C0D644BA415DD4CCC19110ACAD05",
@@ -927,7 +927,7 @@
   {
     "key": "/9BFC7A224B52436AF4F4E88B2A86AEF2",
     "source": "Campfire",
-    "target": "Бивак огън"
+    "target": "Огън за бивак"
   },
   {
     "key": "/618B0C564F29A032EFB379B44E1E63F2",
@@ -942,22 +942,22 @@
   {
     "key": "/F2598B3D459725D063CBD692CE89A2F9",
     "source": "Can be attached to Upgrade slots on Harvester Buildings. Harvesters ignore and automatically delete all byproducts. Focuses production on primary resources.",
-    "target": "Може да се прикрепи към слотовете за подобрения на сградите за автоматично събиране. Събирачите игнорират и автоматично премахват всички странични продукти. Фокусира производството върху основните ресурси."
+    "target": "Може да се прикрепи към слотовете за подобрения на сградите за автоматично събиране. Автоматичните събирачи игнорират и автоматично премахват всички странични продукти. Фокусира производството върху основните ресурси."
   },
   {
     "key": "/9789AE4142AB51FFAF1A1AB479757E0B",
     "source": "Can be attached to Upgrade slots on Harvester Buildings. Increases speed by 20% for each additional Harvester in the vicinity.",
-    "target": "Може да се прикрепи към слотовете за подобрения на сградите за автоматично събиране. Увеличава скоростта с 20% за всеки допълнителен събирач в близост."
+    "target": "Може да се прикрепи към слотовете за подобрения на сградите за автоматично събиране. Увеличава скоростта с 20% за всеки допълнителен автоматичен събирач в близост."
   },
   {
     "key": "/23EC218A4724E0C8B332CB9FBC30AF3F",
     "source": "Can be attached to Upgrade slots on Harvester Buildings. Increases speed by 40% if there are no other Farmers nearby.",
-    "target": "Може да се прикрепи към слотовете за подобрения на сградите за автоматично събиране. Увеличава скоростта с 40%, ако наблизо няма други растителни ферми."
+    "target": "Може да се прикрепи към слотовете за подобрения на сградите за автоматично събиране. Увеличава скоростта с 40%, ако наблизо няма други автоматични събирачи."
   },
   {
     "key": "/D9BA30274B8835AB17D69A95766D7C4D",
     "source": "Can be attached to Upgrade slots on compatible buildings. Increases machine speed by 15%.",
-    "target": "Може да се прикрепи към слотове за надграждане на съвместими сгради. Увеличава скоростта на машината с 15%."
+    "target": "Може да се прикрепи към слотовете за подобрения на съвместими сгради. Увеличава скоростта на машината с 15%."
   },
   {
     "key": "/E3702157440083CD292A29A396C54F3F",
@@ -992,7 +992,7 @@
   {
     "key": "/C0352F67423FEEE064D795863C757703",
     "source": "Can be crafted at the Tinker Station.\r\nUnlocks the Workbench, Research and Tinker tabs in the inventory.",
-    "target": "Може да се изработи в Станцията за доработка.\r\nОтключва картите Работилница, Изследвания и Доработка в инвентара."
+    "target": "Може да се изработи в Станцията за доработка.\r\nОтключва разделите Работилница, Изследвания и Доработка в инвентара."
   },
   {
     "key": "/E84B493544AF5A0838E840B7388A651A",
@@ -1027,7 +1027,7 @@
   {
     "key": "/B4AF82E840126CF3A42EAC93A5452B40",
     "source": "Change Stats",
-    "target": "Прикажи статистика"
+    "target": "Промени статистиките"
   },
   {
     "key": "/1D53BE02402602BF8967CD8911810374",
@@ -1102,7 +1102,7 @@
   {
     "key": "/6B683CA5434A1D9E1B054E939D651808",
     "source": "Close-up distortion effect",
-    "target": "Ефект на изкривяване отблизо"
+    "target": "Ефект на изкривяване при близък план"
   },
   {
     "key": "/3A6E21B14397B0E1A91A0A9812D62043",
@@ -1142,12 +1142,12 @@
   {
     "key": "/BD22AC6741A692CF60C2D09C7EF38016",
     "source": "Connects machines to transfer items between inventories. Long range with fast throughput.",
-    "target": "Свързва машини за прехвърляне на предмети между инвентари. Дълъг обсег с бърз капацитет."
+    "target": "Свързва машини за прехвърляне на предмети между инвентари. Дълъг обсег с висока производителност."
   },
   {
     "key": "/99B9377D4BF1197394F936B5695727D0",
     "source": "Connects machines to transfer items between inventories. Medium range with medium throughput.",
-    "target": "Свързва машини за прехвърляне на предмети между инвентари. Среден обсег със среден капацитет."
+    "target": "Свързва машини за прехвърляне на предмети между инвентари. Среден обсег със средна производителност."
   },
   {
     "key": "/1CB34A2A494747486D3415B6F4A08062",
@@ -1192,7 +1192,7 @@
   {
     "key": "/2870ACD54CA5CB05611424A053C2E689",
     "source": "Copper Dust",
-    "target": "Медна прах"
+    "target": "Меден прах"
   },
   {
     "key": "/B7EA3D8445197EE659FC0D83AB87D91F",
@@ -1252,67 +1252,67 @@
   {
     "key": "/9663718E4482BA8F1266D28DCCFFA9A7",
     "source": "Crystal Dust",
-    "target": "Kristalna prašina"
+    "target": "Кристален прах"
   },
   {
     "key": "/39FFAA0647E4C5965194C3B402826544",
     "source": "Crystal Rose",
-    "target": "Kristalna ruža"
+    "target": "Кристална роза"
   },
   {
     "key": "/CD9B8D7D4BF59822EAF541843B20D516",
     "source": "Culling Blow",
-    "target": "Milosrdni udarac"
+    "target": "Милосърден удар"
   },
   {
     "key": "/D29AA82F435BE99091547694A6405ADA",
     "source": "Current Gold: {GoldAmount}",
-    "target": "Trenutno zlato: {GoldAmount}"
+    "target": "Текущо злато: {GoldAmount}"
   },
   {
     "key": "/93D4A71C40FDCFE02D06BB92493F58C4",
     "source": "Current Level",
-    "target": "Trenutni nivo"
+    "target": "Текущо ниво"
   },
   {
     "key": "/AF3B2B2A4DDF6FB43D7B41988B0822E8",
     "source": "Current Run",
-    "target": "Trenutna tura"
+    "target": "Текущ рунд"
   },
   {
     "key": "/042549984EF90DB22384E8894811394B",
     "source": "Damage Trees by interacting with them in the dark thicket.",
-    "target": "Nanosi štetu stablima interakcijom s njima u Mračnom gustišu."
+    "target": "Нанасяй щети на дърветата, като взаимодействаш с тях в Мрачния гъсталак."
   },
   {
     "key": "/297E0339424D940C8B0F7D9BDDFA2A93",
     "source": "Damage gain: {DamageGain}",
-    "target": "Dobitak štete: {DamageGain}"
+    "target": "Увеличение на щетите: {DamageGain}"
   },
   {
     "key": "/17777F044587A3D740A495B799AE1F5C",
     "source": "Damage per Hit",
-    "target": "Šteta po udarcu"
+    "target": "Щети на удар"
   },
   {
     "key": "/07DB7DE54FA2BC45E09AB2AAB98F4C9B",
     "source": "Damage: {DamageAmount}",
-    "target": "Šteta: {DamageAmount}"
+    "target": "Щети: {DamageAmount}"
   },
   {
     "key": "/C23DCCA64AD681B1EC3CB1BAB40D736A",
     "source": "Dark Thicket",
-    "target": "Тъмен гъсталак"
+    "target": "Мрачният гъсталак"
   },
   {
     "key": "/E45156034B70F932A237DD8303CBC787",
     "source": "Dark Thicket Resources",
-    "target": "Ресурси на Тъмния гъсталак"
+    "target": "Ресурси на Мрачния гъсталак"
   },
   {
     "key": "/8A3DCE0348A9101121A022A14E89C462",
     "source": "Dash",
-    "target": "Скок"
+    "target": "Ускорение"
   },
   {
     "key": "/12DE802E485D569E046721B6F94DE882",
@@ -1327,7 +1327,7 @@
   {
     "key": "/CECD1F5F44E076F9ABFB86AE2EADD1FA",
     "source": "Data Rush",
-    "target": "Данна атака"
+    "target": "Прилив на данни"
   },
   {
     "key": "/774BF5C64772F8D7CD64408F28D64019",
@@ -1347,7 +1347,7 @@
   {
     "key": "/6E17D01D459FD665D44862A5B9AAE4C2",
     "source": "Deal up to 20% more damage the faster you move.",
-    "target": "Нанася до 20% повече щети в зависимост от скоростта на движението си."
+    "target": "Нанася до 20% повече щети, колкото по-бързо се движиш."
   },
   {
     "key": "/2DD06A3F4FCD761696DF48A5DAA4DA74",
@@ -1357,12 +1357,12 @@
   {
     "key": "/4E8FF7B64725970E497E838B691C092B",
     "source": "Deconstruct Building",
-    "target": "Разруши сграда"
+    "target": "Разглоби сграда"
   },
   {
     "key": "/31C6F62345C4AE3BD6F4F3901B800B0D",
     "source": "Deconstruct Mode",
-    "target": "Режим на разрушаване"
+    "target": "Режим на разглобяване"
   },
   {
     "key": "/26ADC5164065F68D888EC68DAF4BAA97",
@@ -1417,7 +1417,7 @@
   {
     "key": "/6140F95247397FBE9B0536AD92A64320",
     "source": "Dig Radius Buff",
-    "target": "Повишение радиуса на копаене"
+    "target": "Бонус за радиус на копаене"
   },
   {
     "key": "/2FD9491E4B6A6562DCA98AAA62D45AE9",
@@ -1447,7 +1447,7 @@
   {
     "key": "/2E99654A4146EAFCD34B75BA03E01AAB",
     "source": "Displays milestone progress and all upcoming unlocks for crafts, buildings, and buffs.",
-    "target": "Показва напредъка към постиженията и всички предстоящи отключвания за рецепти, сгради и бонуси."
+    "target": "Показва напредъка към етапите и всички предстоящи отключвания за рецепти, сгради и бонуси."
   },
   {
     "key": "/9663B5D04C43E45E0EE1FDA09A55712A",
@@ -1462,7 +1462,7 @@
   {
     "key": "/54AEB2F6493D9309996883AD5A925AA3",
     "source": "Doubles the damage you deal with your tool.",
-    "target": "Удвоява щетите, които нанасяте с инструмента си."
+    "target": "Удвоява щетите, които нанасяш с инструмента си."
   },
   {
     "key": "/007DC7C847F3879ACBDC85AD72CD4945",
@@ -1472,7 +1472,7 @@
   {
     "key": "/5E4A65F841D165B0AA614B9DFFD27493",
     "source": "During the fuel shortage minigame, power-ups can spawn that grant free credits.",
-    "target": "По време на минииграта „Несташница гoriva“, могат да се появят бонуси, които предоставят безплатни кредити."
+    "target": "По време на минииграта „Недостиг на гориво“ могат да се появят бонуси, които предоставят безплатни кредити."
   },
   {
     "key": "/B126BC734ECB6092E40D609318B55FDE",
@@ -1502,7 +1502,7 @@
   {
     "key": "/C9E4FB7A42DC0F0DFC8B16B60E006EAB",
     "source": "Each level adds +1 base multiplier to every plant.",
-    "target": "Всяко ниво добавя +1 базов множител към всяка растение."
+    "target": "Всяко ниво добавя +1 базов множител към всяко растение."
   },
   {
     "key": "/2209037B480DCE797DC0D1822B1675B5",
@@ -1517,7 +1517,7 @@
   {
     "key": "/1724C1554FC13994B94DAD8BF0938FA1",
     "source": "Earn 15 extra credits at the end of each run.",
-    "target": "Спечелете 15 допълнителни кредита в края на всяко бягане."
+    "target": "Спечели 15 допълнителни кредита в края на всеки рунд."
   },
   {
     "key": "/2871F5AD4087529159A744B59C78F7ED",
@@ -1527,7 +1527,7 @@
   {
     "key": "/7AA3983549CD4D3BBE38BAAB0128695A",
     "source": "Echo Count",
-    "target": "Брой ехота"
+    "target": "Брой еха"
   },
   {
     "key": "/663B2B3E44040CCA81CFC6A42313D188",
@@ -1552,12 +1552,12 @@
   {
     "key": "/03AFF57F410E1D95CC4C4AA53765B609",
     "source": "Elder droprate",
-    "target": "Шанс за сърце на стабилност"
+    "target": "Шанс за изпадане на Сърце на Старейшината"
   },
   {
     "key": "/4887FDF64574C15CF465028CED52720D",
     "source": "Emberbloom",
-    "target": "Жарковиет"
+    "target": "Жаркоцвет"
   },
   {
     "key": "/8C8E7623454D9BEF0F7004AF69A77D5E",
@@ -1567,22 +1567,22 @@
   {
     "key": "/2CE981D244A2FD8F6E3F68916BACF4AB",
     "source": "Enter",
-    "target": "Влезте"
+    "target": "Влез"
   },
   {
     "key": "/47005045402AC2CD2E9FD289AEA54653",
     "source": "Enter Dark Thicket",
-    "target": "Влез в Мрачния гъст лес"
+    "target": "Влез в Мрачния гъсталак"
   },
   {
     "key": "/4721A8FE467BD9D214BE2F9C66D0A1E3",
     "source": "Enter Data Rush",
-    "target": "Влезте в Data Rush"
+    "target": "Влез в Data Rush"
   },
   {
     "key": "/D8FD1A484C0A82CD90742CAB0E4FD995",
     "source": "Enter Oasis",
-    "target": "Влезте в Оазиса"
+    "target": "Влез в Оазиса"
   },
   {
     "key": "/078E0C474CFF860CBCAA32A80EE7F5A7",
@@ -1592,12 +1592,12 @@
   {
     "key": "/D8852A564CAC8D4F334A51BDA1462123",
     "source": "Enter the Mine",
-    "target": "Влезте в мината"
+    "target": "Влез в мината"
   },
   {
     "key": "/F69891344C704904EC25DFA83BEEB2A9",
     "source": "Equip Rune",
-    "target": "Оборудвайте руна"
+    "target": "Оборудвай руна"
   },
   {
     "key": "/DBC142784B979DACC21AB8AE1E20B757",
@@ -1612,12 +1612,12 @@
   {
     "key": "/4F247A2C41D96411260C43976B6F5F64",
     "source": "Expand your island to unlock new biomes, minigames, puzzles, items, and milestones.",
-    "target": "Разшири острова си, за да отключиш нови биоми, мини-игри, пъзели, предмети и постижения."
+    "target": "Разшири острова си, за да отключиш нови биоми, мини-игри, пъзели, предмети и етапи."
   },
   {
     "key": "/1395A1194C1DB5EE3250E0905EB55D93",
     "source": "Explore the Dark Thicket and cut down trees to receive Minigame-specific resources. The Dark Thicket has different areas with different Trees!",
-    "target": "Изследвай Мрачния гъсталак и отсечи дърветата, за да получиш ресурси специфични за мини-игрите. В Мрачния гъсталак има различни зони с различни видове дървета!"
+    "target": "Изследвай Мрачния гъсталак и отсечи дърветата, за да получиш ресурси, специфични за мини-игрите. В Мрачния гъсталак има различни зони с различни видове дървета!"
   },
   {
     "key": "/462E8AB04BE92ECE0E69C891EF031A93",
@@ -1647,12 +1647,12 @@
   {
     "key": "/06734DBF46BC409B175FF7A5680D7145",
     "source": "Extends your attack range by 20%, whether melee reach, projectile range or blast radius.",
-    "target": "Увеличава обхвата на атаката ти с 20%, независимо дали става въпрос за досег в близък бой, обхват на проектил или радиус на експлозия."
+    "target": "Увеличава обхвата на атаката ти с 20% – независимо дали е близък бой, стрелба или взрив."
   },
   {
     "key": "/8831E8AC483073B1D0E5CDB042D73362",
     "source": "Extrovert Upgrade",
-    "target": "Надграждане на екстроверт"
+    "target": "Подобрение за екстроверт"
   },
   {
     "key": "/F26E2E72445ECFD3E87252B659104225",
@@ -1677,17 +1677,17 @@
   {
     "key": "/E4F1FCE14CABE9FB501BC09EDDBAE985",
     "source": "Farm desert plants in an abandoned oasis. Plant crops, wait for them to grow, and harvest them to earn Gold and increase your Plants Harvested progress. Plants also grow while not in the Oasis!",
-    "target": "Отглеждай пустинни растения в изоставена оазис. Засаждай култури, чакай ги да пораснат и прибирай реколтата си за злато и увеличаване на прогреса ти с обраните растения. Растенията също растат докато не си в Оазиса!"
+    "target": "Отглеждай пустинни растения в изоставен оазис. Засаждай култури, изчакай да пораснат и ги прибери, за да печелиш злато и да увеличиш напредъка си по събрани растения. Растенията растат дори когато не си в Оазиса!"
   },
   {
     "key": "/7F9F961E419F856DECB94D9466CB3091",
     "source": "Farm {Value} more Wood Dust to unlock this entry.",
-    "target": "Събери още {Value} дървесен прах, за да отключиш този вход."
+    "target": "Събери още {Value} дървесен прах, за да отключиш този запис."
   },
   {
     "key": "/F0FDDE4E4D744073C128BDBB883D83C1",
     "source": "Fast operating wood harvester with a base capacity of 15 per slot",
-    "target": "Бърз събирач на дървесина с основен капацитет 15 на слот"
+    "target": "Бърз автоматичен събирач на дървесина с основен капацитет 15 на слот"
   },
   {
     "key": "/C2486C13482B19795117ACA37F0B695B",
@@ -1702,7 +1702,7 @@
   {
     "key": "/E7D233164315CAE67D28F99F9C9A07C4",
     "source": "Feeding a hunger without end",
-    "target": "Нахранване на ненаситен глад"
+    "target": "Засищане на ненаситен глад"
   },
   {
     "key": "/0DE1BF524D25FA6E77E08AA96AC79F5C",
@@ -1737,7 +1737,7 @@
   {
     "key": "/8DCF8E784971FF7B458FE5BC4377FDB1",
     "source": "Fir Wood",
-    "target": "Дъбов дървен материал"
+    "target": "Елова дървесина"
   },
   {
     "key": "/4A715349402B50DEC153D8B9EE5C078D",
@@ -1752,12 +1752,12 @@
   {
     "key": "/A20F26254973F1BD080DA288EA9CC029",
     "source": "Fires one more shot per burst, but each bullet deals 10% less damage.",
-    "target": "Изстрелва още един изстрел на залп, но всеки куршум нанася 10% по-малко щети."
+    "target": "Произвежда още един изстрел на залп, но всеки куршум нанася 10% по-малко щети."
   },
   {
     "key": "/EE532073409271FBCE377894ADAC66CE",
     "source": "Flash visual on hit",
-    "target": "Блесна светлина при попадение"
+    "target": "Светкавичен ефект при попадение"
   },
   {
     "key": "/055AF7C64E26AB45E12D338A3907B865",
@@ -1772,7 +1772,7 @@
   {
     "key": "/0D7E3825477996088F591193479ADB2F",
     "source": "For smelting raw ores into refined ingots or coke production, at a fast speed.",
-    "target": "За топене на сурови руди в рафинирани блокове или за производството на кокс, с висока скорост."
+    "target": "За топене на сурови руди в рафинирани слитъци или за производство на кокс, с висока скорост."
   },
   {
     "key": "/5AF1C32C47E33160AE26B3B9AE95E9BC",
@@ -1787,7 +1787,7 @@
   {
     "key": "/3FDCDD8243882E277F625B89AB8A209A",
     "source": "Forest Luck",
-    "target": "Горска късметлийка"
+    "target": "Горски късмет"
   },
   {
     "key": "/1E78500D4665DCE0F63037ADFB39A94A",
@@ -1817,7 +1817,7 @@
   {
     "key": "/D6103E354B3D60B02F89078942CEE9A1",
     "source": "Gain 1 Credit per level for every 10 Fuel collected above the round goal.",
-    "target": "Печелиш 1 кредит на ниво за всяко събрано гориво над целта на рунда."
+    "target": "Печелиш 1 кредит на ниво за всеки 10 събрани горива над целта на рунда."
   },
   {
     "key": "/9798DB8844D76388EA3CED8F0C790B06",
@@ -1827,17 +1827,17 @@
   {
     "key": "/F2E03EF04B25E041805081B6FF4F187B",
     "source": "Gain 4% more damage per level for every 10 Credits left unspent when you leave the shop.",
-    "target": "Печелиш допълнителни 4% щети на ниво за всеки неразходен кредит, когато излизаш от магазина."
+    "target": "Печелиш 4% повече щети на ниво за всеки 10 неразходени кредита, когато излезеш от магазина."
   },
   {
     "key": "/EBE504894446CF97B2895ABCD01F28DC",
     "source": "Gambler Upgrade",
-    "target": "Надстройка комарджия"
+    "target": "Подобрение за комарджия"
   },
   {
     "key": "/3A73D98B48FB87B156C50A9F0604A97A",
     "source": "Gameplay",
-    "target": "Игрови процес"
+    "target": "Геймплей"
   },
   {
     "key": "/F79CFB304F34F0D2321B2E8B43BBA581",
@@ -1847,7 +1847,7 @@
   {
     "key": "/01257E664C737DB44A5656B3251F150D",
     "source": "Gather {Value} more Wood Dust",
-    "target": "Събери още {Value} дървесна прах"
+    "target": "Събери още {Value} дървесен прах"
   },
   {
     "key": "/1D5E0FB049F72E509E0C59A3A989876E",
@@ -1872,7 +1872,7 @@
   {
     "key": "/0170463D407250E3DF28379DA47DE30D",
     "source": "Geothermal Power Unit",
-    "target": "Геотермална единица за енергия"
+    "target": "Геотермален енергиен блок"
   },
   {
     "key": "/111147FA4FCBFBB62018F1898F0844CD",
@@ -1907,7 +1907,7 @@
   {
     "key": "/74CC08044E2BCF4643D5E4BA88658702",
     "source": "Golden Orchid",
-    "target": "Златен орхидей"
+    "target": "Златна орхидея"
   },
   {
     "key": "/0F7577FB4CE7007AD9194F8A4140B98A",
@@ -1917,7 +1917,7 @@
   {
     "key": "/FB16DA1841A879D72833A59DA7C2535D",
     "source": "Growth time increases by 180 seconds for each buff received.",
-    "target": "Времето за растеж се увеличава с 180 секунди за всяко получено подсилване."
+    "target": "Времето за растеж се увеличава с 180 секунди за всеки получен бонус."
   },
   {
     "key": "/8476A8F5428FBB285F8949905ACABC95",
@@ -1952,7 +1952,7 @@
   {
     "key": "/0F03DB3745DF4F5A2E4ACAA769AD4CFA",
     "source": "Hitting a resource poisons it for 10 damage per second over 3 seconds.",
-    "target": "Ударът върху ресурс го отравя за 10 щети в секунда през следващите 3 секунди."
+    "target": "Ударът върху ресурс го отравя и нанася 10 щети в секунда в продължение на 3 секунди."
   },
   {
     "key": "/3CF315C14E1F4A3D4376F7B307114A64",
@@ -1962,7 +1962,7 @@
   {
     "key": "/A0742F6C4BAB5E0264FB328726600AFF",
     "source": "I created this place. You had no say",
-    "target": "Аз създадох това място. Ти нямаш думата тук."
+    "target": "Аз създадох това място. Ти нямаше думата."
   },
   {
     "key": "/FB170AD64F3F06CE78BE06A7564CA737",
@@ -2007,7 +2007,7 @@
   {
     "key": "/CE72AD834EE7E7D792532F9A58604274",
     "source": "Increase Axe Damage 1",
-    "target": "Увеличаване на щетата от брадва 1"
+    "target": "Увеличи щетата от брадва 1"
   },
   {
     "key": "/CE05AE5540DBD98E18EFBFA10FBADD90",
@@ -2047,7 +2047,7 @@
   {
     "key": "/337FEA2145810B5A51827AA7D9B29F07",
     "source": "Increase Rune Rarity",
-    "target": "Увеличаване рядкостта на руните"
+    "target": "Увеличаване на рядкостта на руните"
   },
   {
     "key": "/50D3505946392AB9C85E7EA77080505F",
@@ -2062,7 +2062,7 @@
   {
     "key": "/08C84DAC419EC5716ACF43B29CD93EAE",
     "source": "Increases all Data from runs and idling by 10% per level. Can be bought infinitely.",
-    "target": "Увеличава всички данни от турове и бездействие с 10% на ниво. Може да се купува неограничено."
+    "target": "Увеличава всички данни от рундове и бездействие с 10% на ниво. Може да се купува неограничен брой пъти."
   },
   {
     "key": "/E3A8F09A4FB6EF60BE2A0AB6E2E621AD",
@@ -2122,7 +2122,7 @@
   {
     "key": "/8AE38A4D4568977504334BB70AC5017D",
     "source": "Increases the damage you deal to all resources by 15%.",
-    "target": "Увеличава щетите, които нанасяш върху всички ресурси с 15%."
+    "target": "Увеличава с 15% щетите, които нанасяш върху всички ресурси."
   },
   {
     "key": "/E059CDD14F90C28E5C91A28F5A78AFD6",
@@ -2132,7 +2132,7 @@
   {
     "key": "/2DE4085A44897EA67344A688AC53CDCE",
     "source": "Increases the lucky drop multiplier by 1x per level, up to 5x.",
-    "target": "Увеличава множителя за щастливи изпадания с 1x на ниво, до максимум 5x."
+    "target": "Увеличава множителя за щастливи находки с 1x на ниво, до максимум 5x."
   },
   {
     "key": "/18B08370465FF7C13775B2AB07FA5204",
@@ -2172,12 +2172,12 @@
   {
     "key": "/464D9D5C42EE1942532BA99B41AE5314",
     "source": "Increases the speed of farmers and assemblers within the data center's radius by 50%. Multiple data centers do not stack this effect.",
-    "target": "Увеличава скоростта на фермерите и сглобяващите машини в радиуса на центъра за данни с 50%. Ефектът не се натрупва при няколко центъра за данни."
+    "target": "Увеличава скоростта на растителните ферми и асемблерите в радиуса на центъра за данни с 50%. Ефектът не се натрупва при няколко центъра за данни."
   },
   {
     "key": "/116EE8AA4C4BD6239180988314E92DC6",
     "source": "Increases the speed of farmers and assemblers within the solar panel's radius by 25%. Multiple solar panels do not stack this effect.",
-    "target": "Увеличава скоростта на фермерите и сглобяващите машини в радиуса на соларния панел с 25%. Ефектът не се натрупва при няколко соларни панела."
+    "target": "Увеличава скоростта на растителните ферми и асемблерите в радиуса на соларния панел с 25%. Ефектът не се натрупва при няколко соларни панела."
   },
   {
     "key": "/1D69A49E453156EDBDE9F28CC38EC3F7",
@@ -2207,7 +2207,7 @@
   {
     "key": "/51C65C0E491250BEBA3B63B6E248C2A9",
     "source": "Industrial Computing Unit",
-    "target": "Индустриален компютърен модул"
+    "target": "Индустриален изчислителен модул"
   },
   {
     "key": "/902F46084F8454071EBBEB80DBBF388E",
@@ -2237,7 +2237,7 @@
   {
     "key": "/6A20A44847006D9C356694BD38A1D5AA",
     "source": "Instead of collecting each building manually, you can use a collector to collect all harvesters and assemblers within a radius at once.",
-    "target": "Вместо да събираш всяка сграда ръчно, можеш да използваш събирател, за да събереш едновременно всички автоматични събирачи и асемблери в радиус."
+    "target": "Вместо да събираш всяка сграда ръчно, можеш да използваш събирател, за да прибереш наведнъж всички автоматични събирачи и асемблери в обсега му."
   },
   {
     "key": "/6AB5032F4355871A28E4988234FEC3C1",
@@ -2247,17 +2247,17 @@
   {
     "key": "/7E53DDD74C38C6A3562F4C86816C2DD3",
     "source": "Interact to buy upgrade",
-    "target": "Взаимодействайте, за да закупите надграждане."
+    "target": "Взаимодействай, за да купиш подобрение"
   },
   {
     "key": "/413E83954D2829E7B1082E85858F655E",
     "source": "Interact to disable Checkpoints",
-    "target": "Интеракция за деактивиране на контролни точки"
+    "target": "Взаимодействай, за да деактивираш контролните точки"
   },
   {
     "key": "/6816330E40CF538593DB638EA3F55B22",
     "source": "Interact to disable Infinite Speed Upgrades",
-    "target": "Интеракция за деактивиране на безкрайни надстройки на скоростта"
+    "target": "Взаимодействай, за да деактивираш подобренията за безкрайна скорост"
   },
   {
     "key": "/61D8E634486185D60E350D8ED0DA0979",
@@ -2272,7 +2272,7 @@
   {
     "key": "/34A7A36844127FB76FAA0DA22E4523F2",
     "source": "Interact to go back to the beginning of the course",
-    "target": "Интеракция за връщане в началото на курса"
+    "target": "Взаимодействай, за да се върнеш в началото на пистата"
   },
   {
     "key": "/A35F8D3D42369385D69252838A142D6D",
@@ -2282,12 +2282,12 @@
   {
     "key": "/041B98614FA620F290B7E6A159141C0A",
     "source": "Introvert Upgrade",
-    "target": "Надстройка на интроверт"
+    "target": "Подобрение за интроверт"
   },
   {
     "key": "/096230CD4F5AFA226B0C9FAF86503C14",
     "source": "Invert Mouse X",
-    "target": "Обърни мишката по X ос"
+    "target": "Обърни оста X на мишката"
   },
   {
     "key": "/EE3D97A549ACF161ACCF4EA325B5EFFB",
@@ -2297,7 +2297,7 @@
   {
     "key": "/04D6887246DA40CA8E311FA95EAD3879",
     "source": "Iron Dust",
-    "target": "Желязна прах"
+    "target": "Железен прах"
   },
   {
     "key": "/B60EE0E744FA22EE5580D699407B7BB5",
@@ -2367,7 +2367,7 @@
   {
     "key": "/94F0D6174DA14BED43A553BD11F3A0CE",
     "source": "Leave Run",
-    "target": "Напусни хода"
+    "target": "Напусни рунда"
   },
   {
     "key": "/085CE9884313DC20FF5E3C83F4191A7B",
@@ -2407,7 +2407,7 @@
   {
     "key": "/3B6F3A9E4103DA55782B2C8D1CB4E3B4",
     "source": "Lightning",
-    "target": "Светкавица"
+    "target": "Мълния"
   },
   {
     "key": "/A240BE924CBC076C0F3AF5A5D9D175B7",
@@ -2462,7 +2462,7 @@
   {
     "key": "/5D0DD3D84D37388C72C6D8A0CE2D8C72",
     "source": "Lucky",
-    "target": "Щастливец"
+    "target": "Късметлия"
   },
   {
     "key": "/624122BB4DD8F0AB3011F49C3BEECBD8",
@@ -2472,7 +2472,7 @@
   {
     "key": "/98A94184463A15275654CA87FC5242F1",
     "source": "Lumina Core",
-    "target": "Ядрото на Лумина"
+    "target": "Ядро на Лумина"
   },
   {
     "key": "/C46AFE564B605212FA3BC09176A8D18C",
@@ -2532,17 +2532,17 @@
   {
     "key": "/6D1DFE4F4E461F84FF64378E5F59E65B",
     "source": "Max Spawns",
-    "target": "Максимални повиквания"
+    "target": "Максимален брой появи"
   },
   {
     "key": "/B08222A047C10CCE392E05B46E44E9A3",
     "source": "Max Time 1",
-    "target": "Максимум време 1"
+    "target": "Максимално време 1"
   },
   {
     "key": "/559E4F854F6FEE17994F52A12AD1FE94",
     "source": "Max Time 2",
-    "target": "Максимум време 2"
+    "target": "Максимално време 2"
   },
   {
     "key": "/60EF639644217E4F4C107AA465FFBFCC",
@@ -2567,12 +2567,12 @@
   {
     "key": "/52562A2B4588FC07E2FA1CBBEC93FD04",
     "source": "Melee Crit",
-    "target": "Критичен удар от близко разстояние"
+    "target": "Критичен удар в близък бой"
   },
   {
     "key": "/77991DA642459B0F4ADC81A5D6894488",
     "source": "Melee Crit Chance",
-    "target": "Шанс за критичен удар от близко разстояние"
+    "target": "Шанс за критичен удар в близък бой"
   },
   {
     "key": "/99063756441E7A30A343D2A6E834B11F",
@@ -2592,7 +2592,7 @@
   {
     "key": "/A0F157054493CA79C24087839F55B483",
     "source": "Memory Circuit",
-    "target": "Електрическа верига на паметта"
+    "target": "Схема на паметта"
   },
   {
     "key": "/E8B0E7724E8ECC35A7DBACAA4DFF9AC4",
@@ -2652,7 +2652,7 @@
   {
     "key": "/0FEBCB21406770A8D72E939A05B36747",
     "source": "Modern Chest",
-    "target": "Модерна сандъка"
+    "target": "Модерен сандък"
   },
   {
     "key": "/1D4E874A4321B26A988B31B9945809FD",
@@ -2667,17 +2667,17 @@
   {
     "key": "/6923C1F14D79B2434056ACB63A4BA49D",
     "source": "Modern Fabric",
-    "target": "Събирач на модерни предмети"
+    "target": "Модерна тъкан"
   },
   {
     "key": "/55DC7C6547A5A77453D2E8A39902D03B",
     "source": "Modern Gearbox",
-    "target": "Модерна кутия за предавки"
+    "target": "Модерна скоростна кутия"
   },
   {
     "key": "/20B352614C77AC8AC273DCB0A7993EFE",
     "source": "Modern Jetpack",
-    "target": "Събирач на модерни предмети"
+    "target": "Модерен джетпак"
   },
   {
     "key": "/A010AD614B8C70C3678AF6B7733CC16C",
@@ -2687,7 +2687,7 @@
   {
     "key": "/59930DAB47AD3811CDCFA7A3729CD949",
     "source": "Modern Pipe",
-    "target": "Събирач на модерни предмети"
+    "target": "Модерен тръбопровод"
   },
   {
     "key": "/232CD29A4995C0C455558FA3E5A12AD6",
@@ -2697,7 +2697,7 @@
   {
     "key": "/84D69E694BA25997E721E492988168EC",
     "source": "Modern Press",
-    "target": "Събирач на модерни предмети"
+    "target": "Модерна преса"
   },
   {
     "key": "/433089CA4A417CBB23D4CDA58AF4948A",
@@ -2707,7 +2707,7 @@
   {
     "key": "/D701E211458E37CE6E97BEA27E120603",
     "source": "Modern Toolbelt",
-    "target": "Модерна кожена престилка"
+    "target": "Модерен пояс за инструменти"
   },
   {
     "key": "/D82D29FB42FA691BD75DCEAFEC14748F",
@@ -2752,7 +2752,7 @@
   {
     "key": "/C608648844C8A02AE90F05B36A4CEAD3",
     "source": "Move Left",
-    "target": "Премести се наляво"
+    "target": "Движи се наляво"
   },
   {
     "key": "/BEEEFB68440C8F54D8B0538EA5DDBDF0",
@@ -2837,7 +2837,7 @@
   {
     "key": "/6D9164A14FD7F729B0253288797A9A41",
     "source": "Normal Pickaxe",
-    "target": "Обикновен кирка"
+    "target": "Обикновена кирка"
   },
   {
     "key": "/1F04884D493E377EDD7949837B2B124B",
@@ -2887,7 +2887,7 @@
   {
     "key": "/0045E6A74BCEE5BD4871ADA86FA383EA",
     "source": "Ore and Mineral Multiplier Rune",
-    "target": "Рун за множител на руда и минерали"
+    "target": "Руна за множител на руда и минерали"
   },
   {
     "key": "/A30BC8AD409AB011E20B1BB8FEC2645C",
@@ -2902,7 +2902,7 @@
   {
     "key": "/F1FA6E504CFC59E1F866A9BD68C32161",
     "source": "Overall Volume",
-    "target": "Общ обем"
+    "target": "Обща сила на звука"
   },
   {
     "key": "/0577381E45B51CC594C69C90FD92E56F",
@@ -2917,7 +2917,7 @@
   {
     "key": "/95BF766047BEA611AF3F89A6C36EF88C",
     "source": "PIPE TOO LONG",
-    "target": "ТЪЙ ЧЕ ТРЪБАТА Е ПРЕКАЛЕНО ДЪЛГА"
+    "target": "ТРЪБАТА Е ПРЕКАЛЕНО ДЪЛГА"
   },
   {
     "key": "/2F0A04EC483D137D7D3CF0ACBB5EE46D",
@@ -2947,7 +2947,7 @@
   {
     "key": "/A88A9F7E43BEE69609AE81B3ABE3CEAB",
     "source": "Pay {GoldAmount} gold to clear the debris and unlock this area.",
-    "target": "Платете {GoldAmount} злато, за да разчистите отломките и отключите тази зона."
+    "target": "Плати {GoldAmount} злато, за да разчистиш отломките и да отключиш тази зона."
   },
   {
     "key": "/B050756B4A4FA7B7104403AA38570638",
@@ -2967,7 +2967,7 @@
   {
     "key": "/60BE02ED46A677DEE24FEDAFB5AE98DE",
     "source": "Permanently activates all blue platforms.",
-    "target": "Трайно активира всички сини платформи."
+    "target": "Постоянно активира всички сини платформи."
   },
   {
     "key": "/63CAC14C4B953221BABD97874B91DBB6",
@@ -2987,17 +2987,17 @@
   {
     "key": "/2043EEFB43F86A648629458931C6477A",
     "source": "Permanently increases Axe Skill damage per hit by +10",
-    "target": "Трайно увеличава щетите от умението Axe Skill за всеки удар с +10"
+    "target": "Трайно увеличава щетите от умението с брадва за всеки удар с +10"
   },
   {
     "key": "/819E63F94D6158538F1340B51F39C1AC",
     "source": "Permanently increases Axe Skill damage per hit by +50",
-    "target": "Трайно увеличава щетите от умението Axe Skill за всеки удар с +50"
+    "target": "Трайно увеличава щетите от умението с брадва за всеки удар с +50"
   },
   {
     "key": "/7F4FD7D1411B88F55DE7A0920872EB0A",
     "source": "Permanently increases Berserk Skill base duration by +1 second",
-    "target": "Трайно увеличава основната продължителност на способността Berserk със 1 секунда"
+    "target": "Трайно увеличава основната продължителност на способността Berserk с 1 секунда"
   },
   {
     "key": "/30BC19364974B831F6BD9381FACDEF30",
@@ -3037,17 +3037,17 @@
   {
     "key": "/404179D549FC684E2D354592F7ADB85E",
     "source": "Permanently increases movement speed while sprinting by +15%",
-    "target": "Постоянно увеличава скоростта на движение при спринт със +15%"
+    "target": "Постоянно увеличава скоростта на движение при спринт с +15%"
   },
   {
     "key": "/E330BBF6485467523DA42D9FE9B02C73",
     "source": "Permanently increases the Area-of-Effect passive’s base damage by +10%",
-    "target": "Постоянно увеличава основната щета от пасивния Ефект на подручжието с +10%"
+    "target": "Постоянно увеличава с +10% основната щета на пасивния ефект със зона на действие"
   },
   {
     "key": "/0C1CEA0D40826D8FFEDDF18C722F7E5A",
     "source": "Permanently increases the Area-of-Effect passive’s radius by +5 meters",
-    "target": "Постоянно увеличава радиуса на пасивния Ефект на поддручието с 5 метра"
+    "target": "Постоянно увеличава с +5 метра радиуса на пасивния ефект със зона на действие"
   },
   {
     "key": "/4BBBC6504366D8B8703601ADFE71911D",
@@ -3057,7 +3057,7 @@
   {
     "key": "/3F6C8D36482A78D9AA5F1F826F996DBE",
     "source": "Permanently increases the Heart of the Elder drop rate by +100%. Above 100%, the Elder Tree can drop more than one.",
-    "target": "Постоянно увеличава шанса за изпускане на Heart of the Elder с +100%. Над 100%, Prastablo може да пусне повече от един."
+    "target": "Постоянно увеличава шанса за изпадане на Сърце на Старейшината с +100%. Над 100%, Старейшината може да пусне повече от едно."
   },
   {
     "key": "/31E07BD9413A96FB83FF41A8F3E278D7",
@@ -3082,17 +3082,17 @@
   {
     "key": "/4856B859483788733618DD9B341496A7",
     "source": "Permanently increases the amount of time you have while exploring the Dark Thicket by +5 seconds",
-    "target": "Постоянно увеличава времето за изследване на Тъмната гъсталака с +5 секунди"
+    "target": "Постоянно увеличава времето за изследване на Мрачния гъсталак с +5 секунди"
   },
   {
     "key": "/6712E83A49373B76388F389EC09BF3F9",
     "source": "Permanently increases the amount of time you have while exploring the Dark Thicket by +5 seconds",
-    "target": "Постоянно увеличава времето за изследване на Тъмната гъсталака с +5 секунди"
+    "target": "Постоянно увеличава времето за изследване на Мрачния гъсталак с +5 секунди"
   },
   {
     "key": "/832539514DDE7F8ACCA37C9E022ED61D",
     "source": "Permanently increases the amount of time you have while exploring the Dark Thicket by +5 seconds",
-    "target": "Постоянно увеличава времето за изследване на Тъмната гъсталака с +5 секунди"
+    "target": "Постоянно увеличава времето за изследване на Мрачния гъсталак с +5 секунди"
   },
   {
     "key": "/2E05E309449CCAE491B8F79E92B67E2B",
@@ -3107,12 +3107,12 @@
   {
     "key": "/3066C0904F9827E601C3BDA0565EC603",
     "source": "Permanently increases the base speed of any wood cutter building by +10%",
-    "target": "Постоянно увеличава основната скорост на всички дървосекачни сгради с +10%"
+    "target": "Постоянно увеличава основната скорост на всички дървосекачи с +10%"
   },
   {
     "key": "/0EBD647E4C8069E527259AB2B9886E07",
     "source": "Permanently increases the total amount of any resources you can receive in the Dark Thicket by +25%",
-    "target": "Постоянно увеличава общото количество на всички ресурси, които можете да получите в Тъмната гъсталака с +25%"
+    "target": "Постоянно увеличава с +25% общото количество на всички ресурси, които можеш да получиш в Мрачния гъсталак"
   },
   {
     "key": "/552C6C1D42E004E404377DBE5B6C27DB",
@@ -3127,7 +3127,7 @@
   {
     "key": "/1B0771B04278CF0E0BC998B08049C6C3",
     "source": "Permanently increases your maximum dig radius by +0.2 meters.",
-    "target": "Постоянно увеличава максималния ви радиус за копаене с +0.2 метра."
+    "target": "Постоянно увеличава максималния ти радиус за копаене с +0,2 метра."
   },
   {
     "key": "/035307EA37430E49D65D5709632DA0D0",
@@ -3167,12 +3167,12 @@
   {
     "key": "/56FE88ED4C1988CFA459389AA9560BC0",
     "source": "Pipe Merger",
-    "target": "Свързващ елемент за тръба"
+    "target": "Свързвач"
   },
   {
     "key": "/BFEBB0DD4AFBB22896A4EAA1D1AB97A3",
     "source": "Pipe Splitter",
-    "target": "Разклонител за тръби"
+    "target": "Разделител"
   },
   {
     "key": "/308059BD4C88765B2117DD9DF2E5FD62",
@@ -3182,7 +3182,7 @@
   {
     "key": "/9518C43A48C06CEDFBDABE9A8F5EF54E",
     "source": "Plank",
-    "target": "Гредичка"
+    "target": "Дъска"
   },
   {
     "key": "/95052132408381D20778FD9E7B700B53",
@@ -3242,7 +3242,7 @@
   {
     "key": "/8C0A6E364A5BD82E9CED2988A245B104",
     "source": "Post-Process Quality",
-    "target": "Качество след обработка"
+    "target": "Качество на постобработката"
   },
   {
     "key": "/D592D6824E66A96B3E3946A504EE8307",
@@ -3277,7 +3277,7 @@
   {
     "key": "/44BF2F5B4E21B8156CFAC18D7E76A21C",
     "source": "Primary Only Upgrade",
-    "target": "Надграждане само на основните ресурси"
+    "target": "Подобрение само на основните ресурси"
   },
   {
     "key": "/078EEDD14BA328B4D73AEA8964F39881",
@@ -3287,7 +3287,7 @@
   {
     "key": "/569F66F349E0F1E52643BE83A4B8CFC6",
     "source": "Primitive Chest",
-    "target": "Примитивна каса"
+    "target": "Примитивен сандък"
   },
   {
     "key": "/0FCEE3C8435651D8812E2E9FB64426A6",
@@ -3327,12 +3327,12 @@
   {
     "key": "/96EEC5014433F3773026319FF4C920CF",
     "source": "Prism Roots",
-    "target": "Корен на призмата"
+    "target": "Призмени корени"
   },
   {
     "key": "/65DF55D741357CC1CE5BE58A0B3DCD6B",
     "source": "Processed items do not count towards Milestone Progression but are essential for advanced crafting and construction.",
-    "target": "Обработените предмети не се броят към прогреса по преметниците, но са от съществено значение за напредналото изработване и строителство."
+    "target": "Обработените предмети не се броят към прогреса по етапите, но са от съществено значение за напредналото изработване и строителство."
   },
   {
     "key": "/7A91D4EF46A22B40F0F86096A35914CE",
@@ -3342,12 +3342,12 @@
   {
     "key": "/95A5670446B7946B91D936B3121F438C",
     "source": "Progress through the Wood Dust Milestone to unlock powerful buffs and unique Buildings that can be used outside the Minigame!",
-    "target": "Напредвайте през преметницата на дървения прах, за да отключите мощни бонуси и уникални сгради, които могат да се използват извън мини-играта!"
+    "target": "Напредни през етапа на дървения прах, за да отключиш мощни бонуси и уникални сгради, които могат да се използват извън мини-играта!"
   },
   {
     "key": "/8A175821402A6788E67C8B8471F5FEF8",
     "source": "Prospector",
-    "target": "Търсач на съкровища"
+    "target": "Търсач на руда"
   },
   {
     "key": "/C47FA9C04C53D1EA4835B8932DA09F21",
@@ -3372,7 +3372,7 @@
   {
     "key": "/E9985F0448F222E9599A21AE4262BC5E",
     "source": "Quartz Ore",
-    "target": "Кварцов рудник"
+    "target": "Кварцова руда"
   },
   {
     "key": "/DB279C6246CB1CA37843C4B84200126A",
@@ -3457,7 +3457,7 @@
   {
     "key": "/4D1414144B15EDCCE51336BB9910AF01",
     "source": "Really quit?",
-    "target": "Наистина напусни?"
+    "target": "Наистина ли искаш да излезеш?"
   },
   {
     "key": "/D5C642364EBAB4D0F1B6F7969FECC175",
@@ -3472,7 +3472,7 @@
   {
     "key": "/A29A92344F07752F005EDAB6CFA9171E",
     "source": "Reduces your attack cooldown by 8%, so you strike faster.",
-    "target": "Намалява охлаждането на атаката ви с 8%, така че удряте по-бързо."
+    "target": "Намалява охлаждането на атаката ти с 8%, така че удряш по-бързо."
   },
   {
     "key": "/16D748D640925644260CB1B60579263A",
@@ -3482,12 +3482,12 @@
   {
     "key": "/14BF92654AFE221A24B6C6B8DB0A87DB",
     "source": "Refined Quartz",
-    "target": "Пречистена кварца"
+    "target": "Пречистен кварц"
   },
   {
     "key": "/4CB1D1B64B75E8D24D3DDD9B909DBC33",
     "source": "Refines raw resources into denser, processed outputs. A basic machine for early-stage automation.",
-    "target": "Рафинира суровите ресурси в по-плътни, обработени изходи. Основна машина за ранно автоматизиране."
+    "target": "Пречиства суровите ресурси в по-плътни, обработени изходи. Основна машина за автоматизация в ранния етап."
   },
   {
     "key": "/29A1DF804CC65C3F80FAE8BBD3F051EF",
@@ -3502,12 +3502,12 @@
   {
     "key": "/72AB59E746289CAAAE0E7490EBA2EF11",
     "source": "Reinforced Chest",
-    "target": "Усилена сандъка"
+    "target": "Усилен сандък"
   },
   {
     "key": "/8B2EC0EA4DE6192AC2D86793298B8666",
     "source": "Reinforced Furnace",
-    "target": "Усилен котел"
+    "target": "Усилена пещ"
   },
   {
     "key": "/18B9D09C4E8CB3300CE7FAA7A3B231A6",
@@ -3532,17 +3532,17 @@
   {
     "key": "/8C6247F14DC8912535D5AB8D502CCAF7",
     "source": "Reinforced Wood Cutter",
-    "target": "Усилена машина за рязане на дърва"
+    "target": "Усилен дървосекач"
   },
   {
     "key": "/215E969E401A37D2C26CBEB45E558191",
     "source": "Remove Debris",
-    "target": "Премахване на отломки"
+    "target": "Премахни отломките"
   },
   {
     "key": "/BEE3CC3E47CA96692FF0B892C2640856",
     "source": "Repeatable Upgrades",
-    "target": "Повтарящи се надстройки"
+    "target": "Повтарящи се подобрения"
   },
   {
     "key": "/268BEB554A33E42428B5F9A34283EE9E",
@@ -3562,7 +3562,7 @@
   {
     "key": "/C21C737A4A203925BB376B8108304CA2",
     "source": "Resolution",
-    "target": "Резолюция"
+    "target": "Разделителна способност"
   },
   {
     "key": "/AC912103448A23FB8DEA868EB08043DF",
@@ -3572,7 +3572,7 @@
   {
     "key": "/3CB2494D442F38000B8D68ADB6E4645B",
     "source": "Resource gain: {ResourceGain}",
-    "target": "Придобиване на ресурс: {ResourceGain}"
+    "target": "Придобит ресурс: {ResourceGain}"
   },
   {
     "key": "/15CB63E64044432B7DDC9C9CDB3F1447",
@@ -3592,7 +3592,7 @@
   {
     "key": "/B596BE374ECF5CD61FB75BBAFAFFE521",
     "source": "Resources spawn with 15% less health.",
-    "target": "Ресурси с 15% по-малко здраве"
+    "target": "Ресурсите се появяват с 15% по-малко здраве."
   },
   {
     "key": "/6E17DFB3436901A62719749523DC421A",
@@ -3652,7 +3652,7 @@
   {
     "key": "/FE6F5972401784687893FF86514EF3E9",
     "source": "Round {RoundNumber}",
-    "target": "Кръг {RoundNumber}"
+    "target": "Рунд {RoundNumber}"
   },
   {
     "key": "/5C0BACA44F82F093E1E8FEB531FE643D",
@@ -3662,12 +3662,12 @@
   {
     "key": "/EE00E2CE4971B088A2D5E69F85F55F1E",
     "source": "Run Duration",
-    "target": "Продължителност на бягането"
+    "target": "Продължителност на рунда"
   },
   {
     "key": "/8A638BCC400854636111F4B8E7000CF2",
     "source": "Run Finished",
-    "target": "Бягане завършено"
+    "target": "Рундът завърши"
   },
   {
     "key": "/24E306DF4747EC85CF7F319B1ACE01BD",
@@ -3722,7 +3722,7 @@
   {
     "key": "/262CA1DC4FD7C500DF2A0B92BAE053EF",
     "source": "Select Alternative Recipe",
-    "target": "Избери алтернативен рецепт"
+    "target": "Избери алтернативна рецепта"
   },
   {
     "key": "/404AD9B34AF218A3473907A513ADE2EF",
@@ -3742,7 +3742,7 @@
   {
     "key": "/3AB16B4B4B47FDD216C49AA2978E70E9",
     "source": "Select Craft",
-    "target": "Избери занаят"
+    "target": "Избери изработка"
   },
   {
     "key": "/4364E9A943AE9251E841088009AE41DE",
@@ -3897,27 +3897,27 @@
   {
     "key": "/03917951435AC3E6543A37BA4BC0D592",
     "source": "Sound Effects Volume",
-    "target": "Обем на звуковите ефекти"
+    "target": "Сила на звуковите ефекти"
   },
   {
     "key": "/476CC6A64B23AF47F80E32A285F0FA0D",
     "source": "Speed Upgrade Tier 1",
-    "target": "Надстройка на скоростта 1. ниво"
+    "target": "Подобрение на скоростта, ниво 1"
   },
   {
     "key": "/FC6610524983999D11ACBB90DE6EC0D3",
     "source": "Speed Upgrade Tier 2",
-    "target": "Надстройка на скоростта 2. ниво"
+    "target": "Подобрение на скоростта, ниво 2"
   },
   {
     "key": "/A2D7E53540B715A7C704EB8ABE8C0660",
     "source": "Speed Upgrade Tier 3",
-    "target": "Надстройка на скоростта 3. ниво"
+    "target": "Подобрение на скоростта, ниво 3"
   },
   {
     "key": "/13F480DF400EE234E2E54485F21C84A7",
     "source": "Speed gain: {SpeedGain}",
-    "target": "Придобита скорост: {SpeedGain}"
+    "target": "Увеличение на скоростта: {SpeedGain}"
   },
   {
     "key": "/040F8E494705782BBE25F591B1B9C8B5",
@@ -3927,7 +3927,7 @@
   {
     "key": "/1192785D4DD7FE407C4EEDA78769241C",
     "source": "Spend your Data to unlock new upgrades and movement techniques, expand your tracks, and boost their Data output.",
-    "target": "Използвай своите данни, за да отключиш нови надстройки и техники на движение, разшири пистите си и увеличи тяхната продукция на данни."
+    "target": "Използвай своите данни, за да отключиш нови подобрения и техники на движение, разшири пистите си и увеличи тяхната продукция на данни."
   },
   {
     "key": "/39CE385D4F14B723B83698B104870051",
@@ -3942,7 +3942,7 @@
   {
     "key": "/6DCE9BFD4D8E74171A613DA7157D6DB7",
     "source": "Starlight Fields Unlocks:",
-    "target": "Отключвания на Звездни полета:"
+    "target": "Отключвания на Звездните полета:"
   },
   {
     "key": "/1D4F680848746245451022B4C944F836",
@@ -3952,12 +3952,12 @@
   {
     "key": "/4BABE66D46DB75784910C6AAA1FED7E1",
     "source": "Start Run",
-    "target": "Започни бягане"
+    "target": "Започни рунд"
   },
   {
     "key": "/14254D364304AFEAA75C3B81923F8E4D",
     "source": "Start the Mine minigame with 25% more energy.",
-    "target": "Започни минииграта Рудник с 25% повече енергия."
+    "target": "Започни мини-играта Мината с 25% повече енергия."
   },
   {
     "key": "/782342D74C9BB89DA53F99A1F61DF95D",
@@ -3967,12 +3967,12 @@
   {
     "key": "/3A11D2684264AEDA81E1758EA8964FC5",
     "source": "Steel Ingot",
-    "target": "Стоманена слитък"
+    "target": "Стоманен слитък"
   },
   {
     "key": "/15B02E764B21E53321483C8426FA268A",
     "source": "Steel Pickaxe",
-    "target": "Стоманен кирка"
+    "target": "Стоманена кирка"
   },
   {
     "key": "/D2F847DB4B640F3CF23E05AAEFFA5DBA",
@@ -3987,7 +3987,7 @@
   {
     "key": "/CB39CADD4447B7B5377B81B0A76535F9",
     "source": "Stone Pickaxe",
-    "target": "Каменен кирка"
+    "target": "Каменна кирка"
   },
   {
     "key": "/916D32F14C487F43B87F3582F0D6F8BE",
@@ -4007,7 +4007,7 @@
   {
     "key": "/332E430B4645A9451BFC1E80046C68C8",
     "source": "Sturdy Plank",
-    "target": "Твърда дъска"
+    "target": "Здрава дъска"
   },
   {
     "key": "/71816A0F47D47E36DA218681BA5DD87B",
@@ -4022,7 +4022,7 @@
   {
     "key": "/7B82E7D24ACBD2EC35B4D3AFBC83F2A6",
     "source": "Sulfur Rose",
-    "target": "Серничеста роза"
+    "target": "Серниста роза"
   },
   {
     "key": "/83D82BE941D33CB7ADE1EA83754D46E8",
@@ -4072,7 +4072,7 @@
   {
     "key": "/4767EAA142701AEA3F5A4A88A818D6CB",
     "source": "Thanks for playing",
-    "target": "Благодаря, че играхте!"
+    "target": "Благодаря ти, че поигра!"
   },
   {
     "key": "/70A6C80A4134FA270343CFBAE7D3C422",
@@ -4082,7 +4082,7 @@
   {
     "key": "/386CD7764A3ECEFDED1FBE862BD7B789",
     "source": "The Memory Shrine can unlock permanent buffs by feeding it items through pipes. All Memory Shrines follow the same progression.",
-    "target": "Светилището на паметта може да отключи постоянни бонуси, като му подавате предмети през тръби. Всички светилища следват един и същ прогрес."
+    "target": "Светилището на паметта може да отключи постоянни бонуси, като му подаваш предмети през тръби. Всички светилища следват един и същ прогрес."
   },
   {
     "key": "/10287A374085A395778A29915AA2BD9B",
@@ -4107,7 +4107,7 @@
   {
     "key": "/CA7D25CE49CC3D119065C99D7CBD38CA",
     "source": "The heart of the largest and strongest tree in the Dark Thicket. The Elder Tree grows in the North and is extremely sturdy. Its heart has a 50% base chance of dropping when it is felled.",
-    "target": "Сърцето на най-голямото и силно дърво в Тъмния гъсталак. Старейшината расте на север и е изключително здраво. Сърцето му има 50% основен шанс да падне, когато бъде отсечено."
+    "target": "Сърцето на най-голямото и най-силното дърво в Мрачния гъсталак. Старейшината расте на север и е изключително здраво. Сърцето му има 50% основен шанс да падне, когато бъде отсечено."
   },
   {
     "key": "/34B4503F4B83C6F77C9F308FD6834196",
@@ -4147,7 +4147,7 @@
   {
     "key": "/867250CD4E9F165D103644807ADFA922",
     "source": "Tilt Shift while walking",
-    "target": "Tilt Shift при ходене"
+    "target": "Тилт-шифт при ходене"
   },
   {
     "key": "/79E892264220B556F70DFBBA3FE342F7",
@@ -4207,12 +4207,12 @@
   {
     "key": "/23F426D34B599D7966D50A9004EB4470",
     "source": "Toolbelt Tinker Station",
-    "target": "Работна станция за инструменти"
+    "target": "Работилница за поправка на инструменти"
   },
   {
     "key": "/82935C6C424BBB9C452DA4A572AD4ECA",
     "source": "Toolbelt Workbench",
-    "target": "Бенч за инструменти"
+    "target": "Работилница за инструменти"
   },
   {
     "key": "/549B00D04432F53142C4EDA50E0E0FBE",
@@ -4232,7 +4232,7 @@
   {
     "key": "/068854674579B7023B399DB4DC7A53F8",
     "source": "Track 1 Idle Data",
-    "target": "Пътека 1: пасивни данни"
+    "target": "Писта 1: пасивни данни"
   },
   {
     "key": "/E43AB7F3421AB083FE0662B1BB3C3E48",
@@ -4287,7 +4287,7 @@
   {
     "key": "/47E0FDB84EB7658189C4D1BB200591D1",
     "source": "Trunk Chest",
-    "target": "Сандък от ствол"
+    "target": "Сандък за стволове"
   },
   {
     "key": "/882D1AAD499718D2FAE58785DBC1F4B8",
@@ -4307,7 +4307,7 @@
   {
     "key": "/5BE95C1F45EDC5A6ACC220835F1DDBFF",
     "source": "Unlocks Area-of-Effect passive: Trees struck by the Axe Skill deal 50% base damage to nearby trees and apply on-hit effects",
-    "target": "Отключва пасивен ефект под формата на област: дървета, ударени от умението с брадва, нанасят 50% основен ущърб на близките дървета и прилагат ефекти при удар."
+    "target": "Отключва пасивната способност „Зона на действие“: дърветата, ударени от умението с брадва, нанасят 50% базови щети на близките дървета и прилагат ефекти при удар."
   },
   {
     "key": "/85E3B8BE4C1282CFEED17094809C97EA",
@@ -4327,7 +4327,7 @@
   {
     "key": "/F53B9DCA46262A143C4EA2B1F8DACCCE",
     "source": "Unlocks Forest Luck Ability: Player has a 30% chance to receive double items when manually destroying any tree. Doesn't affect trees in the Dark Thicket",
-    "target": "Отключва способността „Шанс за гора“: играчът има 30% шанс да получи двойни предмети при ръчно унищожаване на всяко дърво. Не влияе върху дърветата в Мрачните гъсталаци."
+    "target": "Отключва способността „Горски късмет“: играчът има 30% шанс да получи двойни предмети при ръчно унищожаване на всяко дърво. Не влияе върху дърветата в Мрачния гъсталак."
   },
   {
     "key": "/DD6BE5074B53B985D201FCAF9224FD02",
@@ -4337,12 +4337,12 @@
   {
     "key": "/CF7C43D64E1ADDC16D540DA05A64AE05",
     "source": "Unlocks Plant Luck Ability: Player has a 30% chance to receive double items when manually destroying any plants. Doesn't affect plants in the Oasis",
-    "target": "Отключва способността „Шанс за растения“: играчът има 30% шанс да получи двойни предмети при ръчно унищожаване на всякакви растения. Не влияе върху растенията в Оазиса."
+    "target": "Отключва способността „Растителен късмет“: играчът има 30% шанс да получи двойни предмети при ръчно унищожаване на всякакви растения. Не влияе върху растенията в Оазиса."
   },
   {
     "key": "/CD90E9F9422E131EC55DE6B36F16C75E",
     "source": "Unlocks Poison passive: Axe Skill applies Poison effect, lasting 2 seconds and dealing 10 base damage per second",
-    "target": "Отключва пасивен „Отрова“: умението с брадва прилага ефект на отрова, който трае 2 секунди и нанася основни щети по 10 единици в секунда."
+    "target": "Отключва пасивен „Отрова“: умението с брадва прилага ефект на отрова, който трае 2 секунди и нанася 10 базови щети в секунда."
   },
   {
     "key": "/64C2AB5B4ABD9DB27732D6A9AAFE0BDD",
@@ -4352,17 +4352,17 @@
   {
     "key": "/810A218A4BF661FE941E21A0202D7DC1",
     "source": "Unlocks Weakness Aura passive: Trees around you will periodically receive the weakness effect",
-    "target": "Отключва пасивната аура на слабост: Дърветата около теб периодично ще получават ефект на слабост"
+    "target": "Отключва пасивната способност „Аура на слабост“: дърветата около теб периодично получават ефект на слабост."
   },
   {
     "key": "/17341C40436D13483BFA63BDF51ADCBF",
     "source": "Unlocks Weakness passive: Trees struck by Bit & Hogg Skill permanently receive +50% more damage and drop +50% more resources",
-    "target": "Отключва пасивната слабост: дървета, ударени от умението Bit & Hogg, трайно получават +50% повече щети и изпускат +50% повече ресурси"
+    "target": "Отключва пасивната способност „Слабост“: дърветата, ударени от умението Bit & Hogg, трайно получават +50% повече щети и дават +50% повече ресурси"
   },
   {
     "key": "/DBBDEE644624382907E5648C1403CC7C",
     "source": "Unlocks Wood Fortune Ability: Player has a 15% chance to receive double items when manually destroying any tree. Doesn't affect trees in the Dark Thicket",
-    "target": "Отключва умението Щастие на дървото: Имаш 15% шанс да получиш двойни предмети при ръчно унищожаване на всяко дърво. Не засяга дърветата в Тъмната гъсталак"
+    "target": "Отключва способността „Щастие от дърво“: Имаш 15% шанс да получиш двойни предмети при ръчно унищожаване на всяко дърво. Не засяга дърветата в Мрачния гъсталак."
   },
   {
     "key": "/FAE2C55D4F7E8E057D73728567CE22DB",
@@ -4382,22 +4382,22 @@
   {
     "key": "/C12264EE45BFBC032F930885D510B806",
     "source": "Unlocks stackable Area-of-Effect Ability range: Permanently grants +1 meter of radius for every 50 trees felled",
-    "target": "Отключва натрупаем обхват за ефект: Трайно дава +1 метър радиус за всяко 50 отсечени дървета"
+    "target": "Отключва натрупващ се обхват на способността „Зона на действие“: Трайно дава +1 метър радиус за всеки 50 отсечени дървета"
   },
   {
     "key": "/A06FCA6A41545FDDAE4150A6EF1AE049",
     "source": "Unlocks stackable Axe Skill damage: Permanently grants +10 Axe Skill base damage for every 50 trees felled",
-    "target": "Отключва натрупаеми щети с брадва: Трайно дава +10 базови щети за всяко 50 отсечени дървета"
+    "target": "Отключва натрупващи се щети от умението с брадва: Трайно дава +10 базови щети на умението с брадва за всеки 50 отсечени дървета"
   },
   {
     "key": "/1F4688EF4F1DADCA0DDF25BF75219414",
     "source": "Unlocks stackable Berserk Skill duration: Permanently increases Berserk Skill duration by +0.5 seconds for every 50 trees felled",
-    "target": "Отключва натрупаемо времетраене с умението Berserk: Трайно увеличава времето за действие на умението Berserk с +0.5 секунди за всяко 50 отсечени дървета"
+    "target": "Отключва натрупваща се продължителност на умението Berserk: Трайно увеличава продължителността на умението Berserk с +0.5 секунди за всеки 50 отсечени дървета"
   },
   {
     "key": "/F121CE384C77DF228F821A9B30409DAA",
     "source": "Unlocks stackable Berserk Skill resource gain: Permanently increases Berserk Skill resource gain by +2% for every 50 trees felled",
-    "target": "Отключва натрупващи се придобивки на ресурси от умението Berserk: Постоянно увеличава придобиването на ресурси от умението Berserk с +2% за всеки 50 отсечени дървета"
+    "target": "Отключва натрупващо се придобиване на ресурси с умението Berserk: Постоянно увеличава ресурсите, които получаваш с умението Berserk, с +2% за всеки 50 отсечени дървета"
   },
   {
     "key": "/B5D9800444945DCDA2EB0EB5B5DEA5F9",
@@ -4422,7 +4422,7 @@
   {
     "key": "/915B44374F7CBBE3E8BF82BD4646256D",
     "source": "Unlocks the Wallrun ability.",
-    "target": "Отключва умението Бягане по стени."
+    "target": "Отключва умението Стенобягане."
   },
   {
     "key": "/D793D4B24F37934B07D2E8A78A105CBC",
@@ -4467,7 +4467,7 @@
   {
     "key": "/51A6F3734A2A87029C981F9B4ACEFD9D",
     "source": "Use your Gold and Plants Harvested progress to unlock new plants, stronger buffs, and helpful upgrades. Support plants can boost nearby crops and make your oasis much more powerful.",
-    "target": "Използвай злато и прогреса си в събирането на растения, за да отключиш нови растения, по-силни бонуси и полезни надстройки. Поддържащите растения могат да подсилят близките култури и направят твоята оазис много по-мощен."
+    "target": "Използвай злато и прогреса си в събирането на растения, за да отключиш нови растения, по-силни бонуси и полезни подобрения."
   },
   {
     "key": "/85699613455E48983AC8E685902B670D",
@@ -4522,7 +4522,7 @@
   {
     "key": "/F9784CD046A8210B1D50F2929D2791B9",
     "source": "Weakened resources take 10% more damage per level after the first hit.",
-    "target": "Отслабените ресурси понасят 10% повече щети на ниво след първия удар."
+    "target": "Отслабените ресурси понасят 10% повече щети за всяко ниво след първия удар."
   },
   {
     "key": "/8D178EDD4731360310B1D2B0B0CE0603",
@@ -4547,12 +4547,12 @@
   {
     "key": "/22E9325C4A9EF8C605AAFBAF6E3BAE79",
     "source": "Weakness Drop Chance",
-    "target": "Шанс на изпадане от слабостта"
+    "target": "Шанс за падане при слабост"
   },
   {
     "key": "/5CF6E4C047778CFAE271F18DA69E7484",
     "source": "Weakness Strength",
-    "target": "Слабост Сила"
+    "target": "Сила на слабостта"
   },
   {
     "key": "/218B94814C6B3A9120D0A38ACECB975B",
@@ -4562,12 +4562,12 @@
   {
     "key": "/378FBFD9465D38ACC1647C850480AC9C",
     "source": "Welcome",
-    "target": "Добре дошли"
+    "target": "Добре дошъл"
   },
   {
     "key": "/B4172804401AAE139118459976280B9F",
     "source": "Welcome to Nightwater...",
-    "target": "Добре дошли в Nightwater..."
+    "target": "Добре дошъл в Nightwater..."
   },
   {
     "key": "/D748E0F04FE10FBE2E28928D21E602A1",
@@ -4592,12 +4592,12 @@
   {
     "key": "/AFABF10A4FD9EC75D52408ABE69F13A5",
     "source": "When activated, throws the Bit & Hogg axes. They fly in your facing direction and return after a few seconds, damaging every tree they strike",
-    "target": "Когато се активира, хвърля брадвите Bit & Hogg. Те летят в посоката на лицето ти и се връщат след няколко секунди, повреждайки всяко дърво, което ударят"
+    "target": "Те летят в посоката, в която гледаш, и се връщат след няколко секунди, нанасяйки щети на всяко дърво, което ударят"
   },
   {
     "key": "/7C231E044F4AE5CA1DA6B689E7B5C1B0",
     "source": "When grown, adds +1 multiplier to every other plant in this area.",
-    "target": "Когато узрее, добавя +1 множител към всяка друга растение в тази област."
+    "target": "Когато узрее, добавя +1 множител към всяко друго растение в тази област."
   },
   {
     "key": "/AF7C426F4A3BCA2E4313AF901DEC65AF",
@@ -4627,7 +4627,7 @@
   {
     "key": "/F1A2018C4BBE4E3A6013009CC552CC08",
     "source": "While the Berserker ability is active, you gain 100% more resources.",
-    "target": "Докато способността Berserker е активна, получавате 100% повече ресурси."
+    "target": "Докато способността Berserker е активна, получаваш 100% повече ресурси."
   },
   {
     "key": "/776AAFE14CF6017B162BDFB5D2260A7E",
@@ -4692,17 +4692,17 @@
   {
     "key": "/07F2C9C844A84197C2F7F9B2D15BC4B8",
     "source": "Wood Cutter Speed",
-    "target": "Скорост на рязане"
+    "target": "Скорост на дървосекача"
   },
   {
     "key": "/FD21452D46FB478F78C1A2B1BF4DEB83",
     "source": "Wood Dust Milestone",
-    "target": "Междинна цел за дървесна прах"
+    "target": "Етап за дървесна прах"
   },
   {
     "key": "/191197024697872119055C8FE0A250AB",
     "source": "Wood Fortune",
-    "target": "Щастие от дърво"
+    "target": "Щастие на дървото"
   },
   {
     "key": "/69384FBA49783A05F62C6C90B2711836",
@@ -4717,12 +4717,12 @@
   {
     "key": "/E22D801E493F03278CC6C399E66D3AE8",
     "source": "Wooden Gear",
-    "target": "Дървена зъбна колела"
+    "target": "Дървено зъбно колело"
   },
   {
     "key": "/D0D94001458DDEDAC88EFBAA970137EC",
     "source": "Wooden Pickaxe",
-    "target": "Дървен кирка"
+    "target": "Дървена кирка"
   },
   {
     "key": "/BAA7A4B74B43309F7E53CA90A2E0B9C3",
@@ -4737,7 +4737,7 @@
   {
     "key": "/A5724CD5463152FDD31266ABCE198D67",
     "source": "X-Ray Ability",
-    "target": "Способност рентген"
+    "target": "Способност Рентген"
   },
   {
     "key": "/36FD2457484470EECDD7CDB811F93560",
@@ -4762,7 +4762,7 @@
   {
     "key": "/A41661FB4CBC9EA070DA31AD02755F6F",
     "source": "You remember quickly... you always do",
-    "target": "Бързо се сещаш... винаги е така."
+    "target": "Бързо се сещаш... както винаги."
   },
   {
     "key": "/F39A65C249556FC2C7D97C91AE4BA0C2",
@@ -4782,12 +4782,12 @@
   {
     "key": "/17E3517B4DCA5A5467FCE9960D9369A5",
     "source": "You'll need to unlock the Auto-Planter in the shop first.",
-    "target": "Първо трябва да отключиш Автоматичния садител в магазина."
+    "target": "Първо трябва да отключиш Автоматичния засадител в магазина."
   },
   {
     "key": "/F495094E4E09751971A81A88393B75E7",
     "source": "Your blast echoes one more time per level on the same spot for 30% damage.",
-    "target": "Твоето избухване отеква още веднъж на същото място за 30% щети."
+    "target": "Твоето избухване отеква още веднъж на същото място с 30% от щетите на всяко ниво."
   },
   {
     "key": "/2F8522944DEB509E24B96285DA591FC5",
@@ -4807,52 +4807,52 @@
   {
     "key": "/1A08D7B245C53CE830245DA8BD2FE6DB",
     "source": "Your poison deals 20 more damage per second.",
-    "target": "Твоят отровен удар се увеличава с 20 щети в секунда."
+    "target": "Твоята отрова нанася 20 щети повече в секунда."
   },
   {
     "key": "/F394A9894433E1C333513FBFB2B06F74",
     "source": "Your poison lasts one second longer.",
-    "target": "Твоят отровен удар трае една секунда по-дълго."
+    "target": "Твоята отрова трае една секунда по-дълго."
   },
   {
     "key": "/3AE34B904C087348326B1F9B6BCA2CF3",
     "source": "Your rage grants 10% more damage.",
-    "target": "Твоето ожесточение ти дава 10% повече щети."
+    "target": "Твоята ярост дава 10% повече щети."
   },
   {
     "key": "/E46372584D281B2743A5DAA237DAB654",
     "source": "Your rage grants 10% more movement speed.",
-    "target": "Твоето ожесточение ти дава 10% по-голяма скорост на движение."
+    "target": "Твоята ярост дава 10% по-голяма скорост на движение."
   },
   {
     "key": "/D4B0427243BFCBB4921533B2D5125FE0",
     "source": "Your rage lasts one second longer.",
-    "target": "Твоето ожесточение трае една секунда по-дълго."
+    "target": "Твоята ярост трае една секунда по-дълго."
   },
   {
     "key": "/81377FBE43C540607B73ADB10C10B2AF",
     "source": "Your tool will gain an additional 30% critical hit chance and the number of items obtained from resources that are finished with a crit is increased by 60%.",
-    "target": "Твоят инструмент ще получи допълнителни 30% шанс за критичен удар, а броят на предметите от ресурси завършени с крит се увеличава със 60%."
+    "target": "Твоят инструмент ще получи допълнителни 30% шанс за критичен удар, а броят на предметите от ресурси, завършени с крит, се увеличава със 60%."
   },
   {
     "key": "/3DE84A834094CFFB01D7CBB62E4B90D9",
     "source": "Your tool will gain an additional 40% critical hit chance and the number of items obtained from resources that are finished with a crit is increased by 100%.",
-    "target": "Твоят инструмент ще получи допълнителни 40% шанс за критичен удар, а броят на предметите от ресурси завършени с крит се увеличава със 100%."
+    "target": "Твоят инструмент ще получи допълнителни 40% шанс за критичен удар, а броят на предметите от ресурси, завършени с крит, се увеличава със 100%."
   },
   {
     "key": "/7A1A9547400CA45CD779ED83EF4AA74D",
     "source": "Zone Upgrade Tier 1",
-    "target": "Надстройка зона ниво 1."
+    "target": "Подобрение на зоната, ниво 1"
   },
   {
     "key": "/2C963F5542732D46A06424A15ADE68D2",
     "source": "Zone Upgrade Tier 2",
-    "target": "Надстройка зона ниво 2."
+    "target": "Подобрение на зоната, ниво 2"
   },
   {
     "key": "/2A5A48C94A9B42E8D5DDB9A135C8BE2F",
     "source": "Zone Upgrade Tier 3",
-    "target": "Надстройка на зона 3-ти ниво"
+    "target": "Подобрение на зоната, ниво 3"
   },
   {
     "key": "/6B97CBC040E26D6129C0A4B16D3FA956",
@@ -4877,22 +4877,22 @@
   {
     "key": "CommonWords/NatureChestDescription",
     "source": "A dedicated storage container for plant-type base Milestone items, not crafted items. Restricted to plant-related milestone resources only, with a capacity of 250.",
-    "target": "Специална контейнерна кутия за основни елементи от тип растение (не са готови изделия). Ограничена само до ресурси свързани с растенията, с капацитет 250."
+    "target": "Специална кутия за съхранение на основни предмети за етапи от типа „Растение“ (не готови изделия). Ограничена само до растителни ресурси за етапи, с капацитет 250."
   },
   {
     "key": "CommonWords/TrunkChest",
     "source": "A dedicated storage container for wood-type base Milestone items, not crafted items. Restricted to wood-related milestone resources only, with a capacity of 250.",
-    "target": "Специална контейнерна кутия за дървени материали от основни елементи тип растение (не са готови изделия). Ограничена само до ресурси свързани с растенията, с капацитет 250."
+    "target": "Специална кутия за съхранение на основни предмети за етапи от типа „Дърво“ (не готови изделия). Ограничена само до дървесни ресурси за етапи, с капацитет 250."
   },
   {
     "key": "CommonWords/FactoryDescription",
     "source": "A machine that can receive items through pipes to automate crafting, at a very fast speed.",
-    "target": "Машина която може да получава предмети чрез тръби за автоматизиране на изработката със много висока скорост."
+    "target": "Машина, която може да получава предмети чрез тръби, за да автоматизира изработката с много висока скорост."
   },
   {
     "key": "CommonWords/PulverizerDescription",
     "source": "A machine that processes ore into dust. Dust can be processed into ingots more efficiently in the furnace.",
-    "target": "Машина, която обработва руда в прах. Прахът се преработва по-ефективно от пещта във вид на слитъци."
+    "target": "Машина, която преработва руда в прах. Прахът може да бъде преработен в слитъци по-ефективно в пещта."
   },
   {
     "key": "CommonWords/Assembler",
@@ -4917,7 +4917,7 @@
   {
     "key": "CommonWords/ExtendedArea",
     "source": "Adds more planting spots to this Area.",
-    "target": "Добавя повече места за засаждане в тази област."
+    "target": "Добавя повече места за засаждане в тази зона."
   },
   {
     "key": "CommonWords/AdvancedLootManifester",
@@ -4927,17 +4927,17 @@
   {
     "key": "CommonWords/ItemDescriptionComplex",
     "source": "An advanced crafting material used for complex structures, upgrades and equipment.",
-    "target": "Сложен материал за изработка, използван за сложни структури, надстройки и оборудване."
+    "target": "Напреднал материал за изработка, използван за сложни структури, подобрения и оборудване."
   },
   {
     "key": "CommonWords/LootBoxDescription",
     "source": "An advanced device that manifests random resources 5 minutes after placement. Provides 6 random resource drops once the process is complete.",
-    "target": "Напреднало устройство, което манифестира случайни ресурси 5 минути след поставяне. Осигурява 6 произволни падащи ресурса веднъж при завършване на процеса."
+    "target": "Напреднало устройство, което манифестира случайни ресурси 5 минути след поставяне. Дава 6 случайни ресурса, след като процесът приключи."
   },
   {
     "key": "CommonWords/NatureAltarDescription",
     "source": "An altar that slowly generates all types of plant milestone items without requiring resources.",
-    "target": "Олтар, който бавно генерира всички видове растителни предмети за постижения без да изисква ресурси."
+    "target": "Олтар, който бавно генерира всички видове растителни предмети за етапи, без да изисква ресурси."
   },
   {
     "key": "CommonWords/Analyse",
@@ -4972,7 +4972,7 @@
   {
     "key": "CommonWords/DesertReplanter",
     "source": "Automatically replants the same plant after auto harvesting in this Area.",
-    "target": "След автоматичното прибиране, този инструмент отново засажда същата растителност в тази област."
+    "target": "Автоматично засажда отново същото растение след автоматично прибиране в тази област."
   },
   {
     "key": "CommonWords/BoonOfDetermination",
@@ -4992,17 +4992,17 @@
   {
     "key": "CommonWords/ToolbeltTier1",
     "source": "Can be crafted at the Tinker Station.\r\nA practical belt for organizing equipment. Unlocks the Workbench tab in the inventory.",
-    "target": "Може да се изработи в работилница.\r\nПрактичен колан за организиране на оборудване. Отключва таба „Работна маса“ в инвентара."
+    "target": "Може да се изработи в Работилницата за поправка.\r\nПрактичен колан за организиране на оборудване. Отключва раздела „Работилница“ в инвентара."
   },
   {
     "key": "CommonWords/WaterTrinketDescription",
     "source": "Can be crafted at the Tinker Station.\r\nYour tool will gain an additional 20% critical hit chance and the number of items obtained from resources that are finished with a crit is increased by 30%.",
-    "target": "Може да се изработи в работилница.\r\nTвоят инструмент получава допълнителни 20% шанс за критичен удар, а броят на предметите от ресурси завършени с крит е увеличен с 30%.\r"
+    "target": "Може да се изработи в Работилницата за поправка.\r\nТвоят инструмент получава допълнителни 20% шанс за критичен удар, а броят на предметите от ресурси, завършени с крит, е увеличен с 30%."
   },
   {
     "key": "CommonWords/TeleporterDescription",
     "source": "Can be used to teleport to teleport pads. Teleport pads are unlocked automatically.",
-    "target": "Може да се използва за телепортиране до платформи за телепорт. Платформите за телепорт се отключват автоматично."
+    "target": "Може да се използва за телепортиране до телепортационни платформи. Телепортационните платформи се отключват автоматично."
   },
   {
     "key": "CommonWords/Cancel",
@@ -5032,7 +5032,7 @@
   {
     "key": "CommonWords/LightspeedPipeDescription",
     "source": "Connects machines to transfer items between inventories. Medium range with extremely fast throughput.",
-    "target": "Свързва машини за прехвърляне на предмети между инвентари. Среден обсег с изключително бърз капацитет."
+    "target": "Свързва машини за прехвърляне на предмети между инвентари. Среден обсег с изключително бърза производителност."
   },
   {
     "key": "CommonWords/Continue",
@@ -5087,12 +5087,12 @@
   {
     "key": "CommonWords/EnergyBuff",
     "source": "Energy Buff",
-    "target": "Повишаване на енергията"
+    "target": "Бонус за енергия"
   },
   {
     "key": "CommonWords/EpicLootManifester",
     "source": "Epic Loot Manifester",
-    "target": "Епичен манифестър за плячка"
+    "target": "Епичен манифестатор на плячка"
   },
   {
     "key": "CommonWords/Equipment",
@@ -5107,7 +5107,7 @@
   {
     "key": "CommonWords/FarmerBuff",
     "source": "Farmer Buff",
-    "target": "Подобрение на фермера"
+    "target": "Бонус за фермери"
   },
   {
     "key": "CommonWords/FireDamage",
@@ -5142,17 +5142,17 @@
   {
     "key": "CommonWords/SimpleJetpackDescription",
     "source": "Hold down the jump button to activate the jetpack and slowly fly over resources and buildings.",
-    "target": "Дръжте бутона за скок, за да активирате джетпака и бавно летите над ресурси и сгради."
+    "target": "Задръж бутона за скок, за да активираш джетпака и бавно да летиш над ресурси и сгради."
   },
   {
     "key": "CommonWords/ManualDataDescription",
     "source": "Increases the Data you earn for manually finishing this Track by 20% per level.",
-    "target": "Увеличава данните, които печелите ръчно при завършване на тази писта с 20% за всяко ниво."
+    "target": "Увеличава данните, които печелиш при ръчно завършване на тази писта, с 20% за всяко ниво."
   },
   {
     "key": "CommonWords/IdleDataDescription",
     "source": "Increases the idle Data generated on this Track by 20% per level.",
-    "target": "Увеличава генерираните пасивни данни на тази писта с 20% за всеки ниво."
+    "target": "Увеличава генерираните пасивни данни на тази писта с 20% за всяко ниво."
   },
   {
     "key": "CommonWords/Inventory",
@@ -5192,7 +5192,7 @@
   {
     "key": "CommonWords/MESystem",
     "source": "Linked System",
-    "target": "Свързан система"
+    "target": "Свързана система"
   },
   {
     "key": "CommonWords/Loading",
@@ -5227,17 +5227,17 @@
   {
     "key": "CommonWords/MadeinPulverizer",
     "source": "Made in Pulverizer",
-    "target": "Произведено в пулверизатор"
+    "target": "Произведено в Пулверизатор"
   },
   {
     "key": "CommonWords/MadeinSmeltery",
     "source": "Made in Smeltery",
-    "target": "Произведено в топенец"
+    "target": "Произведено в топилня"
   },
   {
     "key": "CommonWords/MultiplierBuff",
     "source": "Multiplier Buff",
-    "target": "Умножител буф"
+    "target": "Умножителен бонус"
   },
   {
     "key": "CommonWords/NatureAltar",
@@ -5247,7 +5247,7 @@
   {
     "key": "CommonWords/NatureChest",
     "source": "Nature Chest",
-    "target": "Скрин на природата"
+    "target": "Сандък на природата"
   },
   {
     "key": "CommonWords/NightCrystal",
@@ -5257,7 +5257,7 @@
   {
     "key": "CommonWords/None",
     "source": "None",
-    "target": "Нито едно"
+    "target": "Няма"
   },
   {
     "key": "CommonWords/NotReady",
@@ -5297,7 +5297,7 @@
   {
     "key": "CommonWords/PoisonDamage",
     "source": "Poison Damage",
-    "target": "Отрова"
+    "target": "Щета от отрова"
   },
   {
     "key": "CommonWords/PoisonDuration",
@@ -5342,7 +5342,7 @@
   {
     "key": "CommonWords/MilestoneItemDescription",
     "source": "Receive Milestone Items by harvesting resources.\r\nBy harvesting more Milestone Items you unlock new buildings, crafts, and buffs.\r\nProgress manually or automate your production using specialized buildings.",
-    "target": "Получавайте предмети за постижения чрез събиране на ресурси.\r\nСъс събирането на повече предмети за постижения отключвате нови сгради, рецепти и бонуси.\r\nНапредвайте ръчно или автоматизирайте производството си с помощта на специализирани сгради."
+    "target": "Получавай предмети за етапи чрез събиране на ресурси.\r\nСъс събирането на повече предмети за етапи отключваш нови сгради, рецепти и бонуси.\r\nНапредвай ръчно или автоматизирай производството си с помощта на специализирани сгради."
   },
   {
     "key": "CommonWords/Reset",
@@ -5362,7 +5362,7 @@
   {
     "key": "CommonWords/SelectUpgrade",
     "source": "Select Upgrade",
-    "target": "Избери надграждане"
+    "target": "Избери подобрение"
   },
   {
     "key": "CommonWords/Settings",
@@ -5382,12 +5382,12 @@
   {
     "key": "CommonWords/SpeedBuffName",
     "source": "Speed Buff",
-    "target": "Повишаване на скоростта"
+    "target": "Бонус за скорост"
   },
   {
     "key": "CommonWords/StarfallShard",
     "source": "Starfall Shard",
-    "target": "Кристал от звезден дъжд"
+    "target": "Отломък от звезден дъжд"
   },
   {
     "key": "CommonWords/Stone",
@@ -5397,12 +5397,12 @@
   {
     "key": "CommonWords/StrengthBuff",
     "source": "Strength Buff",
-    "target": "Увеличаване на силата"
+    "target": "Бонус за сила"
   },
   {
     "key": "CommonWords/Sure?",
     "source": "Sure?",
-    "target": "Разбира се?"
+    "target": "Сигурен ли си?"
   },
   {
     "key": "CommonWords/Take",
@@ -5452,12 +5452,12 @@
   {
     "key": "CommonWords/Tier8Equipment",
     "source": "Tier 8 Equipment",
-    "target": "Оборудване 8-мо ниво"
+    "target": "Опрема 8. ниво"
   },
   {
     "key": "CommonWords/Tier9Equipment",
     "source": "Tier 9 Equipment",
-    "target": "Оборудване 9-то ниво"
+    "target": "Опрема 9. ниво"
   },
   {
     "key": "CommonWords/TinOre",
@@ -5502,7 +5502,7 @@
   {
     "key": "CommonWords/FarmerBuffDescription",
     "source": "Unlocking Farmer Buff increases the working speed of all farmers by +10%.",
-    "target": "Otključването на бонуса за фермери увеличава работната скорост на всички фермери с +10%."
+    "target": "Отключването на бонуса за фермери увеличава работната скорост на всички фермери с +10%."
   },
   {
     "key": "CommonWords/PipeBuffDescription",
@@ -5512,7 +5512,7 @@
   {
     "key": "CommonWords/ResourceGainDescription",
     "source": "Unlocking Resource Gain increases the maximum yield from manual harvesting for all resources by +2.",
-    "target": "Отключването на добив на ресурси увеличава максималния добив от ръчно събиране за всички ресурси с +2."
+    "target": "Отключването на бонуса за добив на ресурси увеличава максималния добив от ръчно събиране за всички ресурси с +2."
   },
   {
     "key": "CommonWords/SpeedBuffDescription",
@@ -5572,17 +5572,17 @@
   {
     "key": "MountainsMinigame/RockContainerDescription",
     "source": "A dedicated storage container for rock-type base Milestone items, not crafted items. Restricted to rock-related milestone resources only, with a capacity of 250.",
-    "target": "Специална кутия за съхранение на основни предмети тип камък, които не са изработени. Ограничена е само до ресурси свързани с каменните превратности и има вместимост от 250."
+    "target": "Специализиран контейнер за основни предмети от типа „Камък“, нужни за етапи, а не изработени предмети. Събира само каменни ресурси за етапи и има капацитет 250."
   },
   {
     "key": "MountainsMinigame/StoneAltarDescription",
     "source": "An altar that slowly generates all types of stone and ore milestone items without requiring resources.",
-    "target": "Олтар, който бавно генерира всички видове камък и руда без да изисква ресурси."
+    "target": "Олтар, който бавно генерира всички видове камък и руда за етапи, без да изисква ресурси."
   },
   {
     "key": "MountainsMinigame/QuarryDescription",
     "source": "Automatically harvests rock, clay, and ore within a small radius, at a very fast speed. Harvested items count towards Milestone Progression.",
-    "target": "Автоматично събира скали, глина и руди в малък радиус с много висока скорост. Събраните предмети се броят към напредъка за превратностите."
+    "target": "Автоматично събира скали, глина и руди в малък радиус с много висока скорост. Събраните предмети се броят към напредъка по етапите."
   },
   {
     "key": "MountainsMinigame/LongPickaxeDescription",
@@ -5607,7 +5607,7 @@
   {
     "key": "MountainsMinigame/CrossPickaxeName",
     "source": "Cross Pickaxe",
-    "target": "Кръстосан къртач"
+    "target": "Кръстосана кирка"
   },
   {
     "key": "MountainsMinigame/CurrentlySelected",
@@ -5622,27 +5622,27 @@
   {
     "key": "MountainsMinigame/EnergyonCollectRune",
     "source": "Energy on Collect Rune",
-    "target": "Енергия при събиране на руна"
+    "target": "Руна за енергия при събиране"
   },
   {
     "key": "MountainsMinigame/IncreaseRuneRarityRune",
     "source": "Increase Rune Rarity Rune",
-    "target": "Увеличава рядкостта на руната"
+    "target": "Руна за увеличаване на рядкостта на руни"
   },
   {
     "key": "MountainsMinigame/LongPickaxeName",
     "source": "Long Pickaxe",
-    "target": "Дълъг къртач"
+    "target": "Дълга кирка"
   },
   {
     "key": "MountainsMinigame/MineralMultiplierRune",
     "source": "Mineral Multiplier Rune",
-    "target": "Руна за умножаване на минерали"
+    "target": "Руна за множител на минерали"
   },
   {
     "key": "MountainsMinigame/MountainsFortune",
     "source": "Mountains Fortune",
-    "target": "Късмет в планината"
+    "target": "Планинско богатство"
   },
   {
     "key": "MountainsMinigame/MountainsLuck",
@@ -5667,12 +5667,12 @@
   {
     "key": "MountainsMinigame/StrengthRune",
     "source": "Radius Rune",
-    "target": "Радиална руна"
+    "target": "Руна за радиус"
   },
   {
     "key": "MountainsMinigame/BetterChestLootRune",
     "source": "Rare Chest Loot Rune",
-    "target": "Руна за рядък плячка от сандъци"
+    "target": "Руна за рядка плячка от сандъци"
   },
   {
     "key": "MountainsMinigame/RockContainerName",
@@ -5687,7 +5687,7 @@
   {
     "key": "MountainsMinigame/ScatterPickaxeName",
     "source": "Scatter Pickaxe",
-    "target": "Разпръскващ кирка"
+    "target": "Разпръскваща кирка"
   },
   {
     "key": "MountainsMinigame/Select",
@@ -5712,17 +5712,17 @@
   {
     "key": "MountainsMinigame/MountainsFortuneDescription",
     "source": "Unlocks Mountains Fortune Ability: Player has a 15% chance to receive double items when manually destroying any stone, clay or ore. Doesn't affect ores in the Mine",
-    "target": "Отключва способността \"Планинско богатство\": Имате 15% шанс да получите двойно количество предмети при ръчно унищожаване на камък, глина или руда. Не влияе върху рудата в мината."
+    "target": "Отключва способността „Планинско богатство“: Имаш 15% шанс да получиш двойно количество предмети при ръчно унищожаване на камък, глина или руда. Не влияе върху рудата в мината."
   },
   {
     "key": "MountainsMinigame/MountainsLucKDescription",
     "source": "Unlocks Mountains Luck Ability: Player has a 30% chance to receive double items when manually destroying any stone, clay or ore. Doesn't affect ores in the Mine",
-    "target": "Отключва способността \"Планински късмет\": Имате 30% шанс да получите двойно количество предмети при ръчно унищожаване на камък, глина или руда. Не влияе върху рудата в мината."
+    "target": "Отключва способността „Планински късмет“: Имаш 30% шанс да получиш двойно количество предмети при ръчно унищожаване на камък, глина или руда. Не влияе върху рудата в мината."
   },
   {
     "key": "SnowyHillsMinigame/HandCannonDescription",
     "source": "Blast resources from across the field. Less punch per shot, but huge range and burst fire that grows stronger with every extra round.",
-    "target": "Изстрелва ресурси от другата страна на полето. По-малка мощност при всеки изстрел, но огромен обхват и автоматична стрелба, която става по-силна с всяка допълнителна патрон."
+    "target": "Взривявай ресурси от другия край на полето. По-малка мощност на изстрел, но огромен обхват и стрелба на серии, която става по-силна с всеки следващ изстрел."
   },
   {
     "key": "SnowyHillsMinigame/Bomb",
@@ -5742,36 +5742,36 @@
   {
     "key": "SnowyHillsMinigame/Mallet",
     "source": "Mallet",
-    "target": "Чукче"
+    "target": "Чук"
   },
   {
     "key": "SnowyHillsMinigame/MalletDescription",
     "source": "Smash resources up close with a mallet. Short reach, but fast swings and critical hits that can destroy resources in a single strike.",
-    "target": "Разбивайте ресурси отблизо с чук. Кратък обхват, но бързи удари и критични попадения, които могат да унищожат ресурсите само с един удар."
+    "target": "Разбивай ресурсите отблизо с чук. Кратък обхват, но бързи удари и критични попадения, които могат да унищожат ресурса само с един удар."
   },
   {
     "key": "SnowyHillsMinigame/BombDescription",
     "source": "Throw explosives into clusters. Weak on single targets, but each blast can echo outward and clear several nodes at once.",
-    "target": "Хвърляйте експлозиви в групи. Слаби срещу единични цели, но всяка експлозия може да отскочи навън и да изчисти няколко възела наведнъж."
+    "target": "Хвърляй експлозиви в групи. Слаби са срещу единични цели, но всяка експлозия може да се разнесе навън и да изчисти няколко възела наведнъж."
   },
   {
     "key": "SnowyHillsMinigame/TreeFuel",
     "source": "Tree Fuel Tier {Tier}",
-    "target": "Дърво гориво ниво {Tier}"
+    "target": "Дървено гориво - ниво {Tier}"
   },
   {
     "key": "SnowyHillsMinigame/BombWin",
     "source": "Win the game with Bomb to unlock this.",
-    "target": "Спечелете играта с Bomb, за да отключите това."
+    "target": "Спечели играта с бомба, за да отключиш това."
   },
   {
     "key": "SnowyHillsMinigame/RangedWin",
     "source": "Win the game with Hand Cannon to unlock this.",
-    "target": "Спечелете играта с ръчен топ, за да отключите това."
+    "target": "Спечели играта с ръчен топ, за да отключиш това."
   },
   {
     "key": "SnowyHillsMinigame/MeleeWin",
     "source": "Win the game with Mallet to unlock this.",
-    "target": "Спечелете играта с чук, за да отключите това."
+    "target": "Спечели играта с чук, за да отключиш това."
   }
 ]
