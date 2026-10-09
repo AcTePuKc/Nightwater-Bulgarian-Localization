@@ -1,4 +1,4 @@
-Българска локализация за Isle of Industry / Skylands Foraging.
+Българска локализация за Nightwater.
 
 Архивът се разархивира директно в папката на играта и съдържа:
 SkylandsForaging\Content\Paks\

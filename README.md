@@ -1,6 +1,8 @@
-# Skylands Foraging — Bulgarian Localization
+# Nightwater — Bulgarian Localization
 
-Работно пространство за български превод на играта, използващо `UELocKit`.
+Работно пространство за български превод на Nightwater, използващо `UELocKit`.
+Вътрешното Unreal project име на играта е `SkylandsForaging`, затова това име
+остава в техническите asset и package пътища.
 
 Играта е Unreal Engine 5.6.x и използва IO Store. Извлечените оригинални
 файлове и външните инструменти остават локални и не се включват в репото.

@@ -23,12 +23,11 @@ SkylandsForaging/
 
 ## Nexus
 
-Към момента Isle of Industry/Skylands Foraging няма Nexus game entry. Линкът
-с game ID `10529` е страницата на Nightwater и не трябва да се използва за
-този проект.
+Публичното име на играта е Nightwater. `SkylandsForaging` е вътрешното Unreal
+project име и остава само в техническите asset и package пътища. Nexus game ID
+`10529` е страницата на Nightwater.
 
-Първо трябва да бъде добавена играта в Nexus и да се създадат отделни mod
-страници за:
+Трябва да се създадат отделни mod страници за:
 
 1. Bulgarian Localization
 2. Universal Display Font

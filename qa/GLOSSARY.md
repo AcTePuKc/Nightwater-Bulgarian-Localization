@@ -1,6 +1,6 @@
 # QA глосар и правила за одита на българския превод
 
-Игра: **Isle of Industry** (Unreal проект `SkylandsForaging`), жанр: фабрична
+Игра: **Nightwater** (Unreal проект `SkylandsForaging`), жанр: фабрична
 автоматизация с прибиране на ресурси. Тон: неформален, разговорен, но ясен за UI.
 
 Обхват на одита: 1155 реда от `working/Game.bg.json` (полета `key`, `source`, `target`).

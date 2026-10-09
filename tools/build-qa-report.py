@@ -157,7 +157,7 @@ def render(rows: list[dict], checks: dict, findings: list[dict], problems: list[
     out: list[str] = []
     add = out.append
 
-    add("# QA одит на българския превод — Isle of Industry")
+    add("# QA одит на българския превод — Nightwater")
     add("")
     add(f"Обхват: **{len(rows)} реда** от `working/Game.bg.json` (пълен ред-по-ред преглед).")
     add("")
