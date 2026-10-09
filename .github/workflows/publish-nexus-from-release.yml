@@ -19,8 +19,8 @@ jobs:
     env:
       NEXUS_API_KEY: ${{ secrets.NEXUS_API_KEY }}
       NEXUS_GAME_DOMAIN: ${{ vars.NEXUS_GAME_DOMAIN }}
-      NEXUS_MOD_ID_BULGARIAN_LANG: ${{ secrets.NEXUS_MOD_ID_BULGARIAN_LANG }}
-      NEXUS_FILE_ID_BULGARIAN_LANG: ${{ secrets.NEXUS_FILE_ID_BULGARIAN_LANG }}
+      NEXUS_MOD_ID_BULGARIAN_LANGUAGE: ${{ secrets.NEXUS_MOD_ID_BULGARIAN_LANGUAGE }}
+      NEXUS_FILE_ID_BULGARIAN_LANGUAGE: ${{ secrets.NEXUS_FILE_ID_BULGARIAN_LANGUAGE }}
       NEXUS_MOD_ID_UNIVERSAL_FONT: ${{ secrets.NEXUS_MOD_ID_UNIVERSAL_FONT }}
       NEXUS_FILE_ID_UNIVERSAL_FONT: ${{ secrets.NEXUS_FILE_ID_UNIVERSAL_FONT }}
 
@@ -79,18 +79,22 @@ jobs:
           if [[ -z "$NEXUS_API_KEY" ]]; then
             echo "NEXUS_API_KEY is not configured; Nexus upload is skipped."
           elif [[ -z "$NEXUS_GAME_DOMAIN" ]]; then
-            echo "NEXUS_GAME_DOMAIN is not configured; Nexus upload is skipped until Nexus adds the game."
+            echo "NEXUS_GAME_DOMAIN is not configured; Nexus upload is skipped."
           else
             echo "Nexus game domain is configured: $NEXUS_GAME_DOMAIN"
           fi
+          [[ -n "$NEXUS_MOD_ID_BULGARIAN_LANGUAGE" ]] || echo "Bulgarian MOD_ID is not configured; Bulgarian upload is skipped."
+          [[ -n "$NEXUS_FILE_ID_BULGARIAN_LANGUAGE" ]] || echo "Bulgarian FILE_ID is not configured; Bulgarian upload is skipped."
+          [[ -n "$NEXUS_MOD_ID_UNIVERSAL_FONT" ]] || echo "Font MOD_ID is not configured; font upload is skipped."
+          [[ -n "$NEXUS_FILE_ID_UNIVERSAL_FONT" ]] || echo "Font FILE_ID is not configured; font upload is skipped."
 
       - name: Upload Bulgarian localization to Nexus
-        if: ${{ env.NEXUS_API_KEY != '' && env.NEXUS_GAME_DOMAIN != '' && env.NEXUS_MOD_ID_BULGARIAN_LANG != '' && env.NEXUS_FILE_ID_BULGARIAN_LANG != '' }}
+        if: ${{ env.NEXUS_API_KEY != '' && env.NEXUS_GAME_DOMAIN != '' && env.NEXUS_MOD_ID_BULGARIAN_LANGUAGE != '' && env.NEXUS_FILE_ID_BULGARIAN_LANGUAGE != '' }}
         uses: Nexus-Mods/upload-action@c96019556046053aa26044b44396cd38929daf23
         with:
           api_key: ${{ env.NEXUS_API_KEY }}
-          file_id: ${{ env.NEXUS_FILE_ID_BULGARIAN_LANG }}
-          mod_id: ${{ env.NEXUS_MOD_ID_BULGARIAN_LANG }}
+          file_id: ${{ env.NEXUS_FILE_ID_BULGARIAN_LANGUAGE }}
+          mod_id: ${{ env.NEXUS_MOD_ID_BULGARIAN_LANGUAGE }}
           filename: release-download/SkylandsForaging-Bulgarian-Localization-${{ steps.release.outputs.version }}.zip
           version: ${{ steps.release.outputs.version }}
           display_name: Bulgarian Localization ${{ steps.release.outputs.version }}
