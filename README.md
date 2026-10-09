@@ -83,5 +83,10 @@ Reserved Font Name-а на оригиналния Chelsea Market.
 пропуска качването, докато не бъде създадена Nexus game страница и не бъдат
 добавени съответните mod/file ID secrets.
 
+Готовите описания за Nexus са в `release/`:
+
+- `release/nexus-bbcode-bulgarian.bbcode`
+- `release/nexus-bbcode-universal-font.bbcode`
+
 Преди първо използване копирай `config/UELocKit.sample.config.psd1` като
 `config/UELocKit.config.psd1` и попълни локалните пътища.
