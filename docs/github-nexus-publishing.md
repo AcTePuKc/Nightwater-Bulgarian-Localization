@@ -36,11 +36,10 @@ project име и остава само в техническите asset и pac
 repository secrets:
 
 - `NEXUS_API_KEY`
-- `NEXUS_MOD_ID_BULGARIAN_LANGUAGE`
 - `NEXUS_FILE_ID_BULGARIAN_LANGUAGE`
-- `NEXUS_MOD_ID_UNIVERSAL_FONT`
 - `NEXUS_FILE_ID_UNIVERSAL_FONT`
 
-Добавя се и repository variable `NEXUS_GAME_DOMAIN` със slug-а на новата
-Nexus game страница. До тогава workflow-ът само сваля GitHub release архивите
-и пропуска Nexus upload стъпките.
+Тези три стойности са достатъчни за обновяване на вече създадените Nexus
+файлове. Workflow-ът не изпраща Nexus changelog, защото тази опция изисква
+отделен `mod_id`; описанието и версията на файла се обновяват директно чрез
+`file_id`.

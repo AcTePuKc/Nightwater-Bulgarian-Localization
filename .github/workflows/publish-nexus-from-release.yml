@@ -18,10 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       NEXUS_API_KEY: ${{ secrets.NEXUS_API_KEY }}
-      NEXUS_GAME_DOMAIN: ${{ vars.NEXUS_GAME_DOMAIN }}
-      NEXUS_MOD_ID_BULGARIAN_LANGUAGE: ${{ secrets.NEXUS_MOD_ID_BULGARIAN_LANGUAGE }}
       NEXUS_FILE_ID_BULGARIAN_LANGUAGE: ${{ secrets.NEXUS_FILE_ID_BULGARIAN_LANGUAGE }}
-      NEXUS_MOD_ID_UNIVERSAL_FONT: ${{ secrets.NEXUS_MOD_ID_UNIVERSAL_FONT }}
       NEXUS_FILE_ID_UNIVERSAL_FONT: ${{ secrets.NEXUS_FILE_ID_UNIVERSAL_FONT }}
 
     steps:
@@ -68,9 +65,6 @@ jobs:
             echo 'font_description<<EOF'
             cat release/nexus-description-font.txt
             echo EOF
-            echo 'changelog<<EOF'
-            cat release/nexus-changelog.txt
-            echo EOF
           } >> "$GITHUB_OUTPUT"
 
       - name: Report Nexus configuration status
@@ -78,29 +72,23 @@ jobs:
         run: |
           if [[ -z "$NEXUS_API_KEY" ]]; then
             echo "NEXUS_API_KEY is not configured; Nexus upload is skipped."
-          elif [[ -z "$NEXUS_GAME_DOMAIN" ]]; then
-            echo "NEXUS_GAME_DOMAIN is not configured; Nexus upload is skipped."
           else
-            echo "Nexus game domain is configured: $NEXUS_GAME_DOMAIN"
+            echo "NEXUS_API_KEY is configured."
           fi
-          [[ -n "$NEXUS_MOD_ID_BULGARIAN_LANGUAGE" ]] || echo "Bulgarian MOD_ID is not configured; Bulgarian upload is skipped."
           [[ -n "$NEXUS_FILE_ID_BULGARIAN_LANGUAGE" ]] || echo "Bulgarian FILE_ID is not configured; Bulgarian upload is skipped."
-          [[ -n "$NEXUS_MOD_ID_UNIVERSAL_FONT" ]] || echo "Font MOD_ID is not configured; font upload is skipped."
           [[ -n "$NEXUS_FILE_ID_UNIVERSAL_FONT" ]] || echo "Font FILE_ID is not configured; font upload is skipped."
 
       - name: Upload Bulgarian localization to Nexus
-        if: ${{ env.NEXUS_API_KEY != '' && env.NEXUS_GAME_DOMAIN != '' && env.NEXUS_MOD_ID_BULGARIAN_LANGUAGE != '' && env.NEXUS_FILE_ID_BULGARIAN_LANGUAGE != '' }}
+        if: ${{ env.NEXUS_API_KEY != '' && env.NEXUS_FILE_ID_BULGARIAN_LANGUAGE != '' }}
         uses: Nexus-Mods/upload-action@c96019556046053aa26044b44396cd38929daf23
         with:
           api_key: ${{ env.NEXUS_API_KEY }}
           file_id: ${{ env.NEXUS_FILE_ID_BULGARIAN_LANGUAGE }}
-          mod_id: ${{ env.NEXUS_MOD_ID_BULGARIAN_LANGUAGE }}
           filename: release-download/SkylandsForaging-Bulgarian-Localization-${{ steps.release.outputs.version }}.zip
           version: ${{ steps.release.outputs.version }}
           display_name: Bulgarian Localization ${{ steps.release.outputs.version }}
           description: ${{ steps.metadata.outputs.bulgarian_description }}
           category: main
-          changelog: ${{ steps.metadata.outputs.changelog }}
           archive_existing_version: true
           update_mod_version: true
           primary_mod_manager_download: true
@@ -108,18 +96,16 @@ jobs:
           show_requirements_pop_up: false
 
       - name: Upload universal font to Nexus
-        if: ${{ env.NEXUS_API_KEY != '' && env.NEXUS_GAME_DOMAIN != '' && env.NEXUS_MOD_ID_UNIVERSAL_FONT != '' && env.NEXUS_FILE_ID_UNIVERSAL_FONT != '' }}
+        if: ${{ env.NEXUS_API_KEY != '' && env.NEXUS_FILE_ID_UNIVERSAL_FONT != '' }}
         uses: Nexus-Mods/upload-action@c96019556046053aa26044b44396cd38929daf23
         with:
           api_key: ${{ env.NEXUS_API_KEY }}
           file_id: ${{ env.NEXUS_FILE_ID_UNIVERSAL_FONT }}
-          mod_id: ${{ env.NEXUS_MOD_ID_UNIVERSAL_FONT }}
           filename: release-download/SkylandsForaging-Universal-Font-${{ steps.release.outputs.version }}.zip
           version: ${{ steps.release.outputs.version }}
           display_name: Universal Display Font ${{ steps.release.outputs.version }}
           description: ${{ steps.metadata.outputs.font_description }}
           category: main
-          changelog: ${{ steps.metadata.outputs.changelog }}
           archive_existing_version: true
           update_mod_version: true
           primary_mod_manager_download: true
