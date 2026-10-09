@@ -1,0 +1,7 @@
+Българска локализация за Isle of Industry / Skylands Foraging.
+
+Архивът се разархивира директно в папката на играта и съдържа:
+SkylandsForaging\Content\Paks\
+
+Стартирайте играта с -culture=bg-BG.
+Преводният пакет включва и кирилизиран display шрифт.

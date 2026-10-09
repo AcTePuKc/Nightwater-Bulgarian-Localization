@@ -25,6 +25,11 @@ def parse_args() -> argparse.Namespace:
         default=["0400-052F"],
         help="Unicode ranges to import, for example 0400-052F 1C80-1C8A.",
     )
+    parser.add_argument(
+        "--family-name",
+        default="",
+        help="Rename the merged font family to avoid a reserved name in a modified font.",
+    )
     return parser.parse_args()
 
 
@@ -83,6 +88,24 @@ def graft_missing_glyphs(base: TTFont, donor: TTFont) -> None:
                 cmap[codepoint] = glyph_name
 
 
+def rename_font_family(font: TTFont, family_name: str) -> None:
+    """Rename the public family/full/PostScript names of a modified font."""
+    name_table = font["name"]
+    replacements = {
+        1: family_name,
+        4: family_name,
+        6: "".join(ch for ch in family_name if ch.isalnum()) + "-Regular",
+    }
+    for record in name_table.names:
+        if record.nameID not in replacements:
+            continue
+        value = replacements[record.nameID]
+        if record.platformID == 1:
+            record.string = value.encode("mac_roman", errors="replace")
+        else:
+            record.string = value.encode("utf-16-be")
+
+
 def main() -> None:
     args = parse_args()
     if not args.base.is_file():
@@ -97,6 +120,8 @@ def main() -> None:
 
     merged = base
     graft_missing_glyphs(merged, donor)
+    if args.family_name:
+        rename_font_family(merged, args.family_name)
     args.output.parent.mkdir(parents=True, exist_ok=True)
     merged.save(str(args.output))
 

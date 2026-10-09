@@ -1,0 +1,5 @@
+Универсален display шрифт за Isle of Industry / Skylands Foraging.
+
+Този мод не съдържа превод и може да се използва с всеки език. Архивът се
+разархивира директно в папката на играта и съдържа:
+SkylandsForaging\Content\Paks\

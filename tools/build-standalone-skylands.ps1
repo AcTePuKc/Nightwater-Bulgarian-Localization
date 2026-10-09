@@ -40,7 +40,7 @@ if ($IncludeFont) {
     $gameName = [string]$config.GameName
     $outputDir = Join-Path $workspaceRoot "pak-output"
     $responseFile = Join-Path $workspaceRoot ("tools\filelist-{0}.txt" -f $packageName)
-    $fontStaging = Join-Path $workspaceRoot ("pak-staging\SkylandsForaging-BG_Font_P\SkylandsForaging\Content\SkylandsForaging\UI\Fonts\ChelseaMarket-Regular.ufont")
+    $fontStaging = Join-Path $workspaceRoot ("pak-staging\SkylandsForaging-Font_P\SkylandsForaging\Content\SkylandsForaging\UI\Fonts\ChelseaMarket-Regular.ufont")
     $fontTarget = "../../../{0}/Content/SkylandsForaging/UI/Fonts/ChelseaMarket-Regular.ufont" -f $gameName
 
     if (-not (Test-Path -LiteralPath $fontStaging)) {

@@ -1,7 +1,7 @@
 param(
     [string]$BaseFont = "",
     [string]$DonorFont = "",
-    [string]$PackageName = "SkylandsForaging-BG_Font_P",
+    [string]$PackageName = "SkylandsForaging-Font_P",
     [string]$OutputDir = "",
     [string]$GamePaksDir = "C:\MyGames\Isle of Industry\SkylandsForaging\Content\Paks",
     [switch]$DeployToGame
@@ -38,7 +38,7 @@ foreach ($required in @($BaseFont, $DonorFont, $python, $mergeScript, $unrealPak
 
 New-Item -ItemType Directory -Force -Path $OutputDir, $prototypeDir | Out-Null
 
-& $python $mergeScript --base $BaseFont --donor $DonorFont --output $mergedFont --ranges 0400-045F 0490-0493
+& $python $mergeScript --base $BaseFont --donor $DonorFont --output $mergedFont --family-name "Skylands Display" --ranges 0400-045F 0490-0493
 if ($LASTEXITCODE -ne 0) {
     throw "Font merge failed with exit code $LASTEXITCODE"
 }

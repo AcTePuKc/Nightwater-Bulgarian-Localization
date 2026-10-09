@@ -1,0 +1,123 @@
+name: Publish GitHub Release to Nexus
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Existing GitHub release tag to publish"
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      NEXUS_API_KEY: ${{ secrets.NEXUS_API_KEY }}
+      NEXUS_GAME_DOMAIN: ${{ vars.NEXUS_GAME_DOMAIN }}
+      NEXUS_MOD_ID_BULGARIAN_LANG: ${{ secrets.NEXUS_MOD_ID_BULGARIAN_LANG }}
+      NEXUS_FILE_ID_BULGARIAN_LANG: ${{ secrets.NEXUS_FILE_ID_BULGARIAN_LANG }}
+      NEXUS_MOD_ID_UNIVERSAL_FONT: ${{ secrets.NEXUS_MOD_ID_UNIVERSAL_FONT }}
+      NEXUS_FILE_ID_UNIVERSAL_FONT: ${{ secrets.NEXUS_FILE_ID_UNIVERSAL_FONT }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Resolve release tag and version
+        id: release
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ '${{ github.event_name }}' == 'release' ]]; then
+            tag='${{ github.event.release.tag_name }}'
+          else
+            tag='${{ inputs.tag }}'
+          fi
+          [[ -n "$tag" ]] || { echo "Release tag is required." >&2; exit 1; }
+          version="${tag#v}"
+          echo "tag=$tag" >> "$GITHUB_OUTPUT"
+          echo "version=$version" >> "$GITHUB_OUTPUT"
+
+      - name: Download release archives
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          mkdir -p release-download
+          gh release download '${{ steps.release.outputs.tag }}' \
+            --repo '${{ github.repository }}' \
+            --pattern 'SkylandsForaging-*.zip' \
+            --dir release-download
+          test -f release-download/SkylandsForaging-Bulgarian-Localization-${{ steps.release.outputs.version }}.zip
+          test -f release-download/SkylandsForaging-Universal-Font-${{ steps.release.outputs.version }}.zip
+
+      - name: Load Nexus metadata
+        id: metadata
+        shell: bash
+        run: |
+          {
+            echo 'bulgarian_description<<EOF'
+            cat release/nexus-description-bulgarian.txt
+            echo EOF
+            echo 'font_description<<EOF'
+            cat release/nexus-description-font.txt
+            echo EOF
+            echo 'changelog<<EOF'
+            cat release/nexus-changelog.txt
+            echo EOF
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Report Nexus configuration status
+        shell: bash
+        run: |
+          if [[ -z "$NEXUS_API_KEY" ]]; then
+            echo "NEXUS_API_KEY is not configured; Nexus upload is skipped."
+          elif [[ -z "$NEXUS_GAME_DOMAIN" ]]; then
+            echo "NEXUS_GAME_DOMAIN is not configured; Nexus upload is skipped until Nexus adds the game."
+          else
+            echo "Nexus game domain is configured: $NEXUS_GAME_DOMAIN"
+          fi
+
+      - name: Upload Bulgarian localization to Nexus
+        if: ${{ env.NEXUS_API_KEY != '' && env.NEXUS_GAME_DOMAIN != '' && env.NEXUS_MOD_ID_BULGARIAN_LANG != '' && env.NEXUS_FILE_ID_BULGARIAN_LANG != '' }}
+        uses: Nexus-Mods/upload-action@c96019556046053aa26044b44396cd38929daf23
+        with:
+          api_key: ${{ env.NEXUS_API_KEY }}
+          file_id: ${{ env.NEXUS_FILE_ID_BULGARIAN_LANG }}
+          mod_id: ${{ env.NEXUS_MOD_ID_BULGARIAN_LANG }}
+          filename: release-download/SkylandsForaging-Bulgarian-Localization-${{ steps.release.outputs.version }}.zip
+          version: ${{ steps.release.outputs.version }}
+          display_name: Bulgarian Localization ${{ steps.release.outputs.version }}
+          description: ${{ steps.metadata.outputs.bulgarian_description }}
+          category: main
+          changelog: ${{ steps.metadata.outputs.changelog }}
+          archive_existing_version: true
+          update_mod_version: true
+          primary_mod_manager_download: true
+          allow_mod_manager_download: true
+          show_requirements_pop_up: false
+
+      - name: Upload universal font to Nexus
+        if: ${{ env.NEXUS_API_KEY != '' && env.NEXUS_GAME_DOMAIN != '' && env.NEXUS_MOD_ID_UNIVERSAL_FONT != '' && env.NEXUS_FILE_ID_UNIVERSAL_FONT != '' }}
+        uses: Nexus-Mods/upload-action@c96019556046053aa26044b44396cd38929daf23
+        with:
+          api_key: ${{ env.NEXUS_API_KEY }}
+          file_id: ${{ env.NEXUS_FILE_ID_UNIVERSAL_FONT }}
+          mod_id: ${{ env.NEXUS_MOD_ID_UNIVERSAL_FONT }}
+          filename: release-download/SkylandsForaging-Universal-Font-${{ steps.release.outputs.version }}.zip
+          version: ${{ steps.release.outputs.version }}
+          display_name: Universal Display Font ${{ steps.release.outputs.version }}
+          description: ${{ steps.metadata.outputs.font_description }}
+          category: main
+          changelog: ${{ steps.metadata.outputs.changelog }}
+          archive_existing_version: true
+          update_mod_version: true
+          primary_mod_manager_download: true
+          allow_mod_manager_download: true
+          show_requirements_pop_up: false

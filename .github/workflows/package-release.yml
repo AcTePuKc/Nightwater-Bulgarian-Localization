@@ -1,0 +1,30 @@
+name: Package Release Archives
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Release version, for example 0.1.0"
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  package:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build install-ready archives
+        shell: pwsh
+        run: .\release\package-release.ps1 -Version '${{ inputs.version }}'
+
+      - name: Upload release archives as workflow artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: SkylandsForaging-release-${{ inputs.version }}
+          path: release/dist/*.zip
+          if-no-files-found: error

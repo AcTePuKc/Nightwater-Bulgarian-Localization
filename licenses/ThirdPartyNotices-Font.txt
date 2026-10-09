@@ -1,0 +1,22 @@
+Skylands Display — third-party font notices
+
+The modified font bundled in SkylandsForaging-Font_P.pak is a derivative work
+made by adding Cyrillic glyphs from Playpen Sans ExtraBold to the original
+Chelsea Market font artwork. The modified font is identified as “Skylands
+Display” and remains available under the SIL Open Font License, Version 1.1.
+
+1. Chelsea Market
+
+Copyright (c) 2011 by Font Diner, Inc DBA Tart Workshop
+(diner@fontdiner.com), with Reserved Font Name “Chelsea Market”.
+License: SIL Open Font License, Version 1.1.
+Source/license information: https://fonts.google.com/specimen/Chelsea+Market
+
+2. Playpen Sans
+
+Copyright 2023 The Playpen Sans Project Authors
+(https://github.com/TypeTogether/Playpen-Sans)
+License: SIL Open Font License, Version 1.1.
+Source: https://github.com/TypeTogether/Playpen-Sans
+
+The complete OFL-1.1 text is included in OFL-1.1.txt in this archive.

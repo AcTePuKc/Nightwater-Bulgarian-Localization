@@ -17,6 +17,16 @@ pak-staging/
 *.locres
 *.locmeta
 
+# Release payloads intentionally tracked for GitHub/Nexus packaging
+!release/assets/
+!release/assets/*.pak
+!release/assets/*.utoc
+!release/assets/*.ucas
+release/dist/
+dist/
+release-staging/
+release-download/
+
 # Machine-specific configuration and response files
 config/UELocKit.config.psd1
 tools/filelist-*.txt
